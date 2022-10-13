@@ -3,6 +3,8 @@
 /playlist.m3u
 #EXTINF:-1,XXX.m3u
 /XXX.m3u
+#EXTINF:-1,XXX _VIDEOS.m3u
+/XXX _VIDEOS.m3u
 #EXTINF:-1,SamsungTVPlus.m3u
 /SamsungTVPlus.m3u
 #EXTINF:-1,PlutoTV.m3u
