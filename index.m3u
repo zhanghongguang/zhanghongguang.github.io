@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1,SamsungTVPlus.m3u8
-https://zhanghongguang.github.io/SamsungTVPlus.m3u8
+/SamsungTVPlus.m3u8
 #EXTINF:-1,XXX.m3u
-https://zhanghongguang.github.io/XXX.m3u
+/XXX.m3u
 #EXTINF:-1,IPV6電視
-https://zhanghongguang.github.io/IPV6_IPTV.m3u
+/IPV6_IPTV.m3u
