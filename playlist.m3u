@@ -254,7 +254,7 @@ http://219.151.31.38/liveplay-kk.rtxapp.com/live/program/live/xsjhd/4000000/mnf.
 http://183.207.255.188/live/program/live/dycjhd/4000000/mnf.m3u8
 #EXTINF:-1 group-title="上海 🇨🇳️",东方财经
 http://219.151.31.38/liveplay-kk.rtxapp.com/live/program/live/dfcj/1300000/mnf.m3u8
-#EXTINF:-1 group-title="上海 🇨🇳️",新视觉
+#EXTINF:-1 group-title="上海 🇨🇳️" tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/新视觉",新视觉
 http://183.207.255.188/live/program/live/xsjhd/4000000/mnf.m3u8
 #EXTINF:-1 group-title="上海 🇨🇳️" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaiwaiyu.png",上海ICS外语
 http://112.25.48.69/live/program/live/wypdhd/4000000/mnf.m3u8
@@ -274,8 +274,8 @@ http://183.207.255.188/live/program/live/hhxdhd/4000000/mnf.m3u8
 http://183.207.255.188/live/program/live/dsjchd/4000000/mnf.m3u8
 #EXTINF:-1 group-title="上海 🇨🇳️",超級體育
 http://39.135.138.59:18890/PLTV/88888910/224/3221225622/index.m3u8
-#EXTINF:-1 group-title="上海 🇨🇳️",超級體育
-http://39.135.138.59:18890/PLTV/88888910/224/3221225648/index.m3u8
+#EXTINF:-1 group-title="上海 🇨🇳️" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jisuqiche.png",极速汽车
+http://183.207.255.188/live/program/live/jsqchd/4000000/mnf.m3u8
 #EXTINF:-1 group-title="上海 🇨🇳️" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/qicaixiju.png",七彩戏剧
 http://183.207.255.188/live/program/live/qcxj/1300000/mnf.m3u8
 #EXTINF:-1 group-title="地方臺 🇨🇳️",★★★★★地方臺 🇨🇳️★★★★★
@@ -296,8 +296,8 @@ http://39.134.115.163:8080/PLTV/88888910/224/3221225737/index.m3u8
 http://112.19.214.90:8883/tsfile/live/1003_1.m3u8
 #EXTINF:-1 group-title="地方臺 🇨🇳️",河南卫视
 http://183.251.61.250/PLTV/88888888/224/3221227095/index.m3u8
-#EXTINF:-1 group-title="地方臺 🇨🇳️",湖北综合
-http://live.cjyun.org/video/s10008-zh2018/index.m3u8
+#EXTINF:-1 group-title="地方臺 🇨🇳️",南昌资讯
+http://121.51.249.6/live.nctv.net.cn/live/nctv3.m3u8
 #EXTINF:-1 group-title="地方臺 🇨🇳️",广东国际
 http://hongyanqiang.top/chudian.php?id=gdgj
 #EXTINF:-1 group-title="地方臺 🇨🇳️",百事通4K纪实
