@@ -241,11 +241,11 @@ http://183.207.255.188/live/program/live/jspdhd/4000000/mnf.m3u8
 #EXTINF:-1 tvg-id="1984" tvg-name="上视新闻频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shangshixinwen.png" group-title="上海 🇨🇳️",上海新闻综合
 http://183.207.255.188/live/program/live/xwzh/1300000/mnf.m3u8
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" tvg-speed="15MB/s" tvg-rez="1920x1080" group-title="上海 🇨🇳️",东方卫视
-http://121.60.151.9/live.aishang.ctlcdn.com/00000110240242_1/playlist.m3u8?CONTENTID=00000110240242_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
+http://183.207.255.197/live/program/live/hddfws/2300000/mnf.m3u8
 #EXTINF:-1 group-title="上海 🇨🇳️" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/diyicaijing.png",上海第一财经
 http://183.207.255.188/live/program/live/dycjhd/4000000/mnf.m3u8
 #EXTINF:-1 group-title="上海 🇨🇳️",上海教育高清
-https://live2018.setv.sh.cn/setv/programme10_ud.m3u8?auth_key=4794048378-0-0-06e60dd476e18047abd3be7701993ee8
+http://183.207.255.188/live/program/live/setv/1300000/mnf.m3u8
 #EXTINF:-1 group-title="上海 🇨🇳️" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaiwaiyu.png",上海ICS外语
 http://183.207.255.188/live/program/live/wypdhd/4000000/mnf.m3u8
 #EXTINF:-1 group-title="上海 🇨🇳️",新视觉hd
@@ -536,6 +536,8 @@ http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
 http://60.249.146.250:8511/playlist.m3u8
 #EXTINF:-1 group-title="臺灣 🇹🇼️",民视 HD
 http://23.237.10.66:16334
+#EXTINF:-1 group-title="臺灣 🇹🇼️",中天新闻
+http://59.124.81.19:8555/.m3u8
 #EXTINF:-1 group-title="臺灣 🇹🇼️" tvg-logo="https://www.lyngsat.com/logo/tv/aa/asia_travel_tv.png",亚洲旅游
 http://50.7.220.74:8278/asiatravel_twn/playlist.m3u8?ct=19225&tid=MF2F4967516549675165&tsum=3b56404a8f861c7fef6ac79a798e4a8c
 #EXTINF:-1 group-title="臺灣 🇹🇼️",原住民
@@ -568,8 +570,6 @@ http://59.125.98.83:8536/playlist.m3u8
 http://23.237.10.66:16342
 #EXTINF:-1 group-title="臺灣 🇹🇼️",1.龍華電影台
 http://218.32.47.179:18556/http/192.168.1.9:8066/hls/210/10014/cstv14.m3u8
-#EXTINF:-1 group-title="臺灣 🇹🇼️",2.中天娛樂FHD
-http://218.32.47.179:18527/http/192.168.1.9:8081/hls/67/809/ch26.m3u8
 #EXTINF:-1 group-title="臺灣 🇹🇼️",3.AXN
 http://218.32.47.179:18558/http/192.168.1.9:8081/hls/71/813/ch43.m3u8
 #EXTINF:-1 group-title="臺灣 🇹🇼️",4.三立台灣FHD
