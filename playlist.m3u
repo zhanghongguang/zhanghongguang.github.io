@@ -270,7 +270,7 @@ http://183.207.255.188/live/program/live/jspdhd/4000000/mnf.m3u8
 http://112.25.48.69/live/program/live/qjshd/4000000/mnf.m3u8
 #EXTINF:-1 group-title="上海 🇨🇳️" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/xuandong.png",上海哈哈炫动
 http://183.207.255.188/live/program/live/hhxdhd/4000000/mnf.m3u8
-#EXTINF:-1 group-title="上海 🇨🇳️",都市剧场
+#EXTINF:-1 group-title="上海 🇨🇳️" tvg-logo="https://epg.112114.xyz/logo/SITV都市剧场.png",都市剧场
 http://183.207.255.188/live/program/live/dsjchd/4000000/mnf.m3u8
 #EXTINF:-1 group-title="上海 🇨🇳️",超級體育
 http://39.135.138.59:18890/PLTV/88888910/224/3221225622/index.m3u8
