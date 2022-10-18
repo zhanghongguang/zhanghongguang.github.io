@@ -308,8 +308,8 @@ http://111.40.196.9/PLTV/88888888/224/3221225630/index.m3u8
 http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
 #EXTINF:-1 group-title="地方臺 🇨🇳️",CNC 英文
 http://source07.v.news.cn/live/CNC_EN/playlist.m3u8
-#EXTINF:-1 group-title="地方臺 🇨🇳️",探索4k
-http://39.134.184.95:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221232776/42330389.smil/index.m3u8?fmt=ts2hls?fmt=ts2hls
+#EXTINF:-1 group-title="地方臺 🇨🇳️",CNC中文
+http://source07.v.news.cn/live/CNC_CN/playlist.m3u8
 #EXTINF:-1 group-title="地方臺 🇨🇳️",全纪实
 http://stream.slave.jxtvnet.tv:14311/playurl?playtype=live&protocol=http&accesstoken=R609DF27DU30963004K77360366I5D0110ACPBM356F868V0Z57EA5W167ED2234F88A5EE&programid=4200000119&playtoken=ABCDEFGH&auth=no
 #EXTINF:-1 group-title="福建 🇨🇳️",福建乡村振兴公共
