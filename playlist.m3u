@@ -326,8 +326,8 @@ http://stream2.xiancity.cn/xatv1/sd/live.m3u8
 http://39.135.55.105:6610/PLTV/88888888/224/3221226847/index.m3u8?servicetype=1
 #EXTINF:-1 group-title="地方臺 🇨🇳️",深圳卫视
 http://39.134.66.66/PLTV/88888888/224/3221225668/index.m3u8
-#EXTINF:-1 group-title="地方臺 🇨🇳️",重庆新闻
-http://starylw.yagetang.cn:4000/udp/225.0.4.188:7980
+#EXTINF:-1 group-title="地方臺 🇨🇳️",北京IPTV4K
+http://111.13.42.238/PLTV/88888888/224/3221226550/1.m3u8
 #EXTINF:-1 group-title="地方臺 🇨🇳️",新疆卫视
 http://39.135.55.105:6610/PLTV/88888888/224/3221225852/index.m3u8?servicetype=1
 #EXTINF:-1 group-title="地方臺 🇨🇳️",求索纪录
