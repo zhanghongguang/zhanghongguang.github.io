@@ -428,7 +428,7 @@ http://39.135.55.72:6610/PLTV/88888888/224/3221226956/index.m3u8?servicetype=1
 http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227190/index.m3u8?servicetype=1
 #EXTINF:-1 group-title="福建 🇨🇳️",福建旅游
 http://[2409:8087:3428:20:500::1009]:6610/PLTV/88888888/224/3221227190/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="福建 🇨🇳️",福建综合
+#EXTINF:-1 group-title="福建 🇨🇳️" tvg-logo="https://epg.pm/media/images/channel/2022/05/30/large/20220530233623778528_85.jpg",福建综合
 http://p2.weizan.cn/11844069/132114573749498521/live.m3u8
 #EXTINF:-1 group-title="NewTV 🇨🇳️",NewTV超级电影
 http://39.135.138.58:18890/PLTV/88888888/224/3221225623/index.m3u8
