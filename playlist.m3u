@@ -832,7 +832,7 @@ https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream01/strea
 http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 #EXTINF:-1 group-title="Global 🇺🇸🇬🇧🇶🇦️"  tvg-logo="http://www.tvyan.com/uploads/dianshi/nhkhuayu.jpg",NHK华语视界
 https://b-nhkwlive-burnin2.webcdn.stream.ne.jp/live/index_1M.m3u8
-#EXTINF:-1 group-title="Global 🇺🇸🇬🇧🇶🇦️"  tvg-logo="https://www3.nhk.or.jp/nhkworld/common/site_images/nw_webapp_1500x1500.png",NHKWorld
+#EXTINF:-1 group-title="Global 🇺🇸🇬🇧🇶🇦️" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/NHKWorld.png",NHKWorld
 https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
 #EXTINF:-1 group-title="Global 🇺🇸🇬🇧🇶🇦️" tvg-logo="https://gitee.com/radioer/radioer/raw/main/newsmax.jpg",NEWSMAX TV
 http://nmxlive.akamaized.net/hls/live/529965/Live_1/master.m3u8
@@ -944,7 +944,7 @@ https://d4de59d01af447a498cb0565ad005588.mediatailor.us-east-1.amazonaws.com/v1/
 http://n1.klowdtv.net/live2/france24_720p/chunks.m3u8
 #EXTINF:-1 group-title="Global 🇺🇸🇬🇧🇶🇦️" tvg-logo="https://www.lyngsat.com/logo/tv/tt/trt_world_tr.png", TRT WORLD
 https://tv-trtworld.live.trt.com.tr/master.m3u8
-#EXTINF:-1 group-title="Global 🇺🇸🇬🇧🇶🇦️",Sky News
+#EXTINF:-1 group-title="Global 🇺🇸🇬🇧🇶🇦️" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SkyNews.png",Sky News
 https://siloh.pluto.tv/lilo/production/SkyNews/master.m3u8
 #EXTINF:-1 group-title="Global 🇺🇸🇬🇧🇶🇦️",FOX NewsNOW
 http://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
@@ -954,7 +954,7 @@ http://190.171.101.36:80/BBC/tracks-v4a1/mono.m3u8#
 https://nbcnews2.akamaized.net/hls/live/723426/NBCNewsPlaymaker24x7Linear99a3a827-ua/VIDEO_0_6596000.m3u8
 #EXTINF:-1 group-title="Global 🇺🇸🇬🇧🇶🇦️",CBS News
 https://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
-#EXTINF:-1 group-title="Global 🇺🇸🇬🇧🇶🇦️",Sky News
+#EXTINF:-1 group-title="Global 🇺🇸🇬🇧🇶🇦️" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SkyNews.png",Sky News
 https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8
 #EXTINF:-1 group-title="Global 🇺🇸🇬🇧🇶🇦️",CNN International
 https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
