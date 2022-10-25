@@ -232,7 +232,7 @@ https://upload.wikimedia.org/wikipedia/commons/0/08/National_Flag_Anthem_of_the_
 http://112.25.48.69/live/program/live/xwzh/1300000/mnf.m3u8
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="上海 🇨🇳️",东方卫视
 http://112.25.48.69/live/program/live/hddfws/4000000/mnf.m3u8
-#EXTINF:-1 group-title="上海 🇨🇳️" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaidushi.jpg",	上海都市频道
+#EXTINF:-1 group-title="上海 🇨🇳️" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaidushi.jpg",上海都市频道
 http://111.40.196.37/PLTV/88888888/224/3221225613/index.m3u8?
 #EXTINF:-1 group-title="上海 🇨🇳️" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaidongfangyingshi.png",东方影视
 https://epg.pm/stream/04104c8fc34ba125e4fc1a5122d605f7558ffa444f8874e73982ef530666ac36.m3u8
