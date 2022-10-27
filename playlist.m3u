@@ -1,5 +1,5 @@
 #EXTM3U url-tvg="http://epg.51zmt.top:8000/e.xml,https://iptv-org.github.io/epg/guides/cn/tv.cctv.com.epg.xml,https://iptv-org.github.io/epg/guides/us/tvguide.com.epg.xml,https://iptv-org.github.io/epg/guides/uk/virginmedia.com.epg.xml,https://epg.112114.xyz/pp.xml,https://i.mjh.nz/au/Sydney/epg.xml.gz,https://i.mjh.nz/au/Perth/epg.xml.gz,https://i.mjh.nz/PlutoTV/us.xml.gz" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
-# Playlist created by 章红光
+# Playlist created by Chang Hung-kuang
 #EXTINF:-1 group-title="寧波 🇨🇳️",★★★★★寧波 🇨🇳️★★★★★
 http://flv4mp4.people.com.cn/videofile2/pvmsvideo/2015/8/25/WeiQingCheng_e219e4e5df4e4a1e2c532fc9a1cf0772_android_c.mp4
 #EXTINF:-1 group-title="寧波 🇨🇳️",宁波新闻综合频道
@@ -42,7 +42,7 @@ http://hw-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 http://hw-m-l.cztv.com/channels/lantian/channel05/1080p.m3u8
 #EXTINF:-1 tvg-logo="https://ohudong.cztv.com/1/logos/2017/04/12/b500dac5d5af1dae3a3eceaf2e165bd0.png" group-title="浙江 🇨🇳️",浙江教科影视 (1080p)
 http://hw-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
-#EXTINF:-1 tvg-logo="https://ohudong.cztv.com/1/logos/2017/05/16/090bdb9f3da9df74a275a785c3ba023f.png" group-title="浙江 🇨🇳️",浙江纪录
+#EXTINF:-1 tvg-logo="https://ohudong.cztv.com/1/logos/2017/05/16/090bdb9f3da9df74a275a785c3ba023f.png" group-title="浙江 🇨🇳️",之江纪录
 http://hw-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
 #EXTINF:-1 tvg-logo="https://ohudong.cztv.com/1/logos/2017/04/11/b11dda9a789c67cb16e6a5a5fce63125.png" group-title="浙江 🇨🇳️",浙江民生休闲 (1080p)
 http://hw-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
@@ -322,16 +322,16 @@ http://39.135.55.13:6610/PLTV/88888888/224/3221227198/index.m3u8?servicetype=1&I
 http://111.20.33.93/PLTV/88888893/224/3221226196/index.m3u8
 #EXTINF:-1 group-title="地方臺 🇨🇳️",西安新闻
 http://stream2.xiancity.cn/xatv1/sd/live.m3u8
-#EXTINF:-1 group-title="地方臺 🇨🇳️",西藏卫视
-http://39.135.55.105:6610/PLTV/88888888/224/3221226847/index.m3u8?servicetype=1
+#EXTINF:-1 group-title="地方臺 🇨🇳️" tvg-name="SCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/sctv4.png",四川新闻
+http://scgctvshow.sctv.com/hdlive/sctv48f9fb5888dedbe0c6a1b/1.m3u8
 #EXTINF:-1 group-title="地方臺 🇨🇳️",深圳卫视
 http://39.134.66.66/PLTV/88888888/224/3221225668/index.m3u8
 #EXTINF:-1 group-title="地方臺 🇨🇳️",北京IPTV4K
 http://111.13.42.238/PLTV/88888888/224/3221226550/1.m3u8
 #EXTINF:-1 group-title="地方臺 🇨🇳️",新疆卫视
 http://39.135.55.105:6610/PLTV/88888888/224/3221225852/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="地方臺 🇨🇳️",求索纪录
-http://183.214.126.200:3003/live/qsjl/index.m3u8
+#EXTINF:-1 tvg-name="BTV新闻" group-title="地方臺 🇨🇳️" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV%E6%96%B0%E9%97%BB.png",北京新闻
+http://111.13.42.235/PLTV/88888888/224/3221226437/1.m3u8
 #EXTINF:-1 group-title="地方臺 🇨🇳️",求索纪录
 http://stream.slave.jxtvnet.tv:14311/playurl?playtype=live&protocol=http&accesstoken=R609DF27DU30963004K77360366I5D0110ACPBM356F868V0Z57EA5W167ED2234F88A5EE&programid=4200000144&playtoken=ABCDEFGH&auth=no
 #EXTINF:-1 group-title="地方臺 🇨🇳️",南京综合
@@ -413,7 +413,7 @@ http://test5.btzx.com.cn/live/btxjbtws.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="63" tvg-name="延边卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/YANBIAN1.png" tvg-speed="800KB/s" tvg-rez="1280x720" group-title="卫视 🇨🇳️",延边卫视
 http://live.ybtvyun.com/video/s10016-7e5f23de35df/index.m3u8
 #EXTINF:-1 tvg-id="70" tvg-name="康巴卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/kangba.png" tvg-speed="2MB/s" tvg-rez="1280x720" group-title="卫视 🇨🇳️",康巴卫视
-http://39.135.138.58:18890/PLTV/88888888/224/3221226207/index.m3u8
+http://scgctvshow.sctv.com/hdlive/kangba8f9fb5888dedbe0c6a1b/1.m3u8
 #EXTINF:-1 tvg-id="71" tvg-name="西藏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xizang.png" tvg-speed="4MB/s" tvg-rez="720x576" group-title="卫视 🇨🇳️",西藏卫视
 http://117.169.120.140:8080/live/xizangstv/.m3u8
 #EXTINF:-1 tvg-id="68" tvg-name="厦门卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xiamen.png" tvg-speed="3MB/s" tvg-rez="720x576" group-title="福建 🇨🇳️",厦门卫视
@@ -890,9 +890,9 @@ https://kbsworld-ott.akamaized.net:443/hls/live/2002341/kbsworld/01.m3u8
 https://tastemadetravel-vizio.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Global 🇺🇸🇬🇧🇶🇦️",BBC World Service
 http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_world_service/bbc_world_service.isml/bbc_world_service-audio=320000.m3u8
-#EXTINF:-1 group-title="Global 🇺🇸🇬🇧🇶🇦️",LOVE NATURE
+#EXTINF:-1 group-title="Global 🇺🇸🇬🇧🇶🇦️" tvg-logo="https://i.ibb.co/0mWZ02V/love.png",LOVE NATURE
 https://bamus-eng-roku.amagi.tv/playlist404p.m3u8
-#EXTINF:-1 group-title="Global 🇺🇸🇬🇧🇶🇦️",LoveNature4K
+#EXTINF:-1 group-title="Global 🇺🇸🇬🇧🇶🇦️" tvg-logo="https://i.ibb.co/0mWZ02V/love.png",LoveNature4K
 http://bamus-eng-roku.amagi.tv/playlist720lp.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 group-title="Global 🇺🇸🇬🇧🇶🇦️",Bloomberg Asia Live Event
 https://liveprodapnortheast.global.ssl.fastly.net/btv/desktop/ap_event.m3u8
