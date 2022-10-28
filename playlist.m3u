@@ -969,7 +969,7 @@ https://voa-ingest.akamaized.net/hls/live/2035200/161_352R/playlist.m3u8
 #EXTINF:-1 group-title="Global 🇺🇸🇬🇧🇶🇦️" tvg-name="TLC旅游生活频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tlc.png",TLC HD
 https://netliveworld.xyz/autoq.php?bsdk=.m3u8&c=TLC_HD_World
 #EXTINF:-1 group-title="Global 🇺🇸🇬🇧🇶🇦️" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DiscoveryHD.png",Discovery
-https://netliveworld.xyz/autoq.php?bsdk=.m3u8&c=Discovery
+https://netliveworld.xyz/autoq.php?bsdk=.m3u8&c=Discovery_HD_World
 #EXTINF:-1 tvg-name="动物星球" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/AnimalPlanet.png" group-title="Global 🇺🇸🇬🇧🇶🇦️", Animal Planet HD World
 https://netliveworld.xyz/autoq.php?bsdk=.m3u8&c=Animal_Planet_HD
 #EXTINF:-1 group-title="廣播 🇨🇳️",★★★★★廣播 🇨🇳️★★★★★
