@@ -1570,7 +1570,9 @@ http://w4.12all.tv:4000/play/pinkotv/index.m3u8
 #EXTINF:-1 group-title="XXX 🔞️",Redlight
 http://w4.12all.tv:4000/play/privatetv1/index.m3u8
 #EXTINF:-1 group-title="XXX 🔞️",playboy
-http://195.181.168.196:2222/playboy/index.m3u8
+http://213.59.128.163:8000/udp/239.255.50.205:5500
+#EXTINF:-1 group-title="XXX 🔞️",Blue Hustler
+http://213.59.128.163:8000/udp/239.255.50.124:5500
 #EXTINF:-1 group-title="XXX 🔞️",playboy
 http://160.20.164.171:8001/play/a074
 #EXTINF:-1 group-title="XXX 🔞️",VENUS
@@ -1581,8 +1583,6 @@ http://190.83.119.67:8000/play/a0ow/index.m3u8
 https://stream.visit-x.tv/vxtv/live/chunklist_w1665254410.m3u8
 #EXTINF:-1 group-title="XXX 🔞️",Jasmin TV SD
 http://109.71.162.112/live/sd.jasminchannel.stream/chunklist_w1580794077.m3u8
-#EXTINF:-1 group-title="XXX 🔞️",Blue Hustler
-http://185.205.201.44:8017/play/a04o/index.m3u8
 #EXTINF:-1 group-title="XXX 🔞️",Redlight HD
 http://109.200.130.123:7032/play/353
 #EXTINF:-1 group-title="XXX 🔞️",Vivid Red HD
