@@ -369,7 +369,7 @@ http://39.135.138.59:18890/PLTV/88888910/224/3221225738/index.m3u8
 #EXTINF:-1 tvg-id="39" tvg-name="天津卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/tianjin.png" group-title="卫视 🇨🇳️",天津卫视
 http://39.135.138.60:18890/PLTV/88888910/224/3221225739/index.m3u8
 #EXTINF:-1 tvg-id="40" tvg-name="重庆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png" tvg-speed="3MB/s" group-title="卫视 🇨🇳️",重庆卫视
-http://39.135.138.60:18890/PLTV/88888910/224/3221225692/index.m3u8
+http://117.169.121.162:6610/PLTV/88888910/224/3221225734/index.m3u8
 #EXTINF:-1 tvg-id="41" tvg-name="东南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongnan.png" group-title="卫视 🇨🇳️",东南卫视
 http://39.135.138.59:18890/PLTV/88888910/224/3221225657/index.m3u8
 #EXTINF:-1 tvg-id="42" tvg-name="甘肃卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/gansu.png" tvg-speed="3MB/s" tvg-rez="720x576" group-title="卫视 🇨🇳️",甘肃卫视
@@ -383,7 +383,7 @@ http://39.135.138.60:18890/PLTV/88888910/224/3221225732/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="46" tvg-name="黑龙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png" group-title="卫视 🇨🇳️",黑龙江卫视
 http://39.135.138.59:18890/PLTV/88888910/224/3221225690/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="47" tvg-name="河南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/henan.png" tvg-speed="2MB/s" group-title="卫视 🇨🇳️",河南卫视
-http://39.135.138.58:18890/PLTV/88888888/224/3221225611/index.m3u8?fmt=ts2hls
+http://media.hndyjyfw.gov.cn/live/jz-hnweishi/live.m3u8
 #EXTINF:-1 tvg-id="48" tvg-name="湖北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hubei.png" group-title="卫视 🇨🇳️",湖北卫视
 http://39.135.138.59:18890/PLTV/88888910/224/3221225699/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="50" tvg-name="江西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangxi.png" group-title="卫视 🇨🇳️",江西卫视
@@ -397,7 +397,7 @@ http://117.169.120.140:8080/live/ningxiastv/.m3u8
 #EXTINF:-1 tvg-id="54" tvg-name="山西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi_.png" tvg-speed="2MB/s" group-title="卫视 🇨🇳️",山西卫视
 http://39.135.138.59:18890/PLTV/88888910/224/3221225730/index.m3u8?fmt=ts2hlsts
 #EXTINF:-1 tvg-id="55" tvg-name="陕西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi.png" tvg-speed="3MB/s" tvg-rez="720x576" group-title="卫视 🇨🇳️",陕西卫视
-http://39.134.115.163:8080/PLTV/88888910/224/3221225729/index.m3u8
+http://hls.yun.gehua.net.cn:8088/live/ShannXi_2000.m3u8
 #EXTINF:-1 tvg-id="56" tvg-name="四川卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sichuan.png" tvg-speed="10MB/s" group-title="卫视 🇨🇳️",四川卫视
 http://39.135.6.51:6610/000000001001/5000000004000006119/1.m3u8?Contentid=5000000004000006119&livemode=1&stbId=2&channel-id=bestzb
 #EXTINF:-1 tvg-id="57" tvg-name="新疆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xinjiang.png" tvg-speed="1000KB/s" group-title="卫视 🇨🇳️",新疆卫视
@@ -405,11 +405,13 @@ http://livehyw5.chinamcache.com/hyw/zb01.m3u8?txSecret=58347f72aece2c25c685b8dc4
 #EXTINF:-1 tvg-id="58" tvg-name="云南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" tvg-speed="1MB/s" group-title="卫视 🇨🇳️",云南卫视
 https://hwapi.yunshicloud.com/8xughf/e0bx15.m3u8
 #EXTINF:-1 tvg-id="59" tvg-name="青海卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/qinghai.png" tvg-speed="2MB/s" tvg-rez="720x576" group-title="卫视 🇨🇳️",青海卫视
-http://39.135.138.60:18890/PLTV/88888910/224/3221225727/index.m3u8
+http://stream.qhbtv.com/qhws/sd/live.m3u8?_upt=1da074361609506578
 #EXTINF:-1 tvg-id="60" tvg-name="南方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/nanfang.png" tvg-speed="1MB/s" tvg-rez="720x576" group-title="卫视 🇨🇳️",南方卫视
 http://39.135.138.58:18890/PLTV/88888888/224/3221226203/index.m3u8
 #EXTINF:-1 tvg-id="61" tvg-name="兵团卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/bingtuan.png" tvg-speed="2MB/s" group-title="卫视 🇨🇳️",兵团卫视
 http://test5.btzx.com.cn/live/btxjbtws.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="65" tvg-name="黄河卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/huanghe.png" tvg-rez="0x0" group-title="卫视 🇨🇳️",黄河卫视
+http://liveflash.sxrtv.com/live/huanghe.m3u8
 #EXTINF:-1 tvg-id="63" tvg-name="延边卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/YANBIAN1.png" tvg-speed="800KB/s" tvg-rez="1280x720" group-title="卫视 🇨🇳️",延边卫视
 http://live.ybtvyun.com/video/s10016-7e5f23de35df/index.m3u8
 #EXTINF:-1 tvg-id="70" tvg-name="康巴卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/kangba.png" tvg-speed="2MB/s" tvg-rez="1280x720" group-title="卫视 🇨🇳️",康巴卫视
