@@ -324,8 +324,8 @@ http://111.20.33.93/PLTV/88888893/224/3221226196/index.m3u8
 http://stream2.xiancity.cn/xatv1/sd/live.m3u8
 #EXTINF:-1 group-title="地方臺 🇨🇳️" tvg-name="SCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/sctv4.png",四川新闻
 http://scgctvshow.sctv.com/hdlive/sctv48f9fb5888dedbe0c6a1b/1.m3u8
-#EXTINF:-1 group-title="地方臺 🇨🇳️",深圳卫视
-http://39.134.66.66/PLTV/88888888/224/3221225668/index.m3u8
+#EXTINF:-1 group-title="地方臺 🇨🇳️" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV%E7%94%9F%E6%B4%BB.png",BTV生活
+http://111.13.42.235/PLTV/88888888/224/3221226561/1.m3u8
 #EXTINF:-1 group-title="地方臺 🇨🇳️",北京IPTV4K
 http://111.13.42.238/PLTV/88888888/224/3221226550/1.m3u8
 #EXTINF:-1 group-title="地方臺 🇨🇳️",新疆卫视
