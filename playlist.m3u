@@ -818,6 +818,8 @@ https://b-nhkwlive-burnin2.webcdn.stream.ne.jp/live/index_1M.m3u8
 https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
 #EXTINF:-1 group-title="Global 🇺🇸🇬🇧🇶🇦️" tvg-logo="https://gitee.com/radioer/radioer/raw/main/newsmax.jpg",NEWSMAX TV
 http://nmxlive.akamaized.net/hls/live/529965/Live_1/master.m3u8
+#EXTINF:-1 group-title="Global 🇺🇸🇬🇧🇶🇦️",CBS News
+https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master_11.m3u8
 #EXTINF:-1 tvg-name="国家地理频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/natgeo.png" group-title="Global 🇺🇸🇬🇧🇶🇦️",National Geographic Asia
 https://livecdn.fptplay.net/hda2/natgeohd_vhls.smil/chunklist.m3u8
  #EXTINF:-1 group-title="Global 🇺🇸🇬🇧🇶🇦️",Asian Food Network
@@ -916,8 +918,6 @@ http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w2006790992
 http://125.209.88.166:45793/BRN/BBCEarthHD.stream/playlist.m3u8
 #EXTINF:-1 group-title="Global 🇺🇸🇬🇧🇶🇦️",ABC News USA Live HD
 https://abclive2-lh.akamaihd.net/i/abc_live11@423404/index_4000_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 group-title="Global 🇺🇸🇬🇧🇶🇦️",CBS News
-https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master_11.m3u8
 #EXTINF:-1 group-title="Global 🇺🇸🇬🇧🇶🇦️",LoveNature4K
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 #EXTINF:-1 group-title="Global 🇺🇸🇬🇧🇶🇦️" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/france24.png",FRANCE 24 (EN)
