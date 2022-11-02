@@ -2,14 +2,16 @@
 # Playlist created by Chang Hung-kuang
 #EXTINF:-1 group-title="寧波 🇨🇳️",★★★★★寧波 🇨🇳️★★★★★
 http://flv4mp4.people.com.cn/videofile2/pvmsvideo/2015/8/25/WeiQingCheng_e219e4e5df4e4a1e2c532fc9a1cf0772_android_c.mp4
-#EXTINF:-1 group-title="寧波 🇨🇳️",宁波新闻综合频道
-http://live.cloud.nbtv.cn/live/44dcc3310dcf4278827317c77e87bac5?fmt=h264_500k_flv
-#EXTINF:-1 group-title="寧波 🇨🇳️",宁波经济生活频道
-http://live.cloud.nbtv.cn/live/98ef9dc4eb1a4259b7764ffc4a3ab241?fmt=h264_500k_flv
-#EXTINF:-1 group-title="寧波 🇨🇳️",宁波都市文体频道
-http://live.cloud.nbtv.cn/live/5864a1066e4d4754a0572768c9080e47?fmt=h264_500k_flv
-#EXTINF:-1 group-title="寧波 🇨🇳️",宁波教育科技
-http://live.cloud.nbtv.cn/live/85c706b2820d454495352f9f3e77f86a?fmt=h264_500k_flv
+#EXTINF:-1 group-title="寧波 🇨🇳️",宁波新闻综合频道高清NBTV-1
+http://www.372583307.top:4022/udp/233.50.201.168:5140
+#EXTINF:-1 group-title="寧波 🇨🇳️",宁波经济生活频道高清NBTV-2
+http://www.372583307.top:4022/udp/233.50.201.178:5140
+#EXTINF:-1 group-title="寧波 🇨🇳️",宁波都市文体频道高清NBTV-3
+http://www.372583307.top:4022/udp/233.50.201.179:5140
+#EXTINF:-1 group-title="寧波 🇨🇳️",宁波影视频道高清NBTV-4
+http://www.372583307.top:4022/udp/233.50.201.180:5140
+#EXTINF:-1 group-title="寧波 🇨🇳️",宁波少儿频道高清NBTV-5
+http://www.372583307.top:4022/udp/233.50.201.181:5140
 #EXTINF:-1 group-title="寧波 🇨🇳️",鄞州1
 http://pili-publish.yzxw.newaircloud.com/newaircloud-yzxw/yzxw_20190925090843.m3u8
 #EXTINF:-1 group-title="寧波 🇨🇳️",鄞州2
@@ -61,17 +63,17 @@ http://live1.plus.wifizs.cn/xwzh/sd/live.m3u8?zzhed
 #EXTINF:-1 group-title="浙江 🇨🇳️",杭州-桐庐综合
 http://livetongl.chinamcache.com/live/tlzb01.m3u8?txSecret=0e344d60c8f0ce16b57102ae81d10d6a&txTime=5fd316c1
 #EXTINF:-1 group-title="浙江 🇨🇳️",杭州综合
-http://hms363nc1880172761.live.aikan.miguvideo.com/wh7f454c46tw2809529842_-2070680032/PLTV/88888888/224/3221229307/index.m3u8
+http://www.372583307.top:4022/udp/233.50.201.173:5140
 #EXTINF:-1 group-title="浙江 🇨🇳️",杭州综合频道
-http://112.17.40.247/PLTV/88888888/224/3221229307/index.m3u8
+http://www.372583307.top:4022/udp/233.50.201.173:5140
 #EXTINF:-1 group-title="浙江 🇨🇳️" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB明珠台.png",杭州明珠频道
-http://112.17.40.247/PLTV/88888888/224/3221229310/index.m3u8
+http://www.372583307.top:4022/udp/233.50.201.174:5140
 #EXTINF:-1 group-title="浙江 🇨🇳️",杭州生活频道
-http://112.17.40.247/PLTV/88888888/224/3221229313/index.m3u8
+http://www.372583307.top:4022/udp/233.50.201.175:5140
 #EXTINF:-1 group-title="浙江 🇨🇳️",杭州影视频道
-http://hms363nc1880172761.live.aikan.miguvideo.com/wh7f454c46tw2866990275_-1477869556/PLTV/88888888/224/3221229377/index.m3u8
+http://www.372583307.top:4022/udp/233.50.201.176:5140
 #EXTINF:-1 group-title="浙江 🇨🇳️",杭州青少体育
-http://112.17.40.247/PLTV/88888888/224/3221229316/index.m3u8
+http://www.372583307.top:4022/udp/233.50.201.177:5140
 #EXTINF:-1 group-title="央視 🇨🇳",★★★★★央視 🇨🇳 ★★★★★
 https://upload.wikimedia.org/wikipedia/commons/0/08/National_Flag_Anthem_of_the_Republic_of_China%E4%B8%AD%E8%8F%AF%E6%B0%91%E5%9C%8B%E5%9C%8B%E6%97%97%E6%AD%8C_%28%E6%BC%94%E5%A5%8F%E7%89%88%29.oga
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央視 🇨🇳",CCTV-1综合
