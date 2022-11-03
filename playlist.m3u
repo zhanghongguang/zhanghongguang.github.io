@@ -12,6 +12,26 @@ http://www.372583307.top:4022/udp/233.50.201.179:5140
 http://www.372583307.top:4022/udp/233.50.201.180:5140
 #EXTINF:-1 group-title="寧波 🇨🇳️",宁波少儿频道高清NBTV-5
 http://www.372583307.top:4022/udp/233.50.201.181:5140
+#EXTINF:-1 group-title="寧波 🇨🇳️",NBTV-1
+http://v2.91kds.cn/b9/zjnbtv.m3u8?fmt=hls&id=zjnbtv1&auth=rinimabi
+#EXTINF:-1 group-title="寧波 🇨🇳️",NBTV-2
+http://v2.91kds.cn/b9/zjnbtv.m3u8?fmt=hls&id=zjnbtv2&auth=rinimabi
+#EXTINF:-1 group-title="寧波 🇨🇳️",NBTV-3
+http://v2.91kds.cn/b9/zjnbtv.m3u8?fmt=hls&id=zjnbtv3&auth=rinimabi
+#EXTINF:-1 group-title="寧波 🇨🇳️",NBTV-4
+http://v2.91kds.cn/b9/zjnbtv.m3u8?fmt=hls&id=zjnbtv4&auth=rinimabi
+#EXTINF:-1 group-title="寧波 🇨🇳️",NBTV-5
+http://v2.91kds.cn/b9/zjnbtv.m3u8?fmt=hls&id=zjnbtv5&auth=rinimabi
+#EXTINF:-1 group-title="寧波 🇨🇳️",NBTV-1
+http://hnan.ueuo.com/nbtv/1.m3u8
+#EXTINF:-1 group-title="寧波 🇨🇳️",NBTV-2
+http://hnan.ueuo.com/nbtv/2.m3u8
+#EXTINF:-1 group-title="寧波 🇨🇳️",NBTV-3
+http://hnan.ueuo.com/nbtv/3.m3u8
+#EXTINF:-1 group-title="寧波 🇨🇳️",NBTV-4
+http://hnan.ueuo.com/nbtv/4.m3u8
+#EXTINF:-1 group-title="寧波 🇨🇳️",NBTV-5
+http://hnan.ueuo.com/nbtv/5.m3u8
 #EXTINF:-1 group-title="寧波 🇨🇳️",鄞州1
 http://pili-publish.yzxw.newaircloud.com/newaircloud-yzxw/yzxw_20190925090843.m3u8
 #EXTINF:-1 group-title="寧波 🇨🇳️",鄞州2
@@ -820,12 +840,12 @@ https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u
 http://nmxlive.akamaized.net/hls/live/529965/Live_1/master.m3u8
 #EXTINF:-1 group-title="Global 🇺🇸🇬🇧🇶🇦️",CBS News
 https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master_11.m3u8
-#EXTINF:-1 tvg-name="国家地理频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/natgeo.png" group-title="Global 🇺🇸🇬🇧🇶🇦️",National Geographic Asia
-https://livecdn.fptplay.net/hda2/natgeohd_vhls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-name="国家地理频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/natgeo.png" group-title="Global 🇺🇸🇬🇧🇶🇦️",National Geographic
+http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/88346.ts
  #EXTINF:-1 group-title="Global 🇺🇸🇬🇧🇶🇦️",Asian Food Network
  https://livecdn.fptplay.net/hda1/afchd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-name="国家地理野生频道" group-title="Global 🇺🇸🇬🇧🇶🇦️" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/natgeowild.png",Nat Geo Wild
-https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8
+http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/88348.ts
 #EXTINF:-1 group-title="Global 🇺🇸🇬🇧🇶🇦️",韩联社
 https://wms211-kortv.akamaized.net/a_live/34402987/smil:20ch211.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="Global 🇺🇸🇬🇧🇶🇦️" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/Discovery-Asia.png",DiscoveryAsia
@@ -940,20 +960,22 @@ https://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
 https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8
 #EXTINF:-1 group-title="Global 🇺🇸🇬🇧🇶🇦️",CNN International
 https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="Global 🇺🇸🇬🇧🇶🇦️",CNBC 18
-https://cnbctv18-lh.akamaihd.net/i/cnbctv18_1@174868/index_5_av-p.m3u8
-#EXTINF:-1 group-title="Global 🇺🇸🇬🇧🇶🇦️",CBS NEWS
-https://cbsnhls-i.akamaihd.net/hls/live/264710/cbsn_hlsprod_2/master_2200.m3u8
+#EXTINF:-1 group-title="Global 🇺🇸🇬🇧🇶🇦️" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/travelchannel.png",TravelChannel
+http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/87332.ts
+#EXTINF:-1 group-title="Global 🇺🇸🇬🇧🇶🇦️",Travel+Adventure HD
+http://213.59.128.163:8000/udp/239.255.50.219:5500
 #EXTINF:-1 group-title="Global 🇺🇸🇬🇧🇶🇦️",MTV音乐频道
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master_2400.m3u8
 #EXTINF:-1 group-title="Global 🇺🇸🇬🇧🇶🇦️" tvg-logo="https://static1.squarespace.com/static/51a013dee4b0a2a2d2ef73e9/t/530a34ace4b0d1b000d31222/1393177774359/voa.png",VOA Global English 
 https://voa-ingest.akamaized.net/hls/live/2035200/161_352R/playlist.m3u8
-#EXTINF:-1 group-title="Global 🇺🇸🇬🇧🇶🇦️" tvg-name="TLC旅游生活频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tlc.png",TLC HD
-https://netliveworld.xyz/autoq.php?bsdk=.m3u8&c=TLC_HD_World
+#EXTINF:-1 group-title="Global 🇺🇸🇬🇧🇶🇦️" tvg-name="TLC旅游生活频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tlc.png",TLC
+http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/13091.ts
 #EXTINF:-1 group-title="Global 🇺🇸🇬🇧🇶🇦️" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DiscoveryHD.png",Discovery
-https://netliveworld.xyz/autoq.php?bsdk=.m3u8&c=Discovery_HD_World
-#EXTINF:-1 tvg-name="动物星球" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/AnimalPlanet.png" group-title="Global 🇺🇸🇬🇧🇶🇦️", Animal Planet HD World
-https://netliveworld.xyz/autoq.php?bsdk=.m3u8&c=Animal_Planet_HD
+http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/87445.ts
+#EXTINF:-1 tvg-name="动物星球" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/AnimalPlanet.png" group-title="Global 🇺🇸🇬🇧🇶🇦️", Animal Planet
+http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/45054.ts
+#EXTINF:-1 group-title="Global 🇺🇸🇬🇧🇶🇦️",Nat Geo People 
+http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/71472.ts
 #EXTINF:-1 group-title="廣播 🇨🇳️",★★★★★廣播 🇨🇳️★★★★★
 https://upload.wikimedia.org/wikipedia/commons/0/08/National_Flag_Anthem_of_the_Republic_of_China%E4%B8%AD%E8%8F%AF%E6%B0%91%E5%9C%8B%E5%9C%8B%E6%97%97%E6%AD%8C_%28%E6%BC%94%E5%A5%8F%E7%89%88%29.oga
 #EXTINF:-1 group-title="廣播 🇨🇳️",China Plus Radio
