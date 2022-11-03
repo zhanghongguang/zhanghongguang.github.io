@@ -828,6 +828,8 @@ http://divine.ddns.me:8080/2oiazsCf5E/ZOSwbDzk2D/741
 https://live-hls-web-aje.getaj.net/AJE/03.m3u8
 #EXTINF:-1 group-title="Global 🇺🇸🇬🇧🇶🇦️" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_330.png",Channel NewsAsia
 https://mediacorp-videosbclive.akamaized.net/dd724cfb0e8e4cdc921bbc4ac94614bf/ap-southeast-1/6057994443001/profile_0/chunklist.m3u8
+#EXTINF:-1 group-title="Global 🇺🇸🇬🇧🇶🇦️" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_330.png",Channel NewsAsia
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1 group-title="Global 🇺🇸🇬🇧🇶🇦️" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_357.png",DW English
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream01/streamPlaylist.m3u8
 #EXTINF:-1 group-title="Global 🇺🇸🇬🇧🇶🇦️" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_351.png",ArirangTV
