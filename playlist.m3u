@@ -143,9 +143,9 @@ https://live.cgtn.com/1000/prog_index.m3u8
 #EXTINF:-1 group-title="央視 🇨🇳" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CGTNDoc.png",CGTNDocumentary
 https://livedoc.cgtn.com/1000d/prog_index.m3u8
 #EXTINF:-1 group-title="央視 🇨🇳" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVshijiedili.png",世界地理
-http://125.39.177.227/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2012513303.m3u8
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002485/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 group-title="央視 🇨🇳"  tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVfengyunyinyue.png",风云音乐
-http://125.39.177.227/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2012514103.m3u8
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002525/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-logo=CCTV1.png group-title="央視 🇨🇳",CCTV1
 http://39.135.138.59:18890/PLTV/88888910/224/3221225642/index.m3u8
 #EXTINF:-1 tvg-logo=CCTV2.png group-title="央視 🇨🇳",CCTV2
@@ -220,8 +220,8 @@ http://39.134.115.163:8080/PLTV/88888910/224/3221225908/index.m3u8
 rtsp://221.203.83.35:554/PLTV/88888888/224/3221226700/10000100000000060000000006385151_0.smil
 #EXTINF:-1 group-title="央視 🇨🇳",高尔夫网球
 http://111.32.169.222/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2012512503.m3u8
-#EXTINF:-1 group-title="央視 🇨🇳",兵器科技
-rtsp://221.203.83.35:554/PLTV/88888888/224/3221226704/10000100000000060000000006385167_0.smil
+#EXTINF:-1 group-title="央視 🇨🇳" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE8.jpg",兵器科技
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002515/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 group-title="央視 🇨🇳",风云剧场
 rtsp://221.203.83.34:554/PLTV/88888888/224/3221226671/10000100000000060000000006385152_0.smil
 #EXTINF:-1 group-title="央視 🇨🇳",文化精品
@@ -289,7 +289,7 @@ http://mmitv.top/test/bestv.php?id=21
 #EXTINF:-1 group-title="上海 🇨🇳️" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanghaijishi.png",上海纪实
 http://183.207.255.188/live/program/live/jspdhd/4000000/mnf.m3u8
 #EXTINF:-1 group-title="上海 🇨🇳️" tvg-logo="https://epg.112114.xyz/logo/乐游.png",乐游
-http://112.25.48.69/live/program/live/qjshd/4000000/mnf.m3u8
+http://112.25.48.69/live/program/live/qjshd/4000000/mnf.m3u8http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002485/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 group-title="上海 🇨🇳️" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/xuandong.png",哈哈炫动
 http://183.207.255.188/live/program/live/hhxdhd/4000000/mnf.m3u8
 #EXTINF:-1 group-title="上海 🇨🇳️" tvg-logo="https://epg.112114.xyz/logo/SITV都市剧场.png",都市剧场
@@ -324,7 +324,7 @@ http://121.51.249.6/live.nctv.net.cn/live/nctv3.m3u8
 http://hongyanqiang.top/chudian.php?id=gdgj
 #EXTINF:-1 group-title="地方臺 🇨🇳️",百事通4K纪实
 http://b1batman.qicp.vip:8055/udp/239.45.1.10:5140
-#EXTINF:-1 group-title="地方臺 🇨🇳️" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jinyingjishi.png",金鹰纪实
+#EXTINF:-1 group-title="地方臺 🇨🇳️" tvg-logo="http://epg.51zmt.top:8000/tb1/wshttp://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002485/index.m3u8?virtualDomain=yinhe.live_hls.zte.com/jinyingjishi.png",金鹰纪实
 http://111.13.42.239/PLTV/88888888/224/3221226572/1.m3u8
 #EXTINF:-1 group-title="地方臺 🇨🇳️",中国气象频道
 http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
