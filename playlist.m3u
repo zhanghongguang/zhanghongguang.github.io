@@ -356,9 +356,9 @@ http://39.135.55.105:6610/PLTV/88888888/224/3221225852/index.m3u8?servicetype=1
 http://111.13.42.235/PLTV/88888888/224/3221226437/1.m3u8
 #EXTINF:-1 group-title="地方臺 🇨🇳️",求索纪录
 http://stream.slave.jxtvnet.tv:14311/playurl?playtype=live&protocol=http&accesstoken=R609DF27DU30963004K77360366I5D0110ACPBM356F868V0Z57EA5W167ED2234F88A5EE&programid=4200000144&playtoken=ABCDEFGH&auth=no
-#EXTINF:-1,tvg-id="南京新闻综合" tvg-name="南京新闻综合" tvg-logo="https://epg.112114.xyz/logo/南京新闻综合.png" group-title="地方臺 🇨🇳️",南京综合
+#EXTINF:-1 tvg-id="南京新闻综合" tvg-name="南京新闻综合" tvg-logo="https://epg.112114.xyz/logo/南京新闻综合.png" group-title="地方臺 🇨🇳️",南京综合
 http://live.nbs.cn/channels/njtv/xwzh/m3u8:500k/live.m3u8
-#EXTINF:-1,tvg-id="南京生活" tvg-name="南京生活" tvg-logo="https://epg.112114.xyz/logo/南京生活.png" group-title="地方臺 🇨🇳️",南京生活
+#EXTINF:-1 tvg-id="南京生活" tvg-name="南京生活" tvg-logo="https://epg.112114.xyz/logo/南京生活.png" group-title="地方臺 🇨🇳️",南京生活
 http://live.nbs.cn/channels/njtv/shpd/m3u8:500k/live.m3u8
 #EXTINF:-1 group-title="地方臺 🇨🇳️",苏州4K
 http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
