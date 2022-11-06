@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1,iptvtree
+http://iptvtree.net:8080/get.php?username=outputofflinechecker&password=Fuckyouhacker4fvs564hsy7&type=m3u
 #EXTINF:-1,iptvforver
 http://tv.iptvforver.com:25461/get.php?username=BST7pEDqKM&password=GcvkE4EpaQ1&type=m3u
 #EXTINF:-1,4kstream
@@ -8,7 +10,7 @@ http://obsfullhd.tv:25461/get.php?username=demopad1&password=UXRsXfKbBZ&type=m3u
 #EXTINF:-1,boxlion
 http://login.boxlion.nl/get.php?username=Cinegold569&password=9gsGrbWDDLfdg498&type=m3u
 #EXTINF:-1,destiny4k
-http://destiny4k.com:2086/get.php?username=88DSeWULce&password=QykoFPN2uTMgRiOMGMTM&type=m3u
+http://destiny4k.com:2086/get.php?username=darkside&password=t2z7marsRY&type=m3u
 #EXTINF:-1,royal-cdn
 http://royal-cdn.eu:8080/get.php?username=RestreamTorbaXXX&password=mQFt54yf&type=m3u
 
