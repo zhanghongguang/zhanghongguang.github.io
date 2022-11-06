@@ -441,7 +441,7 @@ http://scgctvshow.sctv.com/hdlive/kangba8f9fb5888dedbe0c6a1b/1.m3u8
 #EXTINF:-1 tvg-id="71" tvg-name="西藏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xizang.png" tvg-speed="4MB/s" tvg-rez="720x576" group-title="卫视 🇨🇳️",西藏卫视
 http://117.169.120.140:8080/live/xizangstv/.m3u8
 #EXTINF:-1 tvg-id="68" tvg-name="厦门卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xiamen.png" tvg-speed="3MB/s" tvg-rez="720x576" group-title="福建 🇨🇳️",厦门卫视
-http://111.13.42.234/TVOD/88888893/224/3221226219/index.m3u8
+http://39.135.138.58:18890/ysten-businessmobile/live/SD-4000k-576P-xiamenstv/1.m3u8?zfud
 #EXTINF:-1 tvg-logo=厦门卫视.png tvg-name=厦门卫视 group-title="福建 🇨🇳️",厦门1
 http://39.135.34.144:8080/PLTV/88888888/224/3221226814/index.m3u8?servicetype=1
 #EXTINF:-1 group-title="福建 🇨🇳️",南平1 8M1080
@@ -883,7 +883,7 @@ http://50.7.34.155:2201/BR/Discovery_World_HD-br/index.m3u8?token=fwBlCndpe3MTCX
 #EXTINF:-1 group-title="Global 🇺🇸🇬🇧🇶🇦️" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/1200px-Russia-today-logo.svg.png",Russia Today
 https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
 #EXTINF:-1 group-title="Global 🇺🇸🇬🇧🇶🇦️",OUTSIDE TV
-https://outsidetvplus-stirr.amagi.tv/playlistR720P.m3u8
+ https://outsidetv-roku-us.amagi.tv/hls/amagi_hls_data_outsidetv-outsidetv/CDN/playlist.m3u8
 #EXTINF:-1 group-title="Global 🇺🇸🇬🇧🇶🇦️" tvg-logo="https://www.lyngsat.com/logo/tv/ee/euronews_fr.png",EuroNews English
 https://rakuten-euronews-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 group-title="Global 🇺🇸🇬🇧🇶🇦️" tvg-logo="https://gitee.com/radioer/radioer/raw/main/newsmax.jpg",NewsmaxTV
@@ -980,7 +980,8 @@ http://divine.ddns.me:8080/2oiazsCf5E/ZOSwbDzk2D/2822
 http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/71472.ts
 #EXTINF:-1 tvg-id="DEBA1000009TT" tvg-chno="4402" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/DEBA1000009TT_20220914T041055.png" group-title="Global 🇺🇸🇬🇧🇶🇦️",BBC Travel
 https://ab96b349d4d14d80a1f8530a0bce4488.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-de_BBCTravel/playlist.m3u8?ads.wurl_channel=985&ads.wurl_name=BBCTravel&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
-#EXTINF:-1 tvg-id="DEAK0500453A" tvg-chno="4404" tvg-logo="https://tvpmlogopeu.samsungcloud.tv
+#EXTINF:-1 group-title="ENGLISH" LANGUAGE="Global 🇺🇸🇬🇧🇶🇦️",Wild EARTH
+https://wildearth-roku.amagi.tv/masterR720P.m3u8
 #EXTINF:-1 group-title="廣播 🇨🇳️",★★★★★廣播 🇨🇳️★★★★★
 https://upload.wikimedia.org/wikipedia/commons/0/08/National_Flag_Anthem_of_the_Republic_of_China%E4%B8%AD%E8%8F%AF%E6%B0%91%E5%9C%8B%E5%9C%8B%E6%97%97%E6%AD%8C_%28%E6%BC%94%E5%A5%8F%E7%89%88%29.oga
 #EXTINF:-1 group-title="廣播 🇨🇳️",China Plus Radio
