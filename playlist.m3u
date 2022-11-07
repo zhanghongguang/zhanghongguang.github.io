@@ -926,7 +926,7 @@ https://edge.medcom.id/live-edge/smil:mgnch.smil/playlist.m3u8
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="Global 🇺🇸🇬🇧🇶🇦️",CNN International 
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
-#EXTINF:-1 group-title="Global 🇺🇸🇬🇧🇶🇦️",People TV
+#EXTINF:-1 tvg-id="USAJ2200022RM" tvg-chno="1105" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/46/USAJ2200022RM_20220413T093258.png" group-title="Global 🇺🇸🇬🇧🇶🇦️",People TV
 https://peopletv-oo.akamaized.net/playlist720p.m3u8
 #EXTINF:-1 group-title="Global 🇺🇸🇬🇧🇶🇦️",NASA TV Media
 https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master_2000.m3u8
