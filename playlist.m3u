@@ -952,8 +952,8 @@ https://tv-trtworld.live.trt.com.tr/master.m3u8
 https://siloh.pluto.tv/lilo/production/SkyNews/master.m3u8
 #EXTINF:-1 group-title="Global 🇺🇸🇬🇧🇶🇦️",FOX NewsNOW
 http://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="Global 🇺🇸🇬🇧🇶🇦️",BBC world's News
-http://190.171.101.36:80/BBC/tracks-v4a1/mono.m3u8#
+#EXTINF:-1 group-title="Global 🇺🇸🇬🇧🇶🇦️",NBC News 
+https://nbcnews2.akamaized.net/hls/live/723426/NBCNewsPlaymaker24x7Linear99a3a827-ua/VIDEO_0_6596000.m3u8
 #EXTINF:-1 group-title="Global 🇺🇸🇬🇧🇶🇦️",NBC NEWS
 https://nbcnews2.akamaized.net/hls/live/723426/NBCNewsPlaymaker24x7Linear99a3a827-ua/VIDEO_0_6596000.m3u8
 #EXTINF:-1 group-title="Global 🇺🇸🇬🇧🇶🇦️",Travel+Adventure
