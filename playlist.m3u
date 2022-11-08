@@ -844,8 +844,8 @@ http://nmxlive.akamaized.net/hls/live/529965/Live_1/master.m3u8
 https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master_11.m3u8
 #EXTINF:-1 tvg-name="国家地理频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/natgeo.png" group-title="Global 🇺🇸🇬🇧🇶🇦️",National Geographic
 http://destiny4k.com:2086/live/darkside/t2z7marsRY/88346.ts
- #EXTINF:-1 group-title="Global 🇺🇸🇬🇧🇶🇦️",Asian Food Network
- https://livecdn.fptplay.net/hda1/afchd_vhls.smil/chunklist_b5000000.m3u8
+ #EXTINF:-1 group-title="Global 🇺🇸🇬🇧🇶🇦️", Global News
+ https://live.corusdigitaldev.com/groupb/live/3062d0e3-ed4c-4f47-8482-95648250f4b8/live.isml/.m3u8
 #EXTINF:-1 tvg-name="国家地理野生频道" group-title="Global 🇺🇸🇬🇧🇶🇦️" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/natgeowild.png",Nat Geo Wild
 http://destiny4k.com:2086/live/darkside/t2z7marsRY/2863.ts
 #EXTINF:-1 group-title="Global 🇺🇸🇬🇧🇶🇦️",韩联社
@@ -870,8 +870,8 @@ https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea09
 http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
 #EXTINF:-1 group-title="Global 🇺🇸🇬🇧🇶🇦️" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/Discovery-Asia.png",DiscoveryAsia
 https://livecdn.fptplay.net/hda2/discoveryasia_vhls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="Global 🇺🇸🇬🇧🇶🇦️",Astorlia news
-http://50.7.34.155:2201/BR/Discovery_World_HD-br/index.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ==?md5=null
+#EXTINF:-1 group-title="Global 🇺🇸🇬🇧🇶🇦️",Reuters
+https://reuters-reutersnow-1-us.plex.wurl.tv/c0c0829237382f291cc46a0368586aa7.m3u8
 #EXTINF:-1 group-title="Global 🇺🇸🇬🇧🇶🇦️" tvg-logo="https://epg.112114.xyz/logo/日本24新闻.png",Nippon TV News24 Japan
 https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
 #EXTINF:-1 group-title="Global 🇺🇸🇬🇧🇶🇦️" tvg-logo="https://www.mncvision.id/userfiles/image/channel/bbc_earth150x150.jpg",BBC EarHD
@@ -949,7 +949,7 @@ http://n1.klowdtv.net/live2/france24_720p/chunks.m3u8
 #EXTINF:-1 group-title="Global 🇺🇸🇬🇧🇶🇦️" tvg-logo="https://www.lyngsat.com/logo/tv/tt/trt_world_tr.png", TRT WORLD
 https://tv-trtworld.live.trt.com.tr/master.m3u8
 #EXTINF:-1 group-title="Global 🇺🇸🇬🇧🇶🇦️" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SkyNews.png",Sky News
-https://siloh.pluto.tv/lilo/production/SkyNews/master.m3u8
+https://siloh.pluto.tv/lilo/production/SkyNews/master_1.m3u8
 #EXTINF:-1 group-title="Global 🇺🇸🇬🇧🇶🇦️",FOX NewsNOW
 http://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Global 🇺🇸🇬🇧🇶🇦️",NBC News 
