@@ -58,7 +58,7 @@ http://hw-m-l.cztv.com/channels/lantian/channel07/1080p.m3u8
 http://111.13.42.242/PLTV/88888888/224/3221226365/1.m3u8
 #EXTINF:-1 tvg-logo="https://ohudong.cztv.com/1/logos/2017/04/12/72d035c03412d7cb2d319c6607fef8e9.png" group-title="浙江 🇨🇳️",浙江国际 (1080p)
 http://hw-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
-#EXTINF:-1 tvg-logo="https://ohudong.cztv.com/1/logos/2017/04/12/33b59c051574c604f93157baa61455b2.png" roup-title="浙江 🇨🇳️",浙江少儿 (1080p)
+#EXTINF:-1 tvg-logo="https://ohudong.cztv.com/1/logos/2017/04/12/33b59c051574c604f93157baa61455b2.png" group-title="浙江 🇨🇳️",浙江少儿 (1080p)
 http://hw-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 #EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/ZJYS.png" group-title="浙江 🇨🇳️",浙江影视 (1080p)
 http://hw-m-l.cztv.com/channels/lantian/channel05/1080p.m3u8
@@ -322,10 +322,10 @@ http://183.251.61.250/PLTV/88888888/224/3221227095/index.m3u8
 http://121.51.249.6/live.nctv.net.cn/live/nctv3.m3u8
 #EXTINF:-1 group-title="地方臺 🇨🇳️",广东国际
 http://hongyanqiang.top/chudian.php?id=gdgj
-#EXTINF:-1 group-title="地方臺 🇨🇳️",百事通4K纪实
-http://b1batman.qicp.vip:8055/udp/239.45.1.10:5140
-#EXTINF:-1 group-title="地方臺 🇨🇳️" tvg-logo="http://epg.51zmt.top:8000/tb1/wshttp://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002485/index.m3u8?virtualDomain=yinhe.live_hls.zte.com/jinyingjishi.png",金鹰纪实
-http://111.13.42.239/PLTV/88888888/224/3221226572/1.m3u8
+#EXTINF:-1 tvg-id="6242" tvg-name="求索动物“ tvg-logo="http://epg.51zmt.top:8000/tb1/qt/QSDW.png" group-title="地方臺 🇨🇳️",求索动物
+http://[2409:8087:4402:20:1:1216:401:41]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226118/index.m3u8
+#EXTINF:-1 group-title="地方臺 🇨🇳️" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jinyingjishi.png",金鹰纪实
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225595/index.m3u8?fmt=ts2hls
 #EXTINF:-1 group-title="地方臺 🇨🇳️",中国气象频道
 http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
 #EXTINF:-1 group-title="地方臺 🇨🇳️",CNC 英文
@@ -338,24 +338,24 @@ http://111.13.42.234/PLTV/88888893/224/3221226580/index.m3u8
 http://39.135.55.72:6610/PLTV/88888888/224/3221227153/index.m3u8?servicetype=1
 #EXTINF:-1 group-title="福建 🇨🇳️",福州新闻综合频道
 http://live.zohi.tv/video/s10001-FZTV-1/index.m3u8
-#EXTINF:-1 group-title="地方臺 🇨🇳️",海峡卫视
+#EXTINF:-1 tvg-id="海峡卫视" tvg-name="海峡卫视" group-title="卫视 🇨🇳️",海峡卫视
 http://39.135.55.13:6610/PLTV/88888888/224/3221227198/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 group-title="地方臺 🇨🇳️",安徽卫视高清
-http://111.20.33.93/PLTV/88888893/224/3221226196/index.m3u8
+#EXTINF:-1 tvg-id="6240" tvg-name="求索科学" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/QSKX.png" group-title="地方臺 🇨🇳️",求索科学
+http://[2409:8087:4402:20:1:1216:401:46]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226115/index.m3u8
 #EXTINF:-1 group-title="地方臺 🇨🇳️",西安新闻
 http://stream2.xiancity.cn/xatv1/sd/live.m3u8
 #EXTINF:-1 group-title="地方臺 🇨🇳️" tvg-name="SCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/sctv4.png",四川新闻
 http://scgctvshow.sctv.com/hdlive/sctv48f9fb5888dedbe0c6a1b/1.m3u8
 #EXTINF:-1 group-title="地方臺 🇨🇳️" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV%E7%94%9F%E6%B4%BB.png",BTV生活
-http://111.13.42.235/PLTV/88888888/224/3221226561/1.m3u8
+http://live.cooltv.top/tv/btime.php?id=btvsh
 #EXTINF:-1 group-title="地方臺 🇨🇳️",北京IPTV4K
 http://111.13.42.238/PLTV/88888888/224/3221226550/1.m3u8
-#EXTINF:-1 group-title="地方臺 🇨🇳️",新疆卫视
-http://39.135.55.105:6610/PLTV/88888888/224/3221225852/index.m3u8?servicetype=1
+#EXTINF:-1 tvg-id="6244" tvg-name="求索生活" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/QSJL.png" group-title="地方臺 🇨🇳️",求索生活
+http://[2409:8087:4402:20:1:1216:401:43]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226116/index.m3u8
 #EXTINF:-1 tvg-name="BTV新闻" group-title="地方臺 🇨🇳️" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV%E6%96%B0%E9%97%BB.png",北京新闻
-http://111.13.42.235/PLTV/88888888/224/3221226437/1.m3u8
-#EXTINF:-1 group-title="地方臺 🇨🇳️",求索纪录
-http://stream.slave.jxtvnet.tv:14311/playurl?playtype=live&protocol=http&accesstoken=R609DF27DU30963004K77360366I5D0110ACPBM356F868V0Z57EA5W167ED2234F88A5EE&programid=4200000144&playtoken=ABCDEFGH&auth=no
+http://live.cooltv.top/tv/btime.php?id=btvxw
+#EXTINF:-1 tvg-id="6585" tvg-name="茶频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/DOCUMENTARY-CHANNEL.jpg" group-title="地方臺 🇨🇳️",茶友频道
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225781/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="南京新闻综合" tvg-name="南京新闻综合" tvg-logo="https://epg.112114.xyz/logo/南京新闻综合.png" group-title="地方臺 🇨🇳️",南京综合
 http://live.nbs.cn/channels/njtv/xwzh/m3u8:500k/live.m3u8
 #EXTINF:-1 tvg-id="南京生活" tvg-name="南京生活" tvg-logo="https://epg.112114.xyz/logo/南京生活.png" group-title="地方臺 🇨🇳️",南京生活
