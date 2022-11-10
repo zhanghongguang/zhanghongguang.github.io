@@ -236,7 +236,7 @@ http://www.fuxiaopang.work:8866/udp/239.253.92.111:8060
 http://www.fuxiaopang.work:8866/udp/239.253.92.98:6120
 #EXTINF:-1 group-title="央視 🇨🇳" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVdiyijuchang.",第一剧场
 http://www.fuxiaopang.work:8866/udp/239.253.92.18:6079
-##EXTINF:-1 group-title="央視 🇨🇳" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVlaogushi.png",老故事
+#EXTINF:-1 group-title="央視 🇨🇳" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVlaogushi.png",老故事
 http://www.fuxiaopang.work:8866/udp/239.253.92.132:8068
 #EXTINF:-1 group-title="央視 🇨🇳",记录
 http://tlivectfree-cdn.ysp.cctv.cn/4D0D5D2C3591E71829D1FFF9124EFE50B3B2E36390C5E9BCF594978F5754AAC913D2AA175961C5BE880AAA2450C5EB927D91EB76AE857F2AFB89B1DD50C798806A58A996F0D2C101236B1A27897D54FDF9B5EC1FC80F3A946977D6D55452BF5AEC34BDA1783C13F272C94772EFEC8851AD5A9D306ED3C5BE1877EB52EC577BCE66BA19A0C307EDC57AE108007276790F/2010155403.m3u8?from=player&svrtime=1648260644&pid=600001800&cdn=5505
