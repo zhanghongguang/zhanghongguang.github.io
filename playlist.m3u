@@ -216,28 +216,28 @@ http://39.134.115.163:8080/PLTV/88888910/224/3221225640/index.m3u8
 http://39.134.115.163:8080/PLTV/88888910/224/3221225641/index.m3u8
 #EXTINF:-1 group-title="央視 🇨🇳",CCTV17
 http://39.134.115.163:8080/PLTV/88888910/224/3221225908/index.m3u8
-#EXTINF:-1 group-title="央視 🇨🇳",怀旧剧场
-rtsp://221.203.83.35:554/PLTV/88888888/224/3221226700/10000100000000060000000006385151_0.smil
-#EXTINF:-1 group-title="央視 🇨🇳",高尔夫网球
-http://111.32.169.222/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2012512503.m3u8
+#EXTINF:-1 group-title="央視 🇨🇳" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVshijiedili.png",世界地理
+http://www.fuxiaopang.work:8866/udp/239.253.92.113:8066
+#EXTINF:-1 group-title="央視 🇨🇳" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE13.jpg",高尔夫网球
+http://www.fuxiaopang.work:8866/udp/239.253.92.117:8062
 #EXTINF:-1 group-title="央視 🇨🇳" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE8.jpg",兵器科技
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002515/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 group-title="央視 🇨🇳",风云剧场
-rtsp://221.203.83.34:554/PLTV/88888888/224/3221226671/10000100000000060000000006385152_0.smil
-#EXTINF:-1 group-title="央視 🇨🇳",文化精品
-http://111.32.169.222/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2012513803.m3u8
-#EXTINF:-1 group-title="央視 🇨🇳",女性时尚
-rtsp://221.203.83.34:554/PLTV/88888888/224/3221226675/10000100000000060000000006385156_0.smil
-#EXTINF:-1 group-title="央視 🇨🇳",电视指南
-rtsp://221.203.83.34:554/PLTV/88888888/224/3221226708/10000100000000060000000006385178_0.smil
-#EXTINF:-1 group-title="央視 🇨🇳",风云音乐
-http://111.13.42.234/PLTV/88888893/224/3221226953/index.m3u8
-#EXTINF:-1 group-title="央視 🇨🇳",风云足球
-rtsp://221.203.83.34:554/PLTV/88888888/224/3221226702/10000100000000060000000006385159_0.smil
-#EXTINF:-1 group-title="央視 🇨🇳",第一剧场
-rtsp://221.203.83.34:554/PLTV/88888888/224/3221226698/10000100000000060000000006385142_0.smil
-#EXTINF:-1 group-title="央視 🇨🇳",CGTN高清
-http://tlivectfree-cdn.ysp.cctv.cn/33B1D60497C87FA69F7A9E68CE09D4AA604AD73856CA69AA826BA640E32C080AF412C03A74260D512975E4F6FD09DDABAC11DC68B400215EE6916D8BFA8DF54C4FC249038ED849352C4ACD48693847191ADFADB232BD645F69125F77EF04417F0D9771D12C7BDCCE596BFBF76363EFF69F06CE6012BCBDE18BD9226F414600C714E0843F979FBA651E8CFE4FC1F5DFAA/2001656803.m3u8?from=player&svrtime=1648260617&pid=600001800&cdn=5505
+#EXTINF:-1 group-title="央視 🇨🇳" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTBfengyun.png",风云剧场
+http://www.fuxiaopang.work:8866/udp/239.253.92.22:6073
+#EXTINF:-1 group-title="央視 🇨🇳" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVwenhuajingpin.png",文化精品
+http://www.fuxiaopang.work:8866/udp/239.253.92.25:6104
+#EXTINF:-1 group-title="央視 🇨🇳" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/HUANQIUQIGUAN.jpg",环球奇观
+http://www.fuxiaopang.work:8866/udp/239.253.92.130:8069
+#EXTINF:-1 group-title="央視 🇨🇳" tvg-logo="",电视指南
+http://www.fuxiaopang.work:8866/udp/239.253.92.17:6078
+#EXTINF:-1 group-title="央視 🇨🇳"  tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVfengyunyinyue.png",风云音乐
+http://www.fuxiaopang.work:8866/udp/239.253.92.111:8060
+#EXTINF:-1 group-title="央視 🇨🇳" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE7.jpg",怀旧剧场
+http://www.fuxiaopang.work:8866/udp/239.253.92.98:6120
+#EXTINF:-1 group-title="央視 🇨🇳" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVdiyijuchang.",第一剧场
+http://www.fuxiaopang.work:8866/udp/239.253.92.18:6079
+##EXTINF:-1 group-title="央視 🇨🇳" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVlaogushi.png",老故事
+http://www.fuxiaopang.work:8866/udp/239.253.92.132:8068
 #EXTINF:-1 group-title="央視 🇨🇳",记录
 http://tlivectfree-cdn.ysp.cctv.cn/4D0D5D2C3591E71829D1FFF9124EFE50B3B2E36390C5E9BCF594978F5754AAC913D2AA175961C5BE880AAA2450C5EB927D91EB76AE857F2AFB89B1DD50C798806A58A996F0D2C101236B1A27897D54FDF9B5EC1FC80F3A946977D6D55452BF5AEC34BDA1783C13F272C94772EFEC8851AD5A9D306ED3C5BE1877EB52EC577BCE66BA19A0C307EDC57AE108007276790F/2010155403.m3u8?from=player&svrtime=1648260644&pid=600001800&cdn=5505
 #EXTINF:-1 group-title="央視 🇨🇳",法语
@@ -522,7 +522,7 @@ https://upload.wikimedia.org/wikipedia/commons/transcoded/6/65/%E4%B8%AD%E8%8F%A
 http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
 #EXTINF:-1 tvg-name="民视新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FTVNews.png" group-title="臺灣 🇹🇼️",民视新闻台
 https://epg.pm/stream/c4e4884645d94d0d2e76e47c691546493b7031348b663eb9a67769b0096f8b7e.m3u8
-#EXTINF:-1 group-title="臺灣 🇹🇼️",台视新闻
+#EXTINF:-1 group-title="臺灣 🇹🇼️" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E5%8F%B0%E8%A7%86%E6%96%B0%E9%97%BB.png",台视新闻台
 http://38.64.72.148/hls/modn/list/4013/chunklist1.m3u8
 #EXTINF:-1 group-title="臺灣 🇹🇼️" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tlc.png",TLC旅游生活频道
 http://198.16.64.10:8278/tlc_twn/playlist.m3u8?tid=MA0A5904082259040822&ct=19226&tsum=8fa7deead1d4b260825af15bc7378132
@@ -530,11 +530,11 @@ http://198.16.64.10:8278/tlc_twn/playlist.m3u8?tid=MA0A5904082259040822&ct=19226
 http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch1-1.m3u8
 #EXTINF:-1 tvg-name="民视新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FTVNews.png" group-title="臺灣 🇹🇼️",民视新闻台
 http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8
-#EXTINF:-1 group-title="臺灣 🇹🇼️",民视新闻台
+#EXTINF:-1 tvg-id="6071" tvg-name="民视新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FTVNews.png" group-title="臺灣 🇹🇼️",民视新闻
 http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
 #EXTINF:-1 group-title="臺灣 🇹🇼️",TLC旅游生活频道
 http://60.249.146.250:8511/playlist.m3u8
-#EXTINF:-1 group-title="臺灣 🇹🇼️",民视 HD
+#EXTINF:-1 group-title="臺灣 🇹🇼️" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FTV.png",民视无线台
 http://23.237.10.66:16334
 #EXTINF:-1 group-title="臺灣 🇹🇼️" tvg-name="台视新闻台" tvg-logo="https://epg.112114.xyz/logo/台视新闻台.png",台视新闻
 https://epg.pm/stream/dc6941ad1ea0592ef8189f4315353b7de9f8a1d5574caa04298de9f154c2f46d.m3u8
@@ -823,7 +823,7 @@ http://destiny4k.com:2086/live/darkside/t2z7marsRY/2951.ts
 #EXTINF:-1 group-title="Global 🇺🇸🇬🇧🇶🇦️" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BBCWORLDNEWSASIA.png",BBCWorldNews
 http://ott-cdn.ucom.am/s24/index.m3u8
 #EXTINF:-1 group-title="Global 🇺🇸🇬🇧🇶🇦️" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BBCWORLDNEWSASIA.png",BBCWorldNews
-http://divine.ddns.me:8080/2oiazsCf5E/ZOSwbDzk2D/741
+http://destiny4k.com:2086/live/darkside/t2z7marsRY/3016.ts
 #EXTINF:-1 group-title="Global 🇺🇸🇬🇧🇶🇦️" tvg-logo="https://www.mncvision.id/userfiles/image/channel/aljazeera.png",Al Jazeera HD
 https://live-hls-web-aje.getaj.net/AJE/03.m3u8
 #EXTINF:-1 group-title="Global 🇺🇸🇬🇧🇶🇦️" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_330.png",Channel NewsAsia
@@ -963,7 +963,7 @@ https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3
 #EXTINF:-1 group-title="Global 🇺🇸🇬🇧🇶🇦️",CNN International
 https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 group-title="Global 🇺🇸🇬🇧🇶🇦️" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/travelchannel.png",TravelChannel
-http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/87332.ts
+http://destiny4k.com:2086/live/darkside/t2z7marsRY/87300.ts
 #EXTINF:-1 group-title="Global 🇺🇸🇬🇧🇶🇦️",Travel+Adventure
 http://213.59.128.163:8000/udp/239.255.50.219:5500
 #EXTINF:-1 group-title="Global 🇺🇸🇬🇧🇶🇦️",MTV音乐频道
