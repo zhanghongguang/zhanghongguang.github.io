@@ -264,8 +264,6 @@ http://183.207.255.188/live/program/live/jspdhd/4000000/mnf.m3u8
 http://183.207.255.188/live/program/live/xwzh/1300000/mnf.m3u8
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="上海 🇨🇳️",东方卫视
 http://183.207.255.197/live/program/live/hddfws/2300000/mnf.m3u8
-#EXTINF:-1 group-title="上海 🇨🇳️" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/diyicaijing.png",上海第一财经
-http://183.207.255.188/live/program/live/dycjhd/4000000/mnf.m3u8
 #EXTINF:-1 group-title="上海 🇨🇳️" tvg-logo="https://epg.pm/media/images/channel/2022/05/08/large/20220508004000234533_13.jpg",上海教育高清
 http://183.207.255.188/live/program/live/setv/1300000/mnf.m3u8
 #EXTINF:-1 group-title="上海 🇨🇳️" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaiwaiyu.png",上视外语频道
