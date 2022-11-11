@@ -273,7 +273,7 @@ http://183.207.255.188/live/program/live/wypdhd/4000000/mnf.m3u8
 #EXTINF:-1 group-title="上海 🇨🇳️" tvg-logo="https://epg.112114.xyz/logo/生活时尚.png",生活时尚
 http://[2409:8087:3408:20:5040::106]:18890/PLTV/88888888/224/3221227091/index.m3u8
 #EXTINF:-1 group-title="上海 🇨🇳️" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/diyicaijing.png",第一财经
-http://lu1.cc/itv/php/bst5g.php?id=dycj
+http://39.135.6.71:6610/000000001000/5000000010000027146/index.m3u8?channel-id=bestzb&Contentid=5000000010000027146&livemode=1&stbId=3
 #EXTINF:-1 group-title="上海 🇨🇳️" tvg-logo="https://epg.112114.xyz/logo/东方财经.png",东方财经
 http://[2409:8087:4400:20:1:a0f:11:9]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226583/index.m3u8
 #EXTINF:-1 group-title="上海 🇨🇳️" tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/新视觉",新视觉
