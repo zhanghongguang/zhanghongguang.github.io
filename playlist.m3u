@@ -52,11 +52,11 @@ http://l.cztvcloud.com/channels/lantian/SXxiangshan1/720p.m3u8
 https://upload.wikimedia.org/wikipedia/commons/transcoded/6/65/%E4%B8%AD%E8%8F%AF%E6%B0%91%E5%9C%8B%E5%9C%8B%E6%AD%8C_National_Anthem_of_the_Republic_of_China_%28Taiwan%29.wav/%E4%B8%AD%E8%8F%AF%E6%B0%91%E5%9C%8B%E5%9C%8B%E6%AD%8C_National_Anthem_of_the_Republic_of_China_%28Taiwan%29.wav.ogg?uselang=zh-hant
 #EXTINF:-1 tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="浙江 🇨🇳️",浙江卫视
 http://hw-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8
-#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="浙江 🇨🇳️",浙江新闻
+#EXTINF:-1 tvg-name="浙江新闻" tvg-logo="https://iptv-pro.github.io/logo/%E6%B5%99%E6%B1%9F%E6%96%B0%E9%97%BB.png" group-title="浙江 🇨🇳️",浙江新闻
 http://hw-m-l.cztv.com/channels/lantian/channel07/1080p.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="浙江 🇨🇳️",浙江卫视
 http://111.13.42.242/PLTV/88888888/224/3221226365/1.m3u8
-#EXTINF:-1 tvg-logo="https://ohudong.cztv.com/1/logos/2017/04/12/72d035c03412d7cb2d319c6607fef8e9.png" group-title="浙江 🇨🇳️",浙江国际 (1080p)
+#EXTINF:-1 tvg-logo="https://iptv-pro.github.io/logo/%E6%B5%99%E6%B1%9F%E5%9B%BD%E9%99%85.png" group-title="浙江 🇨🇳️",浙江国际 (1080p)
 http://hw-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
 #EXTINF:-1 tvg-logo="https://ohudong.cztv.com/1/logos/2017/04/12/33b59c051574c604f93157baa61455b2.png" group-title="浙江 🇨🇳️",浙江少儿 (1080p)
 http://hw-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
@@ -68,7 +68,7 @@ http://hw-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
 http://hw-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
 #EXTINF:-1 tvg-logo="https://ohudong.cztv.com/1/logos/2017/04/11/b11dda9a789c67cb16e6a5a5fce63125.png" group-title="浙江 🇨🇳️",浙江民生休闲 (1080p)
 http://hw-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
-#EXTINF:-1 tvg-logo="" group-title="浙江 🇨🇳️",浙江留学 (1080p)
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE24.jpg" group-title="浙江 🇨🇳️",浙江留学 (1080p)
 http://hw-m-l.cztv.com/channels/lantian/channel09/1080p.m3u8
 #EXTINF:-1 tvg-logo="https://ohudong.cztv.com/1/logos/2017/04/12/6c2c5375eff2669abfc9ad58b5fb200b.png" group-title="浙江 🇨🇳️",浙江经济生活 (1080p)
 http://hw-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
@@ -97,41 +97,41 @@ http://www.372583307.top:4022/udp/233.50.201.177:5140
 #EXTINF:-1 group-title="央視 🇨🇳",★★★★★央視 🇨🇳 ★★★★★
 https://upload.wikimedia.org/wikipedia/commons/0/08/National_Flag_Anthem_of_the_Republic_of_China%E4%B8%AD%E8%8F%AF%E6%B0%91%E5%9C%8B%E5%9C%8B%E6%97%97%E6%AD%8C_%28%E6%BC%94%E5%A5%8F%E7%89%88%29.oga
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央視 🇨🇳",CCTV-1综合
-http://125.39.177.227/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2000210103.m3u8
+http://39.134.115.163:8080/PLTV/88888910/224/3221225618/index.m3u8
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="央視 🇨🇳",CCTV-2财经
 http://111.13.42.229/PLTV/88888888/224/3221226230/1.m3u8
 #EXTINF:-1 tvg-name="CCT31" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="央視 🇨🇳",CCTV-3综艺
 http://39.134.115.163:8080/PLTV/88888910/224/3221225647/index.m3u8
 #EXTINF:-1 tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="央視 🇨🇳",CCTV-4中文国际
-http://111.13.42.237/PLTV/88888888/224/3221226470/1.m3u8
+http://39.134.115.163:8080/PLTV/88888910/224/3221225621/index.m3u8
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="央視 🇨🇳",CCTV-5体育
 http://111.13.42.236/PLTV/88888888/224/3221226469/1.m3u8
 #EXTINF:-1 tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="央視 🇨🇳",CCTV-5+体育赛事
-http://111.13.42.230/PLTV/88888888/224/3221226458/1.m3u8
+http://39.134.115.163:8080/PLTV/88888910/224/3221225649/index.m3u8
 #EXTINF:-1 tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="央視 🇨🇳",CCTV-6电影
-http://111.13.42.238/PLTV/88888888/224/3221226468/1.m3u8
+http://39.134.115.163:8080/PLTV/88888910/224/3221225632/index.m3u8
 #EXTINF:-1 tvg-name="CCTV7" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" group-title="央視 🇨🇳",CCTV-7国防军事
-http://111.13.42.230/PLTV/88888888/224/3221226467/1.m3u8
+http://39.134.115.163:8080/PLTV/88888910/224/3221225624/index.m3u8
 #EXTINF:-1 tvg-name="CCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="央視 🇨🇳",CCTV-8电视剧
-http://111.13.42.240/PLTV/88888888/224/3221226485/1.m3u8
+http://39.134.115.163:8080/PLTV/88888910/224/3221225631/index.m3u8
 #EXTINF:-1 tvg-name="CCTV9" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" group-title="央視 🇨🇳",CCTV-9纪录
 http://111.13.42.229/PLTV/88888888/224/3221226236/1.m3u8
 #EXTINF:-1 tvg-name="CCTV10" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" group-title="央視 🇨🇳",CCTV-10科教
-http://111.13.42.237/PLTV/88888888/224/3221226937/1.m3u8
+http://39.134.115.163:8080/PLTV/88888910/224/3221225636/index.m3u8
 #EXTINF:-1 tvg-name="CCTV11" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png" tvg-speed="9MB/s" group-title="央視 🇨🇳",CCTV-11戏曲
-http://111.13.42.232/PLTV/88888888/224/3221226334/1.m3u8
+http://39.135.138.59:18890/PLTV/88888910/224/3221225628/index.m3u8
 #EXTINF:-1 tvg-name="CCTV12" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png" group-title="央視 🇨🇳",CCTV-12社会与法
-http://111.13.42.234/TVOD/88888893/224/3221226190/index.m3u8
+http://39.134.115.163:8080/PLTV/88888910/224/3221225637/index.m3u8
 #EXTINF:-1 tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" tvg-speed="9MB/s" group-title="央視 🇨🇳",CCTV-13新闻
-http://111.13.42.234/PLTV/88888888/224/3221226316/1.m3u8
+http://39.134.115.163:8080/PLTV/88888910/224/3221225638/index.m3u8
 #EXTINF:-1 tvg-name="CCTV14" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" tvg-speed="7MB/s" group-title="央視 🇨🇳",CCTV-14少儿
-http://111.13.42.232/PLTV/88888888/224/3221226947/1.m3u8
+http://39.134.115.163:8080/TVOD/88888910/224/3221225639/index.m3u8
 #EXTINF:-1 tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" group-title="央視 🇨🇳",CCTV-15音乐
-http://111.13.42.234/PLTV/88888888/224/3221226460/1.m3u8
+http://hls.yun.gehua.net.cn:8088/live/CCTV15HD_6000.m3u8
 #EXTINF:-1 tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="央視 🇨🇳",CCTV-16奥林
-http://111.13.42.233/PLTV/88888888/224/3221226892/1.m3u8
+http://hls.ye23.vip/hls/cctv16hd.m3u8
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="央視 🇨🇳",CCTV-17农村农业
-http://111.13.42.235/PLTV/88888888/224/3221226318/1.m3u8
+http://39.134.115.163:8080/PLTV/88888910/224/3221225908/index.m3u8
 #EXTINF:-1 tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" tvg-speed="13MB/s" tvg-rez="3840x2160" group-title="央視 🇨🇳",CCTV4K
 http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
 #EXTINF:-1 tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" tvg-speed="13MB/s" tvg-rez="3840x2160" group-title="央視 🇨🇳",CCTV4K
@@ -176,8 +176,8 @@ http://39.135.138.60:18890/PLTV/88888910/224/3221225637/index.m3u8
 http://39.135.138.60:18890/PLTV/88888910/224/3221225638/index.m3u8
 #EXTINF:-1 tvg-logo=CCTV14.png  group-title="央視 🇨🇳",CCTV14
 http://39.135.138.60:18890/PLTV/88888910/224/3221225639/index.m3u8
-#EXTINF:-1 tvg-logo=CCTV15.png group-title="央視 🇨🇳",CCTV15
-http://39.135.138.60:18890/PLTV/88888910/224/3221225641/index.m3u8
+#EXTINF:-1 tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" group-title="央視 🇨🇳",CCTV-15音乐
+http://39.134.115.163:8080/TVOD/88888910/224/3221225641/index.m3u8
 #EXTINF:-1 tvg-logo=CCTV16.png group-title="央視 🇨🇳",CCTV16
 http://39.135.138.60:18890/TVOD/88888910/224/3221226230/index.m3u8
 #EXTINF:-1 tvg-logo=CCTV17.png group-title="央視 🇨🇳",CCTV17
@@ -240,8 +240,8 @@ http://www.fuxiaopang.work:8866/udp/239.253.92.18:6079
 http://www.fuxiaopang.work:8866/udp/239.253.92.132:8068
 #EXTINF:-1 group-title="央視 🇨🇳",记录
 http://tlivectfree-cdn.ysp.cctv.cn/4D0D5D2C3591E71829D1FFF9124EFE50B3B2E36390C5E9BCF594978F5754AAC913D2AA175961C5BE880AAA2450C5EB927D91EB76AE857F2AFB89B1DD50C798806A58A996F0D2C101236B1A27897D54FDF9B5EC1FC80F3A946977D6D55452BF5AEC34BDA1783C13F272C94772EFEC8851AD5A9D306ED3C5BE1877EB52EC577BCE66BA19A0C307EDC57AE108007276790F/2010155403.m3u8?from=player&svrtime=1648260644&pid=600001800&cdn=5505
-#EXTINF:-1 group-title="央視 🇨🇳",法语
-http://tlivectfree-cdn.ysp.cctv.cn/0AE9D411671E392B86F0C781DDAA75D1DA9B7E46ACB95F9B0B76D9367D963869C502A393F3F670BDE7FB34FF1D5DF12324EE4C9DE114404C57587C73BF4A6E8A8D0A1BD6098A58CBF9D60EE2279382AC4101A83DABEB7E2735A9592A5213E37A81BBB7D7890B55D368FB6578E79A84BE6A7E8DC8E84C50AE7B94E3B9D155469E8910109D62314E128028064C24C8F455/2010153503.m3u8?from=player&svrtime=1648260694&pid=600001800&cdn=5505
+#EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央視 🇨🇳",CGTN France
+http://livefr.cgtn.com/1000f/prog_index.m3u8
 #EXTINF:-1 group-title="央視 🇨🇳",俄语
 http://tlivectfree-cdn.ysp.cctv.cn/AA7E3A0D77B6E9CB27AC884C34EB5689A9142C1025CF78048EC2389632462579A8011A79AB5CFB526CFE543C925C8D4A657AB934DAF09A1855DAE5BA1AB362215E4C862C0FA2C8B42C3AE9D5E3A327FA5E434CBFACB910E131FBC6882FFCF77F4DF8CEF5B7C555454EF4A77033F6C4B264D9A9A66C634268B10664FB236D290E6658FCF09790BEF90F94B28366F1A260/2010152603.m3u8?from=player&svrtime=1648265933&pid=600001800&cdn=5505
 #EXTINF:-1 group-title="央視 🇨🇳",阿拉伯语
@@ -928,7 +928,7 @@ https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 tvg-id="USAJ2200022RM" tvg-chno="1105" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/46/USAJ2200022RM_20220413T093258.png" group-title="Global 🇺🇸🇬🇧🇶🇦️",People TV
 https://peopletv-oo.akamaized.net/playlist720p.m3u8
-#EXTINF:-1 group-title="Global 🇺🇸🇬🇧🇶🇦️",NASA TV Media
+#EXTINF:-1 group-title="Global 🇺🇸🇬🇧🇶🇦️" tvg-logo="https://seeklogo.com/images/N/NASA-logo-9411797223-seeklogo.com.png",NASA TV Media
 https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master_2000.m3u8
 #EXTINF:-1 group-title="Global 🇺🇸🇬🇧🇶🇦️" tvg-logo="https://seeklogo.com/images/N/NASA-logo-9411797223-seeklogo.com.png",NASA TV Public
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
