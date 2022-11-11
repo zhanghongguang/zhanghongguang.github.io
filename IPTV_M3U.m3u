@@ -13,6 +13,8 @@ http://login.boxlion.nl/get.php?username=Cinegold569&password=9gsGrbWDDLfdg498&t
 http://iptvtree.net:8080/get.php?username=cipo&password=R3vwiPGU8YAb4r57ed8j&type=m3u
 #EXTINF:-1,iptvforver
 http://tv.iptvforver.com:25461/get.php?username=Oojj6nCCia&password=6Ey4514RAE&type=m3u
+#EXTINF:-1,cdloop
+http://op.cdloop.eu/get.php?username=3892441923felipe&password=gsiwbvc786&type=m3u
 #EXTINF:-1,royal-cdn
 http://royal-cdn.eu:8080/get.php?username=RestreamTorbaXXX&password=mQFt54yf&type=m3u
 #EXTINF:-1,royal-cdn
