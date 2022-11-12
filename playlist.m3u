@@ -373,7 +373,7 @@ http://39.134.67.108/PLTV/88888888/224/3221225959/1.m3u8
 #EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" tvg-speed="10MB/s" group-title="卫视 🇨🇳️",江苏卫视
 http://111.13.42.237/PLTV/88888888/224/3221226366/1.m3u8
 #EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="卫视 🇨🇳️",北京卫视
-http://111.13.42.241/PLTV/88888888/224/3221226436/1.m3u8
+http://112.19.214.90:8883/tsfile/live/0122_1.m3u8
 #EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="卫视 🇨🇳️",东方卫视
 http://111.13.42.241/PLTV/88888888/224/3221226898/1.m3u8
 #EXTINF:-1 tvg-id="32" tvg-name="安徽卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png" group-title="卫视 🇨🇳️",安徽卫视
