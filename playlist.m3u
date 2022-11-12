@@ -127,7 +127,7 @@ http://39.134.115.163:8080/PLTV/88888910/224/3221225638/index.m3u8
 #EXTINF:-1 tvg-name="CCTV14" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" tvg-speed="7MB/s" group-title="央視 🇨🇳",CCTV-14少儿
 http://39.134.115.163:8080/TVOD/88888910/224/3221225639/index.m3u8
 #EXTINF:-1 tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" group-title="央視 🇨🇳",CCTV-15音乐
-http://hls.yun.gehua.net.cn:8088/live/CCTV15HD_6000.m3u8
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225641/index.m3u8
 #EXTINF:-1 tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="央視 🇨🇳",CCTV-16奥林
 http://hls.ye23.vip/hls/cctv16hd.m3u8
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="央視 🇨🇳",CCTV-17农村农业
@@ -148,12 +148,12 @@ http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002485/index.m3
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002525/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-logo=CCTV1.png group-title="央視 🇨🇳",CCTV1
 http://39.135.138.59:18890/PLTV/88888910/224/3221225642/index.m3u8
-#EXTINF:-1 tvg-logo=CCTV2.png group-title="央視 🇨🇳",CCTV2
-http://39.135.138.60:18890/PLTV/88888910/224/3221225619/index.m3u8
+#EXTINF:-1 tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="央視 🇨🇳",CCTV-2财经
+http://hls.ye23.vip/hls/cctv2hd.m3u8
 #EXTINF:-1 tvg-logo=CCTV3.png group-title="央視 🇨🇳",CCTV3
 http://39.135.138.60:18890/PLTV/88888910/224/3221225647/index.m3u8
-#EXTINF:-1 tvg-logo=CCTV4.png group-title="央視 🇨🇳",CCTV4
-http://39.135.138.60:18890/PLTV/88888910/224/3221225621/index.m3u8
+#EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" tvg-rez="1920x1080" group-title="央視 🇨🇳",CCTV-4中文国际
+http://hls.ye23.vip/hls/cctv4hd.m3u8
 #EXTINF:-1 tvg-logo=CCTV5.png group-title="央視 🇨🇳",CCTV5
 http://39.135.138.59:18890/PLTV/88888910/224/3221225648/index.m3u8
 #EXTINF:-1 tvg-logo=CCTV5+.png group-title="央視 🇨🇳",CCTV5+
@@ -164,16 +164,16 @@ http://39.135.138.59:18890/PLTV/88888910/224/3221225650/index.m3u8
 http://39.135.138.60:18890/PLTV/88888910/224/3221225624/index.m3u8
 #EXTINF:-1 tvg-logo=CCTV8.png group-title="央視 🇨🇳",CCTV8
 http://39.135.138.60:18890/PLTV/88888910/224/3221225635/index.m3u8
-#EXTINF:-1 tvg-logo=CCTV9.png group-title="央視 🇨🇳",CCTV9
-http://39.135.138.60:18890/PLTV/88888910/224/3221225646/index.m3u8
-#EXTINF:-1 tvg-logo=CCTV10.png group-title="央視 🇨🇳",CCTV10
-http://39.135.138.60:18890/PLTV/88888910/224/3221225636/index.m3u8
+#EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" tvg-rez="1920x1080" group-title="央視 🇨🇳",CCTV-9纪录
+http://hls.ye23.vip/hls/cctv9hd.m3u8
+#EXTINF:-1 tvg-id="11" tvg-name="CCTV10" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" tvg-rez="1920x1080" group-title="央視 🇨🇳",CCTV-10科教
+http://hls.ye23.vip/hls/cctv10hd.m3u8
 #EXTINF:-1 tvg-logo=CCTV11.png group-title="央視 🇨🇳",CCTV11
 http://39.135.138.59:18890/PLTV/88888910/224/3221225628/index.m3u8
 #EXTINF:-1 tvg-logo=CCTV12.png group-title="央視 🇨🇳",CCTV12
 http://39.135.138.60:18890/PLTV/88888910/224/3221225637/index.m3u8
-#EXTINF:-1 tvg-logo=CCTV13.png group-title="央視 🇨🇳",CCTV13
-http://39.135.138.60:18890/PLTV/88888910/224/3221225638/index.m3u8
+#EXTINF:-1 tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" tvg-speed="9MB/s" group-title="央視 🇨🇳",CCTV-13新闻
+http://hls.ye23.vip/hls/cctv13hd.m3u8
 #EXTINF:-1 tvg-logo=CCTV14.png  group-title="央視 🇨🇳",CCTV14
 http://39.135.138.60:18890/PLTV/88888910/224/3221225639/index.m3u8
 #EXTINF:-1 tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" group-title="央視 🇨🇳",CCTV-15音乐
@@ -892,18 +892,18 @@ http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Global 🇺🇸🇬🇧🇶🇦️",KBS WORLD
 https://kbsworld-ott.akamaized.net:443/hls/live/2002341/kbsworld/01.m3u8
-#EXTINF:-1 group-title="Global 🇺🇸🇬🇧🇶🇦️" tvg-logo="https://i.imgur.com/8s6aRwv.png",TastemadeTastemade Travel
-https://tastemadetravel-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Global 🇺🇸🇬🇧🇶🇦️" tvg-logo="https://www.tastemade.com.br/icons/icon-72x72.png?v=77aa54c80c1f1d706e21e9787677ea4e",Tastemade Travelᴴᴰ
+https://tastemadetravel-vizio.amagi.tv/playlist720_p.m3u8
 #EXTINF:-1 group-title="Global 🇺🇸🇬🇧🇶🇦️",BBC World Service
 http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_world_service/bbc_world_service.isml/bbc_world_service-audio=320000.m3u8
 #EXTINF:-1 group-title="Global 🇺🇸🇬🇧🇶🇦️" tvg-logo="https://i.ibb.co/0mWZ02V/love.png",LOVE NATURE
 https://bamus-eng-roku.amagi.tv/playlist404p.m3u8
 #EXTINF:-1 group-title="Global 🇺🇸🇬🇧🇶🇦️" tvg-logo="https://i.ibb.co/0mWZ02V/love.png",LoveNature4K
 http://bamus-eng-roku.amagi.tv/playlist720lp.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 group-title="Global 🇺🇸🇬🇧🇶🇦️",Bloomberg Asia Live Event
-https://liveprodapnortheast.global.ssl.fastly.net/btv/desktop/ap_event.m3u8
-#EXTINF:-1 group-title="Global 🇺🇸🇬🇧🇶🇦️",Bloomberg Asia
-https://bblive-liveprodapnortheast.hs.llnwd.net/btv/desktop/ap_live.m3u8
+#EXTINF:-1 group-title="Global 🇺🇸🇬🇧🇶🇦️" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/Discovery Channel.png",Discoveryᴴᴰ
+http://185.59.223.102:8080/discovery/index.m3u8
+#EXTINF:-1 group-title="Global 🇺🇸🇬🇧🇶🇦️" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/National Geographic.png",Nat Geographicᴴᴰ
+http://185.59.223.102:8080/natgeo/index.m3u8
 #EXTINF:-1 group-title="Global 🇺🇸🇬🇧🇶🇦️" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BloombergTV.png",BloombergTV
 https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-03-0Yn1cQZHOtP_live.m3u8
 #EXTINF:-1 group-title="Global 🇺🇸🇬🇧🇶🇦️",Bloomberg TV Europe
@@ -927,7 +927,7 @@ https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="Global 🇺🇸🇬🇧🇶🇦️",CNN International 
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 tvg-id="USAJ2200022RM" tvg-chno="1105" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/46/USAJ2200022RM_20220413T093258.png" group-title="Global 🇺🇸🇬🇧🇶🇦️",People TV
-https://peopletv-oo.akamaized.net/playlist720p.m3u8
+https://lnc-people-tv.tubi.video/playlist1080p.m3u8
 #EXTINF:-1 group-title="Global 🇺🇸🇬🇧🇶🇦️" tvg-logo="https://seeklogo.com/images/N/NASA-logo-9411797223-seeklogo.com.png",NASA TV Media
 https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master_2000.m3u8
 #EXTINF:-1 group-title="Global 🇺🇸🇬🇧🇶🇦️" tvg-logo="https://seeklogo.com/images/N/NASA-logo-9411797223-seeklogo.com.png",NASA TV Public
@@ -977,11 +977,13 @@ http://destiny4k.com:2086/live/darkside/t2z7marsRY/2943.ts
 #EXTINF:-1 tvg-name="动物星球" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/AnimalPlanet.png" group-title="Global 🇺🇸🇬🇧🇶🇦️", Animal Planet
 http://destiny4k.com:2086/live/darkside/t2z7marsRY/2980.ts
 #EXTINF:-1 group-title="Global 🇺🇸🇬🇧🇶🇦️",Nat Geo People 
-http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/71472.ts
+http://destiny4k.com:2086/live/6bM5ifOI96/qCwWd3TwXS/89311.ts
 #EXTINF:-1 tvg-id="DEBA1000009TT" tvg-chno="4402" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/DEBA1000009TT_20220914T041055.png" group-title="Global 🇺🇸🇬🇧🇶🇦️",BBC Travel
 https://ab96b349d4d14d80a1f8530a0bce4488.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-de_BBCTravel/playlist.m3u8?ads.wurl_channel=985&ads.wurl_name=BBCTravel&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
 #EXTINF:-1 group-title="Global 🇺🇸🇬🇧🇶🇦️",Wild EARTH
 https://wildearth-roku.amagi.tv/masterR720P.m3u8
+#EXTINF:-1 tvg-id="" group-title="Global 🇺🇸🇬🇧🇶🇦️" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/National Geographic Wild.png",Nat Geo Wildᴴᴰ
+http://185.59.223.102:8080/natgeowild/index.m3u8
 #EXTINF:-1 group-title="廣播 🇨🇳️",★★★★★廣播 🇨🇳️★★★★★
 https://upload.wikimedia.org/wikipedia/commons/0/08/National_Flag_Anthem_of_the_Republic_of_China%E4%B8%AD%E8%8F%AF%E6%B0%91%E5%9C%8B%E5%9C%8B%E6%97%97%E6%AD%8C_%28%E6%BC%94%E5%A5%8F%E7%89%88%29.oga
 #EXTINF:-1 group-title="廣播 🇨🇳️",China Plus Radio
