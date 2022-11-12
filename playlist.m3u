@@ -984,7 +984,7 @@ https://ab96b349d4d14d80a1f8530a0bce4488.mediatailor.us-east-1.amazonaws.com/v1/
 https://wildearth-roku.amagi.tv/masterR720P.m3u8
 #EXTINF:-1 tvg-id="" group-title="Global 🇺🇸🇬🇧🇶🇦️" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/National Geographic Wild.png",Nat Geo Wildᴴᴰ
 http://185.59.223.102:8080/natgeowild/index.m3u8
-#EXTINF:0, tvg-logo="https://talkmediaafrica.com/wp-content/uploads/2015/01/AriseLG-1280x720.png" group-title="Global 🇺🇸🇬🇧🇶🇦️",Arise News
+#EXTINF:-1 tvg-logo="https://talkmediaafrica.com/wp-content/uploads/2015/01/AriseLG-1280x720.png" group-title="Global 🇺🇸🇬🇧🇶🇦️",Arise News
 https://liveedge-arisenews.visioncdn.com/live-hls/arisenews/arisenews/arisenews_web/master.m3u8
 #EXTINF:-1 group-title="廣播 🇨🇳️",★★★★★廣播 🇨🇳️★★★★★
 https://upload.wikimedia.org/wikipedia/commons/0/08/National_Flag_Anthem_of_the_Republic_of_China%E4%B8%AD%E8%8F%AF%E6%B0%91%E5%9C%8B%E5%9C%8B%E6%97%97%E6%AD%8C_%28%E6%BC%94%E5%A5%8F%E7%89%88%29.oga
