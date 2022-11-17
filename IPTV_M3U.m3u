@@ -15,8 +15,10 @@ http://iptvtree.net:8080/get.php?username=cipo&password=R3vwiPGU8YAb4r57ed8j&typ
 http://tv.iptvforver.com:25461/get.php?username=Oojj6nCCia&password=6Ey4514RAE&type=m3u
 #EXTINF:-1,cdloop
 http://op.cdloop.eu/get.php?username=3892441923felipe&password=gsiwbvc786&type=m3u
-#EXTINF:-1,royal-cdn
-http://royal-cdn.eu:8080/get.php?username=RestreamTorbaXXX&password=mQFt54yf&type=m3u
+#EXTINF:-1,megatitan
+http://megatitan.net:8080/get.php?username=DeportesPropiosRestreamisores&password=hnh293n3YEfc&type=m3u
+#EXTINF:-1,http://185.226.88.6:11026
+http://185.226.88.6:11026/get.php?username=OUT2QyrOQS8xw&password=UkPn4unfnR&type=m3u
 #EXTINF:-1,royal-cdn
 http://royal-cdn.eu:8080/get.php?username=eKWysEbq&password=kaufmanferi&type=m3u_plus
 
