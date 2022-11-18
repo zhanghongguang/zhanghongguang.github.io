@@ -606,8 +606,8 @@ http://140.238.155.232:9000/jmsytb.m3u8?c=25&&$1920x1080
 http://140.238.155.232:9000/jmsytb.m3u8?c=26&&$1920x1080
 #EXTINF:-1 group-title="臺灣 🇹🇼️",華視新聞
 http://stream.dsichannel.com:80/hls/cts-news.m3u8
-#EXTINF:-1 group-title="臺灣 🇹🇼️",18.八大綜合FHD
-http://218.32.47.179:18520/http/192.168.1.9:8081/hls/66/808/ch21.m3u8
+#EXTINF:-1 group-title="臺灣 🇹🇼️" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCFinancialNews.png",东森财经新闻台
+rtmp://9wv7.mine.nu/sat/tv571
 #EXTINF:-1 group-title="臺灣 🇹🇼️",19.momo綜合台
 http://218.32.47.179:8579/http/60.249.81.21:8088/hls/76/818/momo_max.m3u8
 #EXTINF:-1 group-title="臺灣 🇹🇼️",20.緯來育樂FHD
