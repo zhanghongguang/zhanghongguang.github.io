@@ -504,18 +504,24 @@ http://yuniptvunql.chinayungu.cn:65530/live/fhzw/index.m3u8
 http://playtv-live.ifeng.com/live/06OLEEWQKN4_tv1.m3u8
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" tvg-speed="2MB/s" group-title="港澳 🇭🇰️🇲🇴️",凤凰卫视资讯台
 http://yuniptvunql.chinayungu.cn:65530/live/fhzx/index.m3u8
-#EXTINF:-1 group-title="港澳 🇭🇰️🇲🇴️",凤凰香港
-http://223.110.235.11/ott.js.chinamobile.com/PLTV/3/224/3221228060/index.m3u8
+#EXTINF:-1 group-title="港澳 🇭🇰️🇲🇴️" tvg-log="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png",凤凰香港
+http://120.84.96.78:808/hls/81/index.m3u8
 #EXTINF:-1 group-title="港澳 🇭🇰️🇲🇴️" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hks.png",香港卫视
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-#EXTINF:-1 group-title="港澳 🇭🇰️🇲🇴️",亚旅卫视
-http://hls.jingchangkan.tv/jingchangkan/156722438_0HaM/index.m3u8
-#EXTINF:-1 group-title="港澳 🇭🇰️🇲🇴️",无线新闻
-https://bcovlive-a.akamaihd.net/38974baa695d47bbb231665ca52b8b3c/us-west-2/5324042807001/95ea73e414b14b7ea6406050a5293f17/playlist_ssaiM.m3u8
-#EXTINF:-1 group-title="港澳 🇭🇰️🇲🇴️",RTHK31
-https://dm1133.kglink.xyz/live/07
-#EXTINF:-1 group-title="港澳 🇭🇰️🇲🇴️",RTHK32
-https://dm1133.kglink.xyz/live/08
+#EXTINF:-1 tvg-id="7122" tvg-name="有线新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/youxianxinwen.png" group-title="港澳 🇭🇰️🇲🇴️",有线新闻
+http://61.10.2.140:80/live_freedirect/freehd209_h.live/chunklist_w135209556.m3u8
+#EXTINF:-1 group-title="港澳 🇭🇰️🇲🇴️" tvg-log="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png",凤凰香港
+http://gxfrg007.8800.org:8282/tsfile/live/1065_1.m3u8
+#EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港澳 🇭🇰️🇲🇴️",TVB翡翠华丽
+http://23.237.10.66:16410
+#EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港澳 🇭🇰️🇲🇴️",翡翠台
+http://23.237.10.66:16106
+#EXTINF:-1 group-title="港澳 🇭🇰️🇲🇴️",澳门莲花
+http://anren.live/HK/BiIOU11uLA.m3u8?zgangd&&&$1920x1080
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳 🇭🇰️🇲🇴️",RTHK31
+https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳 🇭🇰️🇲🇴️",RTHK32
+https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8
 #EXTINF:-1 group-title="臺灣 🇹🇼️",★★★★★臺灣 🇹🇼️★★★★★
 https://upload.wikimedia.org/wikipedia/commons/transcoded/6/65/%E4%B8%AD%E8%8F%AF%E6%B0%91%E5%9C%8B%E5%9C%8B%E6%AD%8C_National_Anthem_of_the_Republic_of_China_%28Taiwan%29.wav/%E4%B8%AD%E8%8F%AF%E6%B0%91%E5%9C%8B%E5%9C%8B%E6%AD%8C_National_Anthem_of_the_Republic_of_China_%28Taiwan%29.wav.ogg?uselang=zh-hant
 #EXTINF:-1 tvg-id="6071" tvg-name="民视新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FTVNews.png" group-title="臺灣 🇹🇼️",民视新闻
@@ -568,10 +574,10 @@ http://59.125.98.83:8535/playlist.m3u8
 http://59.125.98.83:8536/playlist.m3u8
 #EXTINF:-1 tvg-id="6047" tvg-name="三立臺灣台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETTaiwan.png" group-title="臺灣 🇹🇼️",三立臺灣台
 http://23.237.10.66:16342
-#EXTINF:-1 group-title="臺灣 🇹🇼️",1.龍華電影台
-http://218.32.47.179:18556/http/192.168.1.9:8066/hls/210/10014/cstv14.m3u8
-#EXTINF:-1 group-title="臺灣 🇹🇼️",3.AXN
-http://218.32.47.179:18558/http/192.168.1.9:8081/hls/71/813/ch43.m3u8
+#EXTINF:-1 group-title="臺灣 🇹🇼️",东森新闻美国
+http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
+#EXTINF:-1 tvg-id="6080" tvg-name="东森电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCMovies.png" group-title="臺灣 🇹🇼️",东森电影
+http://120.84.96.62:808/hls/32/index.m3u8
 #EXTINF:-1 group-title="臺灣 🇹🇼️",4.三立台灣FHD
 http://218.32.47.179:18521/http/192.168.1.9:8081/hls/65/807/ch20.m3u8
 #EXTINF:-1 group-title="臺灣 🇹🇼️",5.華視新聞資訊台FHD
@@ -584,22 +590,22 @@ http://218.32.47.179:18526/http/192.168.1.9:8081/hls/67/809/ch25.m3u8
 http://218.32.47.179:18528/http/192.168.1.9:8081/hls/68/810/ch31.m3u8
 #EXTINF:-1 group-title="臺灣 🇹🇼️",9.緯來體育FHD
 http://218.32.47.179:18563/http/192.168.1.9:8081/hls/67/809/ch28.m3u8
-#EXTINF:-1 group-title="臺灣 🇹🇼️",10.CINEMAX FHD
-http://218.32.47.179:18559/http/192.168.1.9:8081/hls/71/813/ch42.m3u8
-#EXTINF:-1 group-title="臺灣 🇹🇼️",11.大愛電視
-http://218.32.47.179:8507/http/192.168.1.9:8081/hls/73/815/ch52.m3u8
-#EXTINF:-1 group-title="臺灣 🇹🇼️",12.龍華偶像劇
-http://218.32.47.179:8536/http/192.168.1.9:8066/hls/210/10012/cstv12.m3u8
-#EXTINF:-1 group-title="臺灣 🇹🇼️",13.Baby TV
-http://218.32.47.179:18514/http/192.168.1.9:8078/hls/35/80/babytv.m3u8
-#EXTINF:-1 group-title="臺灣 🇹🇼️",14.亞洲旅遊
-http://218.32.47.179:18513/http/192.168.1.9:8081/hls/76/818/ch61.m3u8
-#EXTINF:-1 group-title="臺灣 🇹🇼️",15.Bloomberg News
-http://218.32.47.179:8551/http/192.168.1.9:8078/hls/43/80/bloomber.m3u8
-#EXTINF:-1 group-title="臺灣 🇹🇼️",16.國家地理FHD
-http://218.32.47.179:18509/http/192.168.1.9:8081/hls/61/803/ch01.m3u8
-#EXTINF:-1 group-title="臺灣 🇹🇼️",17.華視FHD
-http://218.32.47.179:18503/http/192.168.1.9:8081/hls/72/814/ch48.m3u8
+#EXTINF:-1 group-title="臺灣 🇹🇼️" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS%E6%96%B0%E9%97%BB.png",TVBS新闻台
+http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
+#EXTINF:-1 group-title="臺灣 🇹🇼️" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E5%8F%B0%E8%A7%86.png",台视
+http://23.237.10.66:16344
+#EXTINF:-1 group-title="臺灣 🇹🇼️" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBO.png",HBO
+http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
+#EXTINF:-1 group-title="臺灣 🇹🇼️" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS%E6%96%B0%E9%97%BB.png",TVBS新闻台
+http://140.238.155.232:9000/jmsytb.m3u8?c=31&&$1920x1080
+#EXTINF:-1 group-title="臺灣 🇹🇼️" tvg-logo="",中天新闻台
+http://140.238.155.232:9000/jmsytb.m3u8?c=24&&$1920x1080
+#EXTINF:-1 group-title="臺灣 🇹🇼️" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E4%B8%AD%E8%A7%86%E6%96%B0%E9%97%BB.png",中视新闻
+http://140.238.155.232:9000/jmsytb.m3u8?c=25&&$1920x1080
+#EXTINF:-1 group-title="臺灣 🇹🇼️" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E5%8F%B0%E8%A7%86%E6%96%B0%E9%97%BB.png",台视新闻台
+http://140.238.155.232:9000/jmsytb.m3u8?c=26&&$1920x1080
+#EXTINF:-1 group-title="臺灣 🇹🇼️",華視新聞
+http://stream.dsichannel.com:80/hls/cts-news.m3u8
 #EXTINF:-1 group-title="臺灣 🇹🇼️",18.八大綜合FHD
 http://218.32.47.179:18520/http/192.168.1.9:8081/hls/66/808/ch21.m3u8
 #EXTINF:-1 group-title="臺灣 🇹🇼️",19.momo綜合台
