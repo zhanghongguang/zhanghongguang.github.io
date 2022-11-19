@@ -2,7 +2,7 @@
 # Playlist created by Chang Hung-kuang
 #EXTINF:-1 group-title="寧波 🇨🇳️",★★★★★寧波 🇨🇳️★★★★★
 http://flv4mp4.people.com.cn/videofile2/pvmsvideo/2015/8/25/WeiQingCheng_e219e4e5df4e4a1e2c532fc9a1cf0772_android_c.mp4
-#EXTINF:-1 group-title="寧波 🇨🇳️",宁波新闻综合频道高清NBTV-1
+#EXTINF:-1 group-title="寧波 🇨🇳️" tvg-logo="https://zhanghongguang.github.io/Logo/nbtv1.png",宁波新闻综合频道高清NBTV-1
 http://www.372583307.top:4022/udp/233.50.201.168:5140
 #EXTINF:-1 group-title="寧波 🇨🇳️",宁波经济生活频道高清NBTV-2
 http://www.372583307.top:4022/udp/233.50.201.178:5140
@@ -10,9 +10,9 @@ http://www.372583307.top:4022/udp/233.50.201.178:5140
 http://www.372583307.top:4022/udp/233.50.201.179:5140
 #EXTINF:-1 group-title="寧波 🇨🇳️",宁波影视频道高清NBTV-4
 http://www.372583307.top:4022/udp/233.50.201.180:5140
-#EXTINF:-1 group-title="寧波 🇨🇳️",宁波少儿频道高清NBTV-5
+#EXTINF:-1 group-title="寧波 🇨🇳️" tvg-logo="https://zhanghongguang.github.io/Logo/nbtv5.png",宁波少儿频道高清NBTV-5
 http://www.372583307.top:4022/udp/233.50.201.181:5140
-#EXTINF:-1 group-title="寧波 🇨🇳️",NBTV-1
+#EXTINF:-1 group-title="寧波 🇨🇳️" tvg-logo="https://zhanghongguang.github.io/Logo/nbtv1.png",NBTV-1
 http://v2.91kds.cn/b9/zjnbtv.m3u8?fmt=hls&id=zjnbtv1&auth=rinimabi
 #EXTINF:-1 group-title="寧波 🇨🇳️",NBTV-2
 http://v2.91kds.cn/b9/zjnbtv.m3u8?fmt=hls&id=zjnbtv2&auth=rinimabi
@@ -20,9 +20,9 @@ http://v2.91kds.cn/b9/zjnbtv.m3u8?fmt=hls&id=zjnbtv2&auth=rinimabi
 http://v2.91kds.cn/b9/zjnbtv.m3u8?fmt=hls&id=zjnbtv3&auth=rinimabi
 #EXTINF:-1 group-title="寧波 🇨🇳️",NBTV-4
 http://v2.91kds.cn/b9/zjnbtv.m3u8?fmt=hls&id=zjnbtv4&auth=rinimabi
-#EXTINF:-1 group-title="寧波 🇨🇳️",NBTV-5
+#EXTINF:-1 group-title="寧波 🇨🇳️" tvg-logo="https://zhanghongguang.github.io/Logo/nbtv5.png",NBTV-5
 http://v2.91kds.cn/b9/zjnbtv.m3u8?fmt=hls&id=zjnbtv5&auth=rinimabi
-#EXTINF:-1 group-title="寧波 🇨🇳️",NBTV-1
+#EXTINF:-1 group-title="寧波 🇨🇳️" tvg-logo="https://zhanghongguang.github.io/Logo/nbtv1.png",NBTV-1
 http://hnan.ueuo.com/nbtv/1.m3u8
 #EXTINF:-1 group-title="寧波 🇨🇳️",NBTV-2
 http://hnan.ueuo.com/nbtv/2.m3u8
@@ -30,7 +30,7 @@ http://hnan.ueuo.com/nbtv/2.m3u8
 http://hnan.ueuo.com/nbtv/3.m3u8
 #EXTINF:-1 group-title="寧波 🇨🇳️",NBTV-4
 http://hnan.ueuo.com/nbtv/4.m3u8
-#EXTINF:-1 group-title="寧波 🇨🇳️",NBTV-5
+#EXTINF:-1 group-title="寧波 🇨🇳️" tvg-logo="https://zhanghongguang.github.io/Logo/nbtv5.png",NBTV-5
 http://hnan.ueuo.com/nbtv/5.m3u8
 #EXTINF:-1 group-title="寧波 🇨🇳️",鄞州1
 http://pili-publish.yzxw.newaircloud.com/newaircloud-yzxw/yzxw_20190925090843.m3u8
