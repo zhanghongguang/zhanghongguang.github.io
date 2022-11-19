@@ -269,7 +269,7 @@ http://183.207.255.188/live/program/live/setv/1300000/mnf.m3u8
 #EXTINF:-1 group-title="上海 🇨🇳️" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaiwaiyu.png",上视外语频道
 http://183.207.255.188/live/program/live/wypdhd/4000000/mnf.m3u8
 #EXTINF:-1 group-title="上海 🇨🇳️" tvg-logo="https://epg.112114.xyz/logo/生活时尚.png",生活时尚
-http://[2409:8087:3408:20:5040::106]:18890/PLTV/88888888/224/3221227091/index.m3u8
+http://183.207.255.188/live/program/live/shsshd/4000000/mnf.m3u8
 #EXTINF:-1 group-title="上海 🇨🇳️" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/diyicaijing.png",第一财经
 http://39.135.6.71:6610/000000001000/5000000010000027146/index.m3u8?channel-id=bestzb&Contentid=5000000010000027146&livemode=1&stbId=3
 #EXTINF:-1 group-title="上海 🇨🇳️" tvg-logo="https://epg.112114.xyz/logo/东方财经.png",东方财经
@@ -281,21 +281,21 @@ http://112.25.48.69/live/program/live/wypdhd/4000000/mnf.m3u8
 #EXTINF:-1 group-title="上海 🇨🇳️" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaidongfangyingshi.png",东方影视
 http://112.25.48.69/live/program/live/dsjpdhd/4000000/mnf.m3u8
 #EXTINF:-1 group-title="上海 🇨🇳️" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/wuxingtiyu.png",五星体育频道
-http://b1batman.qicp.vip:8055/udp/239.45.3.210:5140
+http://39.134.165.130:6610/000000001000/5000000010000017540/index.m3u8?
 #EXTINF:-1 group-title="上海 🇨🇳️" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/diyicaijing.png",上海第一财经
-http://mmitv.top/test/bestv.php?id=21
+http://183.207.255.188/live/program/live/dycjhd/4000000/mnf.m3u8
 #EXTINF:-1 group-title="上海 🇨🇳️" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanghaijishi.png",上海纪实
 http://183.207.255.188/live/program/live/jspdhd/4000000/mnf.m3u8
 #EXTINF:-1 group-title="上海 🇨🇳️" tvg-logo="https://epg.112114.xyz/logo/乐游.png",乐游
-http://112.25.48.69/live/program/live/qjshd/4000000/mnf.m3u8
+http://183.207.255.188/live/program/live/qjshd/4000000/mnf.m3u8
 #EXTINF:-1 group-title="上海 🇨🇳️" tvg-logo="https://epg.112114.xyz/logo/乐游.png",乐游
 http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227083/index.m3u8?servicetype=1
 #EXTINF:-1 group-title="上海 🇨🇳️" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/xuandong.png",哈哈炫动
-http://183.207.255.188/live/program/live/hhxdhd/4000000/mnf.m3u8
+http://183.207.255.188/live/program/live/xdkt/1300000/mnf.m3u8
 #EXTINF:-1 group-title="上海 🇨🇳️" tvg-logo="https://epg.112114.xyz/logo/SITV都市剧场.png",都市剧场
 http://183.207.255.188/live/program/live/dsjchd/4000000/mnf.m3u8
 #EXTINF:-1 group-title="上海 🇨🇳️" tvg-logo="https://epg.112114.xyz/logo/SITV劲爆体育.png",劲爆体育
-http://223.109.114.45/liveplay-kk.rtxapp.com/live/program/live/jbtyhd/4000000/mnf.m3u8
+http://39.134.165.130:6610/000000001000/5000000002000029972/index.m3u8?
 #EXTINF:-1 group-title="上海 🇨🇳️" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jisuqiche.png",MAX极速汽车
 http://183.207.255.188/live/program/live/jsqchd/4000000/mnf.m3u8
 #EXTINF:-1 group-title="上海 🇨🇳️" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/qicaixiju.png",七彩戏剧
@@ -367,33 +367,33 @@ http://111.13.42.242/PLTV/88888888/224/3221226540/1.m3u8
 #EXTINF:-1 group-title="地方臺 🇨🇳️",清华大学
 https://live.cic.tsinghua.edu.cn/hls/tsinghuatv.m3u8
 #EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="卫视 🇨🇳️",湖南卫视
-http://111.13.42.242/PLTV/88888888/224/3221226509/1.m3u8
+http://39.135.138.60:18890/PLTV/88888910/224/3221225745/index.m3u8
 #EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="卫视 🇨🇳️",浙江卫视
 http://39.134.67.108/PLTV/88888888/224/3221225959/1.m3u8
 #EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" tvg-speed="10MB/s" group-title="卫视 🇨🇳️",江苏卫视
-http://111.13.42.237/PLTV/88888888/224/3221226366/1.m3u8
+http://39.134.115.163:8080/PLTV/88888910/224/3221225702/index.m3u8
 #EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="卫视 🇨🇳️",北京卫视
 http://112.19.214.90:8883/tsfile/live/0122_1.m3u8
 #EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="卫视 🇨🇳️",东方卫视
-http://111.13.42.241/PLTV/88888888/224/3221226898/1.m3u8
+http://hls.ye23.vip/hls/dfwshd.m3u8
 #EXTINF:-1 tvg-id="32" tvg-name="安徽卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png" group-title="卫视 🇨🇳️",安徽卫视
-http://111.13.42.240/PLTV/88888888/224/3221226943/1.m3u8
+http://39.134.115.163:8080/PLTV/88888910/224/3221225737/index.m3u8
 #EXTINF:-1 tvg-id="33" tvg-name="广东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title="卫视 🇨🇳️",广东卫视
-http://111.13.42.240/PLTV/88888888/224/3221226238/1.m3u8
+http://cm.wshls.homecdn.com/live/1bd69.m3u8
 #EXTINF:-1 tvg-id="34" tvg-name="深圳卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shenzhen.png" group-title="卫视 🇨🇳️",深圳卫视
 http://39.134.67.108/PLTV/88888888/224/3221225943/1.m3u8
 #EXTINF:-1 tvg-id="36" tvg-name="辽宁卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png" group-title="卫视 🇨🇳️",辽宁卫视
-http://111.13.42.242/PLTV/88888888/224/3221226500/1.m3u8
+http://39.134.115.163:8080/PLTV/88888910/224/3221225735/index.m3u8
 #EXTINF:-1 tvg-id="37" tvg-name="旅游卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/lvyou.png" tvg-speed="2MB/s" group-title="卫视 🇨🇳️",海南卫视
 http://39.135.138.60:18890/PLTV/88888910/224/3221225722/index.m3u8
 #EXTINF:-1 tvg-id="38" tvg-name="山东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shandong.png" group-title="卫视 🇨🇳️",山东卫视
-http://111.13.42.241/PLTV/88888888/224/3221226501/1.m3u8
+http://39.134.115.163:8080/PLTV/88888910/224/3221225697/index.m3u8
 #EXTINF:-1 tvg-id="39" tvg-name="天津卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/tianjin.png" group-title="卫视 🇨🇳️",天津卫视
-http://111.13.42.237/PLTV/88888888/224/3221226502/1.m3u8
+http://39.134.115.163:8080/PLTV/88888910/224/3221225698/index.m3u8
 #EXTINF:-1 tvg-id="40" tvg-name="重庆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png" tvg-speed="3MB/s" group-title="卫视 🇨🇳️",重庆卫视
-http://117.169.121.162:6610/PLTV/88888910/224/3221225734/index.m3u8
+http://39.134.115.163:8080/PLTV/88888910/224/3221225734/index.m3u8
 #EXTINF:-1 tvg-id="41" tvg-name="东南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongnan.png" group-title="卫视 🇨🇳️",东南卫视
-http://111.13.42.241/PLTV/88888888/224/3221226496/1.m3u8
+http://39.134.115.163:8080/PLTV/88888910/224/3221225657/index.m3u8?icpid=88888888&amp;from=30&amp;hms_devid=1452
 #EXTINF:-1 tvg-id="42" tvg-name="甘肃卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/gansu.png" tvg-speed="3MB/s" tvg-rez="720x576" group-title="卫视 🇨🇳️",甘肃卫视
 http://117.169.120.140:8080/live/gansustv/.m3u8
 #EXTINF:-1 tvg-id="43" tvg-name="广西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangxi.png" tvg-speed="4MB/s" group-title="卫视 🇨🇳️",广西卫视
@@ -403,15 +403,15 @@ http://39.134.115.163:8080/PLTV/88888910/224/3221225728/index.m3u8
 #EXTINF:-1 tvg-id="45" tvg-name="河北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hebei.png" group-title="卫视 🇨🇳️",河北卫视
 http://39.135.138.60:18890/PLTV/88888910/224/3221225732/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="46" tvg-name="黑龙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png" group-title="卫视 🇨🇳️",黑龙江卫视
-http://111.13.42.242/PLTV/88888888/224/3221226498/1.m3u8
+http://39.134.115.163:8080/PLTV/88888910/224/3221225690/index.m3u8
 #EXTINF:-1 tvg-id="47" tvg-name="河南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/henan.png" tvg-speed="2MB/s" group-title="卫视 🇨🇳️",河南卫视
 http://media.hndyjyfw.gov.cn/live/jz-hnweishi/live.m3u8
 #EXTINF:-1 tvg-id="48" tvg-name="湖北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hubei.png" group-title="卫视 🇨🇳️",湖北卫视
 http://39.135.138.59:18890/PLTV/88888910/224/3221225699/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="50" tvg-name="江西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangxi.png" group-title="卫视 🇨🇳️",江西卫视
-http://111.13.42.238/PLTV/88888888/224/3221226570/1.m3u8
+http://39.134.115.163:8080/PLTV/88888910/224/3221225705/index.m3u8
 #EXTINF:-1 tvg-id="51" tvg-name="吉林卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jilin.png" tvg-speed="3MB/s" tvg-rez="1280x720" group-title="卫视 🇨🇳️",吉林卫视
-http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel20/1300.m3u8
+http://39.135.138.59:18890/PLTV/88888910/224/3221225680/index.m3u8
 #EXTINF:-1 tvg-id="52" tvg-name="内蒙古卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/neimeng.png" tvg-speed="3MB/s" tvg-rez="720x576" group-title="卫视 🇨🇳️",内蒙古卫视
 http://39.135.138.59:18890/PLTV/88888910/224/3221225667/index.m3u8
 #EXTINF:-1 tvg-id="53" tvg-name="宁夏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/ningxia.png" tvg-speed="2MB/s" tvg-rez="720x576" group-title="卫视 🇨🇳️",宁夏卫视
@@ -425,7 +425,7 @@ http://39.135.6.51:6610/000000001001/5000000004000006119/1.m3u8?Contentid=500000
 #EXTINF:-1 tvg-id="57" tvg-name="新疆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xinjiang.png" tvg-speed="1000KB/s" group-title="卫视 🇨🇳️",新疆卫视
 http://livehyw5.chinamcache.com/hyw/zb01.m3u8?txSecret=58347f72aece2c25c685b8dc4da74652&txTime=95A66658
 #EXTINF:-1 tvg-id="58" tvg-name="云南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" tvg-speed="1MB/s" group-title="卫视 🇨🇳️",云南卫视
-https://hwapi.yunshicloud.com/8xughf/e0bx15.m3u8
+http://39.135.138.59:18890/PLTV/88888910/224/3221225664/index.m3u8
 #EXTINF:-1 tvg-id="59" tvg-name="青海卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/qinghai.png" tvg-speed="2MB/s" tvg-rez="720x576" group-title="卫视 🇨🇳️",青海卫视
 http://stream.qhbtv.com/qhws/sd/live.m3u8?_upt=1da074361609506578
 #EXTINF:-1 tvg-id="60" tvg-name="南方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/nanfang.png" tvg-speed="1MB/s" tvg-rez="720x576" group-title="卫视 🇨🇳️",南方卫视
@@ -454,50 +454,54 @@ http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227190/index.m3u8
 http://[2409:8087:3428:20:500::1009]:6610/PLTV/88888888/224/3221227190/index.m3u8?servicetype=1
 #EXTINF:-1 group-title="福建 🇨🇳️" tvg-logo="https://epg.pm/media/images/channel/2022/05/30/large/20220530233623778528_85.jpg",福建综合
 http://p2.weizan.cn/11844069/132114573749498521/live.m3u8
-#EXTINF:-1 group-title="NewTV🇨🇳️",超级电影
-http://111.13.42.240/PLTV/88888888/224/3221226994/1.m3u8
-#EXTINF:-1 group-title="NewTV🇨🇳️",超级综艺
-http://111.13.42.240/PLTV/88888888/224/3221226975/1.m3u8
-#EXTINF:-1 group-title="NewTV🇨🇳️",古装剧场
-http://111.13.42.239/PLTV/88888888/224/3221226986/1.m3u8
-#EXTINF:-1 group-title="NewTV🇨🇳️",精品大剧
-http://111.13.42.241/PLTV/88888888/224/3221226331/1.m3u8
-#EXTINF:-1 group-title="NewTV🇨🇳️",动作电影
-http://111.13.42.241/PLTV/88888888/224/3221226329/1.m3u8
-#EXTINF:-1 group-title="NewTV🇨🇳️",精品纪录
-http://111.13.42.239/PLTV/88888888/224/3221226977/1.m3u8
-#EXTINF:-1 group-title="NewTV🇨🇳️",家庭剧场
-http://111.13.42.235/PLTV/88888888/224/3221226330/1.m3u8
-#EXTINF:-1 group-title="NewTV🇨🇳️",潮妈辣婆
-http://111.13.42.240/PLTV/88888888/224/3221226980/1.m3u8
-#EXTINF:-1 group-title="NewTV🇨🇳️",怡伴健康
-http://111.13.42.242/PLTV/88888888/224/3221226327/1.m3u8
-#EXTINF:-1 group-title="NewTV🇨🇳️",武搏世界
-http://111.13.42.242/PLTV/88888888/224/3221226320/1.m3u8
-#EXTINF:-1 group-title="NewTV🇨🇳️",炫舞未来
-http://111.13.42.236/PLTV/88888888/224/3221226968/1.m3u8
-#EXTINF:-1 group-title="NewTV🇨🇳️",超级电视剧
-http://111.13.42.241/PLTV/88888888/224/3221226368/1.m3u8
-#EXTINF:-1 group-title="NewTV🇨🇳️",潮妈辣婆
-http://111.13.42.233/PLTV/88888888/224/3221226980/1.m3u8
-#EXTINF:-1 group-title="NewTV🇨🇳️",农业致富
-http://111.13.42.240/PLTV/88888888/224/3221226962/1.m3u8
-#EXTINF:-1 group-title="NewTV🇨🇳️",黑莓电影
-http://111.13.42.240/PLTV/88888888/224/3221226939/1.m3u8
-#EXTINF:-1 group-title="NewTV🇨🇳️",中国功夫
-http://111.13.42.241/PLTV/88888888/224/3221226321/1.m3u8
-#EXTINF:-1 group-title="NewTV🇨🇳️",军旅剧场
-http://111.13.42.241/PLTV/88888888/224/3221226324/1.m3u8
-#EXTINF:-1 group-title="NewTV🇨🇳️",军事评论
-http://111.13.42.241/PLTV/88888888/224/3221226326/1.m3u8
-#EXTINF:-1 group-title="NewTV🇨🇳️",金牌综艺
-http://111.13.42.241/PLTV/88888888/224/3221226347/1.m3u8
-#EXTINF:-1 group-title="NewTV🇨🇳️",快乐垂钓
-http://111.13.42.241/PLTV/88888888/224/3221226549/1.m3u8
-#EXTINF:-1 group-title="NewTV🇨🇳️",精品萌宠
-http://111.13.42.241/PLTV/88888888/224/3221226976/1.m3u8
-#EXTINF:-1 group-title="NewTV🇨🇳️",爱情喜剧
-http://111.13.42.242/PLTV/88888888/224/3221226322/1.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/newtv中国功夫.jpg" group-title="NewTV🇨🇳️",NewTV东北热剧
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226202/index.m3u8#http://39.135.138.58:18890/PLTV/88888888/224/3221226202/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/newtv中国功夫.jpg" group-title="NewTV🇨🇳️",NewTV中国功夫
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225660/index.m3u8#http://111.40.196.9/PLTV/88888888/224/3221225678/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/newtv军事评论.jpg" group-title="NewTV🇨🇳️",NewTV军事评论
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225757/index.m3u8#http://111.40.196.9/PLTV/88888888/224/3221225634/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/newtv军旅剧场.jpg" group-title="NewTV🇨🇳️",NewTV军旅剧场 4M1080
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225669/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/newtv农业致富.jpg" group-title="NewTV🇨🇳️",NewTV农业致富
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225670/index.m3u8#http://111.40.196.9/PLTV/88888888/224/3221225636/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/newtv古装剧场.jpg" group-title="NewTV🇨🇳️",NewTV古装剧场 4M1080
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225678/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/newtv家庭剧场.jpg" group-title="NewTV🇨🇳️",NewTV家庭剧场
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225713/index.m3u8#http://111.40.196.9/PLTV/88888888/224/3221225626/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/newtv中国功夫.jpg" group-title="NewTV🇨🇳️",NewTV怡伴健康 4M1080
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225666/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/newtv惊悚悬疑.jpg" group-title="NewTV🇨🇳️",NewTV惊悚悬疑 4M1080
+http://39.135.253.7/0000000000001001/1/index.m3u8?Contentid=7151256057701199617&livemode=1&stbId=2&channel-id=ystenlive
+#EXTINF:-1 tvg-logo="../Channel/Logo/newtv明星大片.jpg" group-title="NewTV🇨🇳️",NewTV明星大片
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225716/index.m3u8#3221225716
+#EXTINF:-1 tvg-logo="../Channel/Logo/newtv中国功夫.jpg" group-title="NewTV🇨🇳️",NewTV欢乐剧场
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226210/index.m3u8#http://39.135.138.58:18890/PLTV/88888888/224/3221226210/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/NewTV武搏世界.jpg" group-title="NewTV🇨🇳️",NewTV武搏世界
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225656/index.m3u8#http://111.40.196.9/PLTV/88888888/224/3221225664/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/newtv海外剧场.jpg" group-title="NewTV🇨🇳️",NewTV海外剧场 4M1080
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225712/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/newtv潮妈辣婆.jpg" group-title="NewTV🇨🇳️",NewTV潮妈辣婆 4M1080
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225708/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/newtv中国功夫.jpg" group-title="NewTV🇨🇳️",NewTV炫舞未来
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225707/index.m3u8#http://39.135.138.58:18890/PLTV/88888888/224/3221225707/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/newtv爱情喜剧.jpg" group-title="NewTV🇨🇳️",NewTV爱情喜剧 4M1080
+http://39.135.253.7/0000000000001001/1/index.m3u8?Contentid=8393829412396288037&livemode=1&stbId=2&channel-id=ystenlive
+#EXTINF:-1 tvg-logo="../Channel/Logo/newtv精品体育.jpg" group-title="NewTV🇨🇳️",NewTV精品综合
+http://111.40.196.9/PLTV/88888888/224/3221225632/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/newtv精品体育.jpg" group-title="NewTV🇨🇳️",NewTV精品体育 4M1080
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225709/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/newtv精品大剧.jpg" group-title="NewTV🇨🇳️",NewTV精品大剧 4M1080
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225714/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/newtv精品体育.jpg" group-title="NewTV🇨🇳️",NewTV精品纪录 2.5M1080
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225710/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/newtv中国功夫.jpg" group-title="NewTV🇨🇳️",NewTV超级体育
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225767/index.m3u8#http://39.135.138.58:18890/PLTV/88888888/224/3221225622/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/newtv中国功夫.jpg" group-title="NewTV🇨🇳️",NewTV超级电视剧
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225765/index.m3u8#http://39.135.138.58:18890/PLTV/88888888/224/3221225625/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/newtv中国功夫.jpg" group-title="NewTV🇨🇳️",NewTV超级综艺
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225768/index.m3u8#http://39.135.138.58:18890/PLTV/88888888/224/3221225620/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/newtv金牌综艺.jpg" group-title="NewTV🇨🇳️",NewTV金牌综艺
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225711/index.m3u8#http://111.40.196.9/PLTV/88888888/224/3221225650/index.m3u8
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" tvg-speed="1MB/s" group-title="港澳 🇭🇰️🇲🇴️",凤凰卫视中文台
 http://yuniptvunql.chinayungu.cn:65530/live/fhzw/index.m3u8
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" tvg-speed="2MB/s" group-title="港澳 🇭🇰️🇲🇴️",凤凰卫视资讯台
