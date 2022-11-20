@@ -4,9 +4,9 @@
 http://flv4mp4.people.com.cn/videofile2/pvmsvideo/2015/8/25/WeiQingCheng_e219e4e5df4e4a1e2c532fc9a1cf0772_android_c.mp4
 #EXTINF:-1 group-title="寧波 🇨🇳️" tvg-logo="https://zhanghongguang.github.io/Logo/nbtv1.png",宁波新闻综合频道高清NBTV-1
 http://www.372583307.top:4022/udp/233.50.201.168:5140
-#EXTINF:-1 group-title="寧波 🇨🇳️",宁波经济生活频道高清NBTV-2
+#EXTINF:-1 group-title="寧波 🇨🇳️" tvg-logo="https://zhanghongguang.github.io/Logo/nbtv.png",宁波经济生活频道高清NBTV-2
 http://www.372583307.top:4022/udp/233.50.201.178:5140
-#EXTINF:-1 group-title="寧波 🇨🇳️",宁波都市文体频道高清NBTV-3
+#EXTINF:-1 group-title="寧波 🇨🇳️" tvg-logo="https://zhanghongguang.github.io/Logo/nbtv.png",宁波都市文体频道高清NBTV-3
 http://www.372583307.top:4022/udp/233.50.201.179:5140
 #EXTINF:-1 group-title="寧波 🇨🇳️" tvg-logo="https://zhanghongguang.github.io/Logo/nbtv4.png",宁波影视频道高清NBTV-4
 http://www.372583307.top:4022/udp/233.50.201.180:5140
@@ -14,9 +14,9 @@ http://www.372583307.top:4022/udp/233.50.201.180:5140
 http://www.372583307.top:4022/udp/233.50.201.181:5140
 #EXTINF:-1 group-title="寧波 🇨🇳️" tvg-logo="https://zhanghongguang.github.io/Logo/nbtv1.png",NBTV-1
 http://v2.91kds.cn/b9/zjnbtv.m3u8?fmt=hls&id=zjnbtv1&auth=rinimabi
-#EXTINF:-1 group-title="寧波 🇨🇳️",NBTV-2
+#EXTINF:-1 group-title="寧波 🇨🇳️" tvg-logo="https://zhanghongguang.github.io/Logo/nbtv.png",NBTV-2
 http://v2.91kds.cn/b9/zjnbtv.m3u8?fmt=hls&id=zjnbtv2&auth=rinimabi
-#EXTINF:-1 group-title="寧波 🇨🇳️",NBTV-3
+#EXTINF:-1 group-title="寧波 🇨🇳️" tvg-logo="https://zhanghongguang.github.io/Logo/nbtv.png",NBTV-3
 http://v2.91kds.cn/b9/zjnbtv.m3u8?fmt=hls&id=zjnbtv3&auth=rinimabi
 #EXTINF:-1 group-title="寧波 🇨🇳️" tvg-logo="https://zhanghongguang.github.io/Logo/nbtv4.png",NBTV-4
 http://v2.91kds.cn/b9/zjnbtv.m3u8?fmt=hls&id=zjnbtv4&auth=rinimabi
@@ -24,9 +24,9 @@ http://v2.91kds.cn/b9/zjnbtv.m3u8?fmt=hls&id=zjnbtv4&auth=rinimabi
 http://v2.91kds.cn/b9/zjnbtv.m3u8?fmt=hls&id=zjnbtv5&auth=rinimabi
 #EXTINF:-1 group-title="寧波 🇨🇳️" tvg-logo="https://zhanghongguang.github.io/Logo/nbtv1.png",NBTV-1
 http://hnan.ueuo.com/nbtv/1.m3u8
-#EXTINF:-1 group-title="寧波 🇨🇳️",NBTV-2
+#EXTINF:-1 group-title="寧波 🇨🇳️" tvg-logo="https://zhanghongguang.github.io/Logo/nbtv.png",NBTV-2
 http://hnan.ueuo.com/nbtv/2.m3u8
-#EXTINF:-1 group-title="寧波 🇨🇳️",NBTV-3
+#EXTINF:-1 group-title="寧波 🇨🇳️" tvg-logo="https://zhanghongguang.github.io/Logo/nbtv.png",NBTV-3
 http://hnan.ueuo.com/nbtv/3.m3u8
 #EXTINF:-1 group-title="寧波 🇨🇳️" tvg-logo="https://zhanghongguang.github.io/Logo/nbtv4.png",NBTV-4
 http://hnan.ueuo.com/nbtv/4.m3u8
@@ -36,17 +36,17 @@ http://hnan.ueuo.com/nbtv/5.m3u8
 http://pili-publish.yzxw.newaircloud.com/newaircloud-yzxw/yzxw_20190925090843.m3u8
 #EXTINF:-1 group-title="寧波 🇨🇳️" tvg-logo="https://zhanghongguang.github.io/Logo/yztv.png",鄞州2
 http://pili-publish.yzxw.newaircloud.com/newaircloud-yzxw/yzxw_20190925090936.m3u8
-#EXTINF:-1 group-title="寧波 🇨🇳️",奉化新闻综合
+#EXTINF:-1 group-title="寧波 🇨🇳️" tvg-logo="https://zhanghongguang.github.io/Logo/fhtv.png",奉化新闻综合
 https://live1.fhtv.net.cn/zhzb/sd/live.m3u8
-#EXTINF:-1 group-title="寧波 🇨🇳️",奉化生活娱乐
+#EXTINF:-1 group-title="寧波 🇨🇳️" tvg-logo="https://zhanghongguang.github.io/Logo/fhtv.png",奉化生活娱乐
 https://live1.fhtv.net.cn/shys/sd/live.m3u8
-#EXTINF:-1 group-title="寧波 🇨🇳️",余姚新闻综合
+#EXTINF:-1 group-title="寧波 🇨🇳️" tvg-logo="https://zhanghongguang.github.io/Logo/yytv.png",余姚新闻综合
 http://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8
-#EXTINF:-1 group-title="寧波 🇨🇳️",镇海综合频道
+#EXTINF:-1 group-title="寧波 🇨🇳️" tvg-logo="https://zhanghongguang.github.io/Logo/zhtv.png",镇海综合频道
 http://pluslive.zhxww.net/channel1/sd/live.m3u8
-#EXTINF:-1 group-title="寧波 🇨🇳️",北仑电视台
+#EXTINF:-1 group-title="寧波 🇨🇳️" tvg-logo="https://zhanghongguang.github.io/Logo/bltv.png",北仑电视台
 http://play-sh.quklive.com/live/1626327731714170.m3u8
-#EXTINF:-1 group-title="寧波 🇨🇳️",象山电视台
+#EXTINF:-1 group-title="寧波 🇨🇳️" tvg-logo="https://zhanghongguang.github.io/Logo/xstv.png",象山电视台
 http://l.cztvcloud.com/channels/lantian/SXxiangshan1/720p.m3u8
 #EXTINF:-1 group-title="浙江 🇨🇳️",★★★★★浙江 🇨🇳️★★★★★
 https://upload.wikimedia.org/wikipedia/commons/transcoded/6/65/%E4%B8%AD%E8%8F%AF%E6%B0%91%E5%9C%8B%E5%9C%8B%E6%AD%8C_National_Anthem_of_the_Republic_of_China_%28Taiwan%29.wav/%E4%B8%AD%E8%8F%AF%E6%B0%91%E5%9C%8B%E5%9C%8B%E6%AD%8C_National_Anthem_of_the_Republic_of_China_%28Taiwan%29.wav.ogg?uselang=zh-hant
