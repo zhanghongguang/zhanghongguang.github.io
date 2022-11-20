@@ -808,6 +808,8 @@ http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-ftv13&nid=31
 http://for40255.sytes.net:8099/tv/iptv/live.php?id=msxw
 #EXTINF:-1 group-title="Overseas 🇺🇸️🇫🇷️丨ladder",★★★★★Overseas 🇺🇸️🇫🇷️丨ladder★★★★★
 https://upload.wikimedia.org/wikipedia/commons/0/08/National_Flag_Anthem_of_the_Republic_of_China%E4%B8%AD%E8%8F%AF%E6%B0%91%E5%9C%8B%E5%9C%8B%E6%97%97%E6%AD%8C_%28%E6%BC%94%E5%A5%8F%E7%89%88%29.oga
+#EXTINF:-1 tvg-id="france24eng" group-title="Overseas 🇺🇸️🇫🇷️丨ladder" tvg-logo="https://www.publicdiplomacycouncil.org/wp-content/uploads/2020/05/voa-logo.png",VOA China
+https://voa-ingest.akamaized.net/hls/live/2033878/tvmc08/VOA-TVMC08_1080/chunklist.m3u8
 #EXTINF:-1 group-title="Overseas 🇺🇸️🇫🇷️丨ladder"  tvg-logo="https://static1.squarespace.com/static/51a013dee4b0a2a2d2ef73e9/t/530a34ace4b0d1b000d31222/1393177774359/voa.png",V0A卫视
 https://voa-ingest.akamaized.net/dash/live/2033879/tvmc08/manifest.mpd
 #EXTINF:-1 group-title="Overseas 🇺🇸️🇫🇷️丨ladder" tvg-logo="https://gitee.com/radioer/radioer/raw/main/美国之音.png",VOA廣播
@@ -998,6 +1000,8 @@ https://wildearth-roku.amagi.tv/masterR720P.m3u8
 http://185.59.223.102:8080/natgeowild/index.m3u8
 #EXTINF:-1 tvg-logo="https://talkmediaafrica.com/wp-content/uploads/2015/01/AriseLG-1280x720.png" group-title="Global 🇺🇸🇬🇧🇶🇦️",Arise News
 https://liveedge-arisenews.visioncdn.com/live-hls/arisenews/arisenews/arisenews_web/master.m3u8
+#EXTINF:-1 tvg-id="france24eng" group-title="Global 🇺🇸🇬🇧🇶🇦️" tvg-logo="https://www.publicdiplomacycouncil.org/wp-content/uploads/2020/05/voa-logo.png",VOA (English)
+https://voa-ingest.akamaized.net/hls/live/2033874/tvmc06/VOA-TVMC06_1080/chunklist.m3u8
 #EXTINF:-1 group-title="廣播 🇨🇳️",★★★★★廣播 🇨🇳️★★★★★
 https://upload.wikimedia.org/wikipedia/commons/0/08/National_Flag_Anthem_of_the_Republic_of_China%E4%B8%AD%E8%8F%AF%E6%B0%91%E5%9C%8B%E5%9C%8B%E6%97%97%E6%AD%8C_%28%E6%BC%94%E5%A5%8F%E7%89%88%29.oga
 #EXTINF:-1 group-title="廣播 🇨🇳️",China Plus Radio
