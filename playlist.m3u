@@ -947,7 +947,7 @@ https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 #EXTINF:-1 group-title="Global 🇺🇸🇬🇧🇶🇦️" tvg-name="TLC旅游生活频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tlc.png",TLC HD
 https://tv.googledrivelinks.com/live.php?c=TLC_HD_World&q=1200&e=.m3u8
 #EXTINF:-1 group-title="Global 🇺🇸🇬🇧🇶🇦️",METRO TV
-http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w2006790992_b1492000_sleng.m3u8
+http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
 #EXTINF:-1 group-title="Global 🇺🇸🇬🇧🇶🇦️",BBC Earth Sony HD
 http://125.209.88.166:45793/BRN/BBCEarthHD.stream/playlist.m3u8
 #EXTINF:-1 group-title="Global 🇺🇸🇬🇧🇶🇦️",ABC News USA Live HD
