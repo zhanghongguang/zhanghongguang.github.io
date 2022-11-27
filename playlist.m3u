@@ -947,7 +947,7 @@ https://voa-ingest.akamaized.net/hls/live/2033878/tvmc08/VOA-TVMC08_1080/chunkli
 #EXTINF:-1 group-title="Overseas 🇺🇸️🇫🇷️丨ladder"  tvg-logo="https://static1.squarespace.com/static/51a013dee4b0a2a2d2ef73e9/t/530a34ace4b0d1b000d31222/1393177774359/voa.png",V0A卫视
 https://voa-ingest.akamaized.net/dash/live/2033879/tvmc08/manifest.mpd
 #EXTINF:-1 group-title="Overseas 🇺🇸️🇫🇷️丨ladder" tvg-logo="https://gitee.com/radioer/radioer/raw/main/美国之音.png",VOA廣播
-https://voa-ingest.akamaized.net/dash/live/2035109/151_124L/manifest.mpd
+https://voa-ingest.akamaized.net/dash/live/2035109-b/151_124L/manifest.mpd
 #EXTINF:-1 group-title="Overseas 🇺🇸️🇫🇷️丨ladder"  tvg-logo="https://gitee.com/radioer/radioer/raw/main/自由亚洲电台.png" ,RFA
 https://rfa-ingest.akamaized.net/hls/live/2040699/RFA_AUDIO_LIVE1/master.m3u8
 #EXTINF:-1 group-title="Overseas 🇺🇸️🇫🇷️丨ladder" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/RFI_logo_2013.svg/1200px-RFI_logo_2013.svg.png",法国国际廣播电台
