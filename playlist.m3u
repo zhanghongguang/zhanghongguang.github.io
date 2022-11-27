@@ -746,12 +746,12 @@ http://140.238.155.232:9000/jmsytb.m3u8?c=26&&$1920x1080
 http://stream.dsichannel.com:80/hls/cts-news.m3u8
 #EXTINF:-1 group-title="臺灣 🇹🇼️" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCFinancialNews.png",东森财经新闻台
 rtmp://9wv7.mine.nu/sat/tv571
-#EXTINF:-1 group-title="臺灣 🇹🇼️",19.momo綜合台
-http://218.32.47.179:8579/http/60.249.81.21:8088/hls/76/818/momo_max.m3u8
-#EXTINF:-1 group-title="臺灣 🇹🇼️",20.緯來育樂FHD
-http://218.32.47.179:18562/http/192.168.1.9:8081/hls/68/810/ch30.m3u8
-#EXTINF:-1 group-title="臺灣 🇹🇼️",21.衛視電影FHD
-http://218.32.47.179:18553/http/192.168.1.9:8081/hls/62/804/ch07.m3u8
+#EXTINF:-1 group-title="臺灣 🇹🇼️" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FTV.png",民视频道
+https://pull-l3-cny.douyincdn.com/live/b2478a833f3e8b439b680048fcbf7786.m3u8
+#EXTINF:-1 group-title="臺灣 🇹🇼️" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E4%B8%AD%E8%A7%86%E6%96%B0%E9%97%BB.png",中视新闻
+https://pull-l3-cny.douyincdn.com/live/cf93b19e055f2800058541033c0c4355.m3u8
+#EXTINF:-1 group-title="臺灣 🇹🇼️" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GlobalNews.png",寰宇新闻
+https://pull-l3-cny.douyincdn.com/live/a9e3982a798d13ba350075af6cff4119.m3u8
 #EXTINF:-1 group-title="臺灣 🇹🇼️",22.公視
 http://218.32.47.179:18505/http/192.168.1.9:8081/hls/73/815/ch50.m3u8
 #EXTINF:-1 group-title="臺灣 🇹🇼️",23.好消息頻道
@@ -997,7 +997,7 @@ http://destiny4k.com:2086/live/darkside/t2z7marsRY/2863.ts
 #EXTINF:-1 group-title="Global 🇺🇸🇬🇧🇶🇦️",韩联社
 https://wms211-kortv.akamaized.net/a_live/34402987/smil:20ch211.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="Global 🇺🇸🇬🇧🇶🇦️" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/Discovery-Asia.png",DiscoveryAsia
-https://livecdn.fptplay.net/hda2/discoveryasia_vhls.smil/chunklist_b2500000.m3u8
+http://50.7.220.74:8278/discoverytwn_twn/playlist.m3u8?tid=MAAA4463833744638337&ct=18393&tsum=c4bd4c633430327425e073012785525e
 #EXTINF:-1 group-title="Global 🇺🇸🇬🇧🇶🇦️" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/natgeo.png",National Geographic HD Bangla
 http://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
 #EXTINF:-1 group-title="Global 🇺🇸🇬🇧🇶🇦️",CNN
