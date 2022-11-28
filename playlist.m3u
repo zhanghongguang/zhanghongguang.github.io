@@ -746,7 +746,7 @@ http://140.238.155.232:9000/jmsytb.m3u8?c=26&&$1920x1080
 http://stream.dsichannel.com:80/hls/cts-news.m3u8
 #EXTINF:-1 group-title="臺灣 🇹🇼️" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCFinancialNews.png",东森财经新闻台
 rtmp://9wv7.mine.nu/sat/tv571
-#EXTINF:-1 group-title="臺灣 🇹🇼️" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FTV.png",民视频道
+#EXTINF:-1 group-title="臺灣 🇹🇼️" tvg-name="民视无线台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FTV.png",民视频道
 https://pull-l3-cny.douyincdn.com/live/b2478a833f3e8b439b680048fcbf7786.m3u8
 #EXTINF:-1 group-title="臺灣 🇹🇼️" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E4%B8%AD%E8%A7%86%E6%96%B0%E9%97%BB.png",中视新闻
 https://pull-l3-cny.douyincdn.com/live/cf93b19e055f2800058541033c0c4355.m3u8
