@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1,nicefin
+http://goodtv.nicefin.xyz/get.php?username=187254&password=187254&type=m3u
 #EXTINF:-1,4kstream
 http://4kstream.club:2086/get.php?username=6bM5ifOI96&password=qCwWd3TwXS&type=m3u
 #EXTINF:-1,destiny4k
@@ -9,8 +11,6 @@ http://ott.global-telecom.eu:25461/get.php?username=mirobec3378&password=AxRwxqx
 http://obsfullhd.tv:25461/get.php?username=demopad1&password=UXRsXfKbBZ&type=m3u
 #EXTINF:-1,boxlion
 http://login.boxlion.nl/get.php?username=Cinegold569&password=9gsGrbWDDLfdg498&type=m3u
-#EXTINF:-1,iptvtree
-http://iptvtree.net:8080/get.php?username=outputofflinechecker&password=Fuckyouhacker4fvs564hsy7&type=m3u
 #EXTINF:-1,iptvforver
 http://tv.iptvforver.com:25461/get.php?username=Oojj6nCCia&password=6Ey4514RAE&type=m3u
 #EXTINF:-1,cdloop
