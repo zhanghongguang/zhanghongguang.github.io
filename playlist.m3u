@@ -989,11 +989,19 @@ http://nmxlive.akamaized.net/hls/live/529965/Live_1/master.m3u8
 #EXTINF:-1 group-title="Global 🇺🇸🇬🇧🇶🇦️",CBS News
 https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master_11.m3u8
 #EXTINF:-1 tvg-name="国家地理频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/natgeo.png" group-title="Global 🇺🇸🇬🇧🇶🇦️",National Geographic
-http://destiny4k.com:2086/live/darkside/t2z7marsRY/2864.ts
+http://obsfullhd.tv:25461/@localhdtv/WJudqvpAbuP8/9771
+#EXTINF:-1 group-title="Global 🇺🇸🇬🇧🇶🇦️" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/travelchannel.png",TravelChannel
+http://obsfullhd.tv:25461/@localhdtv/WJudqvpAbuP8/9761
  #EXTINF:-1 group-title="Global 🇺🇸🇬🇧🇶🇦️", Global News
  https://live.corusdigitaldev.com/groupb/live/3062d0e3-ed4c-4f47-8482-95648250f4b8/live.isml/.m3u8
 #EXTINF:-1 tvg-name="国家地理野生频道" group-title="Global 🇺🇸🇬🇧🇶🇦️" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/natgeowild.png",Nat Geo Wild
-http://destiny4k.com:2086/live/darkside/t2z7marsRY/2863.ts
+http://obsfullhd.tv:25461/@localhdtv/WJudqvpAbuP8/1379
+#EXTINF:-1 group-title="Global 🇺🇸🇬🇧🇶🇦️" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DiscoveryHD.png",Discovery
+http://obsfullhd.tv:25461/@localhdtv/WJudqvpAbuP8/42058
+#EXTINF:-1 tvg-name="动物星球" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/AnimalPlanet.png" group-title="Global 🇺🇸🇬🇧🇶🇦️", Animal Planet
+ http://obsfullhd.tv:25461/@localhdtv/WJudqvpAbuP8/1377
+#EXTINF:-1 group-title="Global 🇺🇸🇬🇧🇶🇦️",Nat Geo People
+http://obsfullhd.tv:25461/@localhdtv/WJudqvpAbuP8/6914
 #EXTINF:-1 group-title="Global 🇺🇸🇬🇧🇶🇦️",韩联社
 https://wms211-kortv.akamaized.net/a_live/34402987/smil:20ch211.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="Global 🇺🇸🇬🇧🇶🇦️" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/Discovery-Asia.png",DiscoveryAsia
@@ -1110,8 +1118,6 @@ http://live-1.otcnet.ru/tadtmf/tracks-v1a1/index.m3u8
 https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8
 #EXTINF:-1 group-title="Global 🇺🇸🇬🇧🇶🇦️",CNN International
 https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="Global 🇺🇸🇬🇧🇶🇦️" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/travelchannel.png",TravelChannel
-http://destiny4k.com:2086/live/darkside/t2z7marsRY/87300.ts
 #EXTINF:-1 group-title="Global 🇺🇸🇬🇧🇶🇦️",Travel+Adventure
 http://213.59.128.163:8000/udp/239.255.50.219:5500
 #EXTINF:-1 group-title="Global 🇺🇸🇬🇧🇶🇦️",MTV音乐频道
@@ -1120,12 +1126,6 @@ http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master_2400.
 https://voa-ingest.akamaized.net/hls/live/2035200/161_352R/playlist.m3u8
 #EXTINF:-1 group-title="Global 🇺🇸🇬🇧🇶🇦️" tvg-name="TLC旅游生活频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tlc.png",TLC HD
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-tlchdin-samsungin/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
-#EXTINF:-1 group-title="Global 🇺🇸🇬🇧🇶🇦️" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DiscoveryHD.png",Discovery
-http://destiny4k.com:2086/live/darkside/t2z7marsRY/2943.ts
-#EXTINF:-1 tvg-name="动物星球" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/AnimalPlanet.png" group-title="Global 🇺🇸🇬🇧🇶🇦️", Animal Planet
-http://destiny4k.com:2086/live/darkside/t2z7marsRY/2980.ts
-#EXTINF:-1 group-title="Global 🇺🇸🇬🇧🇶🇦️",Nat Geo People 
-http://destiny4k.com:2086/live/6bM5ifOI96/qCwWd3TwXS/89311.ts
 #EXTINF:-1 tvg-id="DEBA1000009TT" tvg-chno="4402" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/DEBA1000009TT_20220914T041055.png" group-title="Global 🇺🇸🇬🇧🇶🇦️",BBC Travel
 https://ab96b349d4d14d80a1f8530a0bce4488.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-de_BBCTravel/playlist.m3u8?ads.wurl_channel=985&ads.wurl_name=BBCTravel&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
 #EXTINF:-1 group-title="Global 🇺🇸🇬🇧🇶🇦️",Wild EARTH
