@@ -129,13 +129,13 @@ http://39.134.115.163:8080/TVOD/88888910/224/3221225639/index.m3u8
 #EXTINF:-1 tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" group-title="央視 🇨🇳",CCTV-15音乐
 http://39.134.115.163:8080/PLTV/88888910/224/3221225641/index.m3u8
 #EXTINF:-1 tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="央視 🇨🇳",CCTV-16奥林
-http://hls.ye23.vip/hls/cctv16hd.m3u8
+http://live.cooltv.top/tv/aishang.php?id=cctv164k
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="央視 🇨🇳",CCTV-17农村农业
 http://39.134.115.163:8080/PLTV/88888910/224/3221225908/index.m3u8
 #EXTINF:-1 tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" tvg-speed="13MB/s" tvg-rez="3840x2160" group-title="央視 🇨🇳",CCTV4K
 http://220.177.175.45/tlivectfree-cdn.ysp.cctv.cn/001/2000266303.m3u8
 #EXTINF:-1 tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" tvg-speed="13MB/s" tvg-rez="3840x2160" group-title="央視 🇨🇳",CCTV4K
-http://118.31.113.130:82/gudou.php?id=CCTVHHD4K_38000
+http://159.75.85.63:8280/cctv4k.php
 #EXTINF:-1 tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" tvg-speed="36MB/s" tvg-rez="3840x2160" group-title="央視 🇨🇳",CCTV奥林匹克频道
 http://39.135.41.243/PLTV/88888888/224/3221226716/index.m3u8?hls
 #EXTINF:-1 tvg-name="CCGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央視 🇨🇳",CGTN
@@ -214,6 +214,8 @@ http://111.13.42.234/PLTV/88888893/224/3221226233/index.m3u8
 http://39.134.115.163:8080/PLTV/88888910/224/3221225640/index.m3u8
 #EXTINF:-1 tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" group-title="央視 🇨🇳",CCTV-15音乐
 http://125.40.191.58:9901/tsfile/live/0015_1.m3u8
+#EXTINF:-1 tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="央視 🇨🇳",CCTV-16奥林
+http://hls.ye23.vip/hls/cctv16hd.m3u8
 #EXTINF:-1 group-title="央視 🇨🇳",CCTV17
 http://39.134.115.163:8080/PLTV/88888910/224/3221225908/index.m3u8
 #EXTINF:-1 group-title="央視 🇨🇳" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVshijiedili.png",世界地理
@@ -348,8 +350,8 @@ http://stream2.xiancity.cn/xatv1/sd/live.m3u8
 http://liveauth.sctv.com/hdlive/sctv48f9fb5888dedbe0c6a1b/1.m3u8
 #EXTINF:-1 group-title="地方臺 🇨🇳️" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV%E7%94%9F%E6%B4%BB.png",BTV生活
 http://live.cooltv.top/tv/btime.php?id=btvsh
-#EXTINF:-1 group-title="地方臺 🇨🇳️",北京IPTV4K
-http://111.13.42.238/PLTV/88888888/224/3221226550/1.m3u8
+#EXTINF:-1 group-title="地方臺 🇨🇳️" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV%E7%A7%91%E6%95%99.png",BTV科教
+https://epg.pm/stream/004ddc44c44aa078ecb70d057b2094ccd3c3dee7901dc91fe585599147e7bf5e.m3u8
 #EXTINF:-1 tvg-id="6244" tvg-name="求索生活" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/QSJL.png" group-title="地方臺 🇨🇳️",求索生活
 http://[2409:8087:4402:20:1:1216:401:43]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226116/index.m3u8
 #EXTINF:-1 tvg-name="BTV新闻" group-title="地方臺 🇨🇳️" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV%E6%96%B0%E9%97%BB.png",北京新闻
