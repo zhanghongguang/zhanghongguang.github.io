@@ -219,7 +219,7 @@ http://hls.ye23.vip/hls/cctv16hd.m3u8
 #EXTINF:-1 group-title="央視 🇨🇳",CCTV17
 http://39.134.115.163:8080/PLTV/88888910/224/3221225908/index.m3u8
 #EXTINF:-1 group-title="央視 🇨🇳" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVshijiedili.png",世界地理
-http://www.fuxiaopang.work:8866/udp/239.253.92.113:8066
+http://60.213.134.68/tlivecloud-ipv6.ysp.cctv.cn/ysp/2012513303.m3u8
 #EXTINF:-1 group-title="央視 🇨🇳" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE13.jpg",高尔夫网球
 http://www.fuxiaopang.work:8866/udp/239.253.92.117:8062
 #EXTINF:-1 group-title="央視 🇨🇳" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE8.jpg",兵器科技
@@ -233,7 +233,7 @@ http://www.fuxiaopang.work:8866/udp/239.253.92.130:8069
 #EXTINF:-1 group-title="央視 🇨🇳" tvg-logo="",电视指南
 http://www.fuxiaopang.work:8866/udp/239.253.92.17:6078
 #EXTINF:-1 group-title="央視 🇨🇳"  tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVfengyunyinyue.png",风云音乐
-http://www.fuxiaopang.work:8866/udp/239.253.92.111:8060
+http://60.213.134.68/tlivecloud-ipv6.ysp.cctv.cn/ysp/2012514103.m3u8
 #EXTINF:-1 group-title="央視 🇨🇳" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE7.jpg",怀旧剧场
 http://www.fuxiaopang.work:8866/udp/239.253.92.98:6120
 #EXTINF:-1 group-title="央視 🇨🇳" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVdiyijuchang.",第一剧场
