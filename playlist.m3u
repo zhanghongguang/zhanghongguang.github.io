@@ -213,7 +213,7 @@ http://111.13.42.234/PLTV/88888893/224/3221226233/index.m3u8
 #EXTINF:-1 group-title="央視 🇨🇳",CCTV14
 http://39.134.115.163:8080/PLTV/88888910/224/3221225640/index.m3u8
 #EXTINF:-1 tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" group-title="央視 🇨🇳",CCTV-15音乐
-http://125.40.191.58:9901/tsfile/live/0015_1.m3u8
+http://59.42.206.224:8081/hls/15/index.m3u8
 #EXTINF:-1 tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="央視 🇨🇳",CCTV-16奥林
 http://hls.ye23.vip/hls/cctv16hd.m3u8
 #EXTINF:-1 group-title="央視 🇨🇳",CCTV17
@@ -1002,7 +1002,7 @@ http://obsfullhd.tv:25461/@localhdtv/WJudqvpAbuP8/42058
  http://obsfullhd.tv:25461/@localhdtv/WJudqvpAbuP8/1377
 #EXTINF:-1 group-title="Global 🇺🇸🇬🇧🇶🇦️",Nat Geo People
 http://obsfullhd.tv:25461/@localhdtv/WJudqvpAbuP8/6914
-#EXTINF:-1 group-title="Global 🇺🇸🇬🇧🇶🇦️" tvg-logo="https://www.mncvision.id/userfiles/image/channel/bbc_earth150x150.jpg",BBC EarHD
+#EXTINF:-1 group-title="Global 🇺🇸🇬🇧🇶🇦️" tvg-logo="https://www.mncvision.id/userfiles/image/channel/bbc_earth150x150.jpg",BBC Earth HD
 http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/53607
  #EXTINF:-1 group-title="Global 🇺🇸🇬🇧🇶🇦️", Global News
  https://live.corusdigitaldev.com/groupb/live/3062d0e3-ed4c-4f47-8482-95648250f4b8/live.isml/.m3u8
@@ -1094,8 +1094,8 @@ https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 https://tv.googledrivelinks.com/live.php?c=TLC_HD_World&q=1200&e=.m3u8
 #EXTINF:-1 tvg-id="MET.ID" group-title="Global 🇺🇸🇬🇧🇶🇦️" tvg-logo="https://static.epg.best/id/MetroTV.id.png",Metro TV
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
-#EXTINF:-1 group-title="Global 🇺🇸🇬🇧🇶🇦️",BBC Earth Sony HD
-http://125.209.88.166:45793/BRN/BBCEarthHD.stream/playlist.m3u8
+#EXTINF:-1 group-title="Global 🇺🇸🇬🇧🇶🇦️" tvg-logo="https://www.mncvision.id/userfiles/image/channel/bbc_earth150x150.jpg",BBC earth
+http://bjlcapvr.megatv.fun/iptv/D8NP67M6SK4Q8M/6854/index.m3u8
 #EXTINF:-1 group-title="Global 🇺🇸🇬🇧🇶🇦️",ABC News USA Live HD
 https://abclive2-lh.akamaihd.net/i/abc_live11@423404/index_4000_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1 group-title="Global 🇺🇸🇬🇧🇶🇦️",LoveNature4K
@@ -1121,7 +1121,7 @@ https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3
 #EXTINF:-1 group-title="Global 🇺🇸🇬🇧🇶🇦️",CNN International
 https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 group-title="Global 🇺🇸🇬🇧🇶🇦️",Travel+Adventure
-http://213.59.128.163:8000/udp/239.255.50.219:5500
+http://46.19.100.174:4450/play/a009/index.m3u8
 #EXTINF:-1 group-title="Global 🇺🇸🇬🇧🇶🇦️",MTV音乐频道
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master_2400.m3u8
 #EXTINF:-1 group-title="Global 🇺🇸🇬🇧🇶🇦️" tvg-logo="https://static1.squarespace.com/static/51a013dee4b0a2a2d2ef73e9/t/530a34ace4b0d1b000d31222/1393177774359/voa.png",VOA Global English 
