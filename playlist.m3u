@@ -185,7 +185,7 @@ http://39.135.138.59:18890/PLTV/88888910/224/3221225908/index.m3u8
 #EXTINF:-1 group-title="央視 🇨🇳",CCTV1
 http://39.134.115.163:8080/PLTV/88888910/224/3221225642/index.m3u8
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="央視 🇨🇳",CCTV-2财经
-http://cindy520.f3322.net:5146/udp/239.77.0.137:5146
+http://59.42.206.224:8081/hls/2/index.m3u8
 #EXTINF:-1 group-title="央視 🇨🇳",CCTV3
 http://39.134.115.163:8080/PLTV/88888910/224/3221225634/index.m3u8
 #EXTINF:-1 group-title="央視 🇨🇳",CCTV4
@@ -1078,8 +1078,8 @@ https://yahoofinance-localnow.amagi.tv/playlist.m3u8
 http://nhkwlive-pre-in.webcdn.stream.ne.jp/hls/live/nhkwlive-pre/index_1M.m3u8
 #EXTINF:-1 group-title="Global 🇺🇸🇬🇧🇶🇦️",Metro Globe Network
 https://edge.medcom.id/live-edge/smil:mgnch.smil/playlist.m3u8
-#EXTINF:-1 group-title="Global 🇺🇸🇬🇧🇶🇦️" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/06/ATBA1000005P4_20220323T072946.png",Travel XP HD Bangla
-https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Global 🇺🇸🇬🇧🇶🇦️" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/06/ATBA1000005P4_20220323T072946.png",Travel XP
+https://travelxp-travelxp-1-eu.rakuten.wurl.tv/3000.m3u8
 #EXTINF:-1 group-title="Global 🇺🇸🇬🇧🇶🇦️" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/travelchannel.png",TravelChannel
  http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/58601
 #EXTINF:-1 group-title="Global 🇺🇸🇬🇧🇶🇦️" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CNNNews.png",CNN
