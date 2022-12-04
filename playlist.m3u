@@ -1060,9 +1060,9 @@ http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_world_service/bbc_world
 https://bamus-eng-roku.amagi.tv/playlist404p.m3u8
 #EXTINF:-1 group-title="Global 🇺🇸🇬🇧🇶🇦️" tvg-logo="https://i.ibb.co/0mWZ02V/love.png",LoveNature4K
 http://bamus-eng-roku.amagi.tv/playlist720lp.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 group-title="Global 🇺🇸🇬🇧🇶🇦️" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/Discovery Channel.png",Discoveryᴴᴰ
+#EXTINF:-1 group-title="Global 🇺🇸🇬🇧🇶🇦️" tvg-logo="http://epg.it999.ru/img/325.png",Discoveryᴴᴰ
 http://185.59.223.102:8080/discovery/index.m3u8
-#EXTINF:-1 group-title="Global 🇺🇸🇬🇧🇶🇦️" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/National Geographic.png",Nat Geographicᴴᴰ
+#EXTINF:0 group-title="Global 🇺🇸🇬🇧🇶🇦️" tvg-id="3733" tvg-logo="http://epg.it999.ru/img/3733.png" tvg-rec="3",Nat Geographicᴴᴰ
 http://185.59.223.102:8080/natgeo/index.m3u8
 #EXTINF:-1 group-title="Global 🇺🇸🇬🇧🇶🇦️" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BloombergTV.png",BloombergTV
 https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-03-0Yn1cQZHOtP_live.m3u8
@@ -1136,7 +1136,7 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-tlchdin-samsungin
 https://ab96b349d4d14d80a1f8530a0bce4488.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-de_BBCTravel/playlist.m3u8?ads.wurl_channel=985&ads.wurl_name=BBCTravel&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
 #EXTINF:-1 group-title="Global 🇺🇸🇬🇧🇶🇦️",Wild EARTH
 https://wildearth-roku.amagi.tv/masterR720P.m3u8
-#EXTINF:-1 tvg-id="" group-title="Global 🇺🇸🇬🇧🇶🇦️" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/National Geographic Wild.png",Nat Geo Wildᴴᴰ
+#EXTINF:0 group-title="Global 🇺🇸🇬🇧🇶🇦️" tvg-id="223" tvg-logo="http://epg.it999.ru/img/223.png" tvg-rec="7",Nat Geo Wildᴴᴰ
 http://185.59.223.102:8080/natgeowild/index.m3u8
 #EXTINF:-1 tvg-logo="https://talkmediaafrica.com/wp-content/uploads/2015/01/AriseLG-1280x720.png" group-title="Global 🇺🇸🇬🇧🇶🇦️",Arise News
 https://liveedge-arisenews.visioncdn.com/live-hls/arisenews/arisenews/arisenews_web/master.m3u8
