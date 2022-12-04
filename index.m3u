@@ -11,7 +11,9 @@
 /PlutoTV.m3u
 #EXTINF:-1,IPV6電視
 /IPV6_IPTV.m3u
-#EXTINF:-1,CCNTV
+#EXTINF:-1,CNTV
 /CNTV.m3u
 #EXTINF:-1,一本&麻豆
 /一本&麻豆.m3u
+#EXTINF:-1,EdemTV
+/EdemTV.m3u
