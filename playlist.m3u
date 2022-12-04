@@ -281,11 +281,11 @@ http://183.207.255.188/live/program/live/xsjhd/4000000/mnf.m3u8
 #EXTINF:-1 group-title="上海 🇨🇳️" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaiwaiyu.png",上视外语频道
 http://112.25.48.69/live/program/live/wypdhd/4000000/mnf.m3u8
 #EXTINF:-1 group-title="上海 🇨🇳️" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaidongfangyingshi.png",东方影视
-http://112.25.48.69/live/program/live/dsjpdhd/4000000/mnf.m3u8
+http://58.34.204.67:9901/tsfile/live/1016_1.m3u8
 #EXTINF:-1 group-title="上海 🇨🇳️" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/wuxingtiyu.png",五星体育频道
 http://39.134.165.130:6610/000000001000/5000000010000017540/index.m3u8?
 #EXTINF:-1 group-title="上海 🇨🇳️" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/diyicaijing.png",上海第一财经
-http://183.207.255.188/live/program/live/dycjhd/4000000/mnf.m3u8
+http://219.151.31.38/liveplay-kk.rtxapp.com/live/program/live/dycjhd/4000000/mnf.m3u8
 #EXTINF:-1 group-title="上海 🇨🇳️" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanghaijishi.png",上海纪实
 http://183.207.255.188/live/program/live/jspdhd/4000000/mnf.m3u8
 #EXTINF:-1 group-title="上海 🇨🇳️" tvg-logo="https://epg.112114.xyz/logo/乐游.png",乐游
@@ -352,6 +352,8 @@ http://liveauth.sctv.com/hdlive/sctv48f9fb5888dedbe0c6a1b/1.m3u8
 http://live.cooltv.top/tv/btime.php?id=btvsh
 #EXTINF:-1 group-title="地方臺 🇨🇳️" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV%E7%A7%91%E6%95%99.png",BTV科教
 https://epg.pm/stream/004ddc44c44aa078ecb70d057b2094ccd3c3dee7901dc91fe585599147e7bf5e.m3u8
+#EXTINF:-1 group-title="地方臺 🇨🇳️" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV%E7%A7%91%E6%95%99.png",BTV科教
+http://111.62.156.15/down.brtvcloud.com/brtv8kapptv/brtv8kapp8ktv.m3u8
 #EXTINF:-1 tvg-id="6244" tvg-name="求索生活" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/QSJL.png" group-title="地方臺 🇨🇳️",求索生活
 http://[2409:8087:4402:20:1:1216:401:43]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226116/index.m3u8
 #EXTINF:-1 tvg-name="BTV新闻" group-title="地方臺 🇨🇳️" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV%E6%96%B0%E9%97%BB.png",北京新闻
@@ -662,6 +664,8 @@ http://anren.live/HK/BiIOU11uLA.m3u8?zgangd&&&$1920x1080
 https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳 🇭🇰️🇲🇴️",RTHK32
 https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8
+#EXTINF:-1 group-title="港澳 🇭🇰️🇲🇴️" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png",无线新闻
+https://pull-l3-cny.douyincdn.com/live/0bda6e264bbd69af50b1878435769f5f.flv
 #EXTINF:-1 group-title="臺灣 🇹🇼️",★★★★★臺灣 🇹🇼️★★★★★
 https://upload.wikimedia.org/wikipedia/commons/transcoded/b/be/National_anthem_of_the_Republic_of_China_%28Taiwan%29_%E4%B8%AD%E8%8F%AF%E6%B0%91%E5%9C%8B%E5%9C%8B%E6%AD%8C%28%E6%BC%94%E5%A5%8F%E7%89%88%29.ogg/National_anthem_of_the_Republic_of_China_%28Taiwan%29_%E4%B8%AD%E8%8F%AF%E6%B0%91%E5%9C%8B%E5%9C%8B%E6%AD%8C%28%E6%BC%94%E5%A5%8F%E7%89%88%29.ogg.mp3
 #EXTINF:-1 tvg-id="6071" tvg-name="民视新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FTVNews.png" group-title="臺灣 🇹🇼️",民视新闻
