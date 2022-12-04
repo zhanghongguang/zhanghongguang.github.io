@@ -1032,7 +1032,7 @@ https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea09
 https://tv.googledrivelinks.com/live.php?c=BBC_World_News&q=1200&e=.m3u8
 #EXTINF:-1 group-title="Global 🇺🇸🇬🇧🇶🇦️" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/Discovery-Asia.png",DiscoveryAsia
 https://livecdn.fptplay.net/hda2/discoveryasia_vhls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="Global 🇺🇸🇬🇧🇶🇦️",Reuters
+#EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-5eea71d65252710041e0ccbc" tvg-id="5e20b730f2f8d5003d739db7-5eea71d65252710041e0ccbc" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/reuters_reutersnow_1.png" group-title="Global 🇺🇸🇬🇧🇶🇦️",Reuters TV
 https://reuters-reutersnow-1-us.plex.wurl.tv/c0c0829237382f291cc46a0368586aa7.m3u8
 #EXTINF:-1 group-title="Global 🇺🇸🇬🇧🇶🇦️" tvg-logo="https://epg.112114.xyz/logo/日本24新闻.png",Nippon TV News24 Japan
 https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
