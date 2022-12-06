@@ -1,6 +1,4 @@
 #EXTM3U x-tvg-url="http://epg.it999.ru/epg.xml.gz"
-#PLAYLIST: t.me/EXM3U
-#INFO:Парсер шаблона EDEM от Karnei4 мы в Телеграм: https://t.me/EXM3U
 #EXTINF:0 group-title="Общие" tvg-id="146" tvg-logo="http://epg.it999.ru/img/983.png" tvg-rec="7",Первый FHD
 http://he11o.akadatel.com/iptv/ADNQDM2FZPGNM5/2402/index.m3u8
 #EXTINF:0 group-title="Общие" tvg-id="146" tvg-logo="http://epg.it999.ru/img/983.png" tvg-rec="0",Первый канал HD 50
@@ -8330,3 +8328,4 @@ VX4SGAU766E3V7
 TF5555LWGHLGS2
 WUC9ADM4Q57C57
 UFPMEZ934Y48KV
+RR8EZQ7AFT649D
