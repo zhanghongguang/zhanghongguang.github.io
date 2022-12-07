@@ -220,6 +220,8 @@ http://hls.ye23.vip/hls/cctv16hd.m3u8
 http://39.134.115.163:8080/PLTV/88888910/224/3221225908/index.m3u8
 #EXTINF:-1 group-title="央視 🇨🇳" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVshijiedili.png",世界地理
 http://60.213.134.68/tlivecloud-ipv6.ysp.cctv.cn/ysp/2012513303.m3u8
+#EXTINF:-1 group-title="央視 🇨🇳" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVshijiedili.png",世界地理
+http://jydx.jdshipin.com:808/hls/124/index.m3u8
 #EXTINF:-1 group-title="央視 🇨🇳" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE13.jpg",高尔夫网球
 http://www.fuxiaopang.work:8866/udp/239.253.92.117:8062
 #EXTINF:-1 group-title="央視 🇨🇳" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE8.jpg",兵器科技
@@ -234,12 +236,14 @@ http://www.fuxiaopang.work:8866/udp/239.253.92.130:8069
 http://www.fuxiaopang.work:8866/udp/239.253.92.17:6078
 #EXTINF:-1 group-title="央視 🇨🇳"  tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVfengyunyinyue.png",风云音乐
 http://60.213.134.68/tlivecloud-ipv6.ysp.cctv.cn/ysp/2012514103.m3u8
+#EXTINF:-1 tvg-id="6557" tvg-name="风云音乐" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVfengyunyinyue.png" group-title="央視 🇨🇳",风云音乐
+http://jydx.jdshipin.com:808/hls/117/index.m3u8
 #EXTINF:-1 group-title="央視 🇨🇳" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE7.jpg",怀旧剧场
 http://www.fuxiaopang.work:8866/udp/239.253.92.98:6120
 #EXTINF:-1 group-title="央視 🇨🇳" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVdiyijuchang.",第一剧场
 http://www.fuxiaopang.work:8866/udp/239.253.92.18:6079
 #EXTINF:-1 group-title="央視 🇨🇳" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVlaogushi.png",老故事
-http://www.fuxiaopang.work:8866/udp/239.253.92.132:8068
+http://jydx.jdshipin.com:808/hls/125/index.m3u8
 #EXTINF:-1 group-title="央視 🇨🇳",记录
 http://tlivectfree-cdn.ysp.cctv.cn/4D0D5D2C3591E71829D1FFF9124EFE50B3B2E36390C5E9BCF594978F5754AAC913D2AA175961C5BE880AAA2450C5EB927D91EB76AE857F2AFB89B1DD50C798806A58A996F0D2C101236B1A27897D54FDF9B5EC1FC80F3A946977D6D55452BF5AEC34BDA1783C13F272C94772EFEC8851AD5A9D306ED3C5BE1877EB52EC577BCE66BA19A0C307EDC57AE108007276790F/2010155403.m3u8?from=player&svrtime=1648260644&pid=600001800&cdn=5505
 #EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央視 🇨🇳",CGTN France
