@@ -780,6 +780,10 @@ http://www.336699.live:1935/blockfour/4gtv-4gtv076.stream/playlist.m3u8
 http://www.336699.live:1935/blockfour/4gtv-4gtv082.stream/playlist.m3u8
 #EXTINF:-1 group-title="臺灣 🇹🇼️",GinX
 http://www.336699.live:1935/blockfour/4gtv-4gtv053.stream/playlist.m3u8
+#EXTINF:-1 group-title="臺灣 🇹🇼️",好莱坞电影
+https://pull-l3-cny.douyincdn.com/live/06027cd7cadf310982fe67221578515b.m3u8
+#EXTINF:-1 group-title="臺灣 🇹🇼️",卫视卡式台
+https://d1--cn-gotcha204.bilivideo.com/live-bvc/792068/live_372775317_46465575/index.m3u8
 #EXTINF:-1 group-title="臺灣 🇹🇼️",GoodTV 经典音乐
 https://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch6-2.m3u8
 #EXTINF:-1 group-title="臺灣 🇹🇼️",GoodTV 爱旅行台
