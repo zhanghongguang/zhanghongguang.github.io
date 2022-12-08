@@ -757,29 +757,29 @@ http://stream.dsichannel.com:80/hls/cts-news.m3u8
 #EXTINF:-1 group-title="臺灣 🇹🇼️" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCFinancialNews.png",东森财经新闻台
 rtmp://9wv7.mine.nu/sat/tv571
 #EXTINF:-1 group-title="臺灣 🇹🇼️" tvg-name="民视无线台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FTV.png",民视频道
-https://pull-l3-cny.douyincdn.com/live/b2478a833f3e8b439b680048fcbf7786.m3u8
+http://www.336699.live:1935/blockfour/4gtv-4gtv002.stream/playlist.m3u8
 #EXTINF:-1 group-title="臺灣 🇹🇼️" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E4%B8%AD%E8%A7%86%E6%96%B0%E9%97%BB.png",中视新闻
-https://pull-l3-cny.douyincdn.com/live/cf93b19e055f2800058541033c0c4355.m3u8
+http://www.336699.live:1935/blockfour/4gtv-4gtv074.stream/playlist.m3u8
 #EXTINF:-1 group-title="臺灣 🇹🇼️" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GlobalNews.png",寰宇新闻
 https://pull-l3-cny.douyincdn.com/live/a9e3982a798d13ba350075af6cff4119.m3u8
-#EXTINF:-1 group-title="臺灣 🇹🇼️",22.公視
-http://218.32.47.179:18505/http/192.168.1.9:8081/hls/73/815/ch50.m3u8
-#EXTINF:-1 group-title="臺灣 🇹🇼️",23.好消息頻道
-http://218.32.47.179:8508/http/192.168.1.9:8081/hls/74/816/ch53.m3u8
-#EXTINF:-1 group-title="臺灣 🇹🇼️",24.龍華日韓劇
-http://218.32.47.179:8535/http/192.168.1.9:8088/hls/15/80/foxsports2.m3u8
-#EXTINF:-1 group-title="臺灣 🇹🇼️",25.東森綜合FHD
-http://218.32.47.179:18524/http/192.168.1.9:8081/hls/63/805/ch12.m3u8
-#EXTINF:-1 group-title="臺灣 🇹🇼️",26.NHK世界FHD
-http://218.32.47.179:8552/http/192.168.1.9:8081/hls/62/804/ch06.m3u8
-#EXTINF:-1 group-title="臺灣 🇹🇼️",27.緯來戲劇
-http://218.32.47.179:18533/http/192.168.1.9:8081/hls/69/811/ch33.m3u8
-#EXTINF:-1 group-title="臺灣 🇹🇼️",28.緯來綜合FHD
-http://218.32.47.179:18518/http/192.168.1.9:8081/hls/68/810/ch32.m3u8
-#EXTINF:-1 group-title="臺灣 🇹🇼️",29.八大戲劇FHD
-http://218.32.47.179:18531/http/192.168.1.9:8081/hls/66/808/ch23.m3u8
-#EXTINF:-1 group-title="臺灣 🇹🇼️",30.MUCH TV
-http://218.32.47.179:18529/http/192.168.1.9:8081/hls/72/814/ch45.m3u8
+#EXTINF:-1 group-title="臺灣 🇹🇼️" tvg-name="华视新闻资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CTS.png",华视新闻资讯
+http://www.336699.live:1935/blockfour/4gtv-4gtv052.stream/playlist.m3u8
+#EXTINF:-1 group-title="臺灣 🇹🇼️" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ftv-taiwan.png",民视台湾台
+http://www.336699.live:1935/blockfour/4gtv-4gtv001.stream/playlist.m3u8
+#EXTINF:-1 group-title="臺灣 🇹🇼️",民视第一台
+http://www.336699.live:1935/blockfour/4gtv-4gtv003.stream/playlist.m3u8
+#EXTINF:-1 group-title="臺灣 🇹🇼️",民视综艺台
+http://www.336699.live:1935/blockfour/4gtv-4gtv004.stream/playlist.m3u8
+#EXTINF:-1 group-title="臺灣 🇹🇼️",智林体育台
+http://www.336699.live:1935/blockfour/4gtv-4gtv101.stream/playlist.m3u8
+#EXTINF:-1 group-title="臺灣 🇹🇼️",TVBS
+http://www.336699.live:1935/blockfour/4gtv-4gtv073.stream/playlist.m3u8
+#EXTINF:-1 group-title="臺灣 🇹🇼️",CHY电影台
+http://www.336699.live:1935/blockfour/4gtv-4gtv076.stream/playlist.m3u8
+#EXTINF:-1 group-title="臺灣 🇹🇼️",HITS
+http://www.336699.live:1935/blockfour/4gtv-4gtv082.stream/playlist.m3u8
+#EXTINF:-1 group-title="臺灣 🇹🇼️",GinX
+http://www.336699.live:1935/blockfour/4gtv-4gtv053.stream/playlist.m3u8
 #EXTINF:-1 group-title="臺灣 🇹🇼️",GoodTV 经典音乐
 https://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch6-2.m3u8
 #EXTINF:-1 group-title="臺灣 🇹🇼️",GoodTV 爱旅行台
