@@ -80,6 +80,8 @@ http://live1.plus.wifizs.cn/ggsh/sd/live.m3u8?zzhed
 http://live1.plus.wifizs.cn/qdly/sd/live.m3u8?zzhed
 #EXTINF:-1 group-title="浙江 🇨🇳️",舟山新闻综合
 http://live1.plus.wifizs.cn/xwzh/sd/live.m3u8?zzhed
+#EXTINF:-1 group-title="浙江 🇨🇳️",舟山-普陀综合
+http://l.cztvcloud.com/channels/lantian/SXputuo1/720p.m3u8
 #EXTINF:-1 group-title="浙江 🇨🇳️",杭州-桐庐综合
 http://livetongl.chinamcache.com/live/tlzb01.m3u8?txSecret=0e344d60c8f0ce16b57102ae81d10d6a&txTime=5fd316c1
 #EXTINF:-1 group-title="浙江 🇨🇳️",杭州综合
@@ -259,7 +261,7 @@ https://upload.wikimedia.org/wikipedia/commons/0/08/National_Flag_Anthem_of_the_
 #EXTINF:-1 tvg-id="1984" tvg-name="上视新闻频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shangshixinwen.png" group-title="上海 🇨🇳️",上海新闻综合
 http://60.213.135.147/keonline.shanghai.liveplay.qq.com/live/program/live/xwzhhd/4000000/mnf.m3u8
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="上海 🇨🇳️",东方卫视
-http://222.132.191.125:9901/tsfile/live/0107_1.m3u8
+http://124.220.17.172/bestv.php?id=22
 #EXTINF:-1 group-title="上海 🇨🇳️" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaidushi.jpg",上海都市频道
 http://183.207.255.188/live/program/live/ylpdhd/4000000/mnf.m3u8
 #EXTINF:-1 group-title="上海 🇨🇳️" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaidongfangyingshi.png",东方影视
@@ -1891,3 +1893,9 @@ https://vdse.bdstatic.com//ff9ca37b153c35642888b38d07b039a5.mp4
 https://vdse.bdstatic.com//ce49716e7087985c189df09abc5face7.mp4
 #EXTINF:-1 group-title="音樂 🎵️",经典老歌
 https://vd2.bdstatic.com/mda-mhwbtsnrmm6v6x5r/sc/cae_h264/1630403250895754314/mda-mhwbtsnrmm6v6x5r.mp4
+#EXTINF:-1 group-title="音樂 🎵️",抖音歌曲连唱1
+https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000c6ilrmbc77ubdnoksfq0&ratio=720p&line=0
+#EXTINF:-1 group-title="音樂 🎵️",抖音歌曲连唱2
+https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0300fg10000c7o7cujc77u3c0tgih5g&ratio=720p&line=0
+#EXTINF:-1 group-title="音樂 🎵️",抖音歌曲连唱3
+https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000c4bb7bjc77u3qo5vuu10&ratio=720p&line=0
