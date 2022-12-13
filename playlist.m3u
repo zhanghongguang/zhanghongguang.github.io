@@ -645,7 +645,6 @@ http://111.11.123.28:6610/000000001000/6000000006000020630/1.m3u8?stbId=3&livemo
 http://111.11.123.28:6610/000000001000/6000000006000170630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1958420221014135739304394&channel-id=wasusyt&Contentid=6000000006000170630
 #EXTINF:-1 group-title="IHOT🇨🇳️",爱极限
 http://111.11.123.28:6610/000000001000/6000000006000170630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1961120221014135734296323&channel-id=wasusyt&Contentid=6000000006000170630
-
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" tvg-speed="1MB/s" group-title="港澳 🇭🇰️🇲🇴️",凤凰卫视中文台
 http://yuniptvunql.chinayungu.cn:65530/live/fhzw/index.m3u8
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" tvg-speed="2MB/s" group-title="港澳 🇭🇰️🇲🇴️",凤凰卫视资讯台
@@ -728,18 +727,18 @@ http://23.237.10.66:16342
 http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
 #EXTINF:-1 tvg-id="6080" tvg-name="东森电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCMovies.png" group-title="臺灣 🇹🇼️",东森电影
 http://120.84.96.62:808/hls/32/index.m3u8
-#EXTINF:-1 group-title="臺灣 🇹🇼️",4.三立台灣FHD
-http://218.32.47.179:18521/http/192.168.1.9:8081/hls/65/807/ch20.m3u8
-#EXTINF:-1 group-title="臺灣 🇹🇼️",5.華視新聞資訊台FHD
-http://218.32.47.179:8538/http/192.168.1.9:8081/hls/61/803/ch03.m3u8
-#EXTINF:-1 group-title="臺灣 🇹🇼️",6.動物星球
-http://218.32.47.179:18512/http/192.168.1.9:8081/hls/70/812/ch37.m3u8
-#EXTINF:-1 group-title="臺灣 🇹🇼️",7.中天綜合FHD
-http://218.32.47.179:18526/http/192.168.1.9:8081/hls/67/809/ch25.m3u8
-#EXTINF:-1 group-title="臺灣 🇹🇼️",8.東風衛視
-http://218.32.47.179:18528/http/192.168.1.9:8081/hls/68/810/ch31.m3u8
-#EXTINF:-1 group-title="臺灣 🇹🇼️",9.緯來體育FHD
-http://218.32.47.179:18563/http/192.168.1.9:8081/hls/67/809/ch28.m3u8
+#EXTINF:-1 tvg-name="民视新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FTVNews.png" group-title="臺灣 🇹🇼️",民视新闻台
+https://lss.line-scdn.net/cc_tw/p/live/h6LXFIIC5aGI3UnZyDUd1VV48YAYYXyhgWFkvUhc6ZARBXCswClEgUEg2YwBNDSYwDQoiA0g2NFtISi40CwogUhQ_KVNJEC42WkYmBUAgN1FPBC40WFAn/720/chunklist.m3u8
+#EXTINF:-1 group-title="臺灣 🇹🇼️" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCNews.png",东森新闻台
+https://lss.line-scdn.net/cc_tw/p/live/hVr8RhaEoCFxURhZMbVMVaz4sUz8pGBxcPRkSPyguBzgpS00OOUtGa3B8B2l7HEwKaU5FbnIsX2stXk4Kax5AbHQrSW0pBE4IOlJGOyA0UW4jG08KMEw/720/chunklist.m3u8
+#EXTINF:-1 group-title="臺灣 🇹🇼️" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS%E6%96%B0%E9%97%BB.png",TVBS新闻台
+https://lss.line-scdn.net/cc_tw/p/live/hUkPJ5N5FC0U9XhVVBUsWclZjVXJAAk5BU1cXJh82VnEUUB1BWQBBd00yV3ETUUhFAwZBJEA6V3xGRk0TAwZDdRwzSnRBHE0RUkpFIkgsVn9AAkwbUA/720/chunklist.m3u8
+#EXTINF:-1 tvg-name="民视新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FTVNews.png" group-title="臺灣 🇹🇼️",民视新闻台
+http://103.214.71.71:1660/www.zhiboyuandakatv.xyz/MAX_3-Days.m3u8?md5=Yodspj026JZEzcXdOtomcQ&expires=1671178780
+#EXTINF:-1 group-title="臺灣 🇹🇼️",中天新闻
+,http://103.214.71.71:1654/www.zhiboyuandakatv.xyz/MAX_3-Days.m3u8?md5=Yodspj026JZEzcXdOtomcQ&expires=1671178780
+#EXTINF:-1 group-title="臺灣 🇹🇼️" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCNews.png",东森新闻台
+http://103.214.71.71:1666/www.zhiboyuandakatv.xyz/MAX_3-Days.m3u8?md5=Yodspj026JZEzcXdOtomcQ&expires=1671178780
 #EXTINF:-1 group-title="臺灣 🇹🇼️" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS%E6%96%B0%E9%97%BB.png",TVBS新闻台
 http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
 #EXTINF:-1 group-title="臺灣 🇹🇼️" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E5%8F%B0%E8%A7%86.png",台视
@@ -996,6 +995,10 @@ http://ott-cdn.ucom.am/s24/index.m3u8
 http://meumd.com:80/rootiptv/5176iXo7/126063
 #EXTINF:-1 group-title="Global 🇺🇸🇬🇧🇶🇦️" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BBCWORLDNEWSASIA.png",BBCWorldNews
 http://iptvtree.net:8080/ea188ac3/82d52ec7f7/2585
+#EXTINF:-1 group-title="Global 🇺🇸🇬🇧🇶🇦️" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BBCWORLDNEWSASIA.png",BBCWorldNews
+http://185.236.229.31:9981/play/a072
+#EXTINF:-1 tvg-logo="https://i.imgur.com/j449MD4.png" group-title="Global 🇺🇸🇬🇧🇶🇦️",BBC News
+http://prox.x86.co.uk/index.php/https://cdnuk001.broadcastcdn.net/KUK-BBCNEWSHD/index.m3u8
 #EXTINF:-1 group-title="Global 🇺🇸🇬🇧🇶🇦️" tvg-logo="https://www.mncvision.id/userfiles/image/channel/aljazeera.png",Al Jazeera HD
 https://live-hls-web-aje.getaj.net/AJE/03.m3u8
 #EXTINF:-1 group-title="Global 🇺🇸🇬🇧🇶🇦️" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_330.png",Channel NewsAsia
