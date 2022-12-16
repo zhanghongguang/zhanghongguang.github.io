@@ -155,7 +155,7 @@ http://39.135.138.60:18890/PLTV/88888910/224/3221225619/index.m3u8
 #EXTINF:-1 tvg-logo=CCTV3.png group-title="央視 🇨🇳",CCTV3
 http://39.135.138.60:18890/PLTV/88888910/224/3221225647/index.m3u8
 #EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" tvg-rez="1920x1080" group-title="央視 🇨🇳",CCTV-4中文国际
-http://hls.ye23.vip/hls/cctv4hd.m3u8
+http://39.135.138.58:18890/PLTV/88888888/224/3221225621/index.m3u8$超清1080P
 #EXTINF:-1 tvg-logo=CCTV5.png group-title="央視 🇨🇳",CCTV5
 http://39.135.138.59:18890/PLTV/88888910/224/3221225648/index.m3u8
 #EXTINF:-1 tvg-logo=CCTV5+.png group-title="央視 🇨🇳",CCTV5+
