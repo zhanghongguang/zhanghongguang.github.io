@@ -813,7 +813,7 @@ http://58.99.33.16:1935/liveedge17/live_070_3.stream/chunklist.m3u8
 #EXTINF:-1 tvg-name="智林体育" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/智林体育台.png" group-title="臺灣 🇹🇼️丨ladder",智林体育
 http://58.99.33.16:1935/liveedge17/live_122_3.stream/chunklist.m3u8
 #EXTINF:-1 tvg-name="台视新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/台视新闻.png" group-title="臺灣 🇹🇼️丨ladder",台视新闻台
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
+,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
 #EXTINF:-1 tvg-name="中视新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/中视新闻.png" group-title="臺灣 🇹🇼️丨ladder",中视新闻
 https://raw.githubusercontent.com/StanleyChen0924/Myself/YTlive/CTVNews.m3u8
 #EXTINF:-1 tvg-name="三立新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETNews.png" group-title="臺灣 🇹🇼️丨ladder",三立新闻
