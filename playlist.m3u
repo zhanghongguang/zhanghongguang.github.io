@@ -187,7 +187,7 @@ http://39.135.138.59:18890/PLTV/88888910/224/3221225908/index.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央視 🇨🇳",CCTV1
 http://diygz.f3322.org:9090/hls/15/index.m3u8
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="央視 🇨🇳",CCTV2
-http://diygz.f3322.org:9090/hls/16/index.m3u8
+http://39.135.138.58:18890/PLTV/88888888/224/3221225619/index.m3u8
 #EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="央視 🇨🇳",CCTV3
 http://diygz.f3322.org:9090/hls/17/index.m3u8
 #EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="央視 🇨🇳",CCTV4
@@ -201,7 +201,7 @@ http://diygz.f3322.org:9090/hls/21/index.m3u8
 #EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="央視 🇨🇳",CCTV8
 http://diygz.f3322.org:9090/hls/22/index.m3u8
 #EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" group-title="央視 🇨🇳",CCTV9
-http://diygz.f3322.org:9090/hls/23/index.m3u8
+http://117.169.121.162:6610/PLTV/88888910/224/3221225626/index.m3u8
 #EXTINF:-1 tvg-id="11" tvg-name="CCTV10" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" group-title="央視 🇨🇳",CCTV10
 http://diygz.f3322.org:9090/hls/24/index.m3u8
 #EXTINF:-1 tvg-id="12" tvg-name="CCTV11" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png" group-title="央視 🇨🇳",CCTV11
