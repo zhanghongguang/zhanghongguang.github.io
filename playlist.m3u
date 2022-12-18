@@ -1206,6 +1206,10 @@ http://ls.qingting.fm/live/1140.m3u8
 http://ls.qingting.fm/live/3412131.m3u8
 #EXTINF:-1 group-title="廣播 🇨🇳️",老歌音乐台
 http://live.xmcdn.com:80/live/2628/64.m3u8
+#EXTINF:-1 group-title="廣播 🇨🇳️",經典FM
+http://stream3.hndt.com/now/C5NvUpwy/playlist.m3u8
+#EXTINF:-1 group-title="廣播 🇨🇳️",天籟之音 Hi-Fi Radio
+http://play-radio-stream3.hndt.com/now/JxkyN5mR/playlist.m3u8
 #EXTINF:-1 group-title="XXX 🔞️",★★★★★XXX 🔞️★★★★★
 https://upload.wikimedia.org/wikipedia/commons/0/08/National_Flag_Anthem_of_the_Republic_of_China%E4%B8%AD%E8%8F%AF%E6%B0%91%E5%9C%8B%E5%9C%8B%E6%97%97%E6%AD%8C_%28%E6%BC%94%E5%A5%8F%E7%89%88%29.oga
 #EXTM3U x-tvg-url="http://epg.it999.ru/epg.xml.gz"
