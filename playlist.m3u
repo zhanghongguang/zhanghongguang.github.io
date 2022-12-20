@@ -103,7 +103,7 @@ http://39.134.115.163:8080/PLTV/88888910/224/3221225618/index.m3u8
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="央視 🇨🇳",CCTV-2财经
 http://39.134.115.163:8080/PLTV/88888910/224/3221225619/index.m3u8
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="央視 🇨🇳",CCTV-2财经
-http://youguan.gq/migu.php?id=cctv2
+http://218.204.51.252:9901/tsfile/live/1007_1.m3u8
 #EXTINF:-1 tvg-name="CCT31" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="央視 🇨🇳",CCTV-3综艺
 http://39.134.115.163:8080/PLTV/88888910/224/3221225647/index.m3u8
 #EXTINF:-1 tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="央視 🇨🇳",CCTV-4中文国际
@@ -137,7 +137,7 @@ http://live.cooltv.top/tv/aishang.php?id=cctv164k
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="央視 🇨🇳",CCTV-17农村农业
 http://39.134.115.163:8080/PLTV/88888910/224/3221225908/index.m3u8
 #EXTINF:-1 tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" tvg-speed="13MB/s" tvg-rez="3840x2160" group-title="央視 🇨🇳",CCTV4K
-http://220.177.175.45/tlivectfree-cdn.ysp.cctv.cn/001/2000266303.m3u8
+http://lu1.cc/itv/php/cctv4k.php
 #EXTINF:-1 tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" tvg-speed="13MB/s" tvg-rez="3840x2160" group-title="央視 🇨🇳",CCTV4K
 http://159.75.85.63:8280/cctv4k.php
 #EXTINF:-1 tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" tvg-speed="36MB/s" tvg-rez="3840x2160" group-title="央視 🇨🇳",CCTV奥林匹克频道
@@ -153,7 +153,7 @@ http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002525/index.m3
 #EXTINF:-1 tvg-logo=CCTV1.png group-title="央視 🇨🇳",CCTV1
 http://39.135.138.59:18890/PLTV/88888910/224/3221225642/index.m3u8
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="央視 🇨🇳",CCTV-2财经
-http://39.135.138.60:18890/PLTV/88888910/224/3221225619/index.m3u8
+http://39.184.224.99:9080/newlive/live/hls/2/live.m3u8
 #EXTINF:-1 tvg-logo=CCTV3.png group-title="央視 🇨🇳",CCTV3
 http://39.135.138.60:18890/PLTV/88888910/224/3221225647/index.m3u8
 #EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" tvg-rez="1920x1080" group-title="央視 🇨🇳",CCTV-4中文国际
@@ -189,7 +189,7 @@ http://39.135.138.59:18890/PLTV/88888910/224/3221225908/index.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央視 🇨🇳",CCTV1
 http://diygz.f3322.org:9090/hls/15/index.m3u8
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="央視 🇨🇳",CCTV2
-http://39.135.138.58:18890/PLTV/88888888/224/3221225619/index.m3u8
+http://218.204.51.252:9901/tsfile/live/1007_1.m3u8
 #EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="央視 🇨🇳",CCTV3
 http://youguan.gq/migu.php?id=cctv4
 #EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="央視 🇨🇳",CCTV4
@@ -203,9 +203,9 @@ http://diygz.f3322.org:9090/hls/21/index.m3u8
 #EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="央視 🇨🇳",CCTV8
 http://diygz.f3322.org:9090/hls/22/index.m3u8
 #EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" group-title="央視 🇨🇳",CCTV9
-http://117.169.121.162:6610/PLTV/88888910/224/3221225626/index.m3u8
+http://39.184.224.99:9080/newlive/live/hls/9/live.m3u8
 #EXTINF:-1 tvg-id="11" tvg-name="CCTV10" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" group-title="央視 🇨🇳",CCTV10
-http://youguan.gq/migu.php?id=cctv10
+http://39.184.224.99:9080/newlive/live/hls/10/live.m3u8
 #EXTINF:-1 tvg-id="12" tvg-name="CCTV11" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png" group-title="央視 🇨🇳",CCTV11
 http://diygz.f3322.org:9090/hls/25/index.m3u8
 #EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png" group-title="央視 🇨🇳",CCTV12
@@ -215,7 +215,7 @@ http://diygz.f3322.org:9090/hls/27/index.m3u8
 #EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" group-title="央視 🇨🇳",CCTV14
 http://diygz.f3322.org:9090/hls/28/index.m3u8
 #EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" group-title="央視 🇨🇳",CCTV15
-http://youguan.gq/migu.php?id=cctv15
+http://218.204.51.252:9901/tsfile/live/1020_1.m3u8
 #EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="央視 🇨🇳",CCTV5+HD
 http://jydx.jdshipin.com:808/hls/16/index.m3u8
 #EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="央視 🇨🇳",CCTV17
@@ -720,7 +720,7 @@ http://59.125.98.83:8538/playlist.m3u8
 #EXTINF:-1 group-title="臺灣 🇹🇼️" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DiscoveryHD.png",Discovery
 http://pull-l3-cny.douyincdn.com/live/34633761735b6c677356a7c551f89888.m3u8
 #EXTINF:-1 tvg-name="三立新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETNews.png" group-title="臺灣 🇹🇼️",三立新闻+
-hhttp://103.214.71.71:1669/www.zhiboyuandakatv.xyz/MAX_3-Days.m3u8?md5=AyW8SShgDFUZstSwjNYlcQ&expires=1671531693
+hhttp://103.214.71.71:1669/www.zhiboyuandakatv.xyz/MAX_3-Days.m3u8?md5=V4EGy8UaJM1icpVzv3uv7w&expires=1671770110
 #EXTINF:-1 tvg-id="7126" tvg-name="龙华偶像" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/龙华偶像.png" group-title="臺灣 🇹🇼️",龙华偶像
 http://59.125.98.83:8536/playlist.m3u8
 #EXTINF:-1 tvg-id="6047" tvg-name="三立臺灣台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETTaiwan.png" group-title="臺灣 🇹🇼️",三立臺灣台
@@ -730,9 +730,9 @@ http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
 #EXTINF:-1 tvg-id="6080" tvg-name="东森电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCMovies.png" group-title="臺灣 🇹🇼️",东森电影
 http://120.84.96.62:808/hls/32/index.m3u8
 #EXTINF:-1 tvg-name="民视新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FTVNews.png" group-title="臺灣 🇹🇼️",民视新闻台
-http://103.214.71.71:1666/www.zhiboyuandakatv.xyz/MAX_3-Days.m3u8?md5=AyW8SShgDFUZstSwjNYlcQ&expires=1671531693
+http://103.214.71.71:1666/www.zhiboyuandakatv.xyz/MAX_3-Days.m3u8?md5=V4EGy8UaJM1icpVzv3uv7w&expires=1671770110
 #EXTINF:-1 group-title="臺灣 🇹🇼️" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCNews.png",东森新闻台
-http://103.214.71.71:1672/www.zhiboyuandakatv.xyz/MAX_3-Days.m3u8?md5=AyW8SShgDFUZstSwjNYlcQ&expires=1671531693
+http://103.214.71.71:1671/www.zhiboyuandakatv.xyz/MAX_3-Days.m3u8?md5=V4EGy8UaJM1icpVzv3uv7w&expires=1671770110
 #EXTINF:-1 group-title="臺灣 🇹🇼️" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS%E6%96%B0%E9%97%BB.png",TVBS新闻台
 http://pull-l3-cny.douyincdn.com/live/e6b6ef594c30eb3f3de0fa4ba0ce86e6.m3u8
 #EXTINF:-1 group-title="臺灣 🇹🇼️" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GlobalNews.png",寰宇新闻
@@ -759,7 +759,7 @@ http://2022.stream-link.org/playlist/ttv_news
 #EXTINF:-1 group-title="臺灣 🇹🇼️",華視新聞
 http://stream.dsichannel.com:80/hls/cts-news.m3u8
 #EXTINF:-1 group-title="臺灣 🇹🇼️" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCFinancialNews.png",东森财经新闻台
-http://103.214.71.71:1681/www.zhiboyuandakatv.xyz/MAX_3-Days.m3u8?md5=AyW8SShgDFUZstSwjNYlcQ&expires=1671531693
+http://103.214.71.71:1681/www.zhiboyuandakatv.xyz/MAX_3-Days.m3u8?md5=V4EGy8UaJM1icpVzv3uv7w&expires=1671770110
 #EXTINF:-1 group-title="臺灣 🇹🇼️" tvg-name="民视无线台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FTV.png",民视频道
 http://www.336699.live:1935/blockfour/4gtv-4gtv002.stream/playlist.m3u8
 #EXTINF:-1 group-title="臺灣 🇹🇼️" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E4%B8%AD%E8%A7%86%E6%96%B0%E9%97%BB.png",中视新闻
@@ -1742,7 +1742,7 @@ http://luow3dic.megatv.fun/iptv/QXXXATKBUDP5YN/10049/index.m3u8
 #EXTINF:-1 tvg-id="6414" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6414.png" group-title="XXX 🔞️",DuckTV HD
 http://luow3dic.megatv.fun/iptv/QXXXATKBUDP5YN/18138/index.m3u8
 #EXTINF:-1 group-title="XXX 🔞️",IBizaHDTV
-https://cdn1.ibizastream.biz:441/free/Stream1/chunks.m3u8
+https://cdn1.ibizastream.biz:441/free/Stream1/playlist.m3u8
 #EXTINF:-1 group-title="XXX 🔞️",IBizaHDTV
 https://5ed5d165c218d.streamlock.net:441/free/Stream1/playlist.m3u8
 #EXTINF:-1 group-title="XXX 🔞️",Hustler HD
