@@ -1,4 +1,109 @@
-#EXTM3U 
+#EXTM3U
+#EXTINF:-1 group-title="臺灣",民視台灣
+http://www.336699.live:1935/blockfour/4gtv-4gtv001.stream/playlist.m3u8
+#EXTINF:-1 group-title="臺灣",民視
+http://www.336699.live:1935/blockfour/4gtv-4gtv002.stream/playlist.m3u8
+#EXTINF:-1 group-title="臺灣",民視第一
+http://www.336699.live:1935/blockfour/4gtv-4gtv003.stream/playlist.m3u8
+#EXTINF:-1 group-title="臺灣",民視綜藝
+http://www.336699.live:1935/blockfour/4gtv-4gtv004.stream/playlist.m3u8
+#EXTINF:-1 group-title="臺灣",豬哥亮歌廳秀
+http://www.336699.live:1935/blockfour/4gtv-4gtv006.stream/playlist.m3u8
+#EXTINF:-1 group-title="臺灣",中天新聞
+http://www.336699.live:1935/blockfour/4gtv-4gtv009.stream/playlist.m3u8
+#EXTINF:-1 group-title="臺灣",影迷數位電影
+http://www.336699.live:1935/blockfour/4gtv-4gtv011.stream/playlist.m3u8
+#EXTINF:-1 group-title="臺灣",cnex
+http://www.336699.live:1935/blockfour/4gtv-4gtv013.stream/playlist.m3u8
+#EXTINF:-1 group-title="臺灣",時尚運動X
+http://www.336699.live:1935/blockfour/4gtv-4gtv014.stream/playlist.m3u8
+#EXTINF:-1 group-title="臺灣",八大精彩
+http://www.336699.live:1935/blockfour/4gtv-4gtv034.stream/playlist.m3u8
+#EXTINF:-1 group-title="臺灣",八大綜合
+http://www.336699.live:1935/blockfour/4gtv-4gtv039.stream/playlist.m3u8
+#EXTINF:-1 group-title="臺灣",中視新聞
+http://www.336699.live:1935/blockfour/4gtv-4gtv040.stream/playlist.m3u8
+#EXTINF:-1 group-title="臺灣",華視新聞資訊
+http://www.336699.live:1935/blockfour/4gtv-4gtv041.stream/playlist.m3u8
+#EXTINF:-1 group-title="臺灣",公視戲劇
+http://www.336699.live:1935/blockfour/4gtv-4gtv042.stream/playlist.m3u8
+#EXTINF:-1 group-title="臺灣",客家電視
+http://www.336699.live:1935/blockfour/4gtv-4gtv043.stream/playlist.m3u8
+#EXTINF:-1 group-title="臺灣",靖天卡通
+http://www.336699.live:1935/blockfour/4gtv-4gtv044.stream/playlist.m3u8
+#EXTINF:-1 group-title="臺灣",靖洋戲劇
+http://www.336699.live:1935/blockfour/4gtv-4gtv045.stream/playlist.m3u8
+#EXTINF:-1 group-title="臺灣",靖天日本
+http://www.336699.live:1935/blockfour/4gtv-4gtv047.stream/playlist.m3u8
+#EXTINF:-1 group-title="臺灣",采昌影劇
+http://www.336699.live:1935/blockfour/4gtv-4gtv049.stream/playlist.m3u8
+#EXTINF:-1 group-title="臺灣",華視新聞資訊
+http://www.336699.live:1935/blockfour/4gtv-4gtv052.stream/playlist.m3u8
+#EXTINF:-1 group-title="臺灣",GinX
+http://www.336699.live:1935/blockfour/4gtv-4gtv053.stream/playlist.m3u8
+#EXTINF:-1 group-title="臺灣",靖天歡樂
+http://www.336699.live:1935/blockfour/4gtv-4gtv054.stream/playlist.m3u8
+#EXTINF:-1 group-title="臺灣",靖天映畫
+http://www.336699.live:1935/blockfour/4gtv-4gtv055.stream/playlist.m3u8
+#EXTINF:-1 group-title="臺灣",靖洋卡通
+http://www.336699.live:1935/blockfour/4gtv-4gtv057.stream/playlist.m3u8
+#EXTINF:-1 group-title="臺灣",靖天戲劇
+http://www.336699.live:1935/blockfour/4gtv-4gtv058.stream/playlist.m3u8
+#EXTINF:-1 group-title="臺灣",靖天電影
+http://www.336699.live:1935/blockfour/4gtv-4gtv061.stream/playlist.m3u8
+#EXTINF:-1 group-title="臺灣",靖天育樂
+http://www.336699.live:1935/blockfour/4gtv-4gtv062.stream/playlist.m3u8
+#EXTINF:-1 group-title="臺灣",靖天國際
+http://www.336699.live:1935/blockfour/4gtv-4gtv063.stream/playlist.m3u8
+#EXTINF:-1 group-title="臺灣",中視菁采
+http://www.336699.live:1935/blockfour/4gtv-4gtv064.stream/playlist.m3u8
+#EXTINF:-1 group-title="臺灣",TVBS歡樂
+http://www.336699.live:1935/blockfour/4gtv-4gtv068.stream/playlist.m3u8
+#EXTINF:-1 group-title="臺灣",ELTA娛樂
+http://www.336699.live:1935/blockfour/4gtv-4gtv070.stream/playlist.m3u8
+#EXTINF:-1 group-title="臺灣",TVBS
+http://www.336699.live:1935/blockfour/4gtv-4gtv073.stream/playlist.m3u8
+#EXTINF:-1 group-title="臺灣",中視新聞
+http://www.336699.live:1935/blockfour/4gtv-4gtv074.stream/playlist.m3u8
+#EXTINF:-1 group-title="臺灣",CHY電影
+http://www.336699.live:1935/blockfour/4gtv-4gtv076.stream/playlist.m3u8
+#EXTINF:-1 group-title="臺灣",TRACE
+http://www.336699.live:1935/blockfour/4gtv-4gtv077.stream/playlist.m3u8
+#EXTINF:-1 group-title="臺灣",阿里郎
+http://www.336699.live:1935/blockfour/4gtv-4gtv079.stream/playlist.m3u8
+#EXTINF:-1 group-title="臺灣",中視經典
+http://www.336699.live:1935/blockfour/4gtv-4gtv080.stream/playlist.m3u8
+#EXTINF:-1 group-title="臺灣",HITS
+http://www.336699.live:1935/blockfour/4gtv-4gtv082.stream/playlist.m3u8
+#EXTINF:-1 group-title="臺灣",mezzo live
+http://www.336699.live:1935/blockfour/4gtv-4gtv083.stream/playlist.m3u8
+#EXTINF:-1 group-title="臺灣",智林體育
+http://www.336699.live:1935/blockfour/4gtv-4gtv101.stream/playlist.m3u8
+#EXTINF:-1 group-title="臺灣",龍華電影
+http://www.336699.live:1935/blockfour/litv-longturn03.stream/playlist.m3u8
+#EXTINF:-1 group-title="臺灣",博斯高球I
+http://www.336699.live:1935/blockfour/litv-longturn05.stream/playlist.m3u8
+#EXTINF:-1 group-title="臺灣",博斯運動I
+http://www.336699.live:1935/blockfour/litv-longturn07.stream/playlist.m3u8
+#EXTINF:-1 group-title="臺灣",博斯網球
+http://www.336699.live:1935/blockfour/litv-longturn09.stream/playlist.m3u8
+#EXTINF:-1 group-title="臺灣",博斯無限
+http://www.336699.live:1935/blockfour/litv-longturn10.stream/playlist.m3u8
+#EXTINF:-1 group-title="臺灣",龍華日韓
+http://www.336699.live:1935/blockfour/litv-longturn11.stream/playlist.m3u8
+#EXTINF:-1 group-title="臺灣",寰宇新聞
+http://www.336699.live:1935/blockfour/litv-longturn14.stream/playlist.m3u8
+#EXTINF:-1 group-title="臺灣",美國之音
+http://www.336699.live:1935/blockfour/litv-ftv03.stream/playlist.m3u8
+#EXTINF:-1 group-title="臺灣",半島電視
+http://www.336699.live:1935/blockfour/litv-ftv10.stream/playlist.m3u8
+#EXTINF:-1 group-title="臺灣",民視新聞
+http://www.336699.live:1935/blockfour/litv-ftv13.stream/playlist.m3u8
+#EXTINF:-1 group-title="臺灣",i-Fun愛放
+http://www.336699.live:1935/blockfour/litv-ftv15.stream/playlist.m3u8
+#EXTINF:-1 group-title="臺灣",好消息
+http://www.336699.live:1935/blockfour/litv-ftv16.stream/playlist.m3u8
+
 #EXTINF:-1,USL- BBC AMERICA HD
 http://meumd.com:80/rootiptv/5176iXo7/126064
 #EXTINF:-1,USL- BBC WORLD NEWS ᴴᴰ
