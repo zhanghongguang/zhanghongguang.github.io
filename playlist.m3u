@@ -957,9 +957,9 @@ https://4gtvfreemobile-mozai.4gtv.tv/IqafKPO6LhtIQZTnC9ij5SSImd6W6xMRfy7M43nv0Ok
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="臺灣 🇹🇼️丨ladder",美国之音
 http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-ftv03&nid=86
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="臺灣 🇹🇼️丨ladder",亚洲旅游
-http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-longturn17&nid=250
+https://stream.naihe.cf/api/v2/channel2.m3u8?fid=litv-longturn17&hd=1080&host=https://4gtvfreepc-cds.cdn.hinet.net
 #EXTINF:-1 tvg-name="民视新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FTVNews.png" group-title="臺灣 🇹🇼️丨ladder",民视新闻台
-,https://git.io/JgkAb
+https://git.io/JgkAb
 #EXTINF:-1 tvg-name="民视新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FTVNews.png" group-title="臺灣 🇹🇼️丨ladder",民视新闻台
 https://raw.github.com/SSM0415/apptest/YTlive/FTVnnews.m3u8
 #EXTINF:-1 group-title="Overseas 🇺🇸️🇫🇷️丨ladder",★★★★★Overseas 🇺🇸️🇫🇷️丨ladder★★★★★
