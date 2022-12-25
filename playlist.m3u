@@ -1172,50 +1172,52 @@ https://liveedge-arisenews.visioncdn.com/live-hls/arisenews/arisenews/arisenews_
 https://voa-ingest.akamaized.net/hls/live/2033874/tvmc06/VOA-TVMC06_1080/chunklist.m3u8
 #EXTINF:-1 tvg-id="GBAJ42000038R" tvg-logo="https://i.imgur.com/I2yfBm7.png" group-title="Global 🇺🇸🇬🇧🇶🇦️",InWonder TV | Austrália
 https://inwild-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="廣播 🇨🇳️",★★★★★廣播 🇨🇳️★★★★★
+#EXTINF:-1 group-title="網絡廣播 🇨🇳️",★★★★★網絡廣播 🇨🇳️★★★★★
 https://upload.wikimedia.org/wikipedia/commons/0/08/National_Flag_Anthem_of_the_Republic_of_China%E4%B8%AD%E8%8F%AF%E6%B0%91%E5%9C%8B%E5%9C%8B%E6%97%97%E6%AD%8C_%28%E6%BC%94%E5%A5%8F%E7%89%88%29.oga
-#EXTINF:-1 group-title="廣播 🇨🇳️",China Plus Radio
+#EXTINF:-1 group-title="網絡廣播 🇨🇳️",China Plus Radio
 http://cnlive.cnr.cn/hls/yyzxgb.m3u8
-#EXTINF:-1 group-title="廣播 🇨🇳️",怀旧金曲频道廣播
+#EXTINF:-1 group-title="網絡廣播 🇨🇳️",怀旧金曲频道廣播
 http://cnlive.cnr.cn/hls/hjyyzs.m3u8
-#EXTINF:-1 group-title="廣播 🇨🇳️",新疆怀旧金曲廣播 FM105.3
+#EXTINF:-1 group-title="網絡廣播 🇨🇳️",新疆怀旧金曲廣播 FM105.3
 http://ls.qingting.fm/live/78067.m3u8
-#EXTINF:-1 group-title="廣播 🇨🇳️",CNR音乐之声
+#EXTINF:-1 group-title="網絡廣播 🇨🇳️",CNR音乐之声
 http://sk.cri.cn/887.m3u8
-#EXTINF:-1 group-title="廣播 🇨🇳️",英语漫听廣播
+#EXTINF:-1 group-title="網絡廣播 🇨🇳️",英语漫听廣播
 http://sk.cri.cn/am1008.m3u8
-#EXTINF:-1 group-title="廣播 🇨🇳️",CNR轻松调频廣播
+#EXTINF:-1 group-title="網絡廣播 🇨🇳️",CNR轻松调频廣播
 http://sk.cri.cn/915.m3u8
-#EXTINF:-1 group-title="廣播 🇨🇳️",国际流行音乐廣播
+#EXTINF:-1 group-title="網絡廣播 🇨🇳️",国际流行音乐廣播
 http://satellitepull.cnr.cn/live/wxgjlxyy/playlist.m3u8
-#EXTINF:-1 group-title="廣播 🇨🇳️",经典音乐廣播 101.8
+#EXTINF:-1 group-title="網絡廣播 🇨🇳️",经典音乐廣播 101.8
 http://ngcdn004.cnr.cn/live/dszs/index.m3u8
-#EXTINF:-1 group-title="廣播 🇨🇳️",北京外语廣播
+#EXTINF:-1 group-title="網絡廣播 🇨🇳️",北京外语廣播
 http://audiolive.rbc.cn:1935/live/am774/96K/tzwj_video.m3u8
-#EXTINF:-1 group-title="廣播 🇨🇳️",北京音乐廣播
+#EXTINF:-1 group-title="網絡廣播 🇨🇳️",北京音乐廣播
 http://ls.qingting.fm/live/332.m3u8
-#EXTINF:-1 group-title="廣播 🇨🇳️",江苏经典流行音乐廣播
+#EXTINF:-1 group-title="網絡廣播 🇨🇳️",江苏经典流行音乐廣播
 http://lzlive.vojs.cn/2wtSfrS/92/live.m3u8
-#EXTINF:-1 group-title="廣播 🇨🇳️",杭州动听968音乐调频
+#EXTINF:-1 group-title="網絡廣播 🇨🇳️",杭州动听968音乐调频
 http://lhttp.qingting.fm/live/4866/64k.mp3
-#EXTINF:-1 group-title="廣播 🇨🇳️",AsiaFM亚洲经典台
+#EXTINF:-1 group-title="網絡廣播 🇨🇳️",AsiaFM亚洲经典台
 https://lhttp.qingting.fm/live/5021912/64k.mp3
-#EXTINF:-1 group-title="廣播 🇨🇳️",宁波新闻综合广播
+#EXTINF:-1 group-title="網絡廣播 🇨🇳️",宁波新闻综合广播
 http://ihzlh.linker.cc/ihzlh/zjnb_ts04_920.m3u8
-#EXTINF:-1 group-title="廣播 🇨🇳️",宁波音乐广播
+#EXTINF:-1 group-title="網絡廣播 🇨🇳️",宁波音乐广播
 http://ihzlh.linker.cc/ihzlh/zjnb_ts02_986.m3u8
-#EXTINF:-1 group-title="廣播 🇨🇳️",寧波动感105 FM105.2
+#EXTINF:-1 group-title="網絡廣播 🇨🇳️",寧波动感105 FM105.2
 http://ls.qingting.fm/live/3047946.m3u8
-#EXTINF:-1 group-title="廣播 🇨🇳️",寧波交通广播 FM93.9
+#EXTINF:-1 group-title="網絡廣播 🇨🇳️",寧波交通广播 FM93.9
 http://ls.qingting.fm/live/1140.m3u8
-#EXTINF:-1 group-title="廣播 🇨🇳️",华语金曲500首
+#EXTINF:-1 group-title="網絡廣播 🇨🇳️",华语金曲500首
 http://ls.qingting.fm/live/3412131.m3u8
-#EXTINF:-1 group-title="廣播 🇨🇳️",老歌音乐台
+#EXTINF:-1 group-title="網絡廣播 🇨🇳️",老歌音乐台
 http://live.xmcdn.com:80/live/2628/64.m3u8
-#EXTINF:-1 group-title="廣播 🇨🇳️",經典FM
+#EXTINF:-1 group-title="網絡廣播 🇨🇳️" tvg-logo="https://cmsres.dianzhenkeji.com//files/images/2017/12/14/1513241941253315.png",經典FM
 http://stream3.hndt.com/now/C5NvUpwy/playlist.m3u8
-#EXTINF:-1 group-title="廣播 🇨🇳️",天籟之音 Hi-Fi Radio
+#EXTINF:-1 group-title="網絡廣播 🇨🇳️" tvg-logo="https://cmsres.dianzhenkeji.com/anonymous/2021/12/9/f7f89647d1f6fa0507044cd47c19bc9c.png",天籟之音 Hi-Fi Radio
 http://play-radio-stream3.hndt.com/now/JxkyN5mR/playlist.m3u8
+ #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cmsres.dianzhenkeji.com/anonymous/2021/12/9/08adeccaf28f1230edf5dfb1f2dbea26.png" group-title="網絡廣播 🇨🇳️",天籁之音-经典正流行
+http://play-radio-stream3.hndt.com/now/WUBA5hW2/playlist.m3u8 
 #EXTINF:-1 group-title="XXX 🔞️",★★★★★XXX 🔞️★★★★★
 https://upload.wikimedia.org/wikipedia/commons/0/08/National_Flag_Anthem_of_the_Republic_of_China%E4%B8%AD%E8%8F%AF%E6%B0%91%E5%9C%8B%E5%9C%8B%E6%97%97%E6%AD%8C_%28%E6%BC%94%E5%A5%8F%E7%89%88%29.oga
 #EXTM3U x-tvg-url="http://epg.it999.ru/epg.xml.gz"
