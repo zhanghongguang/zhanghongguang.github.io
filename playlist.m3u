@@ -730,13 +730,13 @@ http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
 #EXTINF:-1 tvg-id="6080" tvg-name="东森电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCMovies.png" group-title="臺灣 🇹🇼️",东森电影
 http://120.84.96.62:808/hls/32/index.m3u8
 #EXTINF:-1 tvg-name="民视新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FTVNews.png" group-title="臺灣 🇹🇼️",民视新闻台
-http://103.214.71.71:1666/www.zhiboyuandakatv.xyz/MAX_3-Days.m3u8?md5=V4EGy8UaJM1icpVzv3uv7w&expires=1671770110
+http://103.214.71.71:1666/www.zhiboyuandakatv.xyz/MAX_3-Days.m3u8?md5=70qj8XH4usan4DGZc2X6uw&expires=1672125181
 #EXTINF:-1 tvg-name="民视新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FTVNews.png" group-title="臺灣 🇹🇼️",民视新闻台
 http://www.336699.live:1935/blockfour/litv-ftv13.stream/playlist.m3u8
 #EXTINF:-1 group-title="臺灣 🇹🇼️" tvg-logo="https://www.publicdiplomacycouncil.org/wp-content/uploads/2020/05/voa-logo.png",美國之音
 http://www.336699.live:1935/blockfour/litv-ftv03.stream/playlist.m3u8
 #EXTINF:-1 group-title="臺灣 🇹🇼️" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCNews.png",东森新闻台
-http://103.214.71.71:1671/www.zhiboyuandakatv.xyz/MAX_3-Days.m3u8?md5=V4EGy8UaJM1icpVzv3uv7w&expires=1671770110
+http://103.214.71.71:1671/www.zhiboyuandakatv.xyz/MAX_3-Days.m3u8?md5=70qj8XH4usan4DGZc2X6uw&expires=1672125181
 #EXTINF:-1 group-title="臺灣 🇹🇼️" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS%E6%96%B0%E9%97%BB.png",TVBS新闻台
 http://pull-l3-cny.douyincdn.com/live/e6b6ef594c30eb3f3de0fa4ba0ce86e6.m3u8
 #EXTINF:-1 group-title="臺灣 🇹🇼️" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GlobalNews.png",寰宇新闻
@@ -1198,15 +1198,15 @@ http://ls.qingting.fm/live/332.m3u8
 http://lzlive.vojs.cn/2wtSfrS/92/live.m3u8
 #EXTINF:-1 group-title="網絡廣播 🇨🇳️",杭州动听968音乐调频
 http://lhttp.qingting.fm/live/4866/64k.mp3
-#EXTINF:-1 group-title="網絡廣播 🇨🇳️",AsiaFM亚洲经典台
+#EXTINF:-1 group-title="網絡廣播 🇨🇳️" tvg-logo="http://iptv.cooltv.top/logo/亚洲音乐台.png",AsiaFM亚洲经典台
 https://lhttp.qingting.fm/live/5021912/64k.mp3
-#EXTINF:-1 group-title="網絡廣播 🇨🇳️",宁波新闻综合广播
+#EXTINF:-1 group-title="網絡廣播 🇨🇳️" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/generalradio/宁波新闻综合广播.png" ,宁波新闻综合广播
 http://ihzlh.linker.cc/ihzlh/zjnb_ts04_920.m3u8
-#EXTINF:-1 group-title="網絡廣播 🇨🇳️",宁波音乐广播
+#EXTINF:-1 group-title="網絡廣播 🇨🇳️" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/musicradio/宁波音乐广播.png",宁波音乐广播
 http://ihzlh.linker.cc/ihzlh/zjnb_ts02_986.m3u8
 #EXTINF:-1 group-title="網絡廣播 🇨🇳️",寧波动感105 FM105.2
 http://ls.qingting.fm/live/3047946.m3u8
-#EXTINF:-1 group-title="網絡廣播 🇨🇳️",寧波交通广播 FM93.9
+#EXTINF:-1 group-title="網絡廣播 🇨🇳️" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/generalradio/宁波交通广播.png",寧波交通广播 FM93.9
 http://ls.qingting.fm/live/1140.m3u8
 #EXTINF:-1 group-title="網絡廣播 🇨🇳️",华语金曲500首
 http://ls.qingting.fm/live/3412131.m3u8
