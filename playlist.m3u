@@ -696,7 +696,7 @@ http://23.237.10.66:16334
 #EXTINF:-1 group-title="臺灣 🇹🇼️" tvg-name="台视新闻台" tvg-logo="https://epg.112114.xyz/logo/台视新闻台.png",台视新闻
 https://epg.pm/stream/dc6941ad1ea0592ef8189f4315353b7de9f8a1d5574caa04298de9f154c2f46d.m3u8
 #EXTINF:-1 group-title="臺灣 🇹🇼️" tvg-logo="https://www.lyngsat.com/logo/tv/aa/asia_travel_tv.png",亚洲旅游
-http://50.7.220.74:8278/asiatravel_twn/playlist.m3u8?ct=19225&tid=MF2F4967516549675165&tsum=3b56404a8f861c7fef6ac79a798e4a8c
+http://50.7.220.74:8278/asiatravel_twn/playlist.m3u8?tid=MB9B9461769094617690&ct=18393&tsum=57c12e5ba95cca684613ec5e14714ff8
 #EXTINF:-1 group-title="臺灣 🇹🇼️",原住民
 http://streamipcf.akamaized.net/live/_definst_/live_720/key_b1500.m3u8
 #EXTINF:-1 group-title="臺灣 🇹🇼️",TLC旅游生活频道
@@ -708,7 +708,13 @@ http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
 #EXTINF:-1 group-title="臺灣 🇹🇼️",全美電視
 https://dcunilive30-lh.akamaihd.net/i/dclive_1@535522/master.m3u8
 #EXTINF:-1 group-title="臺灣 🇹🇼️" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/Discovery-Asia.png",DiscoveryAsia
-http://50.7.161.82:8278/discoverytwn_twn/playlist.m3u8?tid=m42a2d91d6f2413622196&ct=17874&tsum=3653c4c61f0a0443dbb256dc465b4715#http://50.7.161.82:8278/discoverytwn_twn/playlist.m3u8?tid=MAAA4463833744638337&ct=18393&tsum=c4bd4c633430327425e073012785525e
+http://50.7.220.74:8278/discoverytwn_twn/playlist.m3u8?tid=MAAA4463833744638337&ct=18393&tsum=c4bd4c633430327425e073012785525e
+#EXTINF:-1 group-title="臺灣 🇹🇼️" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/Discovery-Asia.png",DiscoveryAsia
+http://50.7.220.74:8278/discoverytwn_twn/playlist.m3u8?tid=m42a2d91d6f2413622196&ct=17874&tsum=3653c4c61f0a0443dbb256dc465b4715
+#EXTINF:-1 group-title="臺灣 🇹🇼️",BBC 地球
+http://line.premiumpowers.net:80/Manuel/1234567/941667
+#EXTINF:-1 group-title="臺灣 🇹🇼️",國家地理頻道
+http://line.premiumpowers.net:80/Manuel/1234567/941665
 #EXTINF:-1 group-title="臺灣 🇹🇼️",唯心電視
 http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
 #EXTINF:-1 group-title="臺灣 🇹🇼️",生命电视台
