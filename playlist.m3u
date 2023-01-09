@@ -139,7 +139,7 @@ http://39.134.115.163:8080/PLTV/88888910/224/3221225908/index.m3u8
 #EXTINF:-1 tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" tvg-speed="13MB/s" tvg-rez="3840x2160" group-title="央視 🇨🇳",CCTV4K
 http://lu1.cc/itv/php/cctv4k.php
 #EXTINF:-1 tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" tvg-speed="13MB/s" tvg-rez="3840x2160" group-title="央視 🇨🇳",CCTV4K
-https://qiu.moe/cctv4k
+http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/cctv4k/15000000/mnf.m3u8
 #EXTINF:-1 tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" tvg-speed="36MB/s" tvg-rez="3840x2160" group-title="央視 🇨🇳",CCTV奥林匹克频道
 http://39.135.41.243/PLTV/88888888/224/3221226716/index.m3u8?hls
 #EXTINF:-1 tvg-name="CCGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央視 🇨🇳",CGTN
@@ -307,9 +307,11 @@ http://183.207.255.188/live/program/live/dsjchd/4000000/mnf.m3u8
 #EXTINF:-1 group-title="上海 🇨🇳️" tvg-logo="https://epg.112114.xyz/logo/SITV劲爆体育.png",劲爆体育
 http://39.134.165.130:6610/000000001000/5000000002000029972/index.m3u8?
 #EXTINF:-1 group-title="上海 🇨🇳️" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jisuqiche.png",MAX极速汽车
-http://153.35.100.112/liveplay-kk.rtxapp.com/live/program/live/jsqchd/4000000/mnf.m3u8?blog.ntnas.top
+http://[2409:8087:3428:20:500::1009]:6610/PLTV/88888888/224/3221227186/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
 #EXTINF:-1 group-title="上海 🇨🇳️" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/qicaixiju.png",七彩戏剧
 http://183.207.255.188/live/program/live/qcxj/1300000/mnf.m3u8
+#EXTINF:-1 group-title="上海 🇨🇳️" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/qicaixiju.png",七彩戏剧
+http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/qcxjhd8m/8000000/mnf.m3u8
 #EXTINF:-1 group-title="地方臺 🇨🇳️",★★★★★地方臺 🇨🇳️★★★★★
 https://upload.wikimedia.org/wikipedia/commons/0/08/National_Flag_Anthem_of_the_Republic_of_China%E4%B8%AD%E8%8F%AF%E6%B0%91%E5%9C%8B%E5%9C%8B%E6%97%97%E6%AD%8C_%28%E6%BC%94%E5%A5%8F%E7%89%88%29.oga
 #EXTINF:-1 group-title="地方臺 🇨🇳️" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/WHTV1.png",武汉新闻综合频道
@@ -1121,7 +1123,7 @@ https://edge.medcom.id/live-edge/smil:mgnch.smil/playlist.m3u8
 #EXTINF:-1 group-title="Global 🇺🇸🇬🇧🇶🇦️" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/06/ATBA1000005P4_20220323T072946.png",Travel XP
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/3000.m3u8
 #EXTINF:-1 group-title="Global 🇺🇸🇬🇧🇶🇦️" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/travelchannel.png",TravelChannel
-http://iptvtree.net:8080/adastream/8289548ca0/9835
+http://iptvtree.net:8080/babar2020ex/q8tJoxpK6QLH9z2mW9Yl/171743
 #EXTINF:-1 group-title="Global 🇺🇸🇬🇧🇶🇦️" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CNNNews.png",CNN
 https://rakuten-cnninternational-1-de.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="USAJ2200022RM" tvg-chno="1105" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/46/USAJ2200022RM_20220413T093258.png" group-title="Global 🇺🇸🇬🇧🇶🇦️",People TV
