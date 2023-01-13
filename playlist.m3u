@@ -12,7 +12,7 @@ http://www.372583307.top:4022/udp/233.50.201.179:5140
 http://www.372583307.top:4022/udp/233.50.201.180:5140
 #EXTINF:-1 group-title="寧波 🇨🇳️" tvg-logo="https://zhanghongguang.github.io/Logo/nbtv5.png",宁波少儿频道高清NBTV-5
 http://www.372583307.top:4022/udp/233.50.201.181:5140
-#EXTINF:-1 group-title="寧波 🇨🇳️" tvg-logo="https://zhanghongguang.github.io/Logo/xstv.png",象山电视台
+#EXTINF:-1 group-title="寧波 🇨🇳️" tvg-logo="https://zhanghongguang.github.io/Logo/xstv.png",象山電視臺
 http://l.cztvcloud.com/channels/lantian/SXxiangshan1/720p.m3u8
 #EXTINF:-1 group-title="寧波 🇨🇳️" tvg-logo="https://zhanghongguang.github.io/Logo/nbtv1.png",NBTV-1
 http://v2.91kds.cn/b9/zjnbtv.m3u8?fmt=hls&id=zjnbtv1&auth=rinimabi
@@ -520,7 +520,7 @@ http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225711/index.m3u8#http
 #EXTINF:-1 group-title="IHOT🇨🇳️",爱动漫
 http://111.11.123.28:6610/000000001000/6000000006000280630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1958320221014141102306762&channel-id=wasusyt&Contentid=6000000006000280630
 #EXTINF:-1 group-title="IHOT🇨🇳️",爱奇谈
-http://111.11.123.28:6610/000000001000/6000000006000270630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1961120221014133013296225&channel-id=wasusyt&Contentid=6000000006000270630
+http://39.135.7.4:6610/000000001001/1/index.m3u8?Contentid=6000000006000250630&livemode=1&stbId=3&channel-id=wasusyt
 #EXTINF:-1 group-title="IHOT🇨🇳️",爱奇谈
 http://111.11.123.28:6610/000000001000/6000000006000270630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1959120221014133234310230&channel-id=wasusyt&Contentid=6000000006000270630
 #EXTINF:-1 group-title="IHOT🇨🇳️",爱赛车
@@ -574,7 +574,7 @@ http://111.11.123.28:6610/000000001000/6000000006000200630/1.m3u8?stbId=3&livemo
 #EXTINF:-1 group-title="IHOT🇨🇳️",爱解密
 http://111.11.123.28:6610/000000001000/6000000006000200630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1960620221014135721303915&channel-id=wasusyt&Contentid=6000000006000200630
 #EXTINF:-1 group-title="IHOT🇨🇳️",爱旅行
-http://111.11.123.28:6610/000000001000/6000000006000250630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1960020221014135646305380&channel-id=wasusyt&Contentid=6000000006000250630
+http://39.135.7.4:6610/000000001001/1/index.m3u8?Contentid=6000000006000250630&livemode=1&stbId=3&channel-id=wasusyt
 #EXTINF:-1 group-title="IHOT🇨🇳️",爱怀旧
 http://111.11.123.28:6610/000000001000/6000000006000260630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1959820221014135640297861&channel-id=wasusyt&Contentid=6000000006000260630
 #EXTINF:-1 group-title="IHOT🇨🇳️",爱体育
@@ -588,7 +588,7 @@ http://111.11.123.28:6610/000000001000/6000000006000010630/1.m3u8?stbId=3&livemo
 #EXTINF:-1 group-title="IHOT🇨🇳️",爱喜剧
 http://111.11.123.28:6610/000000001000/6000000006000010630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1958820221014141111289135&channel-id=wasusyt&Contentid=6000000006000010630
 #EXTINF:-1 group-title="IHOT🇨🇳️",爱美食
-http://111.11.123.28:6610/000000001000/6000000006000120630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1957320221014141056297085&channel-id=wasusyt&Contentid=6000000006000120630
+http://39.135.7.4:6610/000000001001/1/index.m3u8?Contentid=6000000006000250630&livemode=1&stbId=3&channel-id=wasusyt
 #EXTINF:-1 group-title="IHOT🇨🇳️",爱科学
 http://111.11.123.28:6610/000000001000/6000000006000160630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1959620221014141038314650&channel-id=wasusyt&Contentid=6000000006000160630
 #EXTINF:-1 group-title="IHOT🇨🇳️",爱都市
