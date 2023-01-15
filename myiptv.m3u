@@ -1183,6 +1183,7 @@ http://lb.streaming.sk/fashiontv/stream/chunklist_w1402273512.m3u8
 #EXTINF:-1 group-title="电影频道",美食李子柒
 http://hls-ott-zhibo.wasu.tv/live/443/index.m3u8
 #EXTINF:-1 group-title="电影频道",KK_女神影院
+http://hpull.kktv8.com/livekktv/99350550/playlist.m3u8
 #EXTINF:-1 tvg-id="836374" tvg-name="##### NBA LIVE EVENTS #####" tvg-logo="http://logo.protv.cc/picons/logos/NBA-TV.png" group-title="US| NBA PACKAGE",##### NBA LIVE EVENTS #####
 http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=836374&extension=ts
 #EXTINF:-1 tvg-id="749756" tvg-name="US| NBA TV HD" tvg-logo="http://logo.protv.cc/picons/logos/NBA-TV.png" group-title="US| NBA PACKAGE",US| NBA TV HD
@@ -1786,4 +1787,3 @@ http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=89461&ext
 http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=89460&extension=ts&play_token=ZcmapHvY58
 #EXTINF:-1 tvg-id="89453" tvg-name="SKR| YES TV" tvg-logo="http://logo.protv.cc/picons/logos/yes_tv.png" group-title="SOUTH KOREA",SKR| YES TV
 http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=89453&extension=ts&play_token=g1ZnpVEanT
-http://hpull.kktv8.com/livekktv/99350550/playlist.m3u8
