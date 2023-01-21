@@ -933,13 +933,13 @@ https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="CNN" tvg-name="CNN" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CNNNews.png" group-title="Global 🇺🇸🇬🇧🇶🇦️",CNN
 https://tve-live-lln.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 group-title="Global 🇺🇸🇬🇧🇶🇦️" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CNNNews.png",CNN
-https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist_1280x720_3000k.m3u8
+http://190.61.102.67:8000/play/a00n
 #EXTINF:-1 group-title="Global 🇺🇸🇬🇧🇶🇦️" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BBCWORLDNEWSASIA.png",BBCWorldNews
 http://ott-cdn.ucom.am/s24/index.m3u8
 #EXTINF:-1 group-title="Global 🇺🇸🇬🇧🇶🇦️" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BBCWORLDNEWSASIA.png",BBCWorldNews
 http://meumd.com:80/rootiptv/5176iXo7/126063
 #EXTINF:-1 group-title="Global 🇺🇸🇬🇧🇶🇦️" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BBCWORLDNEWSASIA.png",BBCWorldNews
-http://iptvtree.net:8080/ea188ac3/82d52ec7f7/2585
+http://mfe.cliptv.az/dash/BBC_World_News_SD.ism/playlist.mpd?checkedby:iptvcat.com
 #EXTINF:-1 group-title="Global 🇺🇸🇬🇧🇶🇦️" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BBCWORLDNEWSASIA.png",BBCWorldNews
 http://185.236.229.31:9981/play/a072
 #EXTINF:-1 tvg-logo="https://i.imgur.com/j449MD4.png" group-title="Global 🇺🇸🇬🇧🇶🇦️",BBC News
@@ -975,13 +975,13 @@ http://obsfullhd.tv:25461/@localhdtv/WJudqvpAbuP8/42058
 #EXTINF:-1 group-title="Global 🇺🇸🇬🇧🇶🇦️",Nat Geo People
 http://obsfullhd.tv:25461/@localhdtv/WJudqvpAbuP8/6914
 #EXTINF:-1 group-title="Global 🇺🇸🇬🇧🇶🇦️" tvg-logo="https://www.mncvision.id/userfiles/image/channel/bbc_earth150x150.jpg",BBC Earth HD
-http://iptvtree.net:8080/adastream/8289548ca0/174446
+http://eaglevision.visualsec.net:8443/live/8K1eYn_JxymlrwmHKcCHsQ/1674421393/230.m3u8
  #EXTINF:-1 group-title="Global 🇺🇸🇬🇧🇶🇦️", Global News
  https://live.corusdigitaldev.com/groupb/live/3062d0e3-ed4c-4f47-8482-95648250f4b8/live.isml/.m3u8
 #EXTINF:-1 group-title="Global 🇺🇸🇬🇧🇶🇦️",韩联社
 https://wms211-kortv.akamaized.net/a_live/34402987/smil:20ch211.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="Global 🇺🇸🇬🇧🇶🇦️" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/Discovery-Asia.png",DiscoveryAsia
-http://50.7.220.74:8278/discoverytwn_twn/playlist.m3u8?tid=MAAA4463833744638337&ct=18393&tsum=c4bd4c633430327425e073012785525e
+http://eaglevision.visualsec.net:8443/live/8K1eYn_JxymlrwmHKcCHsQ/1674421393/224.m3u8
 #EXTINF:-1 group-title="Global 🇺🇸🇬🇧🇶🇦️" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/natgeo.png",National Geographic HD Bangla
 http://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
 #EXTINF:-1 group-title="Global 🇺🇸🇬🇧🇶🇦️",CNN
@@ -999,7 +999,7 @@ https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea09
 #EXTINF:-1 group-title="Global 🇺🇸🇬🇧🇶🇦️" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_332.jpg",BBC World News
 https://tv.googledrivelinks.com/live.php?c=BBC_World_News&q=1200&e=.m3u8
 #EXTINF:-1 group-title="Global 🇺🇸🇬🇧🇶🇦️" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/Discovery-Asia.png",DiscoveryAsia
-https://livecdn.fptplay.net/hda2/discoveryasia_vhls.smil/chunklist_b2500000.m3u8
+http://aabb.is:2095/d4Je5xwD/yadTXB63/31014
 #EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-5eea71d65252710041e0ccbc" tvg-id="5e20b730f2f8d5003d739db7-5eea71d65252710041e0ccbc" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/reuters_reutersnow_1.png" group-title="Global 🇺🇸🇬🇧🇶🇦️",Reuters TV
 https://reuters-reutersnow-1-us.plex.wurl.tv/c0c0829237382f291cc46a0368586aa7.m3u8
 #EXTINF:-1 group-title="Global 🇺🇸🇬🇧🇶🇦️" tvg-logo="https://epg.112114.xyz/logo/日本24新闻.png",Nippon TV News24 Japan
