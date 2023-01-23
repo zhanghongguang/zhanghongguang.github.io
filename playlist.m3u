@@ -1107,6 +1107,16 @@ https://liveedge-arisenews.visioncdn.com/live-hls/arisenews/arisenews/arisenews_
 https://voa-ingest.akamaized.net/hls/live/2033874/tvmc06/VOA-TVMC06_1080/chunklist.m3u8
 #EXTINF:-1 tvg-id="GBAJ42000038R" tvg-logo="https://i.imgur.com/I2yfBm7.png" group-title="Global 🇺🇸🇬🇧🇶🇦️",InWonder TV | Austrália
 https://inwild-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1  tvg-name="TN - TH THÁI NGUYÊN HD" tvg-id="https://cutt.ly/HaNoiIPTV-TN1-Truyen_hinh_Thai_Nguyen_HD và http://gg.gg/HaNoiIPTV-TN1-Truyen_hinh_Thai_Nguyen_HD và https://api.vthanhtivi.pw/v1/getlink/mytv_web/406/hd" group-title="Global 🇺🇸🇬🇧🇶🇦️" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/TNTV%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20Th%C3%A1i%20Nguy%C3%AAn%20HD.png",TN - Truyền hình Thái Nguyên HD
+https://streaming.thainguyentv.vn/hls/livestream.m3u8
+#EXTINF:-1 group-title="Global 🇺🇸🇬🇧🇶🇦️",Hải Phòng
+https://live.thhp.vn/thp/index.m3u8
+#EXTINF:-1 group-title="Global 🇺🇸🇬🇧🇶🇦️",Hải Phòng +
+https://live.thhp.vn/hls/thpplus/index.m3u8?1
+#EXTINF:-1 tvg-id="vtv5hdtn" group-title="Global 🇺🇸🇬🇧🇶🇦️" tvg-logo="https://i.ibb.co/zVJz2CQ/VTV5-TN-BEARTV.png" ,VTV5 Tây Nguyên
+https://nvzoftzsvflivcf.vcdn.com.vn/vtv5tn/vtv5tn@high.m3u8
+#EXTINF:-1 group-title="Global 🇺🇸🇬🇧🇶🇦️",Quốc Hội (720p)
+http://113.164.225.140:1935/live/quochoitvlive.stream_720p/playlist.m3u8
 #EXTINF:-1 group-title="網絡廣播 🇨🇳️",★★★★★網絡廣播 🇨🇳️★★★★★
 https://upload.wikimedia.org/wikipedia/commons/0/08/National_Flag_Anthem_of_the_Republic_of_China%E4%B8%AD%E8%8F%AF%E6%B0%91%E5%9C%8B%E5%9C%8B%E6%97%97%E6%AD%8C_%28%E6%BC%94%E5%A5%8F%E7%89%88%29.oga
 #EXTINF:-1 group-title="網絡廣播 🇨🇳️",China Plus Radio
