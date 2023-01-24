@@ -1088,7 +1088,7 @@ https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3
 #EXTINF:0 group-title="Global 🇺🇸🇬🇧🇶🇦️" tvg-id="2270" tvg-logo="http://epg.it999.ru/img/2270.png" tvg-rec="3",CNN International
 https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:0 group-title="Global 🇺🇸🇬🇧🇶🇦️" tvg-id="1035" tvg-logo="http://epg.it999.ru/img/1035.png" tvg-rec="7",Travel+Adventure
-http://46.19.100.174:4450/play/a009/index.m3u8
+http://bellive.top:8080/live/951664070451109006/3011664070451109/52092.ts
 #EXTINF:-1 group-title="Global 🇺🇸🇬🇧🇶🇦️",MTV音乐频道
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master_2400.m3u8
 #EXTINF:-1 group-title="Global 🇺🇸🇬🇧🇶🇦️" tvg-logo="https://static1.squarespace.com/static/51a013dee4b0a2a2d2ef73e9/t/530a34ace4b0d1b000d31222/1393177774359/voa.png",VOA Global English 
