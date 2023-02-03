@@ -368,7 +368,7 @@ http://223.109.53.48/liveplay-kk.rtxapp.com/live/program/live/mlyyhd8m/8000000/m
 
 #EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://epg.112114.xyz/logo/CCTV16.png" group-title="4K频道",CCTV16(4K)[百视通]
 http://tt-live.bestvcdn.com.cn/live/program/live/cctv16hd4k/15000000/mnf.m3u8
-#EXTINF:-1 group-title="4K",CCTV16 4K
+#EXTINF:-1 group-title="4K频道",CCTV16 4K
 http://live.cooltv.top/tv/aishang.php?id=cctv164k
 #EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://epg.112114.xyz/logo/CCTV4K.png" group-title="4K频道",CCTV(4K)[百视通]
 http://tt-live.bestvcdn.com.cn/live/program/live/cctv4k/15000000/mnf.m3u8
@@ -1318,41 +1318,6 @@ http://61.58.60.230:9319/live/101.m3u8
 http://61.58.60.230:9319/live/123.m3u8
 #EXTINF:-1 group-title="台湾",國會頻道2
 http://61.58.60.230:9319/live/124.m3u8
-#EXTINF:-1 group-title="🎬輪播,#genre#",蠟筆小新
-http://111.6.244.41:80/tx.hls.huya.com/src/1423787878-1423787878-6115122372451237888-2847699212-10057-A-0-1-imgplus.m3u8
-#EXTINF:-1 group-title="🎬輪播,#genre#",蠟筆小新新番
-http://zzy789.xyz/bili.php?id=21570935#https://d1--ov-gotcha105.bilivideo.com/live-bvc/994033/live_456924462_14930225_1500.m3u8?cdn=ov-gotcha05&expires=1656515371&len=0&oi=2418197863&pt=h5&qn=150&trid=10032f9a2bb6f0c2455b9fda4dfccd27c15c&sigparams=cdn,expires,len,oi,pt,qn,trid&sign=9c4a91a38da1fba64ae8e807059a0285&ptype=0&src=57345&sl=2&source=one&sche=ban&sk=9cb5fa1da6fe10638ca787952b18c932&order=1
-#EXTINF:-1 group-title="🎬輪播,#genre#",七龍珠改
-https://epg.112114.xyz/huya/11601966
-#EXTINF:-1 group-title="🎬輪播,#genre#",小豬佩琪
-http://baiducdncmn2.inter.iqiyi.com/tslive/c53_lb_78_1080P_t10/c53_lb_78_1080P_t10.m3u8#http://lvbaiducdncmn.inter.iqiyi.com/tslive/c53_lb_78_1080P_t10/c53_lb_78_1080P_t10.m3u8
-#EXTINF:-1 group-title="🎬輪播,#genre#",獵人X獵人
-http://epg.112114.xyz/douyu/6610883
-#EXTINF:-1 group-title="🎬輪播,#genre#",名偵探柯南
-http://lvbaiducdncmn.inter.iqiyi.com/tslive/c54_lb_157_600_t10/c54_lb_157_600_t10.m3u8?key=0b292c335e5837e948e91dd5d11efa525
-#EXTINF:-1 group-title="🎬輪播,#genre#",中華一番
-http://36.101.206.161/txdirect.hls.huya.com/huyalive/1449588921-1449588921-6225937008338927616-2789274526-10057-A-0-1.m3u8?wsSecret=9a52402588a0294acead2df3b623780f&wsTime=62707e38&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_tars&txyp=o%3Afz6%3B&fs=bgct
-#EXTINF:-1 group-title="🎬輪播,#genre#",周星馳
-http://111.6.244.41/tx.hls.huya.com/src/1394575534-1394575534-5989656310331736064-2789274524-10057-A-0-1-imgplus.m3u8
-#EXTINF:-1 group-title="🎬輪播,#genre#",周星馳廣東話
-http://111.6.244.41/tx.hls.huya.com/src/1250011-1250011-5368756364640256-2777036638-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="🎬輪播,#genre#",成龍
-http://111.6.244.41/tx.hls.huya.com/src/1394565191-1394565191-5989611887484993536-2789253838-10057-A-0-1-imgplus.m3u8
-#EXTINF:-1 group-title="李連杰.http://111.6.244.41/tx.hls.huya.com/src/1394565196-1394565196-5989611908959830016-2789253848-10057-A-0-1-imgplus.m3u8",林正英
-http://111.6.244.41/tx.hls.huya.com/src/1394575543-1394575543-5989656348986441728-2789274542-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="李連杰.http://111.6.244.41/tx.hls.huya.com/src/1394565196-1394565196-5989611908959830016-2789253848-10057-A-0-1-imgplus.m3u8",劉德華
-http://111.6.244.41/tx.hls.huya.com/src/1394575547-1394575547-5989656366166310912-2789274550-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="李連杰.http://111.6.244.41/tx.hls.huya.com/src/1394565196-1394565196-5989611908959830016-2789253848-10057-A-0-1-imgplus.m3u8",周潤發
-http://111.6.244.41/tx.hls.huya.com/src/1394565192-1394565192-5989611891779960832-2789253840-10057-A-0-1-imgplus.m3u8
-#EXTINF:-1 group-title="李連杰.http://111.6.244.41/tx.hls.huya.com/src/1394565196-1394565196-5989611908959830016-2789253848-10057-A-0-1-imgplus.m3u8",甄子丹
-http://111.6.244.41/tx.hls.huya.com/src/1423787820-1423787820-6115122123343134720-2847699096-10057-A-0-1-imgplus.m3u8
-#EXTINF:-1 group-title="李連杰.http://111.6.244.41/tx.hls.huya.com/src/1394565196-1394565196-5989611908959830016-2789253848-10057-A-0-1-imgplus.m3u8",洪金寶
-http://111.6.244.41/tx.hls.huya.com/src/73821423-73821423-317060597529182208-2710090468-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="李連杰.http://111.6.244.41/tx.hls.huya.com/src/1394565196-1394565196-5989611908959830016-2789253848-10057-A-0-1-imgplus.m3u8",王晶
-http://111.6.244.41/tx.hls.huya.com/src/1524434111-1524434111-6547394651651833856-3048991678-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="李連杰.http://111.6.244.41/tx.hls.huya.com/src/1394565196-1394565196-5989611908959830016-2789253848-10057-A-0-1-imgplus.m3u8",黑幫大片
-http://111.6.244.41/tx.hls.huya.com/src/1388472589-1388472589-5963444361147449344-2777068634-10057-A-0-1-imgplus.m3u8
-
 #EXTINF:-1 tvg-id="90350" tvg-name="HK| FAIRCHILD EAST" tvg-logo="http://logo.protv.cc/picons/logos/FAIRCHILD-WEST.png" group-title="香港",HK| FAIRCHILD EAST
 http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=90350&extension=ts&play_token=w4panUqY4F
 #EXTINF:-1 tvg-id="90351" tvg-name="HK| FAIRCHILD WEST" tvg-logo="http://logo.protv.cc/picons/logos/FAIRCHILD-WEST.png" group-title="香港",HK| FAIRCHILD WEST
@@ -1875,8 +1840,6 @@ http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=554944&ex
 http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=554943&extension=ts&play_token=JyOiBTPc33
 #EXTINF:-1 tvg-id="554953" tvg-name="HK| NOW PREMIER SPORTS 1 HD" tvg-logo="http://logo.protv.cc/picons/logos/nowsports.png" group-title="CHINA / HONGKONG",HK| NOW PREMIER SPORTS 1 HD
 http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=554953&extension=ts&play_token=GOrtHpTYly
-
-
 #EXTINF:-1 tvg-id="941693" tvg-name="SG| BBC WORLD NEWS HD" tvg-logo="http://logo.protv.cc/picons/logos/BBC-WORLD-NEWS.png" group-title="SINGAPORE",SG| BBC WORLD NEWS HD
 http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=941693&extension=ts&play_token=ka9qHIEYRS
 #EXTINF:-1 tvg-id="941692" tvg-name="SG| BLOOMBERG TELEVISION HD" tvg-logo="http://logo.protv.cc/picons/logos/BLOOMBERG-HD.png" group-title="SINGAPORE",SG| BLOOMBERG TELEVISION HD
@@ -2141,7 +2104,6 @@ http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=941564&ex
 http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=941563&extension=ts&play_token=URB0FJvcy5
 #EXTINF:-1 tvg-id="941562" tvg-name="SG| NBA TV HD" tvg-logo="http://logo.protv.cc/picons/logos/NBA_TV.png" group-title="SINGAPORE",SG| NBA TV HD
 http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=941562&extension=ts&play_token=Qw5yDYRP7q
-
 #EXTINF:-1 tvg-id="1076052" tvg-name="JP| ANIMAX" tvg-logo="http://logo.protv.cc/picons/logos/ASIA/ANIMAX.png" group-title="JAPAN",JP| ANIMAX
 http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=1076052&extension=ts&play_token=kMhhrWpyXz
 #EXTINF:-1 tvg-id="1076051" tvg-name="JP| BS 12" tvg-logo="http://logo.protv.cc/picons/logos/ASIA/BS-12.png" group-title="JAPAN",JP| BS 12
