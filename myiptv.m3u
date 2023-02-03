@@ -968,68 +968,390 @@ http://baidu.live.cqccn.com/__cl/cg:live/__c/chcgqdyHD/__op/default/__f//index.m
 http://baidu.live.cqccn.com/__cl/cg:live/__c/chcdzdyHD/__op/default/__f//index.m3u8
 #EXTINF:-1 tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://epg.112114.xyz/logo/CHC家庭影院.png" group-title="其他",CHC家庭影院
 http://baidu.live.cqccn.com/__cl/cg:live/__c/chcjtyyHD/__op/default/__f//index.m3u8
-#EXTINF:-1 tvg-id="百事通" tvg-name="百事通" tvg-logo="https://epg.112114.xyz/logo/全纪实.png" group-title="其他",百事通
-https://bp-caster.bestv.com.cn/879/3/video.m3u8
-#EXTINF:-1 tvg-id="全纪实" tvg-name="全纪实" tvg-logo="https://epg.112114.xyz/logo/全纪实.png" group-title="其他",全纪实[百视通]
-http://tt-live.bestvcdn.com.cn/live/program/live/qjshd8m/8000000/mnf.m3u8
-#EXTINF:-1 tvg-id="生活时尚" tvg-name="生活时尚" tvg-logo="https://epg.112114.xyz/logo/生活时尚.png" group-title="其他",生活时尚[百视通]
-http://tt-live.bestvcdn.com.cn/live/program/live/shss8m/8000000/mnf.m3u8
-#EXTINF:-1 tvg-id="游戏风云" tvg-name="游戏风云" tvg-logo="https://epg.112114.xyz/logo/游戏风云.png" group-title="其他",游戏风云[百视通]
-http://tt-live.bestvcdn.com.cn/live/program/live/yxfy8m/8000000/mnf.m3u8
-#EXTINF:-1 tvg-id="欢笑剧场" tvg-name="欢笑剧场" tvg-logo="https://epg.112114.xyz/logo/欢笑剧场.png" group-title="其他",欢笑剧场[百视通]
-http://tt-live.bestvcdn.com.cn/live/program/live/hxjc8m/8000000/mnf.m3u8
-#EXTINF:-1 tvg-id="金鹰纪实" tvg-name="金鹰纪实" tvg-logo="https://epg.112114.xyz/logo/金鹰纪实.png" group-title="其他",金鹰纪实[百视通]
-http://tt-live.bestvcdn.com.cn/live/program/live/jyjs8m/8000000/mnf.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/戏曲精选.png" group-title="其他",戏曲精选[百视通]
-http://tt-live.bestvcdn.com.cn/live/program/live/xqjx8m/8000000/mnf.m3u8
-#EXTINF:-1 tvg-id="全纪实" tvg-name="全纪实" tvg-logo="https://epg.112114.xyz/logo/全纪实.png" group-title="其他",全纪实[百视通]
-http://tt-live.bestvcdn.com.cn/live/program/live/qjshd8m/8000000/mnf.m3u8
-#EXTINF:-1 tvg-id="生活时尚" tvg-name="生活时尚" tvg-logo="https://epg.112114.xyz/logo/生活时尚.png" group-title="其他",生活时尚[百视通]
-http://tt-live.bestvcdn.com.cn/live/program/live/shss8m/8000000/mnf.m3u8
-#EXTINF:-1 tvg-id="新视觉" tvg-name="新视觉" tvg-logo="https://epg.112114.xyz/logo/新视觉.png" group-title="其他",新视觉[百视通]
-http://tt-live.bestvcdn.com.cn/live/program/live/xsjhd8m/8000000/mnf.m3u8
-#EXTINF:-1 tvg-id="游戏风云" tvg-name="游戏风云" tvg-logo="https://epg.112114.xyz/logo/游戏风云.png" group-title="其他",游戏风云[百视通]
-http://tt-live.bestvcdn.com.cn/live/program/live/yxfy8m/8000000/mnf.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/热门综艺.png" group-title="其他",热门综艺[百视通]
-http://tt-live.bestvcdn.com.cn/live/program/live/rmzy8m/8000000/mnf.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/健康养生.png" group-title="其他",健康养生[百视通]
-http://tt-live.bestvcdn.com.cn/live/program/live/jkys8m/8000000/mnf.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/百变课堂.png" group-title="其他",百变课堂[百视通]
-http://tt-live.bestvcdn.com.cn/live/program/live/bbkt8m/8000000/mnf.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/看天下精选.png" group-title="其他",看天下精选[百视通]
-http://tt-live.bestvcdn.com.cn/live/program/live/ktxjx8m/8000000/mnf.m3u8
-#EXTINF:-1 tvg-id="电竞天堂" tvg-name="电竞天堂" tvg-logo="https://epg.112114.xyz/logo/电竞天堂.png" group-title="其他",电竞天堂[百视通]
-http://tt-live.bestvcdn.com.cn/live/program/live/djtt8m/8000000/mnf.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/青春动漫.png" group-title="其他",青春动漫[百视通]
-http://tt-live.bestvcdn.com.cn/live/program/live/qcdm8m/8000000/mnf.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/宝宝动画.png" group-title="其他",宝宝动画[百视通]
-http://tt-live.bestvcdn.com.cn/live/program/live/bbdh8m/8000000/mnf.m3u8
-#EXTINF:-1 tvg-id="红色谍战剧场" tvg-name="红色谍战剧场" tvg-logo="https://epg.112114.xyz/logo/红色谍战剧场.png" group-title="其他",谍战剧场[百视通]
-http://tt-live.bestvcdn.com.cn/live/program/live/dzjc8m/8000000/mnf.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/热门剧场.png" group-title="其他",热门剧场[百视通]
-http://tt-live.bestvcdn.com.cn/live/program/live/rmjc8m/8000000/mnf.m3u8
-#EXTINF:-1 tvg-id="陶瓷" tvg-name="陶瓷" tvg-logo="https://epg.112114.xyz/logo/陶瓷.png" group-title="其他",陶瓷高清[百视通]
-http://tt-live.bestvcdn.com.cn/live/program/live/taocihd/8000000/mnf.m3u8
-#EXTINF:-1 tvg-id="中国教育1台" tvg-name="中国教育1台" tvg-logo="https://epg.112114.xyz/logo/中国教育1台.png" group-title="其他",中国教育-1[百视通]
-http://tt-live.bestvcdn.com.cn/live/program/live/zgjy1t8m/8000000/mnf.m3u8
-#EXTINF:-1 tvg-id="中国教育4台" tvg-name="中国教育4台" tvg-logo="https://epg.112114.xyz/logo/中国教育4台.png" group-title="其他",中国教育-4[百视通]
-http://tt-live.bestvcdn.com.cn/live/program/live/zgjy4hd8m/8000000/mnf.m3u8
-#EXTINF:-1 tvg-id="卡酷少儿" tvg-name="卡酷少儿" tvg-logo="https://epg.112114.xyz/logo/卡酷少儿.png" group-title="其他",卡酷少儿[百视通]
-http://tt-live.bestvcdn.com.cn/live/program/live/kkse8m/8000000/mnf.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/纪实科教.png" group-title="其他",纪实科教[百视通]
-http://tt-live.bestvcdn.com.cn/live/program/live/dajs8m/8000000/mnf.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/炫动卡通.png" group-title="其他",炫动卡通[百视通]
-http://tt-live.bestvcdn.com.cn/live/program/live/hhxd8m/8000000/mnf.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/东方财经.png" group-title="其他",东方财经[百视通]
-http://tt-live.bestvcdn.com.cn/live/program/live/dfcjhd8m/8000000/mnf.m3u8
-#EXTINF:-1 tvg-id="都市剧场" tvg-name="都市剧场" tvg-logo="https://epg.112114.xyz/logo/都市剧场.png" group-title="其他",都市剧场[百视通]
-http://tt-live.bestvcdn.com.cn/live/program/live/dsjc8m/8000000/mnf.m3u8
-#EXTINF:-1 tvg-id="动漫秀场" tvg-name="动漫秀场" tvg-logo="https://epg.112114.xyz/logo/动漫秀场.png" group-title="其他",动漫秀场[百视通]
-http://tt-live.bestvcdn.com.cn/live/program/live/dmxc8m/8000000/mnf.m3u8
-#EXTINF:-1 tvg-id="Z" tvg-name="Z" tvg-logo="https://epg.112114.xyz/logo/Z.png" group-title="其他",法治天地[百视通]
-http://tt-live.bestvcdn.com.cn/live/program/live/fztd8m/8000000/mnf.m3u8
-#EXTINF:-1 tvg-id="SITV金色学堂" tvg-name="SITV金色学堂" tvg-logo="https://epg.112114.xyz/logo/SITV金色学堂.png" group-title="其他",金色学堂[百视通]
-http://tt-live.bestvcdn.com.cn/live/program/live/jingsepd8m/8000000/mnf.m3u8
+#EXTINF:-1 group-title="台湾",民視台灣
+http://www.336699.live:1935/blockfour/4gtv-4gtv001.stream/playlist.m3u8
+#EXTINF:-1 group-title="台湾",民視
+http://www.336699.live:1935/blockfour/4gtv-4gtv002.stream/playlist.m3u8
+#EXTINF:-1 group-title="台湾",民視第一
+http://www.336699.live:1935/blockfour/4gtv-4gtv003.stream/playlist.m3u8
+#EXTINF:-1 group-title="台湾",民視綜藝
+http://www.336699.live:1935/blockfour/4gtv-4gtv004.stream/playlist.m3u8
+#EXTINF:-1 group-title="台湾",豬哥亮歌廳秀
+http://www.336699.live:1935/blockfour/4gtv-4gtv006.stream/playlist.m3u8
+#EXTINF:-1 group-title="台湾",中天新聞
+http://www.336699.live:1935/blockfour/4gtv-4gtv009.stream/playlist.m3u8
+#EXTINF:-1 group-title="台湾",影迷數位電影
+http://www.336699.live:1935/blockfour/4gtv-4gtv011.stream/playlist.m3u8
+#EXTINF:-1 group-title="台湾",cnex
+http://www.336699.live:1935/blockfour/4gtv-4gtv013.stream/playlist.m3u8
+#EXTINF:-1 group-title="台湾",時尚運動X
+http://www.336699.live:1935/blockfour/4gtv-4gtv014.stream/playlist.m3u8
+#EXTINF:-1 group-title="台湾",八大精彩
+http://www.336699.live:1935/blockfour/4gtv-4gtv034.stream/playlist.m3u8
+#EXTINF:-1 group-title="台湾",八大綜合
+http://www.336699.live:1935/blockfour/4gtv-4gtv039.stream/playlist.m3u8
+#EXTINF:-1 group-title="台湾",中視新聞
+http://www.336699.live:1935/blockfour/4gtv-4gtv040.stream/playlist.m3u8
+#EXTINF:-1 group-title="台湾",華視新聞資訊
+http://www.336699.live:1935/blockfour/4gtv-4gtv041.stream/playlist.m3u8
+#EXTINF:-1 group-title="台湾",公視戲劇
+http://www.336699.live:1935/blockfour/4gtv-4gtv042.stream/playlist.m3u8
+#EXTINF:-1 group-title="台湾",客家電視
+http://www.336699.live:1935/blockfour/4gtv-4gtv043.stream/playlist.m3u8
+#EXTINF:-1 group-title="台湾",靖天卡通
+http://www.336699.live:1935/blockfour/4gtv-4gtv044.stream/playlist.m3u8
+#EXTINF:-1 group-title="台湾",靖洋戲劇
+http://www.336699.live:1935/blockfour/4gtv-4gtv045.stream/playlist.m3u8
+#EXTINF:-1 group-title="台湾",靖天日本
+http://www.336699.live:1935/blockfour/4gtv-4gtv047.stream/playlist.m3u8
+#EXTINF:-1 group-title="台湾",采昌影劇
+http://www.336699.live:1935/blockfour/4gtv-4gtv049.stream/playlist.m3u8
+#EXTINF:-1 group-title="台湾",華視新聞資訊
+http://www.336699.live:1935/blockfour/4gtv-4gtv052.stream/playlist.m3u8
+#EXTINF:-1 group-title="台湾",GinX
+http://www.336699.live:1935/blockfour/4gtv-4gtv053.stream/playlist.m3u8
+#EXTINF:-1 group-title="台湾",靖天歡樂
+http://www.336699.live:1935/blockfour/4gtv-4gtv054.stream/playlist.m3u8
+#EXTINF:-1 group-title="台湾",靖天映畫
+http://www.336699.live:1935/blockfour/4gtv-4gtv055.stream/playlist.m3u8
+#EXTINF:-1 group-title="台湾",靖洋卡通
+http://www.336699.live:1935/blockfour/4gtv-4gtv057.stream/playlist.m3u8
+#EXTINF:-1 group-title="台湾",靖天戲劇
+http://www.336699.live:1935/blockfour/4gtv-4gtv058.stream/playlist.m3u8
+#EXTINF:-1 group-title="台湾",靖天電影
+http://www.336699.live:1935/blockfour/4gtv-4gtv061.stream/playlist.m3u8
+#EXTINF:-1 group-title="台湾",靖天育樂
+http://www.336699.live:1935/blockfour/4gtv-4gtv062.stream/playlist.m3u8
+#EXTINF:-1 group-title="台湾",靖天國際
+http://www.336699.live:1935/blockfour/4gtv-4gtv063.stream/playlist.m3u8
+#EXTINF:-1 group-title="台湾",中視菁采
+http://www.336699.live:1935/blockfour/4gtv-4gtv064.stream/playlist.m3u8
+#EXTINF:-1 group-title="台湾",TVBS歡樂
+http://www.336699.live:1935/blockfour/4gtv-4gtv068.stream/playlist.m3u8
+#EXTINF:-1 group-title="台湾",ELTA娛樂
+http://www.336699.live:1935/blockfour/4gtv-4gtv070.stream/playlist.m3u8
+#EXTINF:-1 group-title="台湾",TVBS
+http://www.336699.live:1935/blockfour/4gtv-4gtv073.stream/playlist.m3u8
+#EXTINF:-1 group-title="台湾",中視新聞
+http://www.336699.live:1935/blockfour/4gtv-4gtv074.stream/playlist.m3u8
+#EXTINF:-1 group-title="台湾",CHY電影
+http://www.336699.live:1935/blockfour/4gtv-4gtv076.stream/playlist.m3u8
+#EXTINF:-1 group-title="台湾",TRACE
+http://www.336699.live:1935/blockfour/4gtv-4gtv077.stream/playlist.m3u8
+#EXTINF:-1 group-title="台湾",阿里郎
+http://www.336699.live:1935/blockfour/4gtv-4gtv079.stream/playlist.m3u8
+#EXTINF:-1 group-title="台湾",中視經典
+http://www.336699.live:1935/blockfour/4gtv-4gtv080.stream/playlist.m3u8
+#EXTINF:-1 group-title="台湾",HITS
+http://www.336699.live:1935/blockfour/4gtv-4gtv082.stream/playlist.m3u8
+#EXTINF:-1 group-title="台湾",mezzo live
+http://www.336699.live:1935/blockfour/4gtv-4gtv083.stream/playlist.m3u8
+#EXTINF:-1 group-title="台湾",智林體育
+http://www.336699.live:1935/blockfour/4gtv-4gtv101.stream/playlist.m3u8
+#EXTINF:-1 group-title="台湾",龍華電影
+http://www.336699.live:1935/blockfour/litv-longturn03.stream/playlist.m3u8
+#EXTINF:-1 group-title="台湾",博斯高球I
+http://www.336699.live:1935/blockfour/litv-longturn05.stream/playlist.m3u8
+#EXTINF:-1 group-title="台湾",博斯運動I
+http://www.336699.live:1935/blockfour/litv-longturn07.stream/playlist.m3u8
+#EXTINF:-1 group-title="台湾",博斯網球
+http://www.336699.live:1935/blockfour/litv-longturn09.stream/playlist.m3u8
+#EXTINF:-1 group-title="台湾",博斯無限
+http://www.336699.live:1935/blockfour/litv-longturn10.stream/playlist.m3u8
+#EXTINF:-1 group-title="台湾",龍華日韓
+http://www.336699.live:1935/blockfour/litv-longturn11.stream/playlist.m3u8
+#EXTINF:-1 group-title="台湾",寰宇新聞
+http://www.336699.live:1935/blockfour/litv-longturn14.stream/playlist.m3u8
+#EXTINF:-1 group-title="台湾",美國之音
+http://www.336699.live:1935/blockfour/litv-ftv03.stream/playlist.m3u8
+#EXTINF:-1 group-title="台湾",半島電視
+http://www.336699.live:1935/blockfour/litv-ftv10.stream/playlist.m3u8
+#EXTINF:-1 group-title="台湾",民視新聞
+http://www.336699.live:1935/blockfour/litv-ftv13.stream/playlist.m3u8
+#EXTINF:-1 group-title="台湾",i-Fun愛放
+http://www.336699.live:1935/blockfour/litv-ftv15.stream/playlist.m3u8
+#EXTINF:-1 group-title="台湾",好消息
+http://www.336699.live:1935/blockfour/litv-ftv16.stream/playlist.m3u8
+#EXTINF:-1 group-title="台湾",HITS
+http://www.336699.live:1935/blocksix/4gtv-live620.stream/chunklist.m3u8
+#EXTINF:-1 group-title="台湾",民視新聞
+https://pull-l3-cny.douyincdn.com/live/304b8e04a437299311112b7f4902c9dd.m3u8
+#EXTINF:-1 group-title="台湾",台灣戲劇
+http://www.336699.live:1935/blocksix/4gtv-live005.stream/chunklist.m3u8
+#EXTINF:-1 group-title="台湾",台灣綜藝
+http://www.336699.live:1935/blocksix/4gtv-live006.stream/chunklist.m3u8
+#EXTINF:-1 group-title="台湾",大愛
+http://www.336699.live:1935/blocksix/4gtv-live007.stream/chunklist.m3u8
+#EXTINF:-1 group-title="台湾",人間衛視
+http://www.336699.live:1935/blocksix/4gtv-live008.stream/chunklist.m3u8
+#EXTINF:-1 group-title="台湾",ROLLOR
+http://www.336699.live:1935/blocksix/4gtv-live012.stream/chunklist.m3u8
+#EXTINF:-1 group-title="台湾",東森財經新聞
+http://www.336699.live:1935/blocksix/4gtv-live019.stream/chunklist.m3u8
+#EXTINF:-1 group-title="台湾",老電影
+http://www.336699.live:1935/blocksix/4gtv-live021.stream/chunklist.m3u8
+#EXTINF:-1 group-title="台湾",經典卡通
+http://www.336699.live:1935/blocksix/4gtv-live022.stream/chunklist.m3u8
+#EXTINF:-1 group-title="台湾",精選動漫
+http://www.336699.live:1935/blocksix/4gtv-live024.stream/chunklist.m3u8
+#EXTINF:-1 group-title="台湾",影迷紀實
+http://www.336699.live:1935/blocksix/4gtv-live023.stream/chunklist.m3u8
+#EXTINF:-1 group-title="台湾",History
+http://www.336699.live:1935/blocksix/4gtv-live026.stream/chunklist.m3u8
+#EXTINF:-1 group-title="台湾",MTV
+http://www.336699.live:1935/blocksix/4gtv-live025.stream/chunklist.m3u8
+#EXTINF:-1 group-title="台湾",CI罪案現場
+http://www.336699.live:1935/blocksix/4gtv-live027.stream/chunklist.m3u8
+#EXTINF:-1 group-title="台湾",Lifetime
+http://www.336699.live:1935/blocksix/4gtv-live029.stream/chunklist.m3u8
+#EXTINF:-1 group-title="台湾",LIVE互動英語
+http://www.336699.live:1935/blocksix/4gtv-live030.stream/chunklist.m3u8
+#EXTINF:-1 group-title="台湾",nickjr.
+http://www.336699.live:1935/blocksix/4gtv-live032.stream/chunklist.m3u8
+#EXTINF:-1 group-title="台湾",中天綜合
+http://www.336699.live:1935/blocksix/4gtv-live033.stream/chunklist.m3u8
+#EXTINF:-1 group-title="台湾",東森購物
+http://www.336699.live:1935/blocksix/4gtv-live046.stream/chunklist.m3u8
+#EXTINF:-1 group-title="台湾",東森購物2
+http://www.336699.live:1935/blocksix/4gtv-live047.stream/chunklist.m3u8
+#EXTINF:-1 group-title="台湾",新唐人亞太
+http://www.336699.live:1935/blocksix/4gtv-live050.stream/chunklist.m3u8
+#EXTINF:-1 group-title="台湾",全球財經
+http://www.336699.live:1935/blocksix/4gtv-live060.stream/chunklist.m3u8
+#EXTINF:-1 group-title="台湾",Cinema worid
+http://www.336699.live:1935/blocksix/4gtv-live069.stream/chunklist.m3u8
+#EXTINF:-1 group-title="台湾",DW
+http://www.336699.live:1935/blocksix/4gtv-live071.stream/chunklist.m3u8
+#EXTINF:-1 group-title="台湾",TVBS HD
+http://www.336699.live:1935/blocksix/4gtv-live072.stream/chunklist.m3u8
+#EXTINF:-1 group-title="台湾",全民最大黨
+http://www.336699.live:1935/blocksix/4gtv-live076.stream/chunklist.m3u8
+#EXTINF:-1 group-title="台湾",TVBS精采
+http://www.336699.live:1935/blocksix/4gtv-live086.stream/chunklist.m3u8
+#EXTINF:-1 group-title="台湾",三立新聞
+http://www.336699.live:1935/blocksix/4gtv-live089.stream/chunklist.m3u8
+#EXTINF:-1 group-title="台湾",nickelodeon
+http://www.336699.live:1935/blocksix/4gtv-live105.stream/chunklist.m3u8
+#EXTINF:-1 group-title="台湾",大愛2
+http://www.336699.live:1935/blocksix/4gtv-live106.stream/chunklist.m3u8
+#EXTINF:-1 group-title="台湾",momo親子
+http://www.336699.live:1935/blocksix/4gtv-live107.stream/chunklist.m3u8
+#EXTINF:-1 group-title="台湾",TECHStorm
+http://www.336699.live:1935/blocksix/4gtv-live109.stream/chunklist.m3u8
+#EXTINF:-1 group-title="台湾",Pet Club
+http://www.336699.live:1935/blocksix/4gtv-live110.stream/chunklist.m3u8
+#EXTINF:-1 group-title="台湾",東森新聞
+http://www.336699.live:1935/blocksix/4gtv-live114.stream/chunklist.m3u8
+#EXTINF:-1 group-title="台湾",Gobal Trekker
+http://www.336699.live:1935/blocksix/4gtv-live112.stream/chunklist.m3u8
+#EXTINF:-1 group-title="台湾",LUXE
+http://www.336699.live:1935/blocksix/4gtv-live121.stream/chunklist.m3u8
+#EXTINF:-1 group-title="台湾",ELTA生活旅遊
+http://www.336699.live:1935/blocksix/4gtv-live120.stream/chunklist.m3u8
+#EXTINF:-1 group-title="台湾",Style
+http://www.336699.live:1935/blocksix/4gtv-live122.stream/chunklist.m3u8
+#EXTINF:-1 group-title="台湾",中天美食旅遊
+http://www.336699.live:1935/blocksix/4gtv-live123.stream/chunklist.m3u8
+#EXTINF:-1 group-title="台湾",CNN
+http://www.336699.live:1935/blocksix/4gtv-live130.stream/chunklist.m3u8
+#EXTINF:-1 group-title="台湾",ROCK ACTION
+http://www.336699.live:1935/blocksix/4gtv-live138.stream/chunklist.m3u8
+#EXTINF:-1 group-title="台湾",金光布袋戲
+http://www.336699.live:1935/blocksix/4gtv-live144.stream/chunklist.m3u8
+#EXTINF:-1 group-title="台湾",Catchplay
+http://www.336699.live:1935/blocksix/4gtv-live155.stream/chunklist.m3u8
+#EXTINF:-1 group-title="台湾",MCE
+http://www.336699.live:1935/blocksix/4gtv-live157.stream/chunklist.m3u8
+#EXTINF:-1 group-title="台湾",幸福空間居家
+http://www.336699.live:1935/blocksix/4gtv-live206.stream/chunklist.m3u8
+#EXTINF:-1 group-title="台湾",三立綜合
+http://www.336699.live:1935/blocksix/4gtv-live207.stream/chunklist.m3u8
+#EXTINF:-1 group-title="台湾",LOVE Nature
+http://www.336699.live:1935/blocksix/4gtv-live208.stream/chunklist.m3u8
+#EXTINF:-1 group-title="台湾",愛爾達體育1
+http://www.best336699.com:1935/besttv/IR11.stream/playlist.m3u8
+#EXTINF:-1 group-title="台湾",愛爾達體育2
+http://www.best336699.com:1935/besttv/IR22.stream/playlist.m3u8
+#EXTINF:-1 group-title="台湾",愛爾達體育3
+http://www.best336699.com:1935/besttv/IR33.stream/playlist.m3u8
+#EXTINF:-1 group-title="台湾",龍華電影
+https://epg.pw/stream/e4f21acda4343622520728335bad935a0f525b0afb005d52e8cb4f96c1c0f423.m3u8
+#EXTINF:-1 group-title="台湾",龍華電影
+https://epg.pw/stream/48e65c7ee2e32cd94bd6ef41b978802804253539e7a5d4bc156ed6bd27543d87.m3u8
+#EXTINF:-1 group-title="台湾",鏡新聞
+http://tv.redrainl.site:9500/live.m3u8?c=28
+#EXTINF:-1 group-title="台湾",鏡新聞
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV70.m3u8
+#EXTINF:-1 group-title="台湾",緯來體育
+http://123.51.230.108:18509/.m3u8
+#EXTINF:-1 group-title="台湾",東森戲劇
+http://123.51.230.108:18538/.m3u8
+#EXTINF:-1 group-title="台湾",八大第一
+http://123.51.230.108:18539/.m3u8
+#EXTINF:-1 group-title="台湾",民視新聞
+http://123.51.230.108:18663/.m3u8
+#EXTINF:-1 group-title="台湾",東森財經
+http://123.51.230.108:18515/.m3u8
+#EXTINF:-1 group-title="台湾",東風37
+http://123.51.230.108:18560/.m3u8
+#EXTINF:-1 group-title="台湾",台視
+http://23.237.10.66:16344
+#EXTINF:-1 group-title="台湾",民視
+http://23.237.10.66:16334
+#EXTINF:-1 group-title="台湾",星衛娛樂
+http://23.237.10.66:16359
+#EXTINF:-1 group-title="台湾",中天綜合
+http://23.237.10.66:16372
+#EXTINF:-1 group-title="台湾",東森幼幼
+http://www.yshmzmc.top/gtjm.php?id=live1008
+#EXTINF:-1 group-title="台湾",緯來體育
+http://www.yshmzmc.top/gtjm.php?id=live1011
+#EXTINF:-1 group-title="台湾",東森新聞
+http://www.yshmzmc.top/gtjm.php?id=live1014
+#EXTINF:-1 group-title="台湾",中天新聞
+http://www.yshmzmc.top/gtjm.php?id=live1015
+#EXTINF:-1 group-title="台湾",三立都會
+http://www.yshmzmc.top/gtjm.php?id=live1020
+#EXTINF:-1 group-title="台湾",中天娛樂
+http://www.yshmzmc.top/gtjm.php?id=live1023
+#EXTINF:-1 group-title="台湾",衛視中文
+http://www.yshmzmc.top/gtjm.php?id=live1024
+#EXTINF:-1 group-title="台湾",HBO
+http://www.yshmzmc.top/gtjm.php?id=live1029
+#EXTINF:-1 group-title="台湾",衛視電影
+http://www.yshmzmc.top/gtjm.php?id=live1031
+#EXTINF:-1 group-title="台湾",Movie Gold
+http://www.yshmzmc.top/gtjm.php?id=live1032
+#EXTINF:-1 group-title="台湾",star world
+http://www.yshmzmc.top/gtjm.php?id=live1040
+#EXTINF:-1 group-title="台湾",八大第一
+http://www.yshmzmc.top/gtjm.php?id=live1043
+#EXTINF:-1 group-title="台湾",CNN
+http://www.yshmzmc.top/gtjm.php?id=live1063
+#EXTINF:-1 group-title="台湾",ELEVEN1
+http://www.yshmzmc.top/gtjm.php?id=live1069
+#EXTINF:-1 group-title="台湾",ELEVEN2
+http://www.yshmzmc.top/gtjm.php?id=live1072
+#EXTINF:-1 group-title="台湾",年代新聞
+http://www.yshmzmc.top/gtjm.php?id=live1077
+#EXTINF:-1 group-title="台湾",三立新聞
+http://www.yshmzmc.top/gtjm.php?id=live1079
+#EXTINF:-1 group-title="台湾",寰宇新聞
+http://www.yshmzmc.top/gtjm.php?id=live1222
+#EXTINF:-1 group-title="台湾",博斯運動1
+http://www.yshmzmc.top/gtjm.php?id=live1225
+#EXTINF:-1 group-title="台湾",壹新聞
+http://www.yshmzmc.top/gtjm.php?id=live1242
+#EXTINF:-1 group-title="台湾",MOMO綜合
+http://www.yshmzmc.top/gtjm.php?id=live1248
+#EXTINF:-1 group-title="台湾",年代much
+http://www.yshmzmc.top/gtjm.php?id=live2002
+#EXTINF:-1 group-title="台湾",中天綜合
+https://epg.pw/stream/9ffc906d37cf095d0fb596c3cba6c6253e8e445f4ccd24563c7a2e9e99c39f39.m3u8
+#EXTINF:-1 group-title="台湾",中天綜合
+https://epg.pw/stream/4c3c400280fb3d1f5b27322fe4827f5ba43f09963e114b0973bea7b5a85f7d73.ctv
+#EXTINF:-1 group-title="台湾",台視
+https://epg.pw/味stream/fda76a6bb8b43c6fcc3fd9ad7aea048137b4520441112a9f0d0122b1b8945dde.ctv
+#EXTINF:-1 group-title="台湾",天映經典
+https://epg.pw/stream/c144b6e78dae226aaf5d3ea400c87707189b5f1ab750e1d1ca5b7e00706dd47d.m3u8
+#EXTINF:-1 group-title="台湾",天映經典
+https://epg.pw/stream/87617e79441d46b5917a3bdca13259e4de2d9e11f828a88f1cb1c80d377f76f4.m3u8
+#EXTINF:-1 group-title="台湾",原住民頻道
+https://epg.pw/stream/3d0b93fe5f3ae06d96d0d4bc7931ec323ee5ef2721d880629f50a6672c2c7bb3.m3u8
+#EXTINF:-1 group-title="台湾",TVBS歡樂
+https://epg.pw/stream/a0e38cabd293735287ad24ea12d5e2e3d2f0ecd3a9984895501def1ccc98f1e6.m3u8
+#EXTINF:-1 group-title="台湾",TVBS新聞
+https://epg.pw/stream/18fc21d67cb93b0bd6acebdb5c6e5268ea50abb890acb9e78643189d36326e6c.ctv
+#EXTINF:-1 group-title="台湾",TVBS
+https://epg.pw/stream/c69d1cc112b64d809dcd6b9359153d668abbca671102437a920d36072581f7c6.ctv
+#EXTINF:-1 group-title="台湾",三立都會
+https://epg.pw/stream/313345d3e4c73171c55ae7c27654790b0863d0bfc465df7d937a69f0dff587f5.ctv
+#EXTINF:-1 group-title="台湾",衛視中文
+https://epg.pw/stream/e90bbc4d59eaed31098c2ee4ecbaee0c686b15379e52c5bc09b56fcb4386e12a.m3u8
+#EXTINF:-1 group-title="台湾",民視新聞
+https://git.io/JgkAb
+#EXTINF:-1 group-title="台湾",台視新聞
+https://git.io/JgkxY
+#EXTINF:-1 group-title="台湾",中視新聞
+https://git.io/Jgkxz
+#EXTINF:-1 group-title="台湾",華視新聞資訊
+https://git.io/J1zPH
+#EXTINF:-1 group-title="台湾",三立Live新聞
+https://git.io/Jgkxp
+#EXTINF:-1 group-title="台湾",三立iNews
+https://git.io/Jgkxj
+#EXTINF:-1 group-title="台湾",寰宇新聞
+https://git.io/JgkpO
+#EXTINF:-1 group-title="台湾",東森新聞
+https://git.io/Jgkps
+#EXTINF:-1 group-title="台湾",東森財經新聞
+https://git.io/Jgkpc
+#EXTINF:-1 group-title="台湾",TVBS
+https://git.io/JgYl2
+#EXTINF:-1 group-title="台湾",TVBS新聞
+https://git.io/Jgkp1
+#EXTINF:-1 group-title="台湾",中天新聞
+https://git.io/Jgkpy
+#EXTINF:-1 group-title="台湾",幸福空間居家
+https://git.io/JgYYF
+#EXTINF:-1 group-title="台湾",KPOP
+https://git.io/JgYAE
+#EXTINF:-1 group-title="台湾",大愛
+https://pulltv1.wanfudaluye.com/live/tv1.m3u8
+#EXTINF:-1 group-title="台湾",大愛2
+https://pulltv2.wanfudaluye.com/live/tv2.m3u8#https://pulltv1.wanfudaluye.com/live/tv2.m3u8
+#EXTINF:-1 group-title="台湾",大愛海外
+https://pulltv3.wanfudaluye.com/live/tv3.m3u8
+#EXTINF:-1 group-title="台湾",TVBS新聞
+http://38.64.72.148/hls/modn/list/4006/chunklist1.m3u8
+#EXTINF:-1 group-title="台湾",台視新聞
+http://38.64.72.148/hls/modn/list/4013/chunklist1.m3u8
+#EXTINF:-1 group-title="台湾",民視新聞
+http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8
+#EXTINF:-1 group-title="台湾",世新綜合
+http://61.58.60.230:9319/live/49.m3u8
+#EXTINF:-1 group-title="台湾",嘉義SHOW
+http://61.58.60.230:9319/live/100.m3u8
+#EXTINF:-1 group-title="台湾",嘉有總鋪師
+http://61.58.60.230:9319/live/101.m3u8
+#EXTINF:-1 group-title="台湾",國會頻道1
+http://61.58.60.230:9319/live/123.m3u8
+#EXTINF:-1 group-title="台湾",國會頻道2
+http://61.58.60.230:9319/live/124.m3u8
+#EXTINF:-1 group-title="🎬輪播,#genre#",蠟筆小新
+http://111.6.244.41:80/tx.hls.huya.com/src/1423787878-1423787878-6115122372451237888-2847699212-10057-A-0-1-imgplus.m3u8
+#EXTINF:-1 group-title="🎬輪播,#genre#",蠟筆小新新番
+http://zzy789.xyz/bili.php?id=21570935#https://d1--ov-gotcha105.bilivideo.com/live-bvc/994033/live_456924462_14930225_1500.m3u8?cdn=ov-gotcha05&expires=1656515371&len=0&oi=2418197863&pt=h5&qn=150&trid=10032f9a2bb6f0c2455b9fda4dfccd27c15c&sigparams=cdn,expires,len,oi,pt,qn,trid&sign=9c4a91a38da1fba64ae8e807059a0285&ptype=0&src=57345&sl=2&source=one&sche=ban&sk=9cb5fa1da6fe10638ca787952b18c932&order=1
+#EXTINF:-1 group-title="🎬輪播,#genre#",七龍珠改
+https://epg.112114.xyz/huya/11601966
+#EXTINF:-1 group-title="🎬輪播,#genre#",小豬佩琪
+http://baiducdncmn2.inter.iqiyi.com/tslive/c53_lb_78_1080P_t10/c53_lb_78_1080P_t10.m3u8#http://lvbaiducdncmn.inter.iqiyi.com/tslive/c53_lb_78_1080P_t10/c53_lb_78_1080P_t10.m3u8
+#EXTINF:-1 group-title="🎬輪播,#genre#",獵人X獵人
+http://epg.112114.xyz/douyu/6610883
+#EXTINF:-1 group-title="🎬輪播,#genre#",名偵探柯南
+http://lvbaiducdncmn.inter.iqiyi.com/tslive/c54_lb_157_600_t10/c54_lb_157_600_t10.m3u8?key=0b292c335e5837e948e91dd5d11efa525
+#EXTINF:-1 group-title="🎬輪播,#genre#",中華一番
+http://36.101.206.161/txdirect.hls.huya.com/huyalive/1449588921-1449588921-6225937008338927616-2789274526-10057-A-0-1.m3u8?wsSecret=9a52402588a0294acead2df3b623780f&wsTime=62707e38&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_tars&txyp=o%3Afz6%3B&fs=bgct
+#EXTINF:-1 group-title="🎬輪播,#genre#",周星馳
+http://111.6.244.41/tx.hls.huya.com/src/1394575534-1394575534-5989656310331736064-2789274524-10057-A-0-1-imgplus.m3u8
+#EXTINF:-1 group-title="🎬輪播,#genre#",周星馳廣東話
+http://111.6.244.41/tx.hls.huya.com/src/1250011-1250011-5368756364640256-2777036638-10057-A-0-1.m3u8
+#EXTINF:-1 group-title="🎬輪播,#genre#",成龍
+http://111.6.244.41/tx.hls.huya.com/src/1394565191-1394565191-5989611887484993536-2789253838-10057-A-0-1-imgplus.m3u8
+#EXTINF:-1 group-title="李連杰.http://111.6.244.41/tx.hls.huya.com/src/1394565196-1394565196-5989611908959830016-2789253848-10057-A-0-1-imgplus.m3u8",林正英
+http://111.6.244.41/tx.hls.huya.com/src/1394575543-1394575543-5989656348986441728-2789274542-10057-A-0-1.m3u8
+#EXTINF:-1 group-title="李連杰.http://111.6.244.41/tx.hls.huya.com/src/1394565196-1394565196-5989611908959830016-2789253848-10057-A-0-1-imgplus.m3u8",劉德華
+http://111.6.244.41/tx.hls.huya.com/src/1394575547-1394575547-5989656366166310912-2789274550-10057-A-0-1.m3u8
+#EXTINF:-1 group-title="李連杰.http://111.6.244.41/tx.hls.huya.com/src/1394565196-1394565196-5989611908959830016-2789253848-10057-A-0-1-imgplus.m3u8",周潤發
+http://111.6.244.41/tx.hls.huya.com/src/1394565192-1394565192-5989611891779960832-2789253840-10057-A-0-1-imgplus.m3u8
+#EXTINF:-1 group-title="李連杰.http://111.6.244.41/tx.hls.huya.com/src/1394565196-1394565196-5989611908959830016-2789253848-10057-A-0-1-imgplus.m3u8",甄子丹
+http://111.6.244.41/tx.hls.huya.com/src/1423787820-1423787820-6115122123343134720-2847699096-10057-A-0-1-imgplus.m3u8
+#EXTINF:-1 group-title="李連杰.http://111.6.244.41/tx.hls.huya.com/src/1394565196-1394565196-5989611908959830016-2789253848-10057-A-0-1-imgplus.m3u8",洪金寶
+http://111.6.244.41/tx.hls.huya.com/src/73821423-73821423-317060597529182208-2710090468-10057-A-0-1.m3u8
+#EXTINF:-1 group-title="李連杰.http://111.6.244.41/tx.hls.huya.com/src/1394565196-1394565196-5989611908959830016-2789253848-10057-A-0-1-imgplus.m3u8",王晶
+http://111.6.244.41/tx.hls.huya.com/src/1524434111-1524434111-6547394651651833856-3048991678-10057-A-0-1.m3u8
+#EXTINF:-1 group-title="李連杰.http://111.6.244.41/tx.hls.huya.com/src/1394565196-1394565196-5989611908959830016-2789253848-10057-A-0-1-imgplus.m3u8",黑幫大片
+http://111.6.244.41/tx.hls.huya.com/src/1388472589-1388472589-5963444361147449344-2777068634-10057-A-0-1-imgplus.m3u8
 
 #EXTINF:-1 tvg-id="90350" tvg-name="HK| FAIRCHILD EAST" tvg-logo="http://logo.protv.cc/picons/logos/FAIRCHILD-WEST.png" group-title="香港",HK| FAIRCHILD EAST
 http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=90350&extension=ts&play_token=w4panUqY4F
@@ -2075,4 +2397,3 @@ http://baidu.live.cqccn.com/__cl/cg:live/__c/qinghaiSD/__op/default/__f//index.m
 http://baidu.live.cqccn.com/__cl/cg:live/__c/xinjiangSD/__op/default/__f//index.m3u8?
 #EXTINF:-1 group-title="江苏电信",西藏卫视
 http://baidu.live.cqccn.com/__cl/cg:live/__c/xizangSD/__op/default/__f//index.m3u8?
-
