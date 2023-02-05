@@ -2216,3 +2216,294 @@ http://baidu.live.cqccn.com/__cl/cg:live/__c/qinghaiSD/__op/default/__f//index.m
 http://baidu.live.cqccn.com/__cl/cg:live/__c/xinjiangSD/__op/default/__f//index.m3u8?
 #EXTINF:-1 group-title="江苏电信",西藏卫视
 http://baidu.live.cqccn.com/__cl/cg:live/__c/xizangSD/__op/default/__f//index.m3u8?
+#EXTINF:-1 group-title="cbnbn",重庆卫视高清
+http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/chongqingHD/__op/default/__f/index.m3u8
+#EXTINF:-1 group-title="cbnbn",重庆新闻高清
+http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/CQTVNewsHD/__op/default/__f/index.m3u8
+#EXTINF:-1 group-title="cbnbn",重庆影视高清
+http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/cqyingshiHD/__op/default/__f/index.m3u8
+#EXTINF:-1 group-title="cbnbn",重庆社会与法高清
+http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/CQTVTrendyHD/__op/default/__f/index.m3u8
+#EXTINF:-1 group-title="cbnbn",重庆时尚生活高清
+http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/cqssgwHD/__op/default/__f/index.m3u8
+#EXTINF:-1 group-title="cbnbn",重庆文体娱乐高清
+http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/cqwtylHD/__op/default/__f/index.m3u8
+#EXTINF:-1 group-title="cbnbn",重庆新农村高清
+http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/cqggncHD/__op/default/__f/index.m3u8
+#EXTINF:-1 group-title="cbnbn",重庆少儿高清
+http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/cqseHD/__op/default/__f/index.m3u8
+#EXTINF:-1 group-title="cbnbn",重庆科教高清
+http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/CQTVkejiaoHD/__op/default/__f/index.m3u8
+#EXTINF:-1 group-title="cbnbn",爱看导视高清
+http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/aikanHD/__op/default/__f/index.m3u8
+#EXTINF:-1 group-title="cbnbn",重广融媒
+http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/cqrongmei/__op/default/__f/index.m3u8
+#EXTINF:-1 group-title="cbnbn",重庆汽摩高清
+http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/cqcarSD/__op/default/__f/index.m3u8
+#EXTINF:-1 group-title="cbnbn",重庆移动高清
+http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/mryyHD/__op/default/__f/index.m3u8
+#EXTINF:-1 group-title="cbnbn",CCTV1综合高清
+http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/cctv1HD/__op/default/__f/index.m3u8
+#EXTINF:-1 group-title="cbnbn",CCTV2财经高清
+http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/cctv2HD/__op/default/__f/index.m3u8
+#EXTINF:-1 group-title="cbnbn",CCTV3综艺高清
+http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/cctv3HD/__op/default/__f/index.m3u8
+#EXTINF:-1 group-title="cbnbn",CCTV4中文国际高清
+http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/cctv4HD/__op/default/__f/index.m3u8
+#EXTINF:-1 group-title="cbnbn",CCTV5体育高清
+http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/cctv5HD/__op/default/__f/index.m3u8
+#EXTINF:-1 group-title="cbnbn",CCTV5+体育赛事高清
+http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/cctv5SportHD/__op/default/__f/index.m3u8
+#EXTINF:-1 group-title="cbnbn",CCTV6电影高清
+http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/cctv6HD/__op/default/__f/index.m3u8
+#EXTINF:-1 group-title="cbnbn",CCTV7国防军事高清
+http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/cctv7HD/__op/default/__f/index.m3u8
+#EXTINF:-1 group-title="cbnbn",CCTV8电视剧高清
+http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/cctv8HD/__op/default/__f/index.m3u8
+#EXTINF:-1 group-title="cbnbn",CCTV9纪录高清
+http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/cctv9HD/__op/default/__f/index.m3u8
+#EXTINF:-1 group-title="cbnbn",CCTV10科教高清
+http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/cctv10HD/__op/default/__f/index.m3u8
+#EXTINF:-1 group-title="cbnbn",CCTV11戏曲高清
+http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/cctv11HD/__op/default/__f/index.m3u8
+#EXTINF:-1 group-title="cbnbn",CCTV12社会与法高清
+http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/cctv12HD/__op/default/__f/index.m3u8
+#EXTINF:-1 group-title="cbnbn",CCTV13新闻高清
+http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/CCTVNewsHD/__op/default/__f/index.m3u8
+#EXTINF:-1 group-title="cbnbn",CCTV14少儿高清
+http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/cctvseHD/__op/default/__f/index.m3u8
+#EXTINF:-1 group-title="cbnbn",CCTV15音乐高清
+http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/cctv15HD/__op/default/__f/index.m3u8
+#EXTINF:-1 group-title="cbnbn",CCTV16奥林匹克高清
+http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/cctv16HD/__op/default/__f/index.m3u8
+#EXTINF:-1 group-title="cbnbn",CCTV17农业农村高清
+http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/cctv17HD/__op/default/__f/index.m3u8
+#EXTINF:-1 group-title="cbnbn",江苏卫视高清
+http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/jiangsuHD/__op/default/__f/index.m3u8
+#EXTINF:-1 group-title="cbnbn",浙江卫视高清
+http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/zhejiangHD/__op/default/__f/index.m3u8
+#EXTINF:-1 group-title="cbnbn",上海卫视高清
+http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/shanghaiHD/__op/default/__f/index.m3u8
+#EXTINF:-1 group-title="cbnbn",深圳卫视高清
+http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/shenzhenHD/__op/default/__f/index.m3u8
+#EXTINF:-1 group-title="cbnbn",北京卫视高清
+http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/beijingHD/__op/default/__f/index.m3u8
+#EXTINF:-1 group-title="cbnbn",辽宁卫视高清
+http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/liaoningHD/__op/default/__f/index.m3u8
+#EXTINF:-1 group-title="cbnbn",天津卫视高清
+http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/tianjinHD/__op/default/__f/index.m3u8
+#EXTINF:-1 group-title="cbnbn",贵州卫视高清
+http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/guizhouHD/__op/default/__f/index.m3u8
+#EXTINF:-1 group-title="cbnbn",四川卫视高清
+http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/sichuanHD/__op/default/__f/index.m3u8
+#EXTINF:-1 group-title="cbnbn",云南卫视高清
+http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/yunnanSD/__op/default/__f/index.m3u8
+#EXTINF:-1 group-title="cbnbn",黑龙江卫视高清
+http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/heilongjiangHD/__op/default/__f/index.m3u8
+#EXTINF:-1 group-title="cbnbn",安徽卫视高清
+http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/anhuiSD/__op/default/__f/index.m3u8
+#EXTINF:-1 group-title="cbnbn",河北卫视高清
+http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/hebeiSD/__op/default/__f/index.m3u8
+#EXTINF:-1 group-title="cbnbn",江西卫视高清
+http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/jiangxiHD/__op/default/__f/index.m3u8
+#EXTINF:-1 group-title="cbnbn",湖北卫视高清
+http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/hubeiSD/__op/default/__f/index.m3u8
+#EXTINF:-1 group-title="cbnbn",海南卫视高清
+http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/hainanSD/__op/default/__f/index.m3u8
+#EXTINF:-1 group-title="cbnbn",东南卫视高清
+http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/dongnanHD/__op/default/__f/index.m3u8
+#EXTINF:-1 group-title="cbnbn",吉林卫视高清
+http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/jilinHD/__op/default/__f/index.m3u8
+#EXTINF:-1 group-title="cbnbn",广西卫视高清
+http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/guangxiHD/__op/default/__f/index.m3u8
+#EXTINF:-1 group-title="cbnbn",内蒙古卫视
+http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/neimengkuSD/__op/default/__f/index.m3u8
+#EXTINF:-1 group-title="cbnbn",湖南卫视高清
+http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/hunanHD/__op/default/__f/index.m3u8
+#EXTINF:-1 group-title="cbnbn",广东卫视高清
+http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/guangdongHD/__op/default/__f/index.m3u8
+#EXTINF:-1 group-title="cbnbn",河南卫视高清
+http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/henanHD/__op/default/__f/index.m3u8
+#EXTINF:-1 group-title="cbnbn",山东卫视高清
+http://39.134.136.132:6610/200000001898/460000089800010066/1.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 group-title="cbnbn",山西卫视
+http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/shanxiSD/__op/default/__f/index.m3u8
+#EXTINF:-1 group-title="cbnbn",兵团卫视
+http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/bingtuanSD/__op/default/__f/index.m3u8
+#EXTINF:-1 group-title="cbnbn",宁夏卫视
+http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/ningxia/__op/default/__f/index.m3u8
+#EXTINF:-1 group-title="cbnbn",北京卡酷少儿
+http://111.31.106.45/downlive.brtvcloud.com/brtv8kapptv/brtv8kappkaku.m3u8
+#EXTINF:-1 group-title="cbnbn",金鹰卡通高清
+http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/jinyingSD/__op/default/__f/index.m3u8
+#EXTINF:-1 group-title="cbnbn",三沙卫视
+http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/sanshaSD/__op/default/__f/index.m3u8
+#EXTINF:-1 group-title="cbnbn",青海卫视
+http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/qinghaiSD/__op/default/__f/index.m3u8
+#EXTINF:-1 group-title="cbnbn",中国天气
+http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/tianqiSD/__op/default/__f/index.m3u8
+#EXTINF:-1 group-title="cbnbn",北京纪实科教高清
+http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/bjayjsSD/__op/default/__f/index.m3u8
+#EXTINF:-1 group-title="cbnbn",山东教育卫视
+http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/sdjiaoyuSD/__op/default/__f/index.m3u8
+#EXTINF:-1 group-title="cbnbn",新疆卫视
+http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/xinjiangSD/__op/default/__f/index.m3u8
+#EXTINF:-1 group-title="cbnbn",西藏卫视
+http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/xizangSD/__op/default/__f/index.m3u8
+#EXTINF:-1 group-title="cbnbn",CGTN
+http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/cgtnSD/__op/default/__f/index.m3u8
+#EXTINF:-1 group-title="cbnbn",CETV-1
+http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/cetv-1SD/__op/default/__f/index.m3u8
+#EXTINF:-1 group-title="cbnbn",CETV-4
+http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/cetv-4SD/__op/default/__f/index.m3u8
+#EXTINF:-1 group-title="cbnbn",生活时尚
+http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/shenghuo/__op/default/__f/index.m3u8
+#EXTINF:-1 group-title="cbnbn",百姓健康
+http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/jiankangSD/__op/default/__f/index.m3u8
+#EXTINF:-1 group-title="cbnbn",快乐垂钓高清
+http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/klcdHD/__op/default/__f/index.m3u8
+#EXTINF:-1 group-title="cbnbn",第一剧场高清
+http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/diyijuchangHD/__op/default/__f/index.m3u8
+#EXTINF:-1 group-title="cbnbn",都市剧场高清
+http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/dsjcHD/__op/default/__f/index.m3u8
+#EXTINF:-1 group-title="cbnbn",动漫秀场高清
+http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/dmxcHD/__op/default/__f/index.m3u8
+#EXTINF:-1 group-title="cbnbn",魅力足球高清
+http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/mlzqHD/__op/default/__f/index.m3u8
+#EXTINF:-1 group-title="cbnbn",世界地理高清
+http://111.20.40.170/PLTV/88888893/224/3221226947/index.m3u8
+#EXTINF:-1 group-title="cbnbn",风云剧场高清
+http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/fyjcHD/__op/default/__f/index.m3u8
+#EXTINF:-1 group-title="cbnbn",求索纪录高清
+http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/qsjlHD/__op/default/__f/index.m3u8
+#EXTINF:-1 group-title="cbnbn",乐游高清
+http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/qjshd8m/8000000/mnf.m3u8
+#EXTINF:-1 group-title="cbnbn",兵器科技高清
+http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/bqkjHD/__op/default/__f/index.m3u8
+#EXTINF:-1 group-title="cbnbn",劲爆体育高清
+http://223.109.53.49/liveplay-kk.rtxapp.com/live/program/live/jbtyhd8m/8000000/mnf.m3u8?
+#EXTINF:-1 group-title="cbnbn",游戏风云高清
+http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/yxfyHD/__op/default/__f/index.m3u8
+#EXTINF:-1 group-title="cbnbn",CHC高清电影高清
+http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/chcgqdyHD/__op/default/__f/index.m3u8
+#EXTINF:-1 group-title="cbnbn",CHC动作电影高清
+http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/chcdzdyHD/__op/default/__f/index.m3u8
+#EXTINF:-1 group-title="cbnbn",CHC家庭影院高清
+http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/chcjtyyHD/__op/default/__f/index.m3u8
+#EXTINF:-1 group-title="cbnbn",怀旧剧场高清
+http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/hjjcHD/__op/default/__f/index.m3u8
+#EXTINF:-1 group-title="cbnbn",风云音乐高清
+http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/fyyyHD/__op/default/__f/index.m3u8
+#EXTINF:-1 group-title="cbnbn",央视台球高清
+http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/ystqHD/__op/default/__f/index.m3u8
+#EXTINF:-1 group-title="cbnbn",风云足球高清
+http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/fyzqHD/__op/default/__f/index.m3u8
+#EXTINF:-1 group-title="cbnbn",央视文化精品高清
+http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/yswhHD/__op/default/__f/index.m3u8
+#EXTINF:-1 group-title="cbnbn",高尔夫网球高清
+http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/golfHD/__op/default/__f/index.m3u8
+#EXTINF:-1 group-title="cbnbn",早期教育高清
+http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/zaojiaoHD/__op/default/__f/index.m3u8
+#EXTINF:-1 group-title="cbnbn",东方财经高清
+http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/dfcj/__op/default/__f/index.m3u8
+#EXTINF:-1 group-title="cbnbn",证券服务
+http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/jiazheng/__op/default/__f/index.m3u8
+#EXTINF:-1 group-title="cbnbn",书画
+http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/shuhua/__op/default/__f/index.m3u8
+#EXTINF:-1 group-title="cbnbn",新动漫
+http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/dongman/__op/default/__f/index.m3u8
+#EXTINF:-1 group-title="cbnbn",国学频道
+http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/guoxue/__op/default/__f/index.m3u8
+#EXTINF:-1 group-title="cbnbn",中华特产
+http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/techan/__op/default/__f/index.m3u8
+#EXTINF:-1 group-title="cbnbn",环球奇观
+http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/car/__op/default/__f/index.m3u8
+#EXTINF:-1 group-title="cbnbn",生态环境
+http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/shengtai/__op/default/__f/index.m3u8
+#EXTINF:-1 group-title="cbnbn",四海钓鱼
+http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/diaoyu/__op/default/__f/index.m3u8
+#EXTINF:-1 group-title="cbnbn",发现之旅
+http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/faxian/__op/default/__f/index.m3u8
+#EXTINF:-1 group-title="cbnbn",法治天地
+http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/fazhi/__op/default/__f/index.m3u8
+#EXTINF:-1 group-title="cbnbn",金色学堂
+http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/jinse/__op/default/__f/index.m3u8
+#EXTINF:-1 group-title="cbnbn",收藏天下
+http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/soucang/__op/default/__f/index.m3u8
+#EXTINF:-1 group-title="cbnbn",财富天下
+http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/caifu/__op/default/__f/index.m3u8
+#EXTINF:-1 group-title="cbnbn",女性时尚
+http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/nvxing/__op/default/__f/index.m3u8
+#EXTINF:-1 group-title="cbnbn",天元围棋
+http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/weiqi/__op/default/__f/index.m3u8
+#EXTINF:-1 group-title="cbnbn",先锋乒羽
+http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/xianfeng/__op/default/__f/index.m3u8
+#EXTINF:-1 group-title="cbnbn",环球旅游
+http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/huanqiulvyou/__op/default/__f/index.m3u8
+#EXTINF:-1 group-title="cbnbn",老故事
+http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/gushi/__op/default/__f/index.m3u8
+#EXTINF:-1 group-title="cbnbn",摄影频道
+http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/sheying/__op/default/__f/index.m3u8
+#EXTINF:-1 group-title="cbnbn",靓妆
+http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/liang/__op/default/__f/index.m3u8
+#EXTINF:-1 group-title="cbnbn",CCTV4K超高清
+http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/CCTV4K/__op/default/__f/index.m3u8
+#EXTINF:-1 group-title="cbnbn",CCTV4K（备用）
+http://159.75.85.63:5679/cctv4k.php
+#EXTINF:-1 group-title="cbnbn",欢笑剧场4K超高清
+http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/hxjc_4K/__op/default/__f/index.m3u8
+#EXTINF:-1 group-title="cbnbn",欢笑剧场4K（备用）
+http://111.20.40.170/PLTV/88888893/224/3221226582/index.m3u8
+#EXTINF:-1 group-title="cbnbn",CCTV16奥林匹克4K超高清
+http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/CCTV16_4K/__op/default/__f/index.m3u8
+#EXTINF:-1 group-title="cbnbn",CCTV16 4K（备用）
+http://223.109.53.49/liveplay-kk.rtxapp.com/live/program/live/cctv16hd4k/15000000/mnf.m3u8?
+#EXTINF:-1 group-title="cbnbn",4K电影测试
+http://111.20.40.170/PLTV/88888893/224/3221226352/index.m3u8
+#EXTINF:-1 group-title="cbnbn",苏州4K
+http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
+#EXTINF:-1 group-title="cbnbn",4K UHD
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225786/index.m3u8
+#EXTINF:-1 group-title="cbnbn",中学生
+http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/qicai/__op/default/__f/index.m3u8
+#EXTINF:-1 group-title="cbnbn",优优宝贝
+http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/youxi/__op/default/__f/index.m3u8
+#EXTINF:-1 group-title="cbnbn",车迷
+http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/doxtv/__op/default/__f/index.m3u8
+#EXTINF:-1 group-title="cbnbn",CCTV1高清（备用）
+http://39.134.136.132:6610/200000001898/460000089800010144/1.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 group-title="cbnbn",CCTV2高清（备用）
+http://39.134.136.132:6610/200000001898/460000089800010050/1.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 group-title="cbnbn",CCTV3高清（备用）
+http://39.134.136.132:6610/200000001898/460000089800010138/1.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 group-title="cbnbn",CCTV4高清（备用）
+http://39.134.136.132:6610/200000001898/460000089800010017/1.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 group-title="cbnbn",CCTV5高清（备用）
+http://39.134.136.132:6610/200000001898/460000089800010145/1.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 group-title="cbnbn",CCTV5+高清（备用）
+http://39.134.136.132:6610/200000001898/460000089800010044/1.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 group-title="cbnbn",CCTV6高清（备用）
+http://39.134.136.132:6610/200000001898/460000089800010140/1.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 group-title="cbnbn",CCTV7高清（备用）
+http://39.134.136.132:6610/200000001898/460000089800010051/1.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 group-title="cbnbn",CCTV8高清（备用）
+http://39.134.136.132:6610/200000001898/460000089800010141/1.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 group-title="cbnbn",CCTV9高清（备用）
+http://39.134.136.132:6610/200000001898/460000089800010052/1.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 group-title="cbnbn",CCTV10高清（备用）
+http://39.134.136.132:6610/200000001898/460000089800010046/1.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 group-title="cbnbn",CCTV11高清（备用）
+http://39.134.136.132:6610/200000001898/460000089800010092/1.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 group-title="cbnbn",CCTV12高清（备用）
+http://39.134.136.132:6610/200000001898/460000089800010047/1.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 group-title="cbnbn",CCTV13高清（备用）
+http://39.134.136.132:6610/200000001898/460000089800010093/1.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 group-title="cbnbn",CCTV14高清（备用）
+http://39.134.136.132:6610/200000001898/460000089800010048/1.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 group-title="cbnbn",CCTV15高清（备用）
+http://39.134.136.132:6610/200000001898/460000089800010094/1.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 group-title="cbnbn",CCTV16高清（备用）
+http://39.134.136.132:6610/200000001898/460000089800010142/1.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 group-title="cbnbn",CCTV17高清（备用）
+http://39.134.136.132:6610/200000001898/460000089800010049/1.m3u8?IASHttpSessionId=OTT
+
