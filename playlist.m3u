@@ -1107,7 +1107,7 @@ https://liveedge-arisenews.visioncdn.com/live-hls/arisenews/arisenews/arisenews_
 #EXTINF:-1 tvg-id="france24eng" group-title="Global 🇺🇸🇬🇧🇶🇦️" tvg-logo="https://www.publicdiplomacycouncil.org/wp-content/uploads/2020/05/voa-logo.png",VOA (English)
 https://voa-ingest.akamaized.net/hls/live/2033874/tvmc06/VOA-TVMC06_1080/chunklist.m3u8
 #EXTINF:-1 tvg-id="GBAJ42000038R" tvg-logo="https://i.imgur.com/I2yfBm7.png" group-title="Global 🇺🇸🇬🇧🇶🇦️",InWonder TV | Austrália
-https://inwild-samsungau.amagi.tv/playlist.m3u8
+https://inwonder-samsung-uk.amagi.tv/playlist720.m3u8
 #EXTINF:-1  tvg-name="TN - TH THÁI NGUYÊN HD" tvg-id="https://cutt.ly/HaNoiIPTV-TN1-Truyen_hinh_Thai_Nguyen_HD và http://gg.gg/HaNoiIPTV-TN1-Truyen_hinh_Thai_Nguyen_HD và https://api.vthanhtivi.pw/v1/getlink/mytv_web/406/hd" group-title="Global 🇺🇸🇬🇧🇶🇦️" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/TNTV%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20Th%C3%A1i%20Nguy%C3%AAn%20HD.png",TN - Truyền hình Thái Nguyên HD
 https://streaming.thainguyentv.vn/hls/livestream.m3u8
 #EXTINF:-1 group-title="Global 🇺🇸🇬🇧🇶🇦️",Hải Phòng
