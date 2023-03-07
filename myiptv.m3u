@@ -61,1037 +61,1037 @@ http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226984/index.m3u8
 http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226235/index.m3u8
 #EXTINF:-1 group-title="iptva",老故事
 http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226236/index.m3u8
-#EXTINF:-1 group-title="卫视,#genre#",湖南卫视
+#EXTINF:-1 group-title="卫视,",湖南卫视
 http://iptva.cn/api/M3u8/Index?id=616&card=61769016159
-#EXTINF:-1 group-title="卫视,#genre#",浙江卫视
+#EXTINF:-1 group-title="卫视,",浙江卫视
 http://iptva.cn/api/M3u8/Index?id=617&card=61769016159
-#EXTINF:-1 group-title="卫视,#genre#",江苏卫视
+#EXTINF:-1 group-title="卫视,",江苏卫视
 http://iptva.cn/api/M3u8/Index?id=618&card=61769016159
-#EXTINF:-1 group-title="卫视,#genre#",东方卫视
+#EXTINF:-1 group-title="卫视,",东方卫视
 http://iptva.cn/api/M3u8/Index?id=619&card=61769016159
-#EXTINF:-1 group-title="卫视,#genre#",北京卫视
+#EXTINF:-1 group-title="卫视,",北京卫视
 http://iptva.cn/api/M3u8/Index?id=620&card=61769016159
-#EXTINF:-1 group-title="卫视,#genre#",天津卫视
+#EXTINF:-1 group-title="卫视,",天津卫视
 http://iptva.cn/api/M3u8/Index?id=621&card=61769016159
-#EXTINF:-1 group-title="卫视,#genre#",广东卫视
+#EXTINF:-1 group-title="卫视,",广东卫视
 http://iptva.cn/api/M3u8/Index?id=622&card=61769016159
-#EXTINF:-1 group-title="卫视,#genre#",深圳卫视
+#EXTINF:-1 group-title="卫视,",深圳卫视
 http://iptva.cn/api/M3u8/Index?id=623&card=61769016159
-#EXTINF:-1 group-title="卫视,#genre#",东南卫视
+#EXTINF:-1 group-title="卫视,",东南卫视
 http://iptva.cn/api/M3u8/Index?id=624&card=61769016159
-#EXTINF:-1 group-title="卫视,#genre#",山东卫视
+#EXTINF:-1 group-title="卫视,",山东卫视
 http://iptva.cn/api/M3u8/Index?id=625&card=61769016159
-#EXTINF:-1 group-title="卫视,#genre#",河南卫视
+#EXTINF:-1 group-title="卫视,",河南卫视
 http://iptva.cn/api/M3u8/Index?id=626&card=61769016159
-#EXTINF:-1 group-title="卫视,#genre#",河北卫视
+#EXTINF:-1 group-title="卫视,",河北卫视
 http://iptva.cn/api/M3u8/Index?id=627&card=61769016159
-#EXTINF:-1 group-title="卫视,#genre#",安徽卫视
+#EXTINF:-1 group-title="卫视,",安徽卫视
 http://iptva.cn/api/M3u8/Index?id=628&card=61769016159
-#EXTINF:-1 group-title="卫视,#genre#",湖北卫视
+#EXTINF:-1 group-title="卫视,",湖北卫视
 http://iptva.cn/api/M3u8/Index?id=629&card=61769016159
-#EXTINF:-1 group-title="卫视,#genre#",江西卫视
+#EXTINF:-1 group-title="卫视,",江西卫视
 http://iptva.cn/api/M3u8/Index?id=630&card=61769016159
-#EXTINF:-1 group-title="卫视,#genre#",贵州卫视
+#EXTINF:-1 group-title="卫视,",贵州卫视
 http://iptva.cn/api/M3u8/Index?id=631&card=61769016159
-#EXTINF:-1 group-title="卫视,#genre#",重庆卫视
+#EXTINF:-1 group-title="卫视,",重庆卫视
 http://iptva.cn/api/M3u8/Index?id=632&card=61769016159
-#EXTINF:-1 group-title="卫视,#genre#",海南卫视
+#EXTINF:-1 group-title="卫视,",海南卫视
 http://iptva.cn/api/M3u8/Index?id=633&card=61769016159
-#EXTINF:-1 group-title="卫视,#genre#",四川卫视
+#EXTINF:-1 group-title="卫视,",四川卫视
 http://iptva.cn/api/M3u8/Index?id=634&card=61769016159
-#EXTINF:-1 group-title="卫视,#genre#",吉林卫视
+#EXTINF:-1 group-title="卫视,",吉林卫视
 http://iptva.cn/api/M3u8/Index?id=635&card=61769016159
-#EXTINF:-1 group-title="卫视,#genre#",黑龙江卫视
+#EXTINF:-1 group-title="卫视,",黑龙江卫视
 http://iptva.cn/api/M3u8/Index?id=636&card=61769016159
-#EXTINF:-1 group-title="卫视,#genre#",云南卫视
+#EXTINF:-1 group-title="卫视,",云南卫视
 http://iptva.cn/api/M3u8/Index?id=637&card=61769016159
-#EXTINF:-1 group-title="卫视,#genre#",辽宁卫视
+#EXTINF:-1 group-title="卫视,",辽宁卫视
 http://iptva.cn/api/M3u8/Index?id=638&card=61769016159
-#EXTINF:-1 group-title="卫视,#genre#",内蒙古卫视
+#EXTINF:-1 group-title="卫视,",内蒙古卫视
 http://iptva.cn/api/M3u8/Index?id=639&card=61769016159
-#EXTINF:-1 group-title="卫视,#genre#",广西卫视
+#EXTINF:-1 group-title="卫视,",广西卫视
 http://iptva.cn/api/M3u8/Index?id=640&card=61769016159
-#EXTINF:-1 group-title="卫视,#genre#",甘肃卫视
+#EXTINF:-1 group-title="卫视,",甘肃卫视
 http://iptva.cn/api/M3u8/Index?id=641&card=61769016159
-#EXTINF:-1 group-title="卫视,#genre#",陕西卫视
+#EXTINF:-1 group-title="卫视,",陕西卫视
 http://iptva.cn/api/M3u8/Index?id=642&card=61769016159
-#EXTINF:-1 group-title="卫视,#genre#",山西卫视
+#EXTINF:-1 group-title="卫视,",山西卫视
 http://iptva.cn/api/M3u8/Index?id=643&card=61769016159
-#EXTINF:-1 group-title="卫视,#genre#",宁夏卫视
+#EXTINF:-1 group-title="卫视,",宁夏卫视
 http://iptva.cn/api/M3u8/Index?id=644&card=61769016159
-#EXTINF:-1 group-title="卫视,#genre#",青海卫视
+#EXTINF:-1 group-title="卫视,",青海卫视
 http://iptva.cn/api/M3u8/Index?id=645&card=61769016159
-#EXTINF:-1 group-title="卫视,#genre#",新疆卫视
+#EXTINF:-1 group-title="卫视,",新疆卫视
 http://iptva.cn/api/M3u8/Index?id=646&card=61769016159
-#EXTINF:-1 group-title="卫视,#genre#",西藏卫视
+#EXTINF:-1 group-title="卫视,",西藏卫视
 http://iptva.cn/api/M3u8/Index?id=647&card=61769016159
-#EXTINF:-1 group-title="央视（备用）,#genre#",CCTV1(备用)
+#EXTINF:-1 group-title="央视（备用）,",CCTV1(备用)
 http://iptva.cn/api/M3u8/Index?id=699&card=61769016159
-#EXTINF:-1 group-title="央视（备用）,#genre#",CCTV2(备用)
+#EXTINF:-1 group-title="央视（备用）,",CCTV2(备用)
 http://iptva.cn/api/M3u8/Index?id=700&card=61769016159
-#EXTINF:-1 group-title="央视（备用）,#genre#",CCTV3(备用)
+#EXTINF:-1 group-title="央视（备用）,",CCTV3(备用)
 http://iptva.cn/api/M3u8/Index?id=701&card=61769016159
-#EXTINF:-1 group-title="央视（备用）,#genre#",CCTV4(备用)
+#EXTINF:-1 group-title="央视（备用）,",CCTV4(备用)
 http://iptva.cn/api/M3u8/Index?id=702&card=61769016159
-#EXTINF:-1 group-title="央视（备用）,#genre#",CCTV5(备用)
+#EXTINF:-1 group-title="央视（备用）,",CCTV5(备用)
 http://iptva.cn/api/M3u8/Index?id=703&card=61769016159
-#EXTINF:-1 group-title="央视（备用）,#genre#",CCTV6(备用)
+#EXTINF:-1 group-title="央视（备用）,",CCTV6(备用)
 http://iptva.cn/api/M3u8/Index?id=705&card=61769016159
-#EXTINF:-1 group-title="央视（备用）,#genre#",CCTV7(备用)
+#EXTINF:-1 group-title="央视（备用）,",CCTV7(备用)
 http://iptva.cn/api/M3u8/Index?id=706&card=61769016159
-#EXTINF:-1 group-title="央视（备用）,#genre#",CCTV8(备用)
+#EXTINF:-1 group-title="央视（备用）,",CCTV8(备用)
 http://iptva.cn/api/M3u8/Index?id=707&card=61769016159
-#EXTINF:-1 group-title="央视（备用）,#genre#",CCTV9(备用)
+#EXTINF:-1 group-title="央视（备用）,",CCTV9(备用)
 http://iptva.cn/api/M3u8/Index?id=708&card=61769016159
-#EXTINF:-1 group-title="央视（备用）,#genre#",CCTV10(备用)
+#EXTINF:-1 group-title="央视（备用）,",CCTV10(备用)
 http://iptva.cn/api/M3u8/Index?id=709&card=61769016159
-#EXTINF:-1 group-title="央视（备用）,#genre#",CCTV11(备用)
+#EXTINF:-1 group-title="央视（备用）,",CCTV11(备用)
 http://iptva.cn/api/M3u8/Index?id=710&card=61769016159
-#EXTINF:-1 group-title="央视（备用）,#genre#",CCTV12(备用)
+#EXTINF:-1 group-title="央视（备用）,",CCTV12(备用)
 http://iptva.cn/api/M3u8/Index?id=711&card=61769016159
-#EXTINF:-1 group-title="央视（备用）,#genre#",CCTV13(备用)
+#EXTINF:-1 group-title="央视（备用）,",CCTV13(备用)
 http://iptva.cn/api/M3u8/Index?id=712&card=61769016159
-#EXTINF:-1 group-title="央视（备用）,#genre#",CCTV14(备用)
+#EXTINF:-1 group-title="央视（备用）,",CCTV14(备用)
 http://iptva.cn/api/M3u8/Index?id=713&card=61769016159
-#EXTINF:-1 group-title="央视（备用）,#genre#",CCTV15(备用)
+#EXTINF:-1 group-title="央视（备用）,",CCTV15(备用)
 http://iptva.cn/api/M3u8/Index?id=714&card=61769016159
-#EXTINF:-1 group-title="央视（备用）,#genre#",CCTV16(备用)
+#EXTINF:-1 group-title="央视（备用）,",CCTV16(备用)
 http://iptva.cn/api/M3u8/Index?id=715&card=61769016159
-#EXTINF:-1 group-title="央视（备用）,#genre#",CCTV17(备用)
+#EXTINF:-1 group-title="央视（备用）,",CCTV17(备用)
 http://iptva.cn/api/M3u8/Index?id=716&card=61769016159
-#EXTINF:-1 group-title="央视（备用）,#genre#",CCTV5+(备用)
+#EXTINF:-1 group-title="央视（备用）,",CCTV5+(备用)
 http://iptva.cn/api/M3u8/Index?id=704&card=61769016159
-#EXTINF:-1 group-title="央视（备用）,#genre#",风云足球(备用)
+#EXTINF:-1 group-title="央视（备用）,",风云足球(备用)
 http://iptva.cn/api/M3u8/Index?id=717&card=61769016159
-#EXTINF:-1 group-title="央视（备用）,#genre#",湖南卫视(备用)
+#EXTINF:-1 group-title="央视（备用）,",湖南卫视(备用)
 http://iptva.cn/api/M3u8/Index?id=718&card=61769016159
-#EXTINF:-1 group-title="央视（备用）,#genre#",浙江卫视(备用)
+#EXTINF:-1 group-title="央视（备用）,",浙江卫视(备用)
 http://iptva.cn/api/M3u8/Index?id=719&card=61769016159
-#EXTINF:-1 group-title="央视（备用）,#genre#",江苏卫视(备用)
+#EXTINF:-1 group-title="央视（备用）,",江苏卫视(备用)
 http://iptva.cn/api/M3u8/Index?id=720&card=61769016159
-#EXTINF:-1 group-title="央视（备用）,#genre#",东方卫视(备用)
+#EXTINF:-1 group-title="央视（备用）,",东方卫视(备用)
 http://iptva.cn/api/M3u8/Index?id=721&card=61769016159
-#EXTINF:-1 group-title="央视（备用）,#genre#",北京卫视(备用)
+#EXTINF:-1 group-title="央视（备用）,",北京卫视(备用)
 http://iptva.cn/api/M3u8/Index?id=722&card=61769016159
-#EXTINF:-1 group-title="央视（备用）,#genre#",天津卫视(备用)
+#EXTINF:-1 group-title="央视（备用）,",天津卫视(备用)
 http://iptva.cn/api/M3u8/Index?id=723&card=61769016159
-#EXTINF:-1 group-title="央视（备用）,#genre#",广东卫视(备用)
+#EXTINF:-1 group-title="央视（备用）,",广东卫视(备用)
 http://iptva.cn/api/M3u8/Index?id=724&card=61769016159
-#EXTINF:-1 group-title="央视（备用）,#genre#",深圳卫视(备用)
+#EXTINF:-1 group-title="央视（备用）,",深圳卫视(备用)
 http://iptva.cn/api/M3u8/Index?id=725&card=61769016159
-#EXTINF:-1 group-title="央视（备用）,#genre#",东南卫视(备用)
+#EXTINF:-1 group-title="央视（备用）,",东南卫视(备用)
 http://iptva.cn/api/M3u8/Index?id=726&card=61769016159
-#EXTINF:-1 group-title="央视（备用）,#genre#",山东卫视(备用)
+#EXTINF:-1 group-title="央视（备用）,",山东卫视(备用)
 http://iptva.cn/api/M3u8/Index?id=727&card=61769016159
-#EXTINF:-1 group-title="央视（备用）,#genre#",河南卫视(备用)
+#EXTINF:-1 group-title="央视（备用）,",河南卫视(备用)
 http://iptva.cn/api/M3u8/Index?id=728&card=61769016159
-#EXTINF:-1 group-title="央视（备用）,#genre#",河北卫视(备用)
+#EXTINF:-1 group-title="央视（备用）,",河北卫视(备用)
 http://iptva.cn/api/M3u8/Index?id=729&card=61769016159
-#EXTINF:-1 group-title="央视（备用）,#genre#",安徽卫视(备用)
+#EXTINF:-1 group-title="央视（备用）,",安徽卫视(备用)
 http://iptva.cn/api/M3u8/Index?id=730&card=61769016159
-#EXTINF:-1 group-title="央视（备用）,#genre#",湖北卫视(备用)
+#EXTINF:-1 group-title="央视（备用）,",湖北卫视(备用)
 http://iptva.cn/api/M3u8/Index?id=731&card=61769016159
-#EXTINF:-1 group-title="央视（备用）,#genre#",江西卫视(备用)
+#EXTINF:-1 group-title="央视（备用）,",江西卫视(备用)
 http://iptva.cn/api/M3u8/Index?id=732&card=61769016159
-#EXTINF:-1 group-title="央视（备用）,#genre#",贵州卫视(备用)
+#EXTINF:-1 group-title="央视（备用）,",贵州卫视(备用)
 http://iptva.cn/api/M3u8/Index?id=733&card=61769016159
-#EXTINF:-1 group-title="央视（备用）,#genre#",重庆卫视(备用)
+#EXTINF:-1 group-title="央视（备用）,",重庆卫视(备用)
 http://iptva.cn/api/M3u8/Index?id=734&card=61769016159
-#EXTINF:-1 group-title="央视（备用）,#genre#",海南卫视(备用)
+#EXTINF:-1 group-title="央视（备用）,",海南卫视(备用)
 http://iptva.cn/api/M3u8/Index?id=735&card=61769016159
-#EXTINF:-1 group-title="央视（备用）,#genre#",四川卫视(备用)
+#EXTINF:-1 group-title="央视（备用）,",四川卫视(备用)
 http://iptva.cn/api/M3u8/Index?id=736&card=61769016159
-#EXTINF:-1 group-title="央视（备用）,#genre#",吉林卫视(备用)
+#EXTINF:-1 group-title="央视（备用）,",吉林卫视(备用)
 http://iptva.cn/api/M3u8/Index?id=737&card=61769016159
-#EXTINF:-1 group-title="央视（备用）,#genre#",黑龙江卫视(备用)
+#EXTINF:-1 group-title="央视（备用）,",黑龙江卫视(备用)
 http://iptva.cn/api/M3u8/Index?id=738&card=61769016159
-#EXTINF:-1 group-title="央视（备用）,#genre#",云南卫视(备用)
+#EXTINF:-1 group-title="央视（备用）,",云南卫视(备用)
 http://iptva.cn/api/M3u8/Index?id=739&card=61769016159
-#EXTINF:-1 group-title="央视（备用）,#genre#",辽宁卫视(备用)
+#EXTINF:-1 group-title="央视（备用）,",辽宁卫视(备用)
 http://iptva.cn/api/M3u8/Index?id=740&card=61769016159
-#EXTINF:-1 group-title="央视（备用）,#genre#",内蒙古卫视(备用)
+#EXTINF:-1 group-title="央视（备用）,",内蒙古卫视(备用)
 http://iptva.cn/api/M3u8/Index?id=741&card=61769016159
-#EXTINF:-1 group-title="央视（备用）,#genre#",广西卫视(备用)
+#EXTINF:-1 group-title="央视（备用）,",广西卫视(备用)
 http://iptva.cn/api/M3u8/Index?id=742&card=61769016159
-#EXTINF:-1 group-title="央视（备用）,#genre#",甘肃卫视(备用)
+#EXTINF:-1 group-title="央视（备用）,",甘肃卫视(备用)
 http://iptva.cn/api/M3u8/Index?id=743&card=61769016159
-#EXTINF:-1 group-title="央视（备用）,#genre#",陕西卫视(备用)
+#EXTINF:-1 group-title="央视（备用）,",陕西卫视(备用)
 http://iptva.cn/api/M3u8/Index?id=744&card=61769016159
-#EXTINF:-1 group-title="央视（备用）,#genre#",山西卫视(备用)
+#EXTINF:-1 group-title="央视（备用）,",山西卫视(备用)
 http://iptva.cn/api/M3u8/Index?id=745&card=61769016159
-#EXTINF:-1 group-title="央视（备用）,#genre#",宁夏卫视(备用)
+#EXTINF:-1 group-title="央视（备用）,",宁夏卫视(备用)
 http://iptva.cn/api/M3u8/Index?id=746&card=61769016159
-#EXTINF:-1 group-title="央视（备用）,#genre#",青海卫视(备用)
+#EXTINF:-1 group-title="央视（备用）,",青海卫视(备用)
 http://iptva.cn/api/M3u8/Index?id=747&card=61769016159
-#EXTINF:-1 group-title="央视（备用）,#genre#",新疆卫视(备用)
+#EXTINF:-1 group-title="央视（备用）,",新疆卫视(备用)
 http://iptva.cn/api/M3u8/Index?id=748&card=61769016159
-#EXTINF:-1 group-title="央视（备用）,#genre#",西藏卫视(备用)
+#EXTINF:-1 group-title="央视（备用）,",西藏卫视(备用)
 http://iptva.cn/api/M3u8/Index?id=749&card=61769016159
-#EXTINF:-1 group-title="央视（备用）,#genre#",BTV文艺
+#EXTINF:-1 group-title="央视（备用）,",BTV文艺
 http://iptva.cn/api/M3u8/Index?id=958&card=61769016159
-#EXTINF:-1 group-title="央视（备用）,#genre#",BTV影视
+#EXTINF:-1 group-title="央视（备用）,",BTV影视
 http://iptva.cn/api/M3u8/Index?id=962&card=61769016159
-#EXTINF:-1 group-title="央视（备用）,#genre#",BTV财经
+#EXTINF:-1 group-title="央视（备用）,",BTV财经
 http://iptva.cn/api/M3u8/Index?id=964&card=61769016159
-#EXTINF:-1 group-title="央视（备用）,#genre#",BTV体育
+#EXTINF:-1 group-title="央视（备用）,",BTV体育
 http://iptva.cn/api/M3u8/Index?id=966&card=61769016159
-#EXTINF:-1 group-title="央视（备用）,#genre#",BTV生活
+#EXTINF:-1 group-title="央视（备用）,",BTV生活
 http://iptva.cn/api/M3u8/Index?id=968&card=61769016159
-#EXTINF:-1 group-title="央视（备用）,#genre#",BTV新闻
+#EXTINF:-1 group-title="央视（备用）,",BTV新闻
 http://iptva.cn/api/M3u8/Index?id=972&card=61769016159
-#EXTINF:-1 group-title="央视（备用）,#genre#",BTV卡酷少儿
+#EXTINF:-1 group-title="央视（备用）,",BTV卡酷少儿
 http://iptva.cn/api/M3u8/Index?id=974&card=61769016159
-#EXTINF:-1 group-title="央视（备用）,#genre#",上海新闻频道
+#EXTINF:-1 group-title="央视（备用）,",上海新闻频道
 http://iptva.cn/api/M3u8/Index?id=976&card=61769016159
-#EXTINF:-1 group-title="央视（备用）,#genre#",上海都市频道
+#EXTINF:-1 group-title="央视（备用）,",上海都市频道
 http://iptva.cn/api/M3u8/Index?id=978&card=61769016159
-#EXTINF:-1 group-title="央视（备用）,#genre#",上视外语
+#EXTINF:-1 group-title="央视（备用）,",上视外语
 http://iptva.cn/api/M3u8/Index?id=980&card=61769016159
-#EXTINF:-1 group-title="央视（备用）,#genre#",上海东方影视
+#EXTINF:-1 group-title="央视（备用）,",上海东方影视
 http://iptva.cn/api/M3u8/Index?id=981&card=61769016159
-#EXTINF:-1 group-title="央视（备用）,#genre#",上海五星体育
+#EXTINF:-1 group-title="央视（备用）,",上海五星体育
 http://iptva.cn/api/M3u8/Index?id=982&card=61769016159
-#EXTINF:-1 group-title="央视（备用）,#genre#",上海五星体育（备1）
+#EXTINF:-1 group-title="央视（备用）,",上海五星体育（备1）
 http://iptva.cn/api/M3u8/Index?id=983&card=61769016159
-#EXTINF:-1 group-title="央视（备用）,#genre#",上海第一财经
+#EXTINF:-1 group-title="央视（备用）,",上海第一财经
 http://iptva.cn/api/M3u8/Index?id=984&card=61769016159
-#EXTINF:-1 group-title="央视（备用）,#genre#",上海纪实人文
+#EXTINF:-1 group-title="央视（备用）,",上海纪实人文
 http://iptva.cn/api/M3u8/Index?id=985&card=61769016159
-#EXTINF:-1 group-title="央视（备用）,#genre#",哈哈炫动
+#EXTINF:-1 group-title="央视（备用）,",哈哈炫动
 http://iptva.cn/api/M3u8/Index?id=986&card=61769016159
-#EXTINF:-1 group-title="广东,#genre#",广东综艺
+#EXTINF:-1 group-title="广东,",广东综艺
 http://iptva.cn/api/M3u8/Index?id=994&card=61769016159
-#EXTINF:-1 group-title="广东,#genre#",广东新闻
+#EXTINF:-1 group-title="广东,",广东新闻
 http://iptva.cn/api/M3u8/Index?id=995&card=61769016159
-#EXTINF:-1 group-title="广东,#genre#",广东影视
+#EXTINF:-1 group-title="广东,",广东影视
 http://iptva.cn/api/M3u8/Index?id=996&card=61769016159
-#EXTINF:-1 group-title="广东,#genre#",广东公共
+#EXTINF:-1 group-title="广东,",广东公共
 http://iptva.cn/api/M3u8/Index?id=997&card=61769016159
-#EXTINF:-1 group-title="广东,#genre#",广东珠江
+#EXTINF:-1 group-title="广东,",广东珠江
 http://iptva.cn/api/M3u8/Index?id=998&card=61769016159
-#EXTINF:-1 group-title="广东,#genre#",广东珠江(备用)
+#EXTINF:-1 group-title="广东,",广东珠江(备用)
 http://iptva.cn/api/M3u8/Index?id=10131&card=61769016159
-#EXTINF:-1 group-title="广东,#genre#",广东体育
+#EXTINF:-1 group-title="广东,",广东体育
 http://iptva.cn/api/M3u8/Index?id=999&card=61769016159
-#EXTINF:-1 group-title="广东,#genre#",广东体育（备）
+#EXTINF:-1 group-title="广东,",广东体育（备）
 http://iptva.cn/api/M3u8/Index?id=1000&card=61769016159
-#EXTINF:-1 group-title="广东,#genre#",广东体育（备1）
+#EXTINF:-1 group-title="广东,",广东体育（备1）
 http://iptva.cn/api/M3u8/Index?id=1001&card=61769016159
-#EXTINF:-1 group-title="广东,#genre#",大湾区卫视
+#EXTINF:-1 group-title="广东,",大湾区卫视
 http://iptva.cn/api/M3u8/Index?id=1002&card=61769016159
-#EXTINF:-1 group-title="广东,#genre#",广州
+#EXTINF:-1 group-title="广东,",广州
 http://iptva.cn/api/M3u8/Index?id=1003&card=61769016159
-#EXTINF:-1 group-title="广东,#genre#",南国都市
+#EXTINF:-1 group-title="广东,",南国都市
 http://iptva.cn/api/M3u8/Index?id=1004&card=61769016159
-#EXTINF:-1 group-title="广东,#genre#",广州新闻
+#EXTINF:-1 group-title="广东,",广州新闻
 http://iptva.cn/api/M3u8/Index?id=1005&card=61769016159
-#EXTINF:-1 group-title="福建,#genre#",福州综合
+#EXTINF:-1 group-title="福建,",福州综合
 http://iptva.cn/api/M3u8/Index?id=1006&card=61769016159
-#EXTINF:-1 group-title="福建,#genre#",福州影视
+#EXTINF:-1 group-title="福建,",福州影视
 http://iptva.cn/api/M3u8/Index?id=1007&card=61769016159
-#EXTINF:-1 group-title="福建,#genre#",福州生活
+#EXTINF:-1 group-title="福建,",福州生活
 http://iptva.cn/api/M3u8/Index?id=1008&card=61769016159
-#EXTINF:-1 group-title="福建,#genre#",福州少儿
+#EXTINF:-1 group-title="福建,",福州少儿
 http://iptva.cn/api/M3u8/Index?id=1009&card=61769016159
-#EXTINF:-1 group-title="浙江,#genre#",浙江民生休闲
+#EXTINF:-1 group-title="浙江,",浙江民生休闲
 http://iptva.cn/api/M3u8/Index?id=1010&card=61769016159
-#EXTINF:-1 group-title="浙江,#genre#",浙江教科频道
+#EXTINF:-1 group-title="浙江,",浙江教科频道
 http://iptva.cn/api/M3u8/Index?id=1011&card=61769016159
-#EXTINF:-1 group-title="浙江,#genre#",浙江少儿频道
+#EXTINF:-1 group-title="浙江,",浙江少儿频道
 http://iptva.cn/api/M3u8/Index?id=1012&card=61769016159
-#EXTINF:-1 group-title="浙江,#genre#",浙江新闻
+#EXTINF:-1 group-title="浙江,",浙江新闻
 http://iptva.cn/api/M3u8/Index?id=1013&card=61769016159
-#EXTINF:-1 group-title="浙江,#genre#",浙江国际频道
+#EXTINF:-1 group-title="浙江,",浙江国际频道
 http://iptva.cn/api/M3u8/Index?id=1014&card=61769016159
-#EXTINF:-1 group-title="浙江,#genre#",浙江钱江都市
+#EXTINF:-1 group-title="浙江,",浙江钱江都市
 http://iptva.cn/api/M3u8/Index?id=1015&card=61769016159
-#EXTINF:-1 group-title="浙江,#genre#",浙江经视频道
+#EXTINF:-1 group-title="浙江,",浙江经视频道
 http://iptva.cn/api/M3u8/Index?id=1016&card=61769016159
-#EXTINF:-1 group-title="浙江,#genre#",留学世界
+#EXTINF:-1 group-title="浙江,",留学世界
 http://iptva.cn/api/M3u8/Index?id=1017&card=61769016159
-#EXTINF:-1 group-title="浙江,#genre#",新昌新闻综合
+#EXTINF:-1 group-title="浙江,",新昌新闻综合
 http://iptva.cn/api/M3u8/Index?id=1018&card=61769016159
-#EXTINF:-1 group-title="浙江,#genre#",新昌生活频道
+#EXTINF:-1 group-title="浙江,",新昌生活频道
 http://iptva.cn/api/M3u8/Index?id=1019&card=61769016159
-#EXTINF:-1 group-title="浙江,#genre#",温州新闻
+#EXTINF:-1 group-title="浙江,",温州新闻
 http://iptva.cn/api/M3u8/Index?id=1020&card=61769016159
-#EXTINF:-1 group-title="浙江,#genre#",温州新闻(备)
+#EXTINF:-1 group-title="浙江,",温州新闻(备)
 http://iptva.cn/api/M3u8/Index?id=1021&card=61769016159
-#EXTINF:-1 group-title="浙江,#genre#",温州经济
+#EXTINF:-1 group-title="浙江,",温州经济
 http://iptva.cn/api/M3u8/Index?id=1022&card=61769016159
-#EXTINF:-1 group-title="浙江,#genre#",温州生活
+#EXTINF:-1 group-title="浙江,",温州生活
 http://iptva.cn/api/M3u8/Index?id=1023&card=61769016159
-#EXTINF:-1 group-title="浙江,#genre#",温州公共
+#EXTINF:-1 group-title="浙江,",温州公共
 http://iptva.cn/api/M3u8/Index?id=1024&card=61769016159
-#EXTINF:-1 group-title="江苏,#genre#",江苏城市
+#EXTINF:-1 group-title="江苏,",江苏城市
 http://iptva.cn/api/M3u8/Index?id=1025&card=61769016159
-#EXTINF:-1 group-title="江苏,#genre#",江苏综艺
+#EXTINF:-1 group-title="江苏,",江苏综艺
 http://iptva.cn/api/M3u8/Index?id=1026&card=61769016159
-#EXTINF:-1 group-title="江苏,#genre#",江苏影视
+#EXTINF:-1 group-title="江苏,",江苏影视
 http://iptva.cn/api/M3u8/Index?id=1027&card=61769016159
-#EXTINF:-1 group-title="江苏,#genre#",江苏公共
+#EXTINF:-1 group-title="江苏,",江苏公共
 http://iptva.cn/api/M3u8/Index?id=1028&card=61769016159
-#EXTINF:-1 group-title="江苏,#genre#",江苏体育
+#EXTINF:-1 group-title="江苏,",江苏体育
 http://iptva.cn/api/M3u8/Index?id=1029&card=61769016159
-#EXTINF:-1 group-title="江苏,#genre#",江苏靓装
+#EXTINF:-1 group-title="江苏,",江苏靓装
 http://iptva.cn/api/M3u8/Index?id=1030&card=61769016159
-#EXTINF:-1 group-title="江苏,#genre#",江苏国际
+#EXTINF:-1 group-title="江苏,",江苏国际
 http://iptva.cn/api/M3u8/Index?id=1031&card=61769016159
-#EXTINF:-1 group-title="江苏,#genre#",江苏学习
+#EXTINF:-1 group-title="江苏,",江苏学习
 http://iptva.cn/api/M3u8/Index?id=1032&card=61769016159
-#EXTINF:-1 group-title="江苏,#genre#",江苏教育
+#EXTINF:-1 group-title="江苏,",江苏教育
 http://iptva.cn/api/M3u8/Index?id=1033&card=61769016159
-#EXTINF:-1 group-title="江苏,#genre#",优曼卡通
+#EXTINF:-1 group-title="江苏,",优曼卡通
 http://iptva.cn/api/M3u8/Index?id=1034&card=61769016159
-#EXTINF:-1 group-title="江苏,#genre#",苏州新闻综合
+#EXTINF:-1 group-title="江苏,",苏州新闻综合
 http://iptva.cn/api/M3u8/Index?id=1035&card=61769016159
-#EXTINF:-1 group-title="江苏,#genre#",苏州社会经济
+#EXTINF:-1 group-title="江苏,",苏州社会经济
 http://iptva.cn/api/M3u8/Index?id=1036&card=61769016159
-#EXTINF:-1 group-title="江苏,#genre#",苏州文化生活
+#EXTINF:-1 group-title="江苏,",苏州文化生活
 http://iptva.cn/api/M3u8/Index?id=1037&card=61769016159
-#EXTINF:-1 group-title="江苏,#genre#",苏州电影娱乐
+#EXTINF:-1 group-title="江苏,",苏州电影娱乐
 http://iptva.cn/api/M3u8/Index?id=1038&card=61769016159
-#EXTINF:-1 group-title="江苏,#genre#",苏州生活资讯
+#EXTINF:-1 group-title="江苏,",苏州生活资讯
 http://iptva.cn/api/M3u8/Index?id=1039&card=61769016159
-#EXTINF:-1 group-title="江苏,#genre#",南京新闻综合
+#EXTINF:-1 group-title="江苏,",南京新闻综合
 http://iptva.cn/api/M3u8/Index?id=1040&card=61769016159
-#EXTINF:-1 group-title="江苏,#genre#",南京教科
+#EXTINF:-1 group-title="江苏,",南京教科
 http://iptva.cn/api/M3u8/Index?id=1041&card=61769016159
-#EXTINF:-1 group-title="江苏,#genre#",南京生活
+#EXTINF:-1 group-title="江苏,",南京生活
 http://iptva.cn/api/M3u8/Index?id=1042&card=61769016159
-#EXTINF:-1 group-title="江苏,#genre#",南京娱乐
+#EXTINF:-1 group-title="江苏,",南京娱乐
 http://iptva.cn/api/M3u8/Index?id=1043&card=61769016159
-#EXTINF:-1 group-title="江苏,#genre#",南京十八
+#EXTINF:-1 group-title="江苏,",南京十八
 http://iptva.cn/api/M3u8/Index?id=1044&card=61769016159
-#EXTINF:-1 group-title="江苏,#genre#",南京信息
+#EXTINF:-1 group-title="江苏,",南京信息
 http://iptva.cn/api/M3u8/Index?id=1045&card=61769016159
-#EXTINF:-1 group-title="河北,#genre#",河北都市
+#EXTINF:-1 group-title="河北,",河北都市
 http://iptva.cn/api/M3u8/Index?id=1046&card=61769016159
-#EXTINF:-1 group-title="河北,#genre#",河北经济
+#EXTINF:-1 group-title="河北,",河北经济
 http://iptva.cn/api/M3u8/Index?id=1047&card=61769016159
-#EXTINF:-1 group-title="河北,#genre#",河北影视
+#EXTINF:-1 group-title="河北,",河北影视
 http://iptva.cn/api/M3u8/Index?id=1048&card=61769016159
-#EXTINF:-1 group-title="河北,#genre#",河北少儿
+#EXTINF:-1 group-title="河北,",河北少儿
 http://iptva.cn/api/M3u8/Index?id=1049&card=61769016159
-#EXTINF:-1 group-title="河北,#genre#",河北公共
+#EXTINF:-1 group-title="河北,",河北公共
 http://iptva.cn/api/M3u8/Index?id=1050&card=61769016159
-#EXTINF:-1 group-title="河北,#genre#",农民频道
+#EXTINF:-1 group-title="河北,",农民频道
 http://iptva.cn/api/M3u8/Index?id=1051&card=61769016159
-#EXTINF:-1 group-title="河北,#genre#",石家庄新闻
+#EXTINF:-1 group-title="河北,",石家庄新闻
 http://iptva.cn/api/M3u8/Index?id=1052&card=61769016159
-#EXTINF:-1 group-title="河南,#genre#",河南新闻
+#EXTINF:-1 group-title="河南,",河南新闻
 http://iptva.cn/api/M3u8/Index?id=1053&card=61769016159
-#EXTINF:-1 group-title="河南,#genre#",河南都市
+#EXTINF:-1 group-title="河南,",河南都市
 http://iptva.cn/api/M3u8/Index?id=1054&card=61769016159
-#EXTINF:-1 group-title="河南,#genre#",河南民生
+#EXTINF:-1 group-title="河南,",河南民生
 http://iptva.cn/api/M3u8/Index?id=1055&card=61769016159
-#EXTINF:-1 group-title="河南,#genre#",河南公共
+#EXTINF:-1 group-title="河南,",河南公共
 http://iptva.cn/api/M3u8/Index?id=1056&card=61769016159
-#EXTINF:-1 group-title="河南,#genre#",河南法治
+#EXTINF:-1 group-title="河南,",河南法治
 http://iptva.cn/api/M3u8/Index?id=1057&card=61769016159
-#EXTINF:-1 group-title="河南,#genre#",河南乡村
+#EXTINF:-1 group-title="河南,",河南乡村
 http://iptva.cn/api/M3u8/Index?id=1058&card=61769016159
-#EXTINF:-1 group-title="河南,#genre#",河南国际
+#EXTINF:-1 group-title="河南,",河南国际
 http://iptva.cn/api/M3u8/Index?id=1059&card=61769016159
-#EXTINF:-1 group-title="河南,#genre#",河南电视剧
+#EXTINF:-1 group-title="河南,",河南电视剧
 http://iptva.cn/api/M3u8/Index?id=1060&card=61769016159
-#EXTINF:-1 group-title="山东,#genre#",山东齐鲁
+#EXTINF:-1 group-title="山东,",山东齐鲁
 http://iptva.cn/api/M3u8/Index?id=1061&card=61769016159
-#EXTINF:-1 group-title="山东,#genre#",山东新闻
+#EXTINF:-1 group-title="山东,",山东新闻
 http://iptva.cn/api/M3u8/Index?id=1062&card=61769016159
-#EXTINF:-1 group-title="山东,#genre#",山东体育
+#EXTINF:-1 group-title="山东,",山东体育
 http://iptva.cn/api/M3u8/Index?id=1063&card=61769016159
-#EXTINF:-1 group-title="山东,#genre#",山东少儿
+#EXTINF:-1 group-title="山东,",山东少儿
 http://iptva.cn/api/M3u8/Index?id=1064&card=61769016159
-#EXTINF:-1 group-title="山东,#genre#",山东综艺
+#EXTINF:-1 group-title="山东,",山东综艺
 http://iptva.cn/api/M3u8/Index?id=1065&card=61769016159
-#EXTINF:-1 group-title="山东,#genre#",山东文旅
+#EXTINF:-1 group-title="山东,",山东文旅
 http://iptva.cn/api/M3u8/Index?id=1066&card=61769016159
-#EXTINF:-1 group-title="山东,#genre#",山东生活
+#EXTINF:-1 group-title="山东,",山东生活
 http://iptva.cn/api/M3u8/Index?id=1067&card=61769016159
-#EXTINF:-1 group-title="山东,#genre#",山东农科
+#EXTINF:-1 group-title="山东,",山东农科
 http://iptva.cn/api/M3u8/Index?id=1068&card=61769016159
-#EXTINF:-1 group-title="山东,#genre#",济宁综合
+#EXTINF:-1 group-title="山东,",济宁综合
 http://iptva.cn/api/M3u8/Index?id=1069&card=61769016159
-#EXTINF:-1 group-title="湖北,#genre#",湖北经视
+#EXTINF:-1 group-title="湖北,",湖北经视
 http://iptva.cn/api/M3u8/Index?id=1072&card=61769016159
-#EXTINF:-1 group-title="湖北,#genre#",湖北综合
+#EXTINF:-1 group-title="湖北,",湖北综合
 http://iptva.cn/api/M3u8/Index?id=1073&card=61769016159
-#EXTINF:-1 group-title="湖北,#genre#",湖北公共
+#EXTINF:-1 group-title="湖北,",湖北公共
 http://iptva.cn/api/M3u8/Index?id=1074&card=61769016159
-#EXTINF:-1 group-title="湖北,#genre#",湖北生活
+#EXTINF:-1 group-title="湖北,",湖北生活
 http://iptva.cn/api/M3u8/Index?id=1075&card=61769016159
-#EXTINF:-1 group-title="湖北,#genre#",湖北教育
+#EXTINF:-1 group-title="湖北,",湖北教育
 http://iptva.cn/api/M3u8/Index?id=1076&card=61769016159
-#EXTINF:-1 group-title="湖北,#genre#",湖北垄上
+#EXTINF:-1 group-title="湖北,",湖北垄上
 http://iptva.cn/api/M3u8/Index?id=1077&card=61769016159
-#EXTINF:-1 group-title="湖南,#genre#",湖南公共
+#EXTINF:-1 group-title="湖南,",湖南公共
 http://iptva.cn/api/M3u8/Index?id=1078&card=61769016159
-#EXTINF:-1 group-title="湖南,#genre#",湖南国际
+#EXTINF:-1 group-title="湖南,",湖南国际
 http://iptva.cn/api/M3u8/Index?id=1079&card=61769016159
-#EXTINF:-1 group-title="湖南,#genre#",湖南娱乐
+#EXTINF:-1 group-title="湖南,",湖南娱乐
 http://iptva.cn/api/M3u8/Index?id=1080&card=61769016159
-#EXTINF:-1 group-title="湖南,#genre#",湖南电影
+#EXTINF:-1 group-title="湖南,",湖南电影
 http://iptva.cn/api/M3u8/Index?id=1081&card=61769016159
-#EXTINF:-1 group-title="湖南,#genre#",湖南电视剧
+#EXTINF:-1 group-title="湖南,",湖南电视剧
 http://iptva.cn/api/M3u8/Index?id=1082&card=61769016159
-#EXTINF:-1 group-title="湖南,#genre#",湖南经视
+#EXTINF:-1 group-title="湖南,",湖南经视
 http://iptva.cn/api/M3u8/Index?id=1083&card=61769016159
-#EXTINF:-1 group-title="湖南,#genre#",湖南都市
+#EXTINF:-1 group-title="湖南,",湖南都市
 http://iptva.cn/api/M3u8/Index?id=1084&card=61769016159
-#EXTINF:-1 group-title="湖南,#genre#",湖南金鹰卡通
+#EXTINF:-1 group-title="湖南,",湖南金鹰卡通
 http://iptva.cn/api/M3u8/Index?id=1085&card=61769016159
-#EXTINF:-1 group-title="湖南,#genre#",金鹰纪实
+#EXTINF:-1 group-title="湖南,",金鹰纪实
 http://iptva.cn/api/M3u8/Index?id=1086&card=61769016159
-#EXTINF:-1 group-title="湖南,#genre#",湘潭综合
+#EXTINF:-1 group-title="湖南,",湘潭综合
 http://iptva.cn/api/M3u8/Index?id=1087&card=61769016159
-#EXTINF:-1 group-title="湖南,#genre#",湘潭教育
+#EXTINF:-1 group-title="湖南,",湘潭教育
 http://iptva.cn/api/M3u8/Index?id=1088&card=61769016159
-#EXTINF:-1 group-title="湖南,#genre#",娄底综合频道
+#EXTINF:-1 group-title="湖南,",娄底综合频道
 http://iptva.cn/api/M3u8/Index?id=1089&card=61769016159
-#EXTINF:-1 group-title="湖南,#genre#",茶频道
+#EXTINF:-1 group-title="湖南,",茶频道
 http://iptva.cn/api/M3u8/Index?id=1090&card=61769016159
-#EXTINF:-1 group-title="安徽,#genre#",淮南新闻综合
+#EXTINF:-1 group-title="安徽,",淮南新闻综合
 http://iptva.cn/api/M3u8/Index?id=1091&card=61769016159
-#EXTINF:-1 group-title="安徽,#genre#",淮南公共台
+#EXTINF:-1 group-title="安徽,",淮南公共台
 http://iptva.cn/api/M3u8/Index?id=1092&card=61769016159
-#EXTINF:-1 group-title="安徽,#genre#",东至综合台
+#EXTINF:-1 group-title="安徽,",东至综合台
 http://iptva.cn/api/M3u8/Index?id=1093&card=61769016159
-#EXTINF:-1 group-title="安徽,#genre#",东至影视台
+#EXTINF:-1 group-title="安徽,",东至影视台
 http://iptva.cn/api/M3u8/Index?id=1094&card=61769016159
-#EXTINF:-1 group-title="四川,#genre#",四川影视
+#EXTINF:-1 group-title="四川,",四川影视
 http://iptva.cn/api/M3u8/Index?id=1095&card=61769016159
-#EXTINF:-1 group-title="四川,#genre#",四川新闻
+#EXTINF:-1 group-title="四川,",四川新闻
 http://iptva.cn/api/M3u8/Index?id=1096&card=61769016159
-#EXTINF:-1 group-title="四川,#genre#",四川文旅
+#EXTINF:-1 group-title="四川,",四川文旅
 http://iptva.cn/api/M3u8/Index?id=1097&card=61769016159
-#EXTINF:-1 group-title="四川,#genre#",四川儿童
+#EXTINF:-1 group-title="四川,",四川儿童
 http://iptva.cn/api/M3u8/Index?id=1098&card=61769016159
-#EXTINF:-1 group-title="四川,#genre#",四川经济
+#EXTINF:-1 group-title="四川,",四川经济
 http://iptva.cn/api/M3u8/Index?id=1099&card=61769016159
-#EXTINF:-1 group-title="四川,#genre#",四川乡村
+#EXTINF:-1 group-title="四川,",四川乡村
 http://iptva.cn/api/M3u8/Index?id=1100&card=61769016159
-#EXTINF:-1 group-title="四川,#genre#",洪雅新闻综合
+#EXTINF:-1 group-title="四川,",洪雅新闻综合
 http://iptva.cn/api/M3u8/Index?id=1101&card=61769016159
-#EXTINF:-1 group-title="陕西,#genre#",西安新闻
+#EXTINF:-1 group-title="陕西,",西安新闻
 http://iptva.cn/api/M3u8/Index?id=1102&card=61769016159
-#EXTINF:-1 group-title="陕西,#genre#",西安都市
+#EXTINF:-1 group-title="陕西,",西安都市
 http://iptva.cn/api/M3u8/Index?id=1103&card=61769016159
-#EXTINF:-1 group-title="陕西,#genre#",西安影视
+#EXTINF:-1 group-title="陕西,",西安影视
 http://iptva.cn/api/M3u8/Index?id=1104&card=61769016159
-#EXTINF:-1 group-title="陕西,#genre#",西安丝路
+#EXTINF:-1 group-title="陕西,",西安丝路
 http://iptva.cn/api/M3u8/Index?id=1105&card=61769016159
-#EXTINF:-1 group-title="陕西,#genre#",西乡融媒
+#EXTINF:-1 group-title="陕西,",西乡融媒
 http://iptva.cn/api/M3u8/Index?id=1106&card=61769016159
-#EXTINF:-1 group-title="山西,#genre#",山西法治
+#EXTINF:-1 group-title="山西,",山西法治
 http://iptva.cn/api/M3u8/Index?id=1107&card=61769016159
-#EXTINF:-1 group-title="山西,#genre#",山西经济
+#EXTINF:-1 group-title="山西,",山西经济
 http://iptva.cn/api/M3u8/Index?id=1108&card=61769016159
-#EXTINF:-1 group-title="山西,#genre#",山西影视
+#EXTINF:-1 group-title="山西,",山西影视
 http://iptva.cn/api/M3u8/Index?id=1109&card=61769016159
-#EXTINF:-1 group-title="山西,#genre#",山西文体
+#EXTINF:-1 group-title="山西,",山西文体
 http://iptva.cn/api/M3u8/Index?id=1110&card=61769016159
-#EXTINF:-1 group-title="山西,#genre#",黄河电视台
+#EXTINF:-1 group-title="山西,",黄河电视台
 http://iptva.cn/api/M3u8/Index?id=1111&card=61769016159
-#EXTINF:-1 group-title="甘肃,#genre#",甘肃经济
+#EXTINF:-1 group-title="甘肃,",甘肃经济
 http://iptva.cn/api/M3u8/Index?id=1112&card=61769016159
-#EXTINF:-1 group-title="甘肃,#genre#",甘肃影视
+#EXTINF:-1 group-title="甘肃,",甘肃影视
 http://iptva.cn/api/M3u8/Index?id=1113&card=61769016159
-#EXTINF:-1 group-title="甘肃,#genre#",甘肃公共
+#EXTINF:-1 group-title="甘肃,",甘肃公共
 http://iptva.cn/api/M3u8/Index?id=1114&card=61769016159
-#EXTINF:-1 group-title="甘肃,#genre#",甘肃少儿
+#EXTINF:-1 group-title="甘肃,",甘肃少儿
 http://iptva.cn/api/M3u8/Index?id=1115&card=61769016159
-#EXTINF:-1 group-title="甘肃,#genre#",甘肃都市
+#EXTINF:-1 group-title="甘肃,",甘肃都市
 http://iptva.cn/api/M3u8/Index?id=1116&card=61769016159
-#EXTINF:-1 group-title="甘肃,#genre#",兰州新闻综合
+#EXTINF:-1 group-title="甘肃,",兰州新闻综合
 http://iptva.cn/api/M3u8/Index?id=10118&card=61769016159
-#EXTINF:-1 group-title="甘肃,#genre#",兰州公共
+#EXTINF:-1 group-title="甘肃,",兰州公共
 http://iptva.cn/api/M3u8/Index?id=10119&card=61769016159
-#EXTINF:-1 group-title="甘肃,#genre#",兰州经济生活
+#EXTINF:-1 group-title="甘肃,",兰州经济生活
 http://iptva.cn/api/M3u8/Index?id=10120&card=61769016159
-#EXTINF:-1 group-title="甘肃,#genre#",兰州综艺体育
+#EXTINF:-1 group-title="甘肃,",兰州综艺体育
 http://iptva.cn/api/M3u8/Index?id=10121&card=61769016159
-#EXTINF:-1 group-title="甘肃,#genre#",天水综合
+#EXTINF:-1 group-title="甘肃,",天水综合
 http://iptva.cn/api/M3u8/Index?id=1117&card=61769016159
-#EXTINF:-1 group-title="甘肃,#genre#",天水公共
+#EXTINF:-1 group-title="甘肃,",天水公共
 http://iptva.cn/api/M3u8/Index?id=1118&card=61769016159
-#EXTINF:-1 group-title="云南,#genre#",昆明新闻综合
+#EXTINF:-1 group-title="云南,",昆明新闻综合
 http://iptva.cn/api/M3u8/Index?id=1119&card=61769016159
-#EXTINF:-1 group-title="云南,#genre#",昆明经济生活
+#EXTINF:-1 group-title="云南,",昆明经济生活
 http://iptva.cn/api/M3u8/Index?id=1120&card=61769016159
-#EXTINF:-1 group-title="云南,#genre#",昆明科学教育
+#EXTINF:-1 group-title="云南,",昆明科学教育
 http://iptva.cn/api/M3u8/Index?id=1121&card=61769016159
-#EXTINF:-1 group-title="云南,#genre#",昆明影视综艺
+#EXTINF:-1 group-title="云南,",昆明影视综艺
 http://iptva.cn/api/M3u8/Index?id=1122&card=61769016159
-#EXTINF:-1 group-title="云南,#genre#",昆明公共
+#EXTINF:-1 group-title="云南,",昆明公共
 http://iptva.cn/api/M3u8/Index?id=1123&card=61769016159
-#EXTINF:-1 group-title="云南,#genre#",文山综合
+#EXTINF:-1 group-title="云南,",文山综合
 http://iptva.cn/api/M3u8/Index?id=1124&card=61769016159
-#EXTINF:-1 group-title="云南,#genre#",文山公共
+#EXTINF:-1 group-title="云南,",文山公共
 http://iptva.cn/api/M3u8/Index?id=1125&card=61769016159
-#EXTINF:-1 group-title="云南,#genre#",西双版纳一
+#EXTINF:-1 group-title="云南,",西双版纳一
 http://iptva.cn/api/M3u8/Index?id=1126&card=61769016159
-#EXTINF:-1 group-title="云南,#genre#",西双版纳二
+#EXTINF:-1 group-title="云南,",西双版纳二
 http://iptva.cn/api/M3u8/Index?id=1127&card=61769016159
-#EXTINF:-1 group-title="新建,#genre#",兵团卫视
+#EXTINF:-1 group-title="新建,",兵团卫视
 http://iptva.cn/api/M3u8/Index?id=10110&card=61769016159
-#EXTINF:-1 group-title="重庆,#genre#",重庆新闻
+#EXTINF:-1 group-title="重庆,",重庆新闻
 http://iptva.cn/api/M3u8/Index?id=10111&card=61769016159
-#EXTINF:-1 group-title="重庆,#genre#",重庆科教
+#EXTINF:-1 group-title="重庆,",重庆科教
 http://iptva.cn/api/M3u8/Index?id=10112&card=61769016159
-#EXTINF:-1 group-title="重庆,#genre#",三沙卫视
+#EXTINF:-1 group-title="重庆,",三沙卫视
 http://iptva.cn/api/M3u8/Index?id=10113&card=61769016159
-#EXTINF:-1 group-title="重庆,#genre#",重庆影视
+#EXTINF:-1 group-title="重庆,",重庆影视
 http://iptva.cn/api/M3u8/Index?id=10114&card=61769016159
-#EXTINF:-1 group-title="重庆,#genre#",重庆文体娱乐
+#EXTINF:-1 group-title="重庆,",重庆文体娱乐
 http://iptva.cn/api/M3u8/Index?id=10115&card=61769016159
-#EXTINF:-1 group-title="重庆,#genre#",重庆少儿
+#EXTINF:-1 group-title="重庆,",重庆少儿
 http://iptva.cn/api/M3u8/Index?id=10116&card=61769016159
-#EXTINF:-1 group-title="重庆,#genre#",重庆时尚生活
+#EXTINF:-1 group-title="重庆,",重庆时尚生活
 http://iptva.cn/api/M3u8/Index?id=10117&card=61769016159
-#EXTINF:-1 group-title="广西,#genre#",南宁综合
+#EXTINF:-1 group-title="广西,",南宁综合
 http://iptva.cn/api/M3u8/Index?id=1135&card=61769016159
-#EXTINF:-1 group-title="广西,#genre#",南宁都市
+#EXTINF:-1 group-title="广西,",南宁都市
 http://iptva.cn/api/M3u8/Index?id=1136&card=61769016159
-#EXTINF:-1 group-title="广西,#genre#",南宁影视
+#EXTINF:-1 group-title="广西,",南宁影视
 http://iptva.cn/api/M3u8/Index?id=1137&card=61769016159
-#EXTINF:-1 group-title="广西,#genre#",南宁公共
+#EXTINF:-1 group-title="广西,",南宁公共
 http://iptva.cn/api/M3u8/Index?id=1138&card=61769016159
-#EXTINF:-1 group-title="宁夏,#genre#",宁夏公共
+#EXTINF:-1 group-title="宁夏,",宁夏公共
 http://iptva.cn/api/M3u8/Index?id=1139&card=61769016159
-#EXTINF:-1 group-title="宁夏,#genre#",宁夏经济
+#EXTINF:-1 group-title="宁夏,",宁夏经济
 http://iptva.cn/api/M3u8/Index?id=1140&card=61769016159
-#EXTINF:-1 group-title="宁夏,#genre#",宁夏文旅
+#EXTINF:-1 group-title="宁夏,",宁夏文旅
 http://iptva.cn/api/M3u8/Index?id=1141&card=61769016159
-#EXTINF:-1 group-title="宁夏,#genre#",宁夏少儿
+#EXTINF:-1 group-title="宁夏,",宁夏少儿
 http://iptva.cn/api/M3u8/Index?id=1142&card=61769016159
-#EXTINF:-1 group-title="黑龙江,#genre#",黑龙江新闻法治
+#EXTINF:-1 group-title="黑龙江,",黑龙江新闻法治
 http://iptva.cn/api/M3u8/Index?id=1143&card=61769016159
-#EXTINF:-1 group-title="黑龙江,#genre#",黑龙江公共农业
+#EXTINF:-1 group-title="黑龙江,",黑龙江公共农业
 http://iptva.cn/api/M3u8/Index?id=1144&card=61769016159
-#EXTINF:-1 group-title="黑龙江,#genre#",黑龙江都市频道
+#EXTINF:-1 group-title="黑龙江,",黑龙江都市频道
 http://iptva.cn/api/M3u8/Index?id=1145&card=61769016159
-#EXTINF:-1 group-title="黑龙江,#genre#",黑龙江文体频道
+#EXTINF:-1 group-title="黑龙江,",黑龙江文体频道
 http://iptva.cn/api/M3u8/Index?id=1146&card=61769016159
-#EXTINF:-1 group-title="黑龙江,#genre#",黑龙江影视频道
+#EXTINF:-1 group-title="黑龙江,",黑龙江影视频道
 http://iptva.cn/api/M3u8/Index?id=1147&card=61769016159
-#EXTINF:-1 group-title="黑龙江,#genre#",黑龙江少儿频道
+#EXTINF:-1 group-title="黑龙江,",黑龙江少儿频道
 http://iptva.cn/api/M3u8/Index?id=1148&card=61769016159
-#EXTINF:-1 group-title="黑龙江,#genre#",哈尔滨新闻综合
+#EXTINF:-1 group-title="黑龙江,",哈尔滨新闻综合
 http://iptva.cn/api/M3u8/Index?id=1149&card=61769016159
-#EXTINF:-1 group-title="辽宁,#genre#",辽宁体育
+#EXTINF:-1 group-title="辽宁,",辽宁体育
 http://iptva.cn/api/M3u8/Index?id=10124&card=61769016159
-#EXTINF:-1 group-title="辽宁,#genre#",辽宁教育
+#EXTINF:-1 group-title="辽宁,",辽宁教育
 http://iptva.cn/api/M3u8/Index?id=10125&card=61769016159
-#EXTINF:-1 group-title="辽宁,#genre#",辽宁经济
+#EXTINF:-1 group-title="辽宁,",辽宁经济
 http://iptva.cn/api/M3u8/Index?id=10126&card=61769016159
-#EXTINF:-1 group-title="辽宁,#genre#",辽宁公共
+#EXTINF:-1 group-title="辽宁,",辽宁公共
 http://iptva.cn/api/M3u8/Index?id=10127&card=61769016159
-#EXTINF:-1 group-title="辽宁,#genre#",辽宁都市
+#EXTINF:-1 group-title="辽宁,",辽宁都市
 http://iptva.cn/api/M3u8/Index?id=10128&card=61769016159
-#EXTINF:-1 group-title="辽宁,#genre#",辽宁北方
+#EXTINF:-1 group-title="辽宁,",辽宁北方
 http://iptva.cn/api/M3u8/Index?id=10129&card=61769016159
-#EXTINF:-1 group-title="辽宁,#genre#",辽宁生活
+#EXTINF:-1 group-title="辽宁,",辽宁生活
 http://iptva.cn/api/M3u8/Index?id=10130&card=61769016159
-#EXTINF:-1 group-title="凤凰,#genre#",凤凰中文
+#EXTINF:-1 group-title="凤凰,",凤凰中文
 http://iptva.cn/api/M3u8/Index?id=841&card=61769016159
-#EXTINF:-1 group-title="凤凰,#genre#",凤凰中文
+#EXTINF:-1 group-title="凤凰,",凤凰中文
 http://iptva.cn/api/M3u8/Index?id=842&card=61769016159
-#EXTINF:-1 group-title="凤凰,#genre#",凤凰资讯
+#EXTINF:-1 group-title="凤凰,",凤凰资讯
 http://iptva.cn/api/M3u8/Index?id=843&card=61769016159
-#EXTINF:-1 group-title="凤凰,#genre#",凤凰资讯
+#EXTINF:-1 group-title="凤凰,",凤凰资讯
 http://iptva.cn/api/M3u8/Index?id=844&card=61769016159
-#EXTINF:-1 group-title="iHOT,#genre#",精彩影视
+#EXTINF:-1 group-title="iHOT,",精彩影视
 http://iptva.cn/api/M3u8/Index?id=849&card=61769016159
-#EXTINF:-1 group-title="iHOT,#genre#",求索动物
+#EXTINF:-1 group-title="iHOT,",求索动物
 http://iptva.cn/api/M3u8/Index?id=850&card=61769016159
-#EXTINF:-1 group-title="iHOT,#genre#",求索记录
+#EXTINF:-1 group-title="iHOT,",求索记录
 http://iptva.cn/api/M3u8/Index?id=851&card=61769016159
-#EXTINF:-1 group-title="iHOT,#genre#",求索科学
+#EXTINF:-1 group-title="iHOT,",求索科学
 http://iptva.cn/api/M3u8/Index?id=852&card=61769016159
-#EXTINF:-1 group-title="iHOT,#genre#",求索生活
+#EXTINF:-1 group-title="iHOT,",求索生活
 http://iptva.cn/api/M3u8/Index?id=853&card=61769016159
-#EXTINF:-1 group-title="iHOT,#genre#",探索纪实
+#EXTINF:-1 group-title="iHOT,",探索纪实
 http://iptva.cn/api/M3u8/Index?id=854&card=61769016159
-#EXTINF:-1 group-title="iHOT,#genre#",少儿动漫
+#EXTINF:-1 group-title="iHOT,",少儿动漫
 http://iptva.cn/api/M3u8/Index?id=855&card=61769016159
-#EXTINF:-1 group-title="iHOT,#genre#",风尚音乐
+#EXTINF:-1 group-title="iHOT,",风尚音乐
 http://iptva.cn/api/M3u8/Index?id=856&card=61769016159
-#EXTINF:-1 group-title="iHOT,#genre#",精品剧场
+#EXTINF:-1 group-title="iHOT,",精品剧场
 http://iptva.cn/api/M3u8/Index?id=857&card=61769016159
-#EXTINF:-1 group-title="iHOT,#genre#",欧美影院
+#EXTINF:-1 group-title="iHOT,",欧美影院
 http://iptva.cn/api/M3u8/Index?id=858&card=61769016159
-#EXTINF:-1 group-title="iHOT,#genre#",亚洲影院
+#EXTINF:-1 group-title="iHOT,",亚洲影院
 http://iptva.cn/api/M3u8/Index?id=859&card=61769016159
-#EXTINF:-1 group-title="iHOT,#genre#",iHOT爱电竞
+#EXTINF:-1 group-title="iHOT,",iHOT爱电竞
 http://iptva.cn/api/M3u8/Index?id=860&card=61769016159
-#EXTINF:-1 group-title="iHOT,#genre#",iHOT爱院线
+#EXTINF:-1 group-title="iHOT,",iHOT爱院线
 http://iptva.cn/api/M3u8/Index?id=861&card=61769016159
-#EXTINF:-1 group-title="iHOT,#genre#",iHOT爱科幻
+#EXTINF:-1 group-title="iHOT,",iHOT爱科幻
 http://iptva.cn/api/M3u8/Index?id=862&card=61769016159
-#EXTINF:-1 group-title="iHOT,#genre#",iHOT爱浪漫
+#EXTINF:-1 group-title="iHOT,",iHOT爱浪漫
 http://iptva.cn/api/M3u8/Index?id=863&card=61769016159
-#EXTINF:-1 group-title="iHOT,#genre#",iHOT爱喜剧
+#EXTINF:-1 group-title="iHOT,",iHOT爱喜剧
 http://iptva.cn/api/M3u8/Index?id=864&card=61769016159
-#EXTINF:-1 group-title="iHOT,#genre#",iHOT爱娱乐
+#EXTINF:-1 group-title="iHOT,",iHOT爱娱乐
 http://iptva.cn/api/M3u8/Index?id=865&card=61769016159
-#EXTINF:-1 group-title="iHOT,#genre#",iHOT爱悬疑
+#EXTINF:-1 group-title="iHOT,",iHOT爱悬疑
 http://iptva.cn/api/M3u8/Index?id=866&card=61769016159
-#EXTINF:-1 group-title="iHOT,#genre#",iHOT爱经典
+#EXTINF:-1 group-title="iHOT,",iHOT爱经典
 http://iptva.cn/api/M3u8/Index?id=867&card=61769016159
-#EXTINF:-1 group-title="iHOT,#genre#",iHOT爱江湖
+#EXTINF:-1 group-title="iHOT,",iHOT爱江湖
 http://iptva.cn/api/M3u8/Index?id=868&card=61769016159
-#EXTINF:-1 group-title="iHOT,#genre#",iHOT爱赛车
+#EXTINF:-1 group-title="iHOT,",iHOT爱赛车
 http://iptva.cn/api/M3u8/Index?id=869&card=61769016159
-#EXTINF:-1 group-title="iHOT,#genre#",iHOT爱体育
+#EXTINF:-1 group-title="iHOT,",iHOT爱体育
 http://iptva.cn/api/M3u8/Index?id=870&card=61769016159
-#EXTINF:-1 group-title="iHOT,#genre#",iHOT爱探索
+#EXTINF:-1 group-title="iHOT,",iHOT爱探索
 http://iptva.cn/api/M3u8/Index?id=871&card=61769016159
-#EXTINF:-1 group-title="iHOT,#genre#",iHOT爱奇谈
+#EXTINF:-1 group-title="iHOT,",iHOT爱奇谈
 http://iptva.cn/api/M3u8/Index?id=872&card=61769016159
-#EXTINF:-1 group-title="iHOT,#genre#",iHOT爱玩具
+#EXTINF:-1 group-title="iHOT,",iHOT爱玩具
 http://iptva.cn/api/M3u8/Index?id=873&card=61769016159
-#EXTINF:-1 group-title="iHOT,#genre#",iHOT爱世界
+#EXTINF:-1 group-title="iHOT,",iHOT爱世界
 http://iptva.cn/api/M3u8/Index?id=874&card=61769016159
-#EXTINF:-1 group-title="iHOT,#genre#",iHOT爱怀旧
+#EXTINF:-1 group-title="iHOT,",iHOT爱怀旧
 http://iptva.cn/api/M3u8/Index?id=875&card=61769016159
-#EXTINF:-1 group-title="iHOT,#genre#",iHOT爱旅行
+#EXTINF:-1 group-title="iHOT,",iHOT爱旅行
 http://iptva.cn/api/M3u8/Index?id=876&card=61769016159
-#EXTINF:-1 group-title="iHOT,#genre#",iHOT爱幼教
+#EXTINF:-1 group-title="iHOT,",iHOT爱幼教
 http://iptva.cn/api/M3u8/Index?id=878&card=61769016159
-#EXTINF:-1 group-title="iHOT,#genre#",iHOT爱解密
+#EXTINF:-1 group-title="iHOT,",iHOT爱解密
 http://iptva.cn/api/M3u8/Index?id=879&card=61769016159
-#EXTINF:-1 group-title="iHOT,#genre#",iHOT爱谍战
+#EXTINF:-1 group-title="iHOT,",iHOT爱谍战
 http://iptva.cn/api/M3u8/Index?id=880&card=61769016159
-#EXTINF:-1 group-title="iHOT,#genre#",iHOT爱历史
+#EXTINF:-1 group-title="iHOT,",iHOT爱历史
 http://iptva.cn/api/M3u8/Index?id=881&card=61769016159
-#EXTINF:-1 group-title="iHOT,#genre#",iHOT爱猎奇
+#EXTINF:-1 group-title="iHOT,",iHOT爱猎奇
 http://iptva.cn/api/M3u8/Index?id=882&card=61769016159
-#EXTINF:-1 group-title="iHOT,#genre#",iHOT爱都市
+#EXTINF:-1 group-title="iHOT,",iHOT爱都市
 http://iptva.cn/api/M3u8/Index?id=883&card=61769016159
-#EXTINF:-1 group-title="iHOT,#genre#",iHOT爱科学
+#EXTINF:-1 group-title="iHOT,",iHOT爱科学
 http://iptva.cn/api/M3u8/Index?id=884&card=61769016159
-#EXTINF:-1 group-title="iHOT,#genre#",iHOT爱美食
+#EXTINF:-1 group-title="iHOT,",iHOT爱美食
 http://iptva.cn/api/M3u8/Index?id=885&card=61769016159
-#EXTINF:-1 group-title="iHOT,#genre#",iHOT爱时尚
+#EXTINF:-1 group-title="iHOT,",iHOT爱时尚
 http://iptva.cn/api/M3u8/Index?id=886&card=61769016159
-#EXTINF:-1 group-title="iHOT,#genre#",iHOT爱青春
+#EXTINF:-1 group-title="iHOT,",iHOT爱青春
 http://iptva.cn/api/M3u8/Index?id=887&card=61769016159
-#EXTINF:-1 group-title="iHOT,#genre#",iHOT爱家庭
+#EXTINF:-1 group-title="iHOT,",iHOT爱家庭
 http://iptva.cn/api/M3u8/Index?id=888&card=61769016159
-#EXTINF:-1 group-title="iHOT,#genre#",iHOT爱动漫
+#EXTINF:-1 group-title="iHOT,",iHOT爱动漫
 http://iptva.cn/api/M3u8/Index?id=889&card=61769016159
-#EXTINF:-1 group-title="其他,#genre#",快乐垂钓
+#EXTINF:-1 group-title="其他,",快乐垂钓
 http://iptva.cn/api/M3u8/Index?id=890&card=61769016159
-#EXTINF:-1 group-title="其他,#genre#",四海钓鱼
+#EXTINF:-1 group-title="其他,",四海钓鱼
 http://iptva.cn/api/M3u8/Index?id=891&card=61769016159
-#EXTINF:-1 group-title="其他,#genre#",书画频道
+#EXTINF:-1 group-title="其他,",书画频道
 http://iptva.cn/api/M3u8/Index?id=892&card=61769016159
-#EXTINF:-1 group-title="CHC,#genre#",CHC动作电影
+#EXTINF:-1 group-title="CHC,",CHC动作电影
 http://iptva.cn/api/M3u8/Index?id=893&card=61769016159
-#EXTINF:-1 group-title="CHC,#genre#",CHC家庭影院
+#EXTINF:-1 group-title="CHC,",CHC家庭影院
 http://iptva.cn/api/M3u8/Index?id=894&card=61769016159
-#EXTINF:-1 group-title="CHC,#genre#",CHC高清电影
+#EXTINF:-1 group-title="CHC,",CHC高清电影
 http://iptva.cn/api/M3u8/Index?id=895&card=61769016159
-#EXTINF:-1 group-title="SiTV,#genre#",SiTV游戏风云
+#EXTINF:-1 group-title="SiTV,",SiTV游戏风云
 http://iptva.cn/api/M3u8/Index?id=896&card=61769016159
-#EXTINF:-1 group-title="SiTV,#genre#",SiTV劲爆体育
+#EXTINF:-1 group-title="SiTV,",SiTV劲爆体育
 http://iptva.cn/api/M3u8/Index?id=897&card=61769016159
-#EXTINF:-1 group-title="SiTV,#genre#",SiTV新视觉
+#EXTINF:-1 group-title="SiTV,",SiTV新视觉
 http://iptva.cn/api/M3u8/Index?id=898&card=61769016159
-#EXTINF:-1 group-title="SiTV,#genre#",SiTV魅力足球
+#EXTINF:-1 group-title="SiTV,",SiTV魅力足球
 http://iptva.cn/api/M3u8/Index?id=899&card=61769016159
-#EXTINF:-1 group-title="SiTV,#genre#",SiTV全纪实
+#EXTINF:-1 group-title="SiTV,",SiTV全纪实
 http://iptva.cn/api/M3u8/Index?id=900&card=61769016159
-#EXTINF:-1 group-title="SiTV,#genre#",SiTV极速汽车
+#EXTINF:-1 group-title="SiTV,",SiTV极速汽车
 http://iptva.cn/api/M3u8/Index?id=901&card=61769016159
-#EXTINF:-1 group-title="SiTV,#genre#",SiTV都市剧场
+#EXTINF:-1 group-title="SiTV,",SiTV都市剧场
 http://iptva.cn/api/M3u8/Index?id=902&card=61769016159
-#EXTINF:-1 group-title="SiTV,#genre#",SiTV生活时尚
+#EXTINF:-1 group-title="SiTV,",SiTV生活时尚
 http://iptva.cn/api/M3u8/Index?id=903&card=61769016159
-#EXTINF:-1 group-title="SiTV,#genre#",SiTV动漫秀场
+#EXTINF:-1 group-title="SiTV,",SiTV动漫秀场
 http://iptva.cn/api/M3u8/Index?id=904&card=61769016159
-#EXTINF:-1 group-title="SiTV,#genre#",SiTV幸福彩
+#EXTINF:-1 group-title="SiTV,",SiTV幸福彩
 http://iptva.cn/api/M3u8/Index?id=905&card=61769016159
-#EXTINF:-1 group-title="SiTV,#genre#",SiTV欢笑剧场
+#EXTINF:-1 group-title="SiTV,",SiTV欢笑剧场
 http://iptva.cn/api/M3u8/Index?id=906&card=61769016159
-#EXTINF:-1 group-title="SiTV,#genre#",宝宝动画
+#EXTINF:-1 group-title="SiTV,",宝宝动画
 http://iptva.cn/api/M3u8/Index?id=987&card=61769016159
-#EXTINF:-1 group-title="SiTV,#genre#",青春动漫
+#EXTINF:-1 group-title="SiTV,",青春动漫
 http://iptva.cn/api/M3u8/Index?id=988&card=61769016159
-#EXTINF:-1 group-title="SiTV,#genre#",谍战剧场
+#EXTINF:-1 group-title="SiTV,",谍战剧场
 http://iptva.cn/api/M3u8/Index?id=989&card=61769016159
-#EXTINF:-1 group-title="SiTV,#genre#",热门剧场
+#EXTINF:-1 group-title="SiTV,",热门剧场
 http://iptva.cn/api/M3u8/Index?id=990&card=61769016159
-#EXTINF:-1 group-title="SiTV,#genre#",全球大片
+#EXTINF:-1 group-title="SiTV,",全球大片
 http://iptva.cn/api/M3u8/Index?id=991&card=61769016159
-#EXTINF:-1 group-title="SiTV,#genre#",星光影院
+#EXTINF:-1 group-title="SiTV,",星光影院
 http://iptva.cn/api/M3u8/Index?id=992&card=61769016159
-#EXTINF:-1 group-title="SiTV,#genre#",华语影院
+#EXTINF:-1 group-title="SiTV,",华语影院
 http://iptva.cn/api/M3u8/Index?id=993&card=61769016159
-#EXTINF:-1 group-title="4K频道,#genre#",CCTV16-4K
+#EXTINF:-1 group-title="4K频道,",CCTV16-4K
 http://iptva.cn/api/M3u8/Index?id=759&card=61769016159
-#EXTINF:-1 group-title="4K频道,#genre#",CCTV16-4K(备)
+#EXTINF:-1 group-title="4K频道,",CCTV16-4K(备)
 http://iptva.cn/api/M3u8/Index?id=760&card=61769016159
-#EXTINF:-1 group-title="4K频道,#genre#",BTV纪实科教-8KSDR源
+#EXTINF:-1 group-title="4K频道,",BTV纪实科教-8KSDR源
 http://iptva.cn/api/M3u8/Index?id=761&card=61769016159
-#EXTINF:-1 group-title="4K频道,#genre#",BBC UHD
+#EXTINF:-1 group-title="4K频道,",BBC UHD
 http://iptva.cn/api/M3u8/Index?id=763&card=61769016159
-#EXTINF:-1 group-title="4K频道,#genre#",4K超高清电影
+#EXTINF:-1 group-title="4K频道,",4K超高清电影
 http://iptva.cn/api/M3u8/Index?id=764&card=61769016159
-#EXTINF:-1 group-title="4K频道,#genre#",咪咕体育-4K-HLG源
+#EXTINF:-1 group-title="4K频道,",咪咕体育-4K-HLG源
 http://iptva.cn/api/M3u8/Index?id=765&card=61769016159
-#EXTINF:-1 group-title="4K频道,#genre#",咪咕体育-4K-HLG源-2
+#EXTINF:-1 group-title="4K频道,",咪咕体育-4K-HLG源-2
 http://iptva.cn/api/M3u8/Index?id=766&card=61769016159
-#EXTINF:-1 group-title="4K频道,#genre#",咪咕体育-4K-HLG源-3
+#EXTINF:-1 group-title="4K频道,",咪咕体育-4K-HLG源-3
 http://iptva.cn/api/M3u8/Index?id=767&card=61769016159
-#EXTINF:-1 group-title="4K频道,#genre#",河南4K
+#EXTINF:-1 group-title="4K频道,",河南4K
 http://iptva.cn/api/M3u8/Index?id=768&card=61769016159
-#EXTINF:-1 group-title="4K频道,#genre#",CCTV 4K
+#EXTINF:-1 group-title="4K频道,",CCTV 4K
 http://iptva.cn/api/M3u8/Index?id=777&card=61769016159
-#EXTINF:-1 group-title="4K频道,#genre#",CCTV4K-50P-HLG小果源
+#EXTINF:-1 group-title="4K频道,",CCTV4K-50P-HLG小果源
 http://iptva.cn/api/M3u8/Index?id=778&card=61769016159
-#EXTINF:-1 group-title="4K频道,#genre#",苏州4K
+#EXTINF:-1 group-title="4K频道,",苏州4K
 http://iptva.cn/api/M3u8/Index?id=779&card=61769016159
-#EXTINF:-1 group-title="4K频道,#genre#",纯享4K
+#EXTINF:-1 group-title="4K频道,",纯享4K
 http://iptva.cn/api/M3u8/Index?id=780&card=61769016159
-#EXTINF:-1 group-title="4K频道,#genre#",欢笑剧场4K
+#EXTINF:-1 group-title="4K频道,",欢笑剧场4K
 http://iptva.cn/api/M3u8/Index?id=781&card=61769016159
-#EXTINF:-1 group-title="4K频道,#genre#",4K影视
+#EXTINF:-1 group-title="4K频道,",4K影视
 http://iptva.cn/api/M3u8/Index?id=786&card=61769016159
-#EXTINF:-1 group-title="4K频道,#genre#",爱上4K
+#EXTINF:-1 group-title="4K频道,",爱上4K
 http://iptva.cn/api/M3u8/Index?id=787&card=61769016159
-#EXTINF:-1 group-title="4K频道,#genre#",爱自然
+#EXTINF:-1 group-title="4K频道,",爱自然
 http://iptva.cn/api/M3u8/Index?id=802&card=61769016159
-#EXTINF:-1 group-title="4K频道,#genre#",MUZZIK ZZ4000 4K
+#EXTINF:-1 group-title="4K频道,",MUZZIK ZZ4000 4K
 http://iptva.cn/api/M3u8/Index?id=803&card=61769016159
-#EXTINF:-1 group-title="4K频道,#genre#",loupe 4K
+#EXTINF:-1 group-title="4K频道,",loupe 4K
 http://iptva.cn/api/M3u8/Index?id=804&card=61769016159
-#EXTINF:-1 group-title="4K频道,#genre#",Bloomberg TV+ 4K
+#EXTINF:-1 group-title="4K频道,",Bloomberg TV+ 4K
 http://iptva.cn/api/M3u8/Index?id=805&card=61769016159
-#EXTINF:-1 group-title="4K频道,#genre#",斗鱼4K
+#EXTINF:-1 group-title="4K频道,",斗鱼4K
 http://iptva.cn/api/M3u8/Index?id=806&card=61769016159
-#EXTINF:-1 group-title="4K频道,#genre#",4K测试源
+#EXTINF:-1 group-title="4K频道,",4K测试源
 http://iptva.cn/api/M3u8/Index?id=820&card=61769016159
-#EXTINF:-1 group-title="4K频道,#genre#",江苏8K测试
+#EXTINF:-1 group-title="4K频道,",江苏8K测试
 http://iptva.cn/api/M3u8/Index?id=821&card=61769016159
-#EXTINF:-1 group-title="4K频道,#genre#",SiTV欢笑剧场 12M2160
+#EXTINF:-1 group-title="4K频道,",SiTV欢笑剧场 12M2160
 http://iptva.cn/api/M3u8/Index?id=826&card=61769016159
-#EXTINF:-1 group-title="4K频道,#genre#",MUZZIK ZZ4000 4K
+#EXTINF:-1 group-title="4K频道,",MUZZIK ZZ4000 4K
 http://iptva.cn/api/M3u8/Index?id=827&card=61769016159
-#EXTINF:-1 group-title="4K频道,#genre#",loupe 4K
+#EXTINF:-1 group-title="4K频道,",loupe 4K
 http://iptva.cn/api/M3u8/Index?id=828&card=61769016159
-#EXTINF:-1 group-title="4K频道,#genre#",SKY HIGH NATURE 4K HDR
+#EXTINF:-1 group-title="4K频道,",SKY HIGH NATURE 4K HDR
 http://iptva.cn/api/M3u8/Index?id=829&card=61769016159
-#EXTINF:-1 group-title="4K频道,#genre#",SKY HIGH VHS UHD
+#EXTINF:-1 group-title="4K频道,",SKY HIGH VHS UHD
 http://iptva.cn/api/M3u8/Index?id=830&card=61769016159
-#EXTINF:-1 group-title="4K频道,#genre#",欢笑剧场4K
+#EXTINF:-1 group-title="4K频道,",欢笑剧场4K
 http://iptva.cn/api/M3u8/Index?id=831&card=61769016159
-#EXTINF:-1 group-title="4K频道,#genre#",YOSSO TV 4K
+#EXTINF:-1 group-title="4K频道,",YOSSO TV 4K
 http://iptva.cn/api/M3u8/Index?id=834&card=61769016159
-#EXTINF:-1 group-title="4K频道,#genre#",минимакс-flip UHD
+#EXTINF:-1 group-title="4K频道,",минимакс-flip UHD
 http://iptva.cn/api/M3u8/Index?id=835&card=61769016159
-#EXTINF:-1 group-title="4K频道,#genre#",DIGI 4k
+#EXTINF:-1 group-title="4K频道,",DIGI 4k
 http://iptva.cn/api/M3u8/Index?id=836&card=61769016159
-#EXTINF:-1 group-title="4K频道,#genre#",Fashion4K
+#EXTINF:-1 group-title="4K频道,",Fashion4K
 http://iptva.cn/api/M3u8/Index?id=837&card=61769016159
-#EXTINF:-1 group-title="4K频道,#genre#",Clarity4K
+#EXTINF:-1 group-title="4K频道,",Clarity4K
 http://iptva.cn/api/M3u8/Index?id=838&card=61769016159
-#EXTINF:-1 group-title="4K频道,#genre#",北京BesTV-4K
+#EXTINF:-1 group-title="4K频道,",北京BesTV-4K
 http://iptva.cn/api/M3u8/Index?id=839&card=61769016159
-#EXTINF:-1 group-title="电影专区,#genre#",华语经典
+#EXTINF:-1 group-title="电影专区,",华语经典
 http://iptva.cn/api/M3u8/Index?id=1162&card=61769016159
-#EXTINF:-1 group-title="电影专区,#genre#",吃米滴虫
+#EXTINF:-1 group-title="电影专区,",吃米滴虫
 http://iptva.cn/api/M3u8/Index?id=1163&card=61769016159
-#EXTINF:-1 group-title="电影专区,#genre#",神乐影片1
+#EXTINF:-1 group-title="电影专区,",神乐影片1
 http://iptva.cn/api/M3u8/Index?id=1165&card=61769016159
-#EXTINF:-1 group-title="电影专区,#genre#",神乐影片2
+#EXTINF:-1 group-title="电影专区,",神乐影片2
 http://iptva.cn/api/M3u8/Index?id=1166&card=61769016159
-#EXTINF:-1 group-title="电影专区,#genre#",贝爷MAX厅
+#EXTINF:-1 group-title="电影专区,",贝爷MAX厅
 http://iptva.cn/api/M3u8/Index?id=1170&card=61769016159
-#EXTINF:-1 group-title="电影专区,#genre#",漫威影片
+#EXTINF:-1 group-title="电影专区,",漫威影片
 http://iptva.cn/api/M3u8/Index?id=1171&card=61769016159
-#EXTINF:-1 group-title="电影专区,#genre#",周星驰电影
+#EXTINF:-1 group-title="电影专区,",周星驰电影
 http://iptva.cn/api/M3u8/Index?id=1173&card=61769016159
-#EXTINF:-1 group-title="电影专区,#genre#",刘德华电影1
+#EXTINF:-1 group-title="电影专区,",刘德华电影1
 http://iptva.cn/api/M3u8/Index?id=1174&card=61769016159
-#EXTINF:-1 group-title="电影专区,#genre#",刘德华电影2
+#EXTINF:-1 group-title="电影专区,",刘德华电影2
 http://iptva.cn/api/M3u8/Index?id=1175&card=61769016159
-#EXTINF:-1 group-title="电影专区,#genre#",喜剧经典
+#EXTINF:-1 group-title="电影专区,",喜剧经典
 http://iptva.cn/api/M3u8/Index?id=1176&card=61769016159
-#EXTINF:-1 group-title="电影专区,#genre#",豆瓣高分
+#EXTINF:-1 group-title="电影专区,",豆瓣高分
 http://iptva.cn/api/M3u8/Index?id=1177&card=61769016159
-#EXTINF:-1 group-title="电影专区,#genre#",林正英电影1
+#EXTINF:-1 group-title="电影专区,",林正英电影1
 http://iptva.cn/api/M3u8/Index?id=1178&card=61769016159
-#EXTINF:-1 group-title="电影专区,#genre#",林正英电影2
+#EXTINF:-1 group-title="电影专区,",林正英电影2
 http://iptva.cn/api/M3u8/Index?id=1179&card=61769016159
-#EXTINF:-1 group-title="电影专区,#genre#",宇哥电影
+#EXTINF:-1 group-title="电影专区,",宇哥电影
 http://iptva.cn/api/M3u8/Index?id=1180&card=61769016159
-#EXTINF:-1 group-title="电影专区,#genre#",女神金电影
+#EXTINF:-1 group-title="电影专区,",女神金电影
 http://iptva.cn/api/M3u8/Index?id=1181&card=61769016159
-#EXTINF:-1 group-title="电影专区,#genre#",花卷电影
+#EXTINF:-1 group-title="电影专区,",花卷电影
 http://iptva.cn/api/M3u8/Index?id=1182&card=61769016159
-#EXTINF:-1 group-title="电影专区,#genre#",经典怀旧系列
+#EXTINF:-1 group-title="电影专区,",经典怀旧系列
 http://iptva.cn/api/M3u8/Index?id=1183&card=61769016159
-#EXTINF:-1 group-title="电影专区,#genre#",北京大蜜
+#EXTINF:-1 group-title="电影专区,",北京大蜜
 http://iptva.cn/api/M3u8/Index?id=1184&card=61769016159
-#EXTINF:-1 group-title="电影专区,#genre#",贝爷影厅1
+#EXTINF:-1 group-title="电影专区,",贝爷影厅1
 http://iptva.cn/api/M3u8/Index?id=1185&card=61769016159
-#EXTINF:-1 group-title="电影专区,#genre#",贝爷影厅2
+#EXTINF:-1 group-title="电影专区,",贝爷影厅2
 http://iptva.cn/api/M3u8/Index?id=1186&card=61769016159
-#EXTINF:-1 group-title="电影专区,#genre#",霍格影片
+#EXTINF:-1 group-title="电影专区,",霍格影片
 http://iptva.cn/api/M3u8/Index?id=1187&card=61769016159
-#EXTINF:-1 group-title="电影专区,#genre#",可乐电影
+#EXTINF:-1 group-title="电影专区,",可乐电影
 http://iptva.cn/api/M3u8/Index?id=1188&card=61769016159
-#EXTINF:-1 group-title="电影专区,#genre#",冰冰经典电影
+#EXTINF:-1 group-title="电影专区,",冰冰经典电影
 http://iptva.cn/api/M3u8/Index?id=1189&card=61769016159
-#EXTINF:-1 group-title="电影专区,#genre#",动作电影
+#EXTINF:-1 group-title="电影专区,",动作电影
 http://iptva.cn/api/M3u8/Index?id=1190&card=61769016159
-#EXTINF:-1 group-title="电影专区,#genre#",奶瓶科幻片
+#EXTINF:-1 group-title="电影专区,",奶瓶科幻片
 http://iptva.cn/api/M3u8/Index?id=1191&card=61769016159
-#EXTINF:-1 group-title="电影专区,#genre#",经典怀旧
+#EXTINF:-1 group-title="电影专区,",经典怀旧
 http://iptva.cn/api/M3u8/Index?id=1192&card=61769016159
-#EXTINF:-1 group-title="电影专区,#genre#",避风港影院
+#EXTINF:-1 group-title="电影专区,",避风港影院
 http://iptva.cn/api/M3u8/Index?id=1193&card=61769016159
-#EXTINF:-1 group-title="电影专区,#genre#",经典港片
+#EXTINF:-1 group-title="电影专区,",经典港片
 http://iptva.cn/api/M3u8/Index?id=1194&card=61769016159
-#EXTINF:-1 group-title="电影专区,#genre#",恐怖专场
+#EXTINF:-1 group-title="电影专区,",恐怖专场
 http://iptva.cn/api/M3u8/Index?id=1196&card=61769016159
-#EXTINF:-1 group-title="电影专区,#genre#",恐怖动作片
+#EXTINF:-1 group-title="电影专区,",恐怖动作片
 http://iptva.cn/api/M3u8/Index?id=1198&card=61769016159
-#EXTINF:-1 group-title="电影专区,#genre#",经典科幻
+#EXTINF:-1 group-title="电影专区,",经典科幻
 http://iptva.cn/api/M3u8/Index?id=1199&card=61769016159
-#EXTINF:-1 group-title="电影专区,#genre#",漫威电影
+#EXTINF:-1 group-title="电影专区,",漫威电影
 http://iptva.cn/api/M3u8/Index?id=1200&card=61769016159
-#EXTINF:-1 group-title="电影专区,#genre#",科幻系列
+#EXTINF:-1 group-title="电影专区,",科幻系列
 http://iptva.cn/api/M3u8/Index?id=1201&card=61769016159
-#EXTINF:-1 group-title="电影专区,#genre#",恐怖经典
+#EXTINF:-1 group-title="电影专区,",恐怖经典
 http://iptva.cn/api/M3u8/Index?id=1202&card=61769016159
-#EXTINF:-1 group-title="电影专区,#genre#",星星华语
+#EXTINF:-1 group-title="电影专区,",星星华语
 http://iptva.cn/api/M3u8/Index?id=1203&card=61769016159
-#EXTINF:-1 group-title="电影专区,#genre#",变种人电影
+#EXTINF:-1 group-title="电影专区,",变种人电影
 http://iptva.cn/api/M3u8/Index?id=1204&card=61769016159
-#EXTINF:-1 group-title="电影专区,#genre#",小U电影
+#EXTINF:-1 group-title="电影专区,",小U电影
 http://iptva.cn/api/M3u8/Index?id=1205&card=61769016159
-#EXTINF:-1 group-title="电影专区,#genre#",小宇60帧
+#EXTINF:-1 group-title="电影专区,",小宇60帧
 http://iptva.cn/api/M3u8/Index?id=1206&card=61769016159
-#EXTINF:-1 group-title="电影专区,#genre#",华语电影
+#EXTINF:-1 group-title="电影专区,",华语电影
 http://iptva.cn/api/M3u8/Index?id=1207&card=61769016159
-#EXTINF:-1 group-title="电影专区,#genre#",华语动作电影
+#EXTINF:-1 group-title="电影专区,",华语动作电影
 http://iptva.cn/api/M3u8/Index?id=1208&card=61769016159
-#EXTINF:-1 group-title="电影专区,#genre#",恐怖电影
+#EXTINF:-1 group-title="电影专区,",恐怖电影
 http://iptva.cn/api/M3u8/Index?id=1209&card=61769016159
-#EXTINF:-1 group-title="电影专区,#genre#",喜剧电影
+#EXTINF:-1 group-title="电影专区,",喜剧电影
 http://iptva.cn/api/M3u8/Index?id=1210&card=61769016159
-#EXTINF:-1 group-title="电影专区,#genre#",欧美大片
+#EXTINF:-1 group-title="电影专区,",欧美大片
 http://iptva.cn/api/M3u8/Index?id=1211&card=61769016159
-#EXTINF:-1 group-title="电影专区,#genre#",怀旧90
+#EXTINF:-1 group-title="电影专区,",怀旧90
 http://iptva.cn/api/M3u8/Index?id=1212&card=61769016159
-#EXTINF:-1 group-title="电影专区,#genre#",国产影片
+#EXTINF:-1 group-title="电影专区,",国产影片
 http://iptva.cn/api/M3u8/Index?id=1213&card=61769016159
-#EXTINF:-1 group-title="电影专区,#genre#",麓山迷踪
+#EXTINF:-1 group-title="电影专区,",麓山迷踪
 http://iptva.cn/api/M3u8/Index?id=1214&card=61769016159
-#EXTINF:-1 group-title="电影专区,#genre#",高帧影片
+#EXTINF:-1 group-title="电影专区,",高帧影片
 http://iptva.cn/api/M3u8/Index?id=1215&card=61769016159
-#EXTINF:-1 group-title="电影专区,#genre#",米娅
+#EXTINF:-1 group-title="电影专区,",米娅
 http://iptva.cn/api/M3u8/Index?id=1216&card=61769016159
-#EXTINF:-1 group-title="电影专区,#genre#",译制影片
+#EXTINF:-1 group-title="电影专区,",译制影片
 http://iptva.cn/api/M3u8/Index?id=1217&card=61769016159
-#EXTINF:-1 group-title="电影专区,#genre#",网神影厅
+#EXTINF:-1 group-title="电影专区,",网神影厅
 http://iptva.cn/api/M3u8/Index?id=1218&card=61769016159
-#EXTINF:-1 group-title="电影专区,#genre#",小九电影
+#EXTINF:-1 group-title="电影专区,",小九电影
 http://iptva.cn/api/M3u8/Index?id=1219&card=61769016159
-#EXTINF:-1 group-title="电影专区,#genre#",华语电影
+#EXTINF:-1 group-title="电影专区,",华语电影
 http://iptva.cn/api/M3u8/Index?id=1220&card=61769016159
-#EXTINF:-1 group-title="电影专区,#genre#",枪战影片
+#EXTINF:-1 group-title="电影专区,",枪战影片
 http://iptva.cn/api/M3u8/Index?id=1221&card=61769016159
-#EXTINF:-1 group-title="电影专区,#genre#",国外电影
+#EXTINF:-1 group-title="电影专区,",国外电影
 http://iptva.cn/api/M3u8/Index?id=1222&card=61769016159
-#EXTINF:-1 group-title="电影专区,#genre#",宇哥电影
+#EXTINF:-1 group-title="电影专区,",宇哥电影
 http://iptva.cn/api/M3u8/Index?id=1230&card=61769016159
 
 #EXTINF:-1 group-title="阿里云 bestv" tvg-name="CCTV1",CCTV-1 综合
-http://119.167.231.88/liveplay-kk.rtxapp.com/live/program/live/cctv1hd8m/8000000/mnf.m3u8
+http://60.167.125.46/liveplay-kk.rtxapp.com/live/program/live/cctv1hd8m/8000000/mnf.m3u8
 #EXTINF:-1 group-title="阿里云 bestv" tvg-name="CCTV2",CCTV-2 财经
-http://119.167.231.88/liveplay-kk.rtxapp.com/live/program/live/cctv2hd8m/8000000/mnf.m3u8
+http://60.167.125.46/liveplay-kk.rtxapp.com/live/program/live/cctv2hd8m/8000000/mnf.m3u8
 #EXTINF:-1 group-title="阿里云 bestv" tvg-name="CCTV3",CCTV-3 综艺
-http://119.167.231.88/liveplay-kk.rtxapp.com/live/program/live/cctv38m/8000000/mnf.m3u8
+http://60.167.125.46/liveplay-kk.rtxapp.com/live/program/live/cctv38m/8000000/mnf.m3u8
 #EXTINF:-1 group-title="阿里云 bestv" tvg-name="CCTV4",CCTV-4 中文国际
-http://119.167.231.88/liveplay-kk.rtxapp.com/live/program/live/cctv4hd8m/8000000/mnf.m3u8
+http://60.167.125.46/liveplay-kk.rtxapp.com/live/program/live/cctv4hd8m/8000000/mnf.m3u8
 #EXTINF:-1 group-title="阿里云 bestv" tvg-name="CCTV5",CCTV-5 体育
-http://119.167.231.88/liveplay-kk.rtxapp.com/live/program/live/cctv58m/8000000/mnf.m3u8
+http://60.167.125.46/liveplay-kk.rtxapp.com/live/program/live/cctv58m/8000000/mnf.m3u8
 #EXTINF:-1 group-title="阿里云 bestv" tvg-name="CCTV5+",CCTV-5⁺ 体育赛事
-http://119.167.231.88/liveplay-kk.rtxapp.com/live/program/live/cctv5phd8m/8000000/mnf.m3u8
+http://60.167.125.46/liveplay-kk.rtxapp.com/live/program/live/cctv5phd8m/8000000/mnf.m3u8
 #EXTINF:-1 group-title="阿里云 bestv" tvg-name="CCTV6",CCTV-6 电影
-http://119.167.231.88/liveplay-kk.rtxapp.com/live/program/live/cctv68m/8000000/mnf.m3u8
+http://60.167.125.46/liveplay-kk.rtxapp.com/live/program/live/cctv68m/8000000/mnf.m3u8
 #EXTINF:-1 group-title="阿里云 bestv" tvg-name="CCTV7",CCTV-7 国防军事
-http://119.167.231.88/liveplay-kk.rtxapp.com/live/program/live/cctv7hd8m/8000000/mnf.m3u8
+http://60.167.125.46/liveplay-kk.rtxapp.com/live/program/live/cctv7hd8m/8000000/mnf.m3u8
 #EXTINF:-1 group-title="阿里云 bestv" tvg-name="CCTV8",CCTV-8 电视剧
-http://119.167.231.88/liveplay-kk.rtxapp.com/live/program/live/cctv88m/8000000/mnf.m3u8
+http://60.167.125.46/liveplay-kk.rtxapp.com/live/program/live/cctv88m/8000000/mnf.m3u8
 #EXTINF:-1 group-title="阿里云 bestv" tvg-name="CCTV9",CCTV-9 纪录
-http://119.167.231.88/liveplay-kk.rtxapp.com/live/program/live/cctv9hd8m/8000000/mnf.m3u8
+http://60.167.125.46/liveplay-kk.rtxapp.com/live/program/live/cctv9hd8m/8000000/mnf.m3u8
 #EXTINF:-1 group-title="阿里云 bestv" tvg-name="CCTV10",CCTV-10 科教
-http://119.167.231.88/liveplay-kk.rtxapp.com/live/program/live/cctv10hd8m/8000000/mnf.m3u8
+http://60.167.125.46/liveplay-kk.rtxapp.com/live/program/live/cctv10hd8m/8000000/mnf.m3u8
 #EXTINF:-1 group-title="阿里云 bestv" tvg-name="CCTV11",CCTV-11 戏曲
-http://119.167.231.88/liveplay-kk.rtxapp.com/live/program/live/cctv11hd8m/8000000/mnf.m3u8
+http://60.167.125.46/liveplay-kk.rtxapp.com/live/program/live/cctv11hd8m/8000000/mnf.m3u8
 #EXTINF:-1 group-title="阿里云 bestv" tvg-name="CCTV12",CCTV-12 社会与法
-http://119.167.231.88/liveplay-kk.rtxapp.com/live/program/live/cctv12hd8m/8000000/mnf.m3u8
+http://60.167.125.46/liveplay-kk.rtxapp.com/live/program/live/cctv12hd8m/8000000/mnf.m3u8
 #EXTINF:-1 group-title="阿里云 bestv" tvg-name="CCTV13",CCTV-13 新闻
-http://119.167.231.88/liveplay-kk.rtxapp.com/live/program/live/cctv13xwhd8m/8000000/mnf.m3u8
+http://60.167.125.46/liveplay-kk.rtxapp.com/live/program/live/cctv13xwhd8m/8000000/mnf.m3u8
 #EXTINF:-1 group-title="阿里云 bestv" tvg-name="CCTV14",CCTV-14 少儿
-http://119.167.231.88/liveplay-kk.rtxapp.com/live/program/live/cctvsehd8m/8000000/mnf.m3u8
+http://60.167.125.46/liveplay-kk.rtxapp.com/live/program/live/cctvsehd8m/8000000/mnf.m3u8
 #EXTINF:-1 group-title="阿里云 bestv" tvg-name="CCTV15",CCTV-15 音乐
-http://119.167.231.88/liveplay-kk.rtxapp.com/live/program/live/cctv15hd8m/8000000/mnf.m3u8
+http://60.167.125.46/liveplay-kk.rtxapp.com/live/program/live/cctv15hd8m/8000000/mnf.m3u8
 #EXTINF:-1 group-title="阿里云 bestv" tvg-name="CCTV16",CCTV-16 奥林匹克
-http://119.167.231.88/liveplay-kk.rtxapp.com/live/program/live/cctv16hd8m/8000000/mnf.m3u8
+http://60.167.125.46/liveplay-kk.rtxapp.com/live/program/live/cctv16hd8m/8000000/mnf.m3u8
 #EXTINF:-1 group-title="阿里云 bestv" tvg-name="CCTV16",CCTV-16 奥林匹克 4K
-http://119.167.231.88/liveplay-kk.rtxapp.com/live/program/live/cctv16hd4k/15000000/mnf.m3u8
+http://60.167.125.46/liveplay-kk.rtxapp.com/live/program/live/cctv16hd4k/15000000/mnf.m3u8
 #EXTINF:-1 group-title="阿里云 bestv" tvg-name="CCTV17",CCTV-17 农业农村
-http://119.167.231.88/liveplay-kk.rtxapp.com/live/program/live/cctv17hd8m/8000000/mnf.m3u8
+http://60.167.125.46/liveplay-kk.rtxapp.com/live/program/live/cctv17hd8m/8000000/mnf.m3u8
 #EXTINF:-1 group-title="阿里云 bestv" tvg-name="CCTV4K",CCTV-4K
-http://119.167.231.88/liveplay-kk.rtxapp.com/live/program/live/cctv4k/15000000/mnf.m3u8
+http://60.167.125.46/liveplay-kk.rtxapp.com/live/program/live/cctv4k/15000000/mnf.m3u8
 #EXTINF:-1 group-title="阿里云 bestv" tvg-name="中国教育1台",CETV-1
-http://119.167.231.88/liveplay-kk.rtxapp.com/live/program/live/zgjy1t8m/8000000/mnf.m3u8
+http://60.167.125.46/liveplay-kk.rtxapp.com/live/program/live/zgjy1t8m/8000000/mnf.m3u8
 #EXTINF:-1 group-title="阿里云 bestv" tvg-name="中国教育4台",CETV-4
-http://119.167.231.88/liveplay-kk.rtxapp.com/live/program/live/zgjy4hd8m/8000000/mnf.m3u8
+http://60.167.125.46/liveplay-kk.rtxapp.com/live/program/live/zgjy4hd8m/8000000/mnf.m3u8
 #EXTINF:-1 group-title="阿里云 bestv" tvg-name="黑龙江卫视",黑龙江卫视
-http://119.167.231.88/liveplay-kk.rtxapp.com/live/program/live/hljwshd8m/8000000/mnf.m3u8
+http://60.167.125.46/liveplay-kk.rtxapp.com/live/program/live/hljwshd8m/8000000/mnf.m3u8
 #EXTINF:-1 group-title="阿里云 bestv" tvg-name="吉林卫视",吉林卫视
-http://119.167.231.88/liveplay-kk.rtxapp.com/live/program/live/jlwshd8m/8000000/mnf.m3u8
+http://60.167.125.46/liveplay-kk.rtxapp.com/live/program/live/jlwshd8m/8000000/mnf.m3u8
 #EXTINF:-1 group-title="阿里云 bestv" tvg-name="辽宁卫视",辽宁卫视
-http://119.167.231.88/liveplay-kk.rtxapp.com/live/program/live/lnwshd8m/8000000/mnf.m3u8
+http://60.167.125.46/liveplay-kk.rtxapp.com/live/program/live/lnwshd8m/8000000/mnf.m3u8
 #EXTINF:-1 group-title="阿里云 bestv" tvg-name="甘肃卫视",甘肃卫视
-http://119.167.231.88/liveplay-kk.rtxapp.com/live/program/live/gswshd8m/8000000/mnf.m3u8
+http://60.167.125.46/liveplay-kk.rtxapp.com/live/program/live/gswshd8m/8000000/mnf.m3u8
 #EXTINF:-1 group-title="阿里云 bestv" tvg-name="北京卫视",北京卫视
-http://119.167.231.88/liveplay-kk.rtxapp.com/live/program/live/bjwshd8m/8000000/mnf.m3u8
+http://60.167.125.46/liveplay-kk.rtxapp.com/live/program/live/bjwshd8m/8000000/mnf.m3u8
 #EXTINF:-1 group-title="阿里云 bestv" tvg-name="北京纪实",纪实科教
-http://119.167.231.88/liveplay-kk.rtxapp.com/live/program/live/dajs8m/8000000/mnf.m3u8
+http://60.167.125.46/liveplay-kk.rtxapp.com/live/program/live/dajs8m/8000000/mnf.m3u8
 #EXTINF:-1 group-title="阿里云 bestv" tvg-name="卡酷少儿",卡酷少儿
-http://119.167.231.88/liveplay-kk.rtxapp.com/live/program/live/kkse8m/8000000/mnf.m3u8
+http://60.167.125.46/liveplay-kk.rtxapp.com/live/program/live/kkse8m/8000000/mnf.m3u8
 #EXTINF:-1 group-title="阿里云 bestv" tvg-name="天津卫视",天津卫视
-http://119.167.231.88/liveplay-kk.rtxapp.com/live/program/live/tjwshd8m/8000000/mnf.m3u8
+http://60.167.125.46/liveplay-kk.rtxapp.com/live/program/live/tjwshd8m/8000000/mnf.m3u8
 #EXTINF:-1 group-title="阿里云 bestv" tvg-name="河北卫视",河北卫视
-http://119.167.231.88/liveplay-kk.rtxapp.com/live/program/live/hbwshd8m/8000000/mnf.m3u8
+http://60.167.125.46/liveplay-kk.rtxapp.com/live/program/live/hbwshd8m/8000000/mnf.m3u8
 #EXTINF:-1 group-title="阿里云 bestv" tvg-name="河南卫视",河南卫视
-http://119.167.231.88/liveplay-kk.rtxapp.com/live/program/live/hnwshd8m/8000000/mnf.m3u8
+http://60.167.125.46/liveplay-kk.rtxapp.com/live/program/live/hnwshd8m/8000000/mnf.m3u8
 #EXTINF:-1 group-title="阿里云 bestv" tvg-name="山东卫视",山东卫视
-http://119.167.231.88/liveplay-kk.rtxapp.com/live/program/live/sdws8m/8000000/mnf.m3u8
+http://60.167.125.46/liveplay-kk.rtxapp.com/live/program/live/sdws8m/8000000/mnf.m3u8
 #EXTINF:-1 group-title="阿里云 bestv" tvg-name="江苏卫视",江苏卫视
-http://119.167.231.88/liveplay-kk.rtxapp.com/live/program/live/jswshd8m/8000000/mnf.m3u8
+http://60.167.125.46/liveplay-kk.rtxapp.com/live/program/live/jswshd8m/8000000/mnf.m3u8
 #EXTINF:-1 group-title="阿里云 bestv" tvg-name="东方卫视",东方卫视
-http://119.167.231.88/liveplay-kk.rtxapp.com/live/program/live/dfwshd8m/8000000/mnf.m3u8
+http://60.167.125.46/liveplay-kk.rtxapp.com/live/program/live/dfwshd8m/8000000/mnf.m3u8
 #EXTINF:-1 group-title="阿里云 bestv" tvg-name="安徽卫视",安徽卫视
-http://119.167.231.88/liveplay-kk.rtxapp.com/live/program/live/ahwshd8m/8000000/mnf.m3u8
+http://60.167.125.46/liveplay-kk.rtxapp.com/live/program/live/ahwshd8m/8000000/mnf.m3u8
 #EXTINF:-1 group-title="阿里云 bestv" tvg-name="湖北卫视",湖北卫视
-http://119.167.231.88/liveplay-kk.rtxapp.com/live/program/live/hubeiws8m/8000000/mnf.m3u8
+http://60.167.125.46/liveplay-kk.rtxapp.com/live/program/live/hubeiws8m/8000000/mnf.m3u8
 #EXTINF:-1 group-title="阿里云 bestv" tvg-name="湖南卫视",湖南卫视
-http://119.167.231.88/liveplay-kk.rtxapp.com/live/program/live/hunanwshd8m/8000000/mnf.m3u8
+http://60.167.125.46/liveplay-kk.rtxapp.com/live/program/live/hunanwshd8m/8000000/mnf.m3u8
 #EXTINF:-1 group-title="阿里云 bestv" tvg-name="金鹰纪实",金鹰纪实
-http://119.167.231.88/liveplay-kk.rtxapp.com/live/program/live/jyjs8m/8000000/mnf.m3u8
+http://60.167.125.46/liveplay-kk.rtxapp.com/live/program/live/jyjs8m/8000000/mnf.m3u8
 #EXTINF:-1 group-title="阿里云 bestv" tvg-name="快乐垂钓",快乐垂钓
-http://119.167.231.88/liveplay-kk.rtxapp.com/live/program/live/klcd8m/8000000/mnf.m3u8
+http://60.167.125.46/liveplay-kk.rtxapp.com/live/program/live/klcd8m/8000000/mnf.m3u8
 #EXTINF:-1 group-title="阿里云 bestv" tvg-name="茶频道",茶频道
-http://119.167.231.88/liveplay-kk.rtxapp.com/live/program/live/cpdhdavs8m/8000000/mnf.m3u8
+http://60.167.125.46/liveplay-kk.rtxapp.com/live/program/live/cpdhdavs8m/8000000/mnf.m3u8
 #EXTINF:-1 group-title="阿里云 bestv" tvg-name="浙江卫视",浙江卫视
-http://119.167.231.88/liveplay-kk.rtxapp.com/live/program/live/zjwshd8m/8000000/mnf.m3u8
+http://60.167.125.46/liveplay-kk.rtxapp.com/live/program/live/zjwshd8m/8000000/mnf.m3u8
 #EXTINF:-1 group-title="阿里云 bestv" tvg-name="江西卫视",江西卫视
-http://119.167.231.88/liveplay-kk.rtxapp.com/live/program/live/jxws8m/8000000/mnf.m3u8
+http://60.167.125.46/liveplay-kk.rtxapp.com/live/program/live/jxws8m/8000000/mnf.m3u8
 #EXTINF:-1 group-title="阿里云 bestv" tvg-name="东南卫视",东南卫视
-http://119.167.231.88/liveplay-kk.rtxapp.com/live/program/live/dnwshd8m/8000000/mnf.m3u8
+http://60.167.125.46/liveplay-kk.rtxapp.com/live/program/live/dnwshd8m/8000000/mnf.m3u8
 #EXTINF:-1 group-title="阿里云 bestv" tvg-name="四川卫视",四川卫视
-http://119.167.231.88/liveplay-kk.rtxapp.com/live/program/live/scws8m/8000000/mnf.m3u8
+http://60.167.125.46/liveplay-kk.rtxapp.com/live/program/live/scws8m/8000000/mnf.m3u8
 #EXTINF:-1 group-title="阿里云 bestv" tvg-name="重庆卫视",重庆卫视
-http://119.167.231.88/liveplay-kk.rtxapp.com/live/program/live/cqws8m/8000000/mnf.m3u8
+http://60.167.125.46/liveplay-kk.rtxapp.com/live/program/live/cqws8m/8000000/mnf.m3u8
 #EXTINF:-1 group-title="阿里云 bestv" tvg-name="贵州卫视",贵州卫视
-http://119.167.231.88/liveplay-kk.rtxapp.com/live/program/live/gzwshd8m/8000000/mnf.m3u8
+http://60.167.125.46/liveplay-kk.rtxapp.com/live/program/live/gzwshd8m/8000000/mnf.m3u8
 #EXTINF:-1 group-title="阿里云 bestv" tvg-name="云南卫视",云南卫视
-http://119.167.231.88/liveplay-kk.rtxapp.com/live/program/live/ynwshd8m/8000000/mnf.m3u8
+http://60.167.125.46/liveplay-kk.rtxapp.com/live/program/live/ynwshd8m/8000000/mnf.m3u8
 #EXTINF:-1 group-title="阿里云 bestv" tvg-name="广东卫视",广东卫视
-http://119.167.231.88/liveplay-kk.rtxapp.com/live/program/live/gdwshd8m/8000000/mnf.m3u8
+http://60.167.125.46/liveplay-kk.rtxapp.com/live/program/live/gdwshd8m/8000000/mnf.m3u8
 #EXTINF:-1 group-title="阿里云 bestv" tvg-name="深圳卫视",深圳卫视
-http://119.167.231.88/liveplay-kk.rtxapp.com/live/program/live/szwshd8m/8000000/mnf.m3u8
+http://60.167.125.46/liveplay-kk.rtxapp.com/live/program/live/szwshd8m/8000000/mnf.m3u8
 #EXTINF:-1 group-title="阿里云 bestv" tvg-name="广西卫视",广西卫视
-http://119.167.231.88/liveplay-kk.rtxapp.com/live/program/live/gxwshd8m/8000000/mnf.m3u8
+http://60.167.125.46/liveplay-kk.rtxapp.com/live/program/live/gxwshd8m/8000000/mnf.m3u8
 #EXTINF:-1 group-title="阿里云 bestv" tvg-name="海南卫视",海南卫视
-http://119.167.231.88/liveplay-kk.rtxapp.com/live/program/live/hainanwshd8m/8000000/mnf.m3u8
+http://60.167.125.46/liveplay-kk.rtxapp.com/live/program/live/hainanwshd8m/8000000/mnf.m3u8
 #EXTINF:-1 group-title="阿里云 bestv" tvg-name="上海新闻综合",上海综合
-http://119.167.231.88/liveplay-kk.rtxapp.com/live/program/live/xwzhhd8m/8000000/mnf.m3u8
+http://60.167.125.46/liveplay-kk.rtxapp.com/live/program/live/xwzhhd8m/8000000/mnf.m3u8
 #EXTINF:-1 group-title="阿里云 bestv" tvg-name="上海都市",上海都市
-http://119.167.231.88/liveplay-kk.rtxapp.com/live/program/live/dshd8m/8000000/mnf.m3u8
+http://60.167.125.46/liveplay-kk.rtxapp.com/live/program/live/dshd8m/8000000/mnf.m3u8
 #EXTINF:-1 group-title="阿里云 bestv" tvg-name="上海教育台",上海教育
-http://119.167.231.88/liveplay-kk.rtxapp.com/live/program/live/setvhd/8000000/mnf.m3u8
+http://60.167.125.46/liveplay-kk.rtxapp.com/live/program/live/setvhd/8000000/mnf.m3u8
 #EXTINF:-1 group-title="阿里云 bestv" tvg-name="上海外语",上海外语
-http://119.167.231.88/liveplay-kk.rtxapp.com/live/program/live/icshd8m/8000000/mnf.m3u8
+http://60.167.125.46/liveplay-kk.rtxapp.com/live/program/live/icshd8m/8000000/mnf.m3u8
 #EXTINF:-1 group-title="阿里云 bestv" tvg-name="上视东方影视",东方影视
-http://119.167.231.88/liveplay-kk.rtxapp.com/live/program/live/dfyshd8m/8000000/mnf.m3u8
+http://60.167.125.46/liveplay-kk.rtxapp.com/live/program/live/dfyshd8m/8000000/mnf.m3u8
 #EXTINF:-1 group-title="阿里云 bestv" tvg-name="上海五星体育",五星体育
-http://119.167.231.88/liveplay-kk.rtxapp.com/live/program/live/wxtyhd8m/8000000/mnf.m3u8
+http://60.167.125.46/liveplay-kk.rtxapp.com/live/program/live/wxtyhd8m/8000000/mnf.m3u8
 #EXTINF:-1 group-title="阿里云 bestv" tvg-name="第一财经",第一财经
-http://119.167.231.88/liveplay-kk.rtxapp.com/live/program/live/dycjhd8m/8000000/mnf.m3u8
+http://60.167.125.46/liveplay-kk.rtxapp.com/live/program/live/dycjhd8m/8000000/mnf.m3u8
 #EXTINF:-1 group-title="阿里云 bestv" tvg-name="东方财经",东方财经
-http://119.167.231.88/liveplay-kk.rtxapp.com/live/program/live/dfcjhd8m/8000000/mnf.m3u8
+http://60.167.125.46/liveplay-kk.rtxapp.com/live/program/live/dfcjhd8m/8000000/mnf.m3u8
 #EXTINF:-1 group-title="阿里云 bestv" tvg-name="上海纪实",纪实人文
-http://119.167.231.88/liveplay-kk.rtxapp.com/live/program/live/jspdhd/4000000/mnf.m3u8
+http://60.167.125.46/liveplay-kk.rtxapp.com/live/program/live/jspdhd/4000000/mnf.m3u8
 #EXTINF:-1 group-title="阿里云 bestv" tvg-name="七彩戏剧",七彩戏剧
-http://119.167.231.88/liveplay-kk.rtxapp.com/live/program/live/qcxjhd8m/8000000/mnf.m3u8
+http://60.167.125.46/liveplay-kk.rtxapp.com/live/program/live/qcxjhd8m/8000000/mnf.m3u8
 #EXTINF:-1 group-title="阿里云 bestv" tvg-name="足球频道",足球频道
-http://119.167.231.88/liveplay-kk.rtxapp.com/live/program/live/zqpd8m/8000000/mnf.m3u8
+http://60.167.125.46/liveplay-kk.rtxapp.com/live/program/live/zqpd8m/8000000/mnf.m3u8
 #EXTINF:-1 group-title="阿里云 bestv" tvg-name="魅力足球",魅力足球
-http://119.167.231.88/liveplay-kk.rtxapp.com/live/program/live/mlyyhd8m/8000000/mnf.m3u8
+http://60.167.125.46/liveplay-kk.rtxapp.com/live/program/live/mlyyhd8m/8000000/mnf.m3u8
 #EXTINF:-1 group-title="阿里云 bestv" tvg-name="劲爆体育",劲爆体育
-http://119.167.231.88/liveplay-kk.rtxapp.com/live/program/live/jbtyhd8m/8000000/mnf.m3u8
+http://60.167.125.46/liveplay-kk.rtxapp.com/live/program/live/jbtyhd8m/8000000/mnf.m3u8
 #EXTINF:-1 group-title="阿里云 bestv" tvg-name="哈哈炫动",哈哈炫动
-http://119.167.231.88/liveplay-kk.rtxapp.com/live/program/live/hhxd8m/8000000/mnf.m3u8
+http://60.167.125.46/liveplay-kk.rtxapp.com/live/program/live/hhxd8m/8000000/mnf.m3u8
 #EXTINF:-1 group-title="阿里云 bestv" tvg-name="都市剧场",都市剧场
-http://119.167.231.88/liveplay-kk.rtxapp.com/live/program/live/dsjc8m/8000000/mnf.m3u8
+http://60.167.125.46/liveplay-kk.rtxapp.com/live/program/live/dsjc8m/8000000/mnf.m3u8
 #EXTINF:-1 group-title="阿里云 bestv" tvg-name="欢笑剧场",欢笑剧场
-http://119.167.231.88/liveplay-kk.rtxapp.com/live/program/live/hxjc8m/8000000/mnf.m3u8
+http://60.167.125.46/liveplay-kk.rtxapp.com/live/program/live/hxjc8m/8000000/mnf.m3u8
 #EXTINF:-1 group-title="阿里云 bestv" tvg-name="欢笑剧场",欢笑剧场 4K
-http://119.167.231.88/liveplay-kk.rtxapp.com/live/program/live/hxjc4k/15000000/mnf.m3u8
+http://60.167.125.46/liveplay-kk.rtxapp.com/live/program/live/hxjc4k/15000000/mnf.m3u8
 #EXTINF:-1 group-title="阿里云 bestv" tvg-name="动漫秀场",动漫秀场
-http://119.167.231.88/liveplay-kk.rtxapp.com/live/program/live/dmxc8m/8000000/mnf.m3u8
+http://60.167.125.46/liveplay-kk.rtxapp.com/live/program/live/dmxc8m/8000000/mnf.m3u8
 #EXTINF:-1 group-title="阿里云 bestv" tvg-name="生活时尚",生活时尚
-http://119.167.231.88/liveplay-kk.rtxapp.com/live/program/live/shss8m/8000000/mnf.m3u8
+http://60.167.125.46/liveplay-kk.rtxapp.com/live/program/live/shss8m/8000000/mnf.m3u8
 #EXTINF:-1 group-title="阿里云 bestv" tvg-name="法治天地",法治天地
-http://119.167.231.88/liveplay-kk.rtxapp.com/live/program/live/fztd8m/8000000/mnf.m3u8
+http://60.167.125.46/liveplay-kk.rtxapp.com/live/program/live/fztd8m/8000000/mnf.m3u8
 #EXTINF:-1 group-title="阿里云 bestv" tvg-name="金色学堂",金色学堂
-http://119.167.231.88/liveplay-kk.rtxapp.com/live/program/live/jingsepd8m/8000000/mnf.m3u8
+http://60.167.125.46/liveplay-kk.rtxapp.com/live/program/live/jingsepd8m/8000000/mnf.m3u8
 #EXTINF:-1 group-title="阿里云 bestv" tvg-name="游戏风云",游戏风云
-http://119.167.231.88/liveplay-kk.rtxapp.com/live/program/live/yxfy8m/8000000/mnf.m3u8
+http://60.167.125.46/liveplay-kk.rtxapp.com/live/program/live/yxfy8m/8000000/mnf.m3u8
 #EXTINF:-1 group-title="阿里云 bestv" tvg-name="新视觉",新视觉
-http://119.167.231.88/liveplay-kk.rtxapp.com/live/program/live/xsjhd8m/8000000/mnf.m3u8
+http://60.167.125.46/liveplay-kk.rtxapp.com/live/program/live/xsjhd8m/8000000/mnf.m3u8
 #EXTINF:-1 group-title="阿里云 bestv" tvg-name="乐游",乐游
-http://119.167.231.88/liveplay-kk.rtxapp.com/live/program/live/qjshd8m/8000000/mnf.m3u8
+http://60.167.125.46/liveplay-kk.rtxapp.com/live/program/live/qjshd8m/8000000/mnf.m3u8
 #EXTINF:-1 group-title="阿里云 bestv" tvg-name="全球大片",全球大片
-http://119.167.231.88/liveplay-kk.rtxapp.com/live/program/live/qqdp8m/8000000/mnf.m3u8
+http://60.167.125.46/liveplay-kk.rtxapp.com/live/program/live/qqdp8m/8000000/mnf.m3u8
 #EXTINF:-1 group-title="阿里云 bestv" tvg-name="华语影院",华语影院
-http://119.167.231.88/liveplay-kk.rtxapp.com/live/program/live/hyyy8m/8000000/mnf.m3u8
+http://60.167.125.46/liveplay-kk.rtxapp.com/live/program/live/hyyy8m/8000000/mnf.m3u8
 #EXTINF:-1 group-title="阿里云 bestv" tvg-name="星光影院",星光影院
-http://119.167.231.88/liveplay-kk.rtxapp.com/live/program/live/xgyy8m/8000000/mnf.m3u8
+http://60.167.125.46/liveplay-kk.rtxapp.com/live/program/live/xgyy8m/8000000/mnf.m3u8
 #EXTINF:-1 group-title="阿里云 bestv" tvg-name="谍战剧场",谍战剧场
-http://119.167.231.88/liveplay-kk.rtxapp.com/live/program/live/dzjc8m/8000000/mnf.m3u8
+http://60.167.125.46/liveplay-kk.rtxapp.com/live/program/live/dzjc8m/8000000/mnf.m3u8
 #EXTINF:-1 group-title="阿里云 bestv" tvg-name="热门剧场",热门剧场
-http://119.167.231.88/liveplay-kk.rtxapp.com/live/program/live/rmjc8m/8000000/mnf.m3u8
+http://60.167.125.46/liveplay-kk.rtxapp.com/live/program/live/rmjc8m/8000000/mnf.m3u8
 #EXTINF:-1 group-title="阿里云 bestv" tvg-name="热门综艺",热门综艺
-http://119.167.231.88/liveplay-kk.rtxapp.com/live/program/live/rmzy8m/8000000/mnf.m3u8
+http://60.167.125.46/liveplay-kk.rtxapp.com/live/program/live/rmzy8m/8000000/mnf.m3u8
 #EXTINF:-1 group-title="阿里云 bestv" tvg-name="戏曲精选",戏曲精选
-http://119.167.231.88/liveplay-kk.rtxapp.com/live/program/live/xqjx8m/8000000/mnf.m3u8
+http://60.167.125.46/liveplay-kk.rtxapp.com/live/program/live/xqjx8m/8000000/mnf.m3u8
 #EXTINF:-1 group-title="阿里云 bestv" tvg-name="超级体育",超级体育
-http://119.167.231.88/liveplay-kk.rtxapp.com/live/program/live/qcsj8m/8000000/mnf.m3u8
+http://60.167.125.46/liveplay-kk.rtxapp.com/live/program/live/qcsj8m/8000000/mnf.m3u8
 #EXTINF:-1 group-title="阿里云 bestv" tvg-name="健康养生",健康养生
-http://119.167.231.88/liveplay-kk.rtxapp.com/live/program/live/jkys8m/8000000/mnf.m3u8
+http://60.167.125.46/liveplay-kk.rtxapp.com/live/program/live/jkys8m/8000000/mnf.m3u8
 #EXTINF:-1 group-title="阿里云 bestv" tvg-name="青春动漫",青春动漫
-http://119.167.231.88/liveplay-kk.rtxapp.com/live/program/live/qcdm8m/8000000/mnf.m3u8
+http://60.167.125.46/liveplay-kk.rtxapp.com/live/program/live/qcdm8m/8000000/mnf.m3u8
 #EXTINF:-1 group-title="阿里云 bestv" tvg-name="宝宝动画",宝宝动画
-http://119.167.231.88/liveplay-kk.rtxapp.com/live/program/live/bbdh8m/8000000/mnf.m3u8
+http://60.167.125.46/liveplay-kk.rtxapp.com/live/program/live/bbdh8m/8000000/mnf.m3u8
 #EXTINF:-1 group-title="阿里云 bestv" tvg-name="汽车世界",汽车世界
-http://119.167.231.88/liveplay-kk.rtxapp.com/live/program/live/qcsj8m/8000000/mnf.m3u8
+http://60.167.125.46/liveplay-kk.rtxapp.com/live/program/live/qcsj8m/8000000/mnf.m3u8
 #EXTINF:-1 group-title="阿里云 bestv" tvg-name="电竞天堂",电竞天堂
-http://119.167.231.88/liveplay-kk.rtxapp.com/live/program/live/djtt8m/8000000/mnf.m3u8
+http://60.167.125.46/liveplay-kk.rtxapp.com/live/program/live/djtt8m/8000000/mnf.m3u8
 #EXTINF:-1 group-title="阿里云 bestv" tvg-name="百变课堂",百变课堂
-http://119.167.231.88/liveplay-kk.rtxapp.com/live/program/live/bbkt8m/8000000/mnf.m3u8
+http://60.167.125.46/liveplay-kk.rtxapp.com/live/program/live/bbkt8m/8000000/mnf.m3u8
 #EXTINF:-1 group-title="阿里云 bestv" tvg-name="看天下精选",看天下精选
-http://119.167.231.88/liveplay-kk.rtxapp.com/live/program/live/ktxjx8m/8000000/mnf.m3u8
+http://60.167.125.46/liveplay-kk.rtxapp.com/live/program/live/ktxjx8m/8000000/mnf.m3u8
 #EXTINF:-1 group-title="阿里云 bestv",CCTV16-4K
 http://223.109.53.39/liveplay-kk.rtxapp.com/live/program/live/cctv16hd4k/15000000/mnf.m3u8
 #EXTINF:-1 group-title="阿里云 bestv",CCTV-4K
