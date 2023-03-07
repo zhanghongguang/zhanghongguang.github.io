@@ -1736,120 +1736,111 @@ http://baidu.live.cqccn.com/__cl/cg:live/__c/chcgqdyHD/__op/default/__f//index.m
 http://baidu.live.cqccn.com/__cl/cg:live/__c/chcdzdyHD/__op/default/__f//index.m3u8
 #EXTINF:-1 tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://epg.112114.xyz/logo/CHC家庭影院.png" group-title="其他",CHC家庭影院
 http://baidu.live.cqccn.com/__cl/cg:live/__c/chcjtyyHD/__op/default/__f//index.m3u8
-#EXTINF:-1 group-title="台湾",民視台灣
-http://www.336699.live:1935/blockfour/4gtv-4gtv001.stream/playlist.m3u8
+#EXTM3U
 #EXTINF:-1 group-title="台湾",民視
-http://www.336699.live:1935/blockfour/4gtv-4gtv002.stream/playlist.m3u8
-#EXTINF:-1 group-title="台湾",民視第一
-http://www.336699.live:1935/blockfour/4gtv-4gtv003.stream/playlist.m3u8
-#EXTINF:-1 group-title="台湾",民視綜藝
-http://www.336699.live:1935/blockfour/4gtv-4gtv004.stream/playlist.m3u8
-#EXTINF:-1 group-title="台湾",豬哥亮歌廳秀
-http://www.336699.live:1935/blockfour/4gtv-4gtv006.stream/playlist.m3u8
-#EXTINF:-1 group-title="台湾",中天新聞
-http://www.336699.live:1935/blockfour/4gtv-4gtv009.stream/playlist.m3u8
-#EXTINF:-1 group-title="台湾",影迷數位電影
-http://www.336699.live:1935/blockfour/4gtv-4gtv011.stream/playlist.m3u8
-#EXTINF:-1 group-title="台湾",cnex
-http://www.336699.live:1935/blockfour/4gtv-4gtv013.stream/playlist.m3u8
-#EXTINF:-1 group-title="台湾",時尚運動X
-http://www.336699.live:1935/blockfour/4gtv-4gtv014.stream/playlist.m3u8
-#EXTINF:-1 group-title="台湾",八大精彩
-http://www.336699.live:1935/blockfour/4gtv-4gtv034.stream/playlist.m3u8
-#EXTINF:-1 group-title="台湾",八大綜合
-http://www.336699.live:1935/blockfour/4gtv-4gtv039.stream/playlist.m3u8
-#EXTINF:-1 group-title="台湾",中視新聞
-http://www.336699.live:1935/blockfour/4gtv-4gtv040.stream/playlist.m3u8
-#EXTINF:-1 group-title="台湾",華視新聞資訊
-http://www.336699.live:1935/blockfour/4gtv-4gtv041.stream/playlist.m3u8
-#EXTINF:-1 group-title="台湾",公視戲劇
-http://www.336699.live:1935/blockfour/4gtv-4gtv042.stream/playlist.m3u8
-#EXTINF:-1 group-title="台湾",客家電視
-http://www.336699.live:1935/blockfour/4gtv-4gtv043.stream/playlist.m3u8
+rtmp://119.81.124.89/sat/tv051
+#EXTINF:-1 group-title="台湾",台視
+rtmp://119.81.124.89/sat/tv071
+#EXTINF:-1 group-title="台湾",中視
+rtmp://119.81.124.89/sat/tv091
+#EXTINF:-1 group-title="台湾",華視
+rtmp://119.81.124.89/sat/tv111
+#EXTINF:-1 group-title="台湾",TVBS新聞
+rtmp://119.81.124.89/sat/tv551
+#EXTINF:-1 group-title="台湾",TVBS歡樂
+rtmp://119.81.124.89/sat/tv421
+#EXTINF:-1 group-title="台湾",東森財經新聞
+rtmp://119.81.124.89/sat/tv571
+#EXTINF:-1 group-title="台湾",緯來育樂
+rtmp://119.81.124.89/sat/tv701
+#EXTINF:-1 group-title="台湾",緯來體育
+rtmp://119.81.124.89/sat/tv721
+#EXTINF:-1 group-title="台湾",ELEVEN1
+rtmp://119.81.124.89/sat/tv731
+#EXTINF:-1 group-title="台湾",ELEVEN2
+rtmp://119.81.124.89/sat/tv741
+#EXTINF:-1 group-title="台湾",MOMO綜合
+rtmp://119.81.124.89/sat/tv761
+#EXTINF:-1 group-title="台湾",緯來日本
+rtmp://119.81.124.89/sat/tv771
+#EXTINF:-1 group-title="台湾",ELTA體育1
+rtmp://119.81.124.89/sat/md031
+#EXTINF:-1 group-title="台湾",ELEVEN2
+rtmp://119.81.124.89/sat/md041
+#EXTINF:-1 group-title="台湾",博斯魅力
+rtmp://119.81.124.89/sat/md051
+#EXTINF:-1 group-title="台湾",民視
+rtmp://219.80.97.77/sat/tv051
+#EXTINF:-1 group-title="台湾",台視
+rtmp://219.80.97.77/sat/tv071
+#EXTINF:-1 group-title="台湾",中視
+rtmp://219.80.97.77/sat/tv091
+#EXTINF:-1 group-title="台湾",華視
+rtmp://219.80.97.77/sat/tv111
+#EXTINF:-1 group-title="台湾",TVBS新聞
+rtmp://219.80.97.77/sat/tv551
+#EXTINF:-1 group-title="台湾",TVBS歡樂
+rtmp://219.80.97.77/sat/tv421
+#EXTINF:-1 group-title="台湾",東森財經新聞
+rtmp://219.80.97.77/sat/tv571
+#EXTINF:-1 group-title="台湾",緯來育樂
+rtmp://219.80.97.77/sat/tv701
+#EXTINF:-1 group-title="台湾",緯來體育
+rtmp://219.80.97.77/sat/tv721
+#EXTINF:-1 group-title="台湾",ELEVEN1
+rtmp://219.80.97.77/sat/tv731
+#EXTINF:-1 group-title="台湾",ELEVEN2
+rtmp://219.80.97.77/sat/tv741
+#EXTINF:-1 group-title="台湾",MOMO綜合
+rtmp://219.80.97.77/sat/tv761
+#EXTINF:-1 group-title="台湾",緯來日本
+rtmp://219.80.97.77/sat/tv771
+#EXTINF:-1 group-title="台湾",ELTA體育1
+rtmp://219.80.97.77/sat/md031
+#EXTINF:-1 group-title="台湾",ELEVEN2
+rtmp://219.80.97.77/sat/md041
+#EXTINF:-1 group-title="台湾",博斯魅力
+rtmp://219.80.97.77/sat/md051
 #EXTINF:-1 group-title="台湾",靖天卡通
 http://www.336699.live:1935/blockfour/4gtv-4gtv044.stream/playlist.m3u8
 #EXTINF:-1 group-title="台湾",靖洋戲劇
 http://www.336699.live:1935/blockfour/4gtv-4gtv045.stream/playlist.m3u8
-#EXTINF:-1 group-title="台湾",靖天日本
-http://www.336699.live:1935/blockfour/4gtv-4gtv047.stream/playlist.m3u8
 #EXTINF:-1 group-title="台湾",采昌影劇
 http://www.336699.live:1935/blockfour/4gtv-4gtv049.stream/playlist.m3u8
-#EXTINF:-1 group-title="台湾",華視新聞資訊
-http://www.336699.live:1935/blockfour/4gtv-4gtv052.stream/playlist.m3u8
 #EXTINF:-1 group-title="台湾",GinX
 http://www.336699.live:1935/blockfour/4gtv-4gtv053.stream/playlist.m3u8
 #EXTINF:-1 group-title="台湾",靖天歡樂
 http://www.336699.live:1935/blockfour/4gtv-4gtv054.stream/playlist.m3u8
 #EXTINF:-1 group-title="台湾",靖天映畫
 http://www.336699.live:1935/blockfour/4gtv-4gtv055.stream/playlist.m3u8
-#EXTINF:-1 group-title="台湾",靖洋卡通
-http://www.336699.live:1935/blockfour/4gtv-4gtv057.stream/playlist.m3u8
 #EXTINF:-1 group-title="台湾",靖天戲劇
 http://www.336699.live:1935/blockfour/4gtv-4gtv058.stream/playlist.m3u8
-#EXTINF:-1 group-title="台湾",靖天電影
-http://www.336699.live:1935/blockfour/4gtv-4gtv061.stream/playlist.m3u8
 #EXTINF:-1 group-title="台湾",靖天育樂
 http://www.336699.live:1935/blockfour/4gtv-4gtv062.stream/playlist.m3u8
 #EXTINF:-1 group-title="台湾",靖天國際
 http://www.336699.live:1935/blockfour/4gtv-4gtv063.stream/playlist.m3u8
 #EXTINF:-1 group-title="台湾",中視菁采
 http://www.336699.live:1935/blockfour/4gtv-4gtv064.stream/playlist.m3u8
-#EXTINF:-1 group-title="台湾",TVBS歡樂
-http://www.336699.live:1935/blockfour/4gtv-4gtv068.stream/playlist.m3u8
 #EXTINF:-1 group-title="台湾",ELTA娛樂
 http://www.336699.live:1935/blockfour/4gtv-4gtv070.stream/playlist.m3u8
-#EXTINF:-1 group-title="台湾",TVBS
-http://www.336699.live:1935/blockfour/4gtv-4gtv073.stream/playlist.m3u8
-#EXTINF:-1 group-title="台湾",中視新聞
-http://www.336699.live:1935/blockfour/4gtv-4gtv074.stream/playlist.m3u8
-#EXTINF:-1 group-title="台湾",CHY電影
-http://www.336699.live:1935/blockfour/4gtv-4gtv076.stream/playlist.m3u8
 #EXTINF:-1 group-title="台湾",TRACE
 http://www.336699.live:1935/blockfour/4gtv-4gtv077.stream/playlist.m3u8
 #EXTINF:-1 group-title="台湾",阿里郎
 http://www.336699.live:1935/blockfour/4gtv-4gtv079.stream/playlist.m3u8
-#EXTINF:-1 group-title="台湾",中視經典
-http://www.336699.live:1935/blockfour/4gtv-4gtv080.stream/playlist.m3u8
 #EXTINF:-1 group-title="台湾",HITS
 http://www.336699.live:1935/blockfour/4gtv-4gtv082.stream/playlist.m3u8
 #EXTINF:-1 group-title="台湾",mezzo live
 http://www.336699.live:1935/blockfour/4gtv-4gtv083.stream/playlist.m3u8
 #EXTINF:-1 group-title="台湾",智林體育
 http://www.336699.live:1935/blockfour/4gtv-4gtv101.stream/playlist.m3u8
-#EXTINF:-1 group-title="台湾",龍華電影
-http://www.336699.live:1935/blockfour/litv-longturn03.stream/playlist.m3u8
-#EXTINF:-1 group-title="台湾",博斯高球I
-http://www.336699.live:1935/blockfour/litv-longturn05.stream/playlist.m3u8
-#EXTINF:-1 group-title="台湾",博斯運動I
-http://www.336699.live:1935/blockfour/litv-longturn07.stream/playlist.m3u8
-#EXTINF:-1 group-title="台湾",博斯網球
-http://www.336699.live:1935/blockfour/litv-longturn09.stream/playlist.m3u8
-#EXTINF:-1 group-title="台湾",博斯無限
-http://www.336699.live:1935/blockfour/litv-longturn10.stream/playlist.m3u8
 #EXTINF:-1 group-title="台湾",龍華日韓
 http://www.336699.live:1935/blockfour/litv-longturn11.stream/playlist.m3u8
-#EXTINF:-1 group-title="台湾",寰宇新聞
-http://www.336699.live:1935/blockfour/litv-longturn14.stream/playlist.m3u8
 #EXTINF:-1 group-title="台湾",美國之音
 http://www.336699.live:1935/blockfour/litv-ftv03.stream/playlist.m3u8
 #EXTINF:-1 group-title="台湾",半島電視
 http://www.336699.live:1935/blockfour/litv-ftv10.stream/playlist.m3u8
-#EXTINF:-1 group-title="台湾",民視新聞
-http://www.336699.live:1935/blockfour/litv-ftv13.stream/playlist.m3u8
 #EXTINF:-1 group-title="台湾",i-Fun愛放
 http://www.336699.live:1935/blockfour/litv-ftv15.stream/playlist.m3u8
-#EXTINF:-1 group-title="台湾",好消息
-http://www.336699.live:1935/blockfour/litv-ftv16.stream/playlist.m3u8
-#EXTINF:-1 group-title="台湾",HITS
-http://www.336699.live:1935/blocksix/4gtv-live620.stream/chunklist.m3u8
-#EXTINF:-1 group-title="台湾",民視新聞
-https://pull-l3-cny.douyincdn.com/live/304b8e04a437299311112b7f4902c9dd.m3u8
-#EXTINF:-1 group-title="台湾",台灣戲劇
-http://www.336699.live:1935/blocksix/4gtv-live005.stream/chunklist.m3u8
-#EXTINF:-1 group-title="台湾",台灣綜藝
-http://www.336699.live:1935/blocksix/4gtv-live006.stream/chunklist.m3u8
-#EXTINF:-1 group-title="台湾",大愛
-http://www.336699.live:1935/blocksix/4gtv-live007.stream/chunklist.m3u8
 #EXTINF:-1 group-title="台湾",人間衛視
 http://www.336699.live:1935/blocksix/4gtv-live008.stream/chunklist.m3u8
 #EXTINF:-1 group-title="台湾",ROLLOR
@@ -1864,52 +1855,20 @@ http://www.336699.live:1935/blocksix/4gtv-live022.stream/chunklist.m3u8
 http://www.336699.live:1935/blocksix/4gtv-live024.stream/chunklist.m3u8
 #EXTINF:-1 group-title="台湾",影迷紀實
 http://www.336699.live:1935/blocksix/4gtv-live023.stream/chunklist.m3u8
-#EXTINF:-1 group-title="台湾",History
-http://www.336699.live:1935/blocksix/4gtv-live026.stream/chunklist.m3u8
-#EXTINF:-1 group-title="台湾",MTV
-http://www.336699.live:1935/blocksix/4gtv-live025.stream/chunklist.m3u8
-#EXTINF:-1 group-title="台湾",CI罪案現場
-http://www.336699.live:1935/blocksix/4gtv-live027.stream/chunklist.m3u8
 #EXTINF:-1 group-title="台湾",Lifetime
 http://www.336699.live:1935/blocksix/4gtv-live029.stream/chunklist.m3u8
 #EXTINF:-1 group-title="台湾",LIVE互動英語
 http://www.336699.live:1935/blocksix/4gtv-live030.stream/chunklist.m3u8
-#EXTINF:-1 group-title="台湾",nickjr.
-http://www.336699.live:1935/blocksix/4gtv-live032.stream/chunklist.m3u8
-#EXTINF:-1 group-title="台湾",中天綜合
-http://www.336699.live:1935/blocksix/4gtv-live033.stream/chunklist.m3u8
 #EXTINF:-1 group-title="台湾",東森購物
 http://www.336699.live:1935/blocksix/4gtv-live046.stream/chunklist.m3u8
 #EXTINF:-1 group-title="台湾",東森購物2
 http://www.336699.live:1935/blocksix/4gtv-live047.stream/chunklist.m3u8
-#EXTINF:-1 group-title="台湾",新唐人亞太
-http://www.336699.live:1935/blocksix/4gtv-live050.stream/chunklist.m3u8
 #EXTINF:-1 group-title="台湾",全球財經
 http://www.336699.live:1935/blocksix/4gtv-live060.stream/chunklist.m3u8
-#EXTINF:-1 group-title="台湾",Cinema worid
-http://www.336699.live:1935/blocksix/4gtv-live069.stream/chunklist.m3u8
-#EXTINF:-1 group-title="台湾",DW
-http://www.336699.live:1935/blocksix/4gtv-live071.stream/chunklist.m3u8
-#EXTINF:-1 group-title="台湾",TVBS HD
-http://www.336699.live:1935/blocksix/4gtv-live072.stream/chunklist.m3u8
 #EXTINF:-1 group-title="台湾",全民最大黨
 http://www.336699.live:1935/blocksix/4gtv-live076.stream/chunklist.m3u8
-#EXTINF:-1 group-title="台湾",TVBS精采
-http://www.336699.live:1935/blocksix/4gtv-live086.stream/chunklist.m3u8
-#EXTINF:-1 group-title="台湾",三立新聞
-http://www.336699.live:1935/blocksix/4gtv-live089.stream/chunklist.m3u8
-#EXTINF:-1 group-title="台湾",nickelodeon
-http://www.336699.live:1935/blocksix/4gtv-live105.stream/chunklist.m3u8
-#EXTINF:-1 group-title="台湾",大愛2
-http://www.336699.live:1935/blocksix/4gtv-live106.stream/chunklist.m3u8
-#EXTINF:-1 group-title="台湾",momo親子
-http://www.336699.live:1935/blocksix/4gtv-live107.stream/chunklist.m3u8
-#EXTINF:-1 group-title="台湾",TECHStorm
-http://www.336699.live:1935/blocksix/4gtv-live109.stream/chunklist.m3u8
 #EXTINF:-1 group-title="台湾",Pet Club
 http://www.336699.live:1935/blocksix/4gtv-live110.stream/chunklist.m3u8
-#EXTINF:-1 group-title="台湾",東森新聞
-http://www.336699.live:1935/blocksix/4gtv-live114.stream/chunklist.m3u8
 #EXTINF:-1 group-title="台湾",Gobal Trekker
 http://www.336699.live:1935/blocksix/4gtv-live112.stream/chunklist.m3u8
 #EXTINF:-1 group-title="台湾",LUXE
@@ -1922,36 +1881,26 @@ http://www.336699.live:1935/blocksix/4gtv-live122.stream/chunklist.m3u8
 http://www.336699.live:1935/blocksix/4gtv-live123.stream/chunklist.m3u8
 #EXTINF:-1 group-title="台湾",CNN
 http://www.336699.live:1935/blocksix/4gtv-live130.stream/chunklist.m3u8
-#EXTINF:-1 group-title="台湾",ROCK ACTION
-http://www.336699.live:1935/blocksix/4gtv-live138.stream/chunklist.m3u8
-#EXTINF:-1 group-title="台湾",金光布袋戲
-http://www.336699.live:1935/blocksix/4gtv-live144.stream/chunklist.m3u8
-#EXTINF:-1 group-title="台湾",Catchplay
-http://www.336699.live:1935/blocksix/4gtv-live155.stream/chunklist.m3u8
 #EXTINF:-1 group-title="台湾",MCE
 http://www.336699.live:1935/blocksix/4gtv-live157.stream/chunklist.m3u8
-#EXTINF:-1 group-title="台湾",幸福空間居家
-http://www.336699.live:1935/blocksix/4gtv-live206.stream/chunklist.m3u8
-#EXTINF:-1 group-title="台湾",三立綜合
-http://www.336699.live:1935/blocksix/4gtv-live207.stream/chunklist.m3u8
-#EXTINF:-1 group-title="台湾",LOVE Nature
-http://www.336699.live:1935/blocksix/4gtv-live208.stream/chunklist.m3u8
-#EXTINF:-1 group-title="台湾",愛爾達體育1
-http://www.best336699.com:1935/besttv/IR11.stream/playlist.m3u8
-#EXTINF:-1 group-title="台湾",愛爾達體育2
-http://www.best336699.com:1935/besttv/IR22.stream/playlist.m3u8
-#EXTINF:-1 group-title="台湾",愛爾達體育3
-http://www.best336699.com:1935/besttv/IR33.stream/playlist.m3u8
-#EXTINF:-1 group-title="台湾",龍華電影
-https://epg.pw/stream/e4f21acda4343622520728335bad935a0f525b0afb005d52e8cb4f96c1c0f423.m3u8
-#EXTINF:-1 group-title="台湾",龍華電影
-https://epg.pw/stream/48e65c7ee2e32cd94bd6ef41b978802804253539e7a5d4bc156ed6bd27543d87.m3u8
-#EXTINF:-1 group-title="台湾",鏡新聞
-http://tv.redrainl.site:9500/live.m3u8?c=28
+#EXTINF:-1 group-title="台湾",TaiwanPlus
+https://ythls.onrender.com/channel/UC7c6rvyAZLpKGk8ttVnpnLA.m3u8
+#EXTINF:-1 group-title="台湾",ELEVEN1
+http://61.221.81.93:8078/hls/25/80/esport.m3u8
+#EXTINF:-1 group-title="台湾",ELEVEN2
+http://61.221.81.93:8078/hls/26/80/esport2.m3u8
+#EXTINF:-1 group-title="台湾",華視新聞資訊
+http://stream.dsichannel.com/hls/cts-news.m3u8
 #EXTINF:-1 group-title="台湾",鏡新聞
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV70.m3u8
+#EXTINF:-1 group-title="台湾",衛視合家歡
+http://123.51.230.108:18504/.m3u8
+#EXTINF:-1 group-title="台湾",好消息
+http://123.51.230.108:18507/.m3u8
 #EXTINF:-1 group-title="台湾",緯來體育
 http://123.51.230.108:18509/.m3u8
+#EXTINF:-1 group-title="台湾",NHK
+http://123.51.230.108:18525/.m3u8
 #EXTINF:-1 group-title="台湾",東森戲劇
 http://123.51.230.108:18538/.m3u8
 #EXTINF:-1 group-title="台湾",八大第一
@@ -1960,110 +1909,12 @@ http://123.51.230.108:18539/.m3u8
 http://123.51.230.108:18663/.m3u8
 #EXTINF:-1 group-title="台湾",東森財經
 http://123.51.230.108:18515/.m3u8
+#EXTINF:-1 group-title="台湾",龍華日韓
+http://123.51.230.108:18551/.m3u8
+#EXTINF:-1 group-title="台湾",人間衛視
+http://123.51.230.108:18561/.m3u8
 #EXTINF:-1 group-title="台湾",東風37
 http://123.51.230.108:18560/.m3u8
-#EXTINF:-1 group-title="台湾",台視
-http://23.237.10.66:16344
-#EXTINF:-1 group-title="台湾",民視
-http://23.237.10.66:16334
-#EXTINF:-1 group-title="台湾",星衛娛樂
-http://23.237.10.66:16359
-#EXTINF:-1 group-title="台湾",中天綜合
-http://23.237.10.66:16372
-#EXTINF:-1 group-title="台湾",東森幼幼
-http://www.yshmzmc.top/gtjm.php?id=live1008
-#EXTINF:-1 group-title="台湾",緯來體育
-http://www.yshmzmc.top/gtjm.php?id=live1011
-#EXTINF:-1 group-title="台湾",東森新聞
-http://www.yshmzmc.top/gtjm.php?id=live1014
-#EXTINF:-1 group-title="台湾",中天新聞
-http://www.yshmzmc.top/gtjm.php?id=live1015
-#EXTINF:-1 group-title="台湾",三立都會
-http://www.yshmzmc.top/gtjm.php?id=live1020
-#EXTINF:-1 group-title="台湾",中天娛樂
-http://www.yshmzmc.top/gtjm.php?id=live1023
-#EXTINF:-1 group-title="台湾",衛視中文
-http://www.yshmzmc.top/gtjm.php?id=live1024
-#EXTINF:-1 group-title="台湾",HBO
-http://www.yshmzmc.top/gtjm.php?id=live1029
-#EXTINF:-1 group-title="台湾",衛視電影
-http://www.yshmzmc.top/gtjm.php?id=live1031
-#EXTINF:-1 group-title="台湾",Movie Gold
-http://www.yshmzmc.top/gtjm.php?id=live1032
-#EXTINF:-1 group-title="台湾",star world
-http://www.yshmzmc.top/gtjm.php?id=live1040
-#EXTINF:-1 group-title="台湾",八大第一
-http://www.yshmzmc.top/gtjm.php?id=live1043
-#EXTINF:-1 group-title="台湾",CNN
-http://www.yshmzmc.top/gtjm.php?id=live1063
-#EXTINF:-1 group-title="台湾",ELEVEN1
-http://www.yshmzmc.top/gtjm.php?id=live1069
-#EXTINF:-1 group-title="台湾",ELEVEN2
-http://www.yshmzmc.top/gtjm.php?id=live1072
-#EXTINF:-1 group-title="台湾",年代新聞
-http://www.yshmzmc.top/gtjm.php?id=live1077
-#EXTINF:-1 group-title="台湾",三立新聞
-http://www.yshmzmc.top/gtjm.php?id=live1079
-#EXTINF:-1 group-title="台湾",寰宇新聞
-http://www.yshmzmc.top/gtjm.php?id=live1222
-#EXTINF:-1 group-title="台湾",博斯運動1
-http://www.yshmzmc.top/gtjm.php?id=live1225
-#EXTINF:-1 group-title="台湾",壹新聞
-http://www.yshmzmc.top/gtjm.php?id=live1242
-#EXTINF:-1 group-title="台湾",MOMO綜合
-http://www.yshmzmc.top/gtjm.php?id=live1248
-#EXTINF:-1 group-title="台湾",年代much
-http://www.yshmzmc.top/gtjm.php?id=live2002
-#EXTINF:-1 group-title="台湾",中天綜合
-https://epg.pw/stream/9ffc906d37cf095d0fb596c3cba6c6253e8e445f4ccd24563c7a2e9e99c39f39.m3u8
-#EXTINF:-1 group-title="台湾",中天綜合
-https://epg.pw/stream/4c3c400280fb3d1f5b27322fe4827f5ba43f09963e114b0973bea7b5a85f7d73.ctv
-#EXTINF:-1 group-title="台湾",台視
-https://epg.pw/味stream/fda76a6bb8b43c6fcc3fd9ad7aea048137b4520441112a9f0d0122b1b8945dde.ctv
-#EXTINF:-1 group-title="台湾",天映經典
-https://epg.pw/stream/c144b6e78dae226aaf5d3ea400c87707189b5f1ab750e1d1ca5b7e00706dd47d.m3u8
-#EXTINF:-1 group-title="台湾",天映經典
-https://epg.pw/stream/87617e79441d46b5917a3bdca13259e4de2d9e11f828a88f1cb1c80d377f76f4.m3u8
-#EXTINF:-1 group-title="台湾",原住民頻道
-https://epg.pw/stream/3d0b93fe5f3ae06d96d0d4bc7931ec323ee5ef2721d880629f50a6672c2c7bb3.m3u8
-#EXTINF:-1 group-title="台湾",TVBS歡樂
-https://epg.pw/stream/a0e38cabd293735287ad24ea12d5e2e3d2f0ecd3a9984895501def1ccc98f1e6.m3u8
-#EXTINF:-1 group-title="台湾",TVBS新聞
-https://epg.pw/stream/18fc21d67cb93b0bd6acebdb5c6e5268ea50abb890acb9e78643189d36326e6c.ctv
-#EXTINF:-1 group-title="台湾",TVBS
-https://epg.pw/stream/c69d1cc112b64d809dcd6b9359153d668abbca671102437a920d36072581f7c6.ctv
-#EXTINF:-1 group-title="台湾",三立都會
-https://epg.pw/stream/313345d3e4c73171c55ae7c27654790b0863d0bfc465df7d937a69f0dff587f5.ctv
-#EXTINF:-1 group-title="台湾",衛視中文
-https://epg.pw/stream/e90bbc4d59eaed31098c2ee4ecbaee0c686b15379e52c5bc09b56fcb4386e12a.m3u8
-#EXTINF:-1 group-title="台湾",民視新聞
-https://git.io/JgkAb
-#EXTINF:-1 group-title="台湾",台視新聞
-https://git.io/JgkxY
-#EXTINF:-1 group-title="台湾",中視新聞
-https://git.io/Jgkxz
-#EXTINF:-1 group-title="台湾",華視新聞資訊
-https://git.io/J1zPH
-#EXTINF:-1 group-title="台湾",三立Live新聞
-https://git.io/Jgkxp
-#EXTINF:-1 group-title="台湾",三立iNews
-https://git.io/Jgkxj
-#EXTINF:-1 group-title="台湾",寰宇新聞
-https://git.io/JgkpO
-#EXTINF:-1 group-title="台湾",東森新聞
-https://git.io/Jgkps
-#EXTINF:-1 group-title="台湾",東森財經新聞
-https://git.io/Jgkpc
-#EXTINF:-1 group-title="台湾",TVBS
-https://git.io/JgYl2
-#EXTINF:-1 group-title="台湾",TVBS新聞
-https://git.io/Jgkp1
-#EXTINF:-1 group-title="台湾",中天新聞
-https://git.io/Jgkpy
-#EXTINF:-1 group-title="台湾",幸福空間居家
-https://git.io/JgYYF
-#EXTINF:-1 group-title="台湾",KPOP
-https://git.io/JgYAE
 #EXTINF:-1 group-title="台湾",大愛
 https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 #EXTINF:-1 group-title="台湾",大愛2
