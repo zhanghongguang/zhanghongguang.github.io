@@ -752,15 +752,15 @@ http://2023.stream-link.org/live/966381653
 http://2023.stream-link.org/live/401131254
 #EXTINF:-1 tvg-id="6074" tvg-name="TVBS財經" tvg-logo="http://or00.stream-link.org/tv_logo/tvbs.png" group-title="臺灣 🇹🇼️",TVBS財經
 http://2023.stream-link.org/live/1711676066
-#EXTINF:-1 tvg-id="6054" tvg-name="中天綜合台" tvg-logo="http://or00.stream-link.org/tv_logo/cti-zh.png" group-title="台灣綜藝",中天綜合台
+#EXTINF:-1 tvg-id="6054" tvg-name="中天綜合台" tvg-logo="http://or00.stream-link.org/tv_logo/cti-zh.png" group-title="臺灣 🇹🇼️",中天綜合台
 http://2023.stream-link.org/live/35397979
-#EXTINF:-1 tvg-id="9999" tvg-name="tvgName" tvg-logo="http://or00.stream-link.org/tv_logo/cti-asia.png" group-title="台灣",中天亞洲台
+#EXTINF:-1 tvg-id="9999" tvg-name="tvgName" tvg-logo="http://or00.stream-link.org/tv_logo/cti-asia.png" group-title="臺灣 🇹🇼️",中天亞洲台
 http://2023.stream-link.org/live/1096161090
-#EXTINF:-1 tvg-id="6026" tvg-name="台視" tvg-logo="http://or00.stream-link.org/tv_logo/ttv.png" group-title="台灣",台視
+#EXTINF:-1 tvg-id="6026" tvg-name="台視" tvg-logo="http://or00.stream-link.org/tv_logo/ttv.png" group-title="臺灣 🇹🇼️",台視
 http://2023.stream-link.org/live/280878870
-#EXTINF:-1 tvg-id="9999" tvg-name="tvgName" tvg-logo="http://or00.stream-link.org/tv_logo/cts-zy.png" group-title="台灣綜藝",天才衝衝衝
+#EXTINF:-1 tvg-id="9999" tvg-name="tvgName" tvg-logo="http://or00.stream-link.org/tv_logo/cts-zy.png" group-title="臺灣 🇹🇼️",天才衝衝衝
 http://2023.stream-link.org/live/1311166619
-#EXTINF:-1 tvg-id="6069" tvg-name="東森yoyo" tvg-logo="http://or00.stream-link.org/tv_logo/ebc-yoyo.png" group-title="兒童節目",東森yoyo
+#EXTINF:-1 tvg-id="6069" tvg-name="東森yoyo" tvg-logo="http://or00.stream-link.org/tv_logo/ebc-yoyo.png" group-title="臺灣 🇹🇼️",東森yoyo
 http://2023.stream-link.org/live/367293080
 #EXTINF:-1 tvg-id="6071" tvg-name="民视新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FTVNews.png" group-title="臺灣 🇹🇼️",民视新闻
 http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
