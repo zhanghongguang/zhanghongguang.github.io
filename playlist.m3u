@@ -139,7 +139,7 @@ http://39.134.115.163:8080/PLTV/88888910/224/3221225908/index.m3u8
 #EXTINF:-1 tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" tvg-speed="13MB/s" tvg-rez="3840x2160" group-title="央視 🇨🇳",CCTV4K
 http://cfss.cc/ds/bst.php?id=Cf-0
 #EXTINF:-1 tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" tvg-speed="13MB/s" tvg-rez="3840x2160" group-title="央視 🇨🇳",CCTV4K
-http://baidu.live.cqccn.com/__cl/cg:live/__c/CCTV4K/__op/default/__f//index.m3u8
+http://113.207.84.197:8090/__cl/cg:live/__c/CCTV4K/__op/default/__f/index.m3u8
 #EXTINF:-1 tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" tvg-speed="36MB/s" tvg-rez="3840x2160" group-title="央視 🇨🇳",CCTV奥林匹克频道
 http://39.135.41.243/PLTV/88888888/224/3221226716/index.m3u8?hls
 #EXTINF:-1 tvg-name="CCGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央視 🇨🇳",CGTN
@@ -773,11 +773,11 @@ http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch2-
 #EXTINF:-1 tvg-id="6054" tvg-name="中天综合台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CtiVariety.png" group-title="臺灣 🇹🇼️",中天综合台
 http://2023.stream-link.org/playlist/cti_zh.flv
 #EXTINF:-1 tvg-name="三立新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETNews.png" group-title="臺灣 🇹🇼️",三立新闻
-http://2023.stream-link.org/playlist/set_news.flv
+http://2023.stream-link.org/live/1803236734
 #EXTINF:-1 tvg-name="三立新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETNews.png" group-title="臺灣 🇹🇼️",三立新闻+
-http://2023.stream-link.org/playlist/set_news+.flv
+http://2023.stream-link.org/live/1998094138
 #EXTINF:-1 tvg-name="寰宇台湾新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/寰宇台湾新闻.png" group-title="臺灣 🇹🇼️",寰宇台湾新闻
-http://2023.stream-link.org/playlist/global_tw.flv
+http://2023.stream-link.org/live/1212532853
 #EXTINF:-1 tvg-id="6047" tvg-name="三立臺灣台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETTaiwan.png" group-title="臺灣 🇹🇼️",三立臺灣台
 http://23.237.10.66:16342
 #EXTINF:-1 group-title="臺灣 🇹🇼️",东森新闻美国
@@ -787,7 +787,7 @@ http://120.84.96.62:808/hls/32/index.m3u8
 #EXTINF:-1 group-title="臺灣 🇹🇼️" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCNews.png",东森新闻台
 http://2023.stream-link.org/playlist/ebc_news.flv
 #EXTINF:-1 tvg-name="民视新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FTVNews.png" group-title="臺灣 🇹🇼️",民视新闻台
-http://2023.stream-link.org/playlist/ftv_news.flv
+http://2023.stream-link.org/live/1637144344
 #EXTINF:-1 tvg-name="民视新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FTVNews.png" group-title="臺灣 🇹🇼️",民视新闻台
 http://123.51.230.108:18663/.m3u8
 #EXTINF:-1 group-title="臺灣 🇹🇼️" tvg-logo="https://www.publicdiplomacycouncil.org/wp-content/uploads/2020/05/voa-logo.png",美國之音
@@ -799,9 +799,9 @@ https://pull-l3-cny.douyincdn.com/live/a9e3982a798d13ba350075af6cff4119.m3u8
 #EXTINF:-1 group-title="臺灣 🇹🇼️",中天新闻
 https://pull-l3-cny.douyincdn.com/live/a9e3982a798d13ba350075af6cff4119.m3u8
 #EXTINF:-1 group-title="臺灣 🇹🇼️",中天新闻
-,http://2023.stream-link.org/playlist/cti_news.flv
+http://2023.stream-link.org/live/1552993665
 #EXTINF:-1 group-title="臺灣 🇹🇼️" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCNews.png",东森新闻台
-http://103.214.71.71:1666/www.zhiboyuandakatv.xyz/MAX_3-Days.m3u8?md5=Yodspj026JZEzcXdOtomcQ&expires=1671178780
+http://2023.stream-link.org/live/1793825065
 #EXTINF:-1 group-title="臺灣 🇹🇼️" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS%E6%96%B0%E9%97%BB.png",TVBS新闻台
 http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
 #EXTINF:-1 group-title="臺灣 🇹🇼️" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E5%8F%B0%E8%A7%86.png",台视
@@ -809,17 +809,17 @@ http://23.237.10.66:16344
 #EXTINF:-1 group-title="臺灣 🇹🇼️" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBO.png",HBO
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 #EXTINF:-1 group-title="臺灣 🇹🇼️" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS%E6%96%B0%E9%97%BB.png",TVBS新闻台
-http://140.238.155.232:9000/jmsytb.m3u8?c=31&&$1920x1080
+http://2023.stream-link.org/live/401131254
 #EXTINF:-1 group-title="臺灣 🇹🇼️" tvg-logo="",中天新闻台
 http://2023.stream-link.org/playlist/cti_asia.flv
 #EXTINF:-1 group-title="臺灣 🇹🇼️" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E4%B8%AD%E8%A7%86%E6%96%B0%E9%97%BB.png",中视新闻
-http://2022.stream-link.org/playlist/ctv_news.flv
+http://2023.stream-link.org/live/926790469
 #EXTINF:-1 group-title="臺灣 🇹🇼️" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E5%8F%B0%E8%A7%86%E6%96%B0%E9%97%BB.png",台视新闻台
-http://2022.stream-link.org/playlist/ttv_news.flv
+http://2023.stream-link.org/live/966381653
 #EXTINF:-1 group-title="臺灣 🇹🇼️",華視新聞
-http://stream.dsichannel.com:80/hls/cts-news.m3u8
+http://2023.stream-link.org/live/215730961
 #EXTINF:-1 tvg-id="6171" tvg-name="寰宇新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GlobalNews.png" group-title="臺灣 🇹🇼️丨ladder",寰宇新闻
-http://2023.stream-link.org/playlist/global_news.flv
+http://2023.stream-link.org/live/1212532853
 #EXTINF:-1 group-title="臺灣 🇹🇼️" tvg-name="民视无线台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FTV.png",民视频道
 http://www.336699.live:1935/blockfour/4gtv-4gtv002.stream/playlist.m3u8
 #EXTINF:-1 group-title="臺灣 🇹🇼️" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E4%B8%AD%E8%A7%86%E6%96%B0%E9%97%BB.png",中视新闻
@@ -852,6 +852,8 @@ https://d1--cn-gotcha204.bilivideo.com/live-bvc/792068/live_372775317_46465575/i
 https://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch6-2.m3u8
 #EXTINF:-1 group-title="臺灣 🇹🇼️",GoodTV 爱旅行台
 https://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch11-2.m3u8
+#EXTINF:-1 tvg-name="东森财经新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCFinancialNews.png" group-title="臺灣 🇹🇼️丨ladder",东森财经新闻台
+http://2023.stream-link.org/live/249006034
 #EXTINF:-1 group-title="臺灣 🇹🇼️丨ladder",★★★★★臺灣 🇹🇼️丨ladder★★★★★
 https://upload.wikimedia.org/wikipedia/commons/transcoded/b/be/National_anthem_of_the_Republic_of_China_%28Taiwan%29_%E4%B8%AD%E8%8F%AF%E6%B0%91%E5%9C%8B%E5%9C%8B%E6%AD%8C%28%E6%BC%94%E5%A5%8F%E7%89%88%29.ogg/National_anthem_of_the_Republic_of_China_%28Taiwan%29_%E4%B8%AD%E8%8F%AF%E6%B0%91%E5%9C%8B%E5%9C%8B%E6%AD%8C%28%E6%BC%94%E5%A5%8F%E7%89%88%29.ogg.mp3
 #EXTINF:-1 tvg-name="壹电视新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/NextTVNews.png" group-title="臺灣 🇹🇼️丨ladder",壹电视新闻台
