@@ -3124,3 +3124,406 @@ https://live-play.cctvnews.cctv.com/cctv/merge_cctv13_mud.m3u8
 https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
 #EXTINF:-1 group-title="未分组123",CCTV1
 http://cctvwbndali.v.myalicdn.com/cctvwbnd/cctv1_2/index.m3u8
+#EXTINF:-1 group-title="4ksuper.live",HBO
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941648
+#EXTINF:-1 group-title="4ksuper.live",HBO Hits
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941647
+#EXTINF:-1 group-title="4ksuper.live",HBO Family
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941646
+#EXTINF:-1 group-title="4ksuper.live",HBO Signature
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941645
+#EXTINF:-1 group-title="4ksuper.live",Cinemax
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941659
+#EXTINF:-1 group-title="4ksuper.live",hao
+http://tvmvip110.live/3.mp4
+#EXTINF:-1 group-title="4ksuper.live",卫视电影台
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941625
+#EXTINF:-1 group-title="4ksuper.live",卫视中文台
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941624
+#EXTINF:-1 group-title="4ksuper.live",天映电影
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941618
+#EXTINF:-1 group-title="4ksuper.live",天映经典
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941639
+#EXTINF:-1 group-title="4ksuper.live",HUB都会
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941632
+#EXTINF:-1 group-title="4ksuper.live",HUB娱家
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941634
+#EXTINF:-1 group-title="4ksuper.live",Channel 5
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941615
+#EXTINF:-1 group-title="4ksuper.live",Channel 8
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941616
+#EXTINF:-1 group-title="4ksuper.live",Channel U
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941617
+#EXTINF:-1 group-title="4ksuper.live",国家地理频道
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941665
+#EXTINF:-1 group-title="4ksuper.live",国家地理野生频道
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941664
+#EXTINF:-1 group-title="4ksuper.live",BBCEarth
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941667
+#EXTINF:-1 group-title="4ksuper.live",BBCLifestyle
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941668
+#EXTINF:-1 group-title="4ksuper.live",History
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941661
+#EXTINF:-1 group-title="4ksuper.live",AXN
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941660
+#EXTINF:-1 group-title="4ksuper.live",WarnerTV
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941652
+#EXTINF:-1 group-title="4ksuper.live",CI
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941666
+#EXTINF:-1 group-title="4ksuper.live",Lifetime
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941669
+#EXTINF:-1 group-title="4ksuper.live",Paramount Network HD
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941654
+#EXTINF:-1 group-title="4ksuper.live",ROCK ENTERTAINMENT
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941643
+#EXTINF:-1 group-title="4ksuper.live",TravelXP
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941662
+#EXTINF:-1 group-title="4ksuper.live",HITS
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941578
+#EXTINF:-1 group-title="4ksuper.live",HITS MOVIES
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941577
+#EXTINF:-1 group-title="4ksuper.live",CINEMAWORLD
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941658
+#EXTINF:-1 group-title="4ksuper.live",Animax
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941676
+#EXTINF:-1 group-title="4ksuper.live",Nickelodeon
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941671
+#EXTINF:-1 group-title="4ksuper.live",NickJr.
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941670
+#EXTINF:-1 group-title="4ksuper.live",CBeebies
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941672
+#EXTINF:-1 group-title="4ksuper.live",Cartoon Network
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941673
+#EXTINF:-1 group-title="4ksuper.live",Boomerang
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941674
+#EXTINF:-1 group-title="4ksuper.live",Dreamworks
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941656
+#EXTINF:-1 group-title="4ksuper.live",NOW紫金国际台
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941630
+#EXTINF:-1 group-title="4ksuper.live",KBS World
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941604
+#EXTINF:-1 group-title="4ksuper.live",ONE
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941628
+#EXTINF:-1 group-title="4ksuper.live",tvN
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941623
+#EXTINF:-1 group-title="4ksuper.live",GEM
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941608
+#EXTINF:-1 group-title="Arirang",zong
+http://tvmvip110.live/3.mp4
+#EXTINF:-1 group-title="Arirang",TV
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941614
+#EXTINF:-1 group-title="Arirang",NBA TV
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941562
+#EXTINF:-1 group-title="Arirang",beIN SPORTS 1
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941569
+#EXTINF:-1 group-title="Arirang",beIN SPORTS 2
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941568
+#EXTINF:-1 group-title="Arirang",beIN SPORTS 3
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941567
+#EXTINF:-1 group-title="Arirang",Hub Sports 1
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941573
+#EXTINF:-1 group-title="Arirang",Hub Sports 2
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941572
+#EXTINF:-1 group-title="Arirang",Hub Sports 4
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941571
+#EXTINF:-1 group-title="Arirang",SPOTV
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941564
+#EXTINF:-1 group-title="Arirang",SPOTV2
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941563
+#EXTINF:-1 group-title="Arirang",CNN
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941690
+#EXTINF:-1 group-title="Arirang",BBC World News
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941693
+#EXTINF:-1 group-title="Arirang",Sky News
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941684
+#EXTINF:-1 group-title="Arirang",FOX News Channel
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941685
+#EXTINF:-1 group-title="Arirang",EuroNews
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941686
+#EXTINF:-1 group-title="Arirang",DW English
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941687
+#EXTINF:-1 group-title="Arirang",CNA
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941688
+#EXTINF:-1 group-title="Arirang",CNBC
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941689
+#EXTINF:-1 group-title="Arirang",Bloomberg
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941692
+#EXTINF:-1 group-title="Arirang",NHK
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941611
+#EXTINF:-1 group-title="Arirang",NHK World - Japan
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941610
+#EXTINF:-1 group-title="Arirang",TVBJ1
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=153395
+#EXTINF:-1 group-title="Arirang",TVB1
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=153396
+#EXTINF:-1 group-title="Arirang",TVBE
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=153398
+#EXTINF:-1 group-title="Arirang",TVB XING HE
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=153506
+#EXTINF:-1 group-title="Arirang",TVB CHINESE
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=153401
+#EXTINF:-1 group-title="Arirang",TVB CLASSIC
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=153503
+#EXTINF:-1 group-title="Arirang",TVB E NEWS
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=153504
+#EXTINF:-1 group-title="Arirang",TVB PEARL
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=153399
+#EXTINF:-1 group-title="Arirang",TVB DRAMA
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=153400
+#EXTINF:-1 group-title="Arirang",TVB JADE
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=153505
+#EXTINF:-1 group-title="FAIRCHILD",gong
+http://tvmvip110.live/3.mp4EAST,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=90350
+#EXTINF:-1 group-title="FAIRCHILD",FAIRCHILD WEST
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=90351
+#EXTINF:-1 group-title="FAIRCHILD",FAIRCHILD 2
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=90352
+#EXTINF:-1 group-title="FAIRCHILD",astro 爱奇艺
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=571198&extension=ts
+#EXTINF:-1 group-title="FAIRCHILD",astro 全佳
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=571192&extension=ts
+#EXTINF:-1 group-title="FAIRCHILD",astro 双星
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=571191&extension=ts
+#EXTINF:-1 group-title="FAIRCHILD",astro 小太阳
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=571230&extension=ts
+#EXTINF:-1 group-title="FAIRCHILD",astro AOD 351
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=571226&extension=ts
+#EXTINF:-1 group-title="FAIRCHILD",astro AOD 352
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=571225&extension=ts
+#EXTINF:-1 group-title="FAIRCHILD",astro AOD 353
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=571229&extension=ts
+#EXTINF:-1 group-title="FAIRCHILD",TVB 翡翠台
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=571187&extension=ts
+#EXTINF:-1 group-title="FAIRCHILD",TVB 星河频道
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=571186&extension=ts
+#EXTINF:-1 group-title="FAIRCHILD",TVB 经典台
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=571197&extension=ts
+#EXTINF:-1 group-title="FAIRCHILD",TVB 娱乐新闻台
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=571188&extension=ts
+#EXTINF:-1 group-title="FAIRCHILD",天映经典
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=571182&extension=ts
+#EXTINF:-1 group-title="FAIRCHILD",天映频道
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=571218&extension=ts
+#EXTINF:-1 group-title="FAIRCHILD",中天亚洲台
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=571212&extension=ts
+#EXTINF:-1 group-title="FAIRCHILD",TVBS亚洲台
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=571185&extension=ts
+#EXTINF:-1 group-title="FAIRCHILD",探索亚洲
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=571181&extension=ts
+#EXTINF:-1 group-title="FAIRCHILD",探索频道
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=571210&extension=ts
+#EXTINF:-1 group-title="FAIRCHILD",NESN UHD
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=1124351&extension=ts
+#EXTINF:-1 group-title="FAIRCHILD",Astro SuperSport UHD
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=1016544&extension=ts
+#EXTINF:-1 group-title="FAIRCHILD",Now Sports 4K
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=1032489&extension=ts
+#EXTINF:-1 group-title="FAIRCHILD",BT Sport Ultimate
+http://4ksuper.live/play/live.php?mac=00:1a:79:b1:05:9e&stream=1038792&extension=ts
+#EXTINF:-1 group-title="FAIRCHILD",ELEVEN SPORTS 1 4K
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=905665&extension=ts
+#EXTINF:-1 group-title="FAIRCHILD",Astro SuperSport
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=918986&extension=ts
+#EXTINF:-1 group-title="FAIRCHILD",Astro SuperSport 2
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=918985&extension=ts
+#EXTINF:-1 group-title="FAIRCHILD",Astro SuperSport 3
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=918984&extension=ts
+#EXTINF:-1 group-title="FAIRCHILD",Astro SuperSport 4
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=918983&extension=ts
+#EXTINF:-1 group-title="FAIRCHILD",Astro SuperSport 5
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=918982&extension=ts
+#EXTINF:-1 group-title="FAIRCHILD",Now Sports Premier League 1
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=1110622&extension=ts
+#EXTINF:-1 group-title="FAIRCHILD",Now Sports 1
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=1110615&extension=ts
+#EXTINF:-1 group-title="FAIRCHILD",Now Sports 2
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=1110616&extension=ts
+#EXTINF:-1 group-title="FAIRCHILD",Now Sports 3
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=1110617&extension=ts
+#EXTINF:-1 group-title="FAIRCHILD",Now Sports 4
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=1110618&extension=ts
+#EXTINF:-1 group-title="FAIRCHILD",Now Sports 5
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=1110619&extension=ts
+#EXTINF:-1 group-title="FAIRCHILD",Now Sports 6
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=1110620&extension=ts
+#EXTINF:-1 group-title="FAIRCHILD",Now Sports 7
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=1110621&extension=ts
+#EXTINF:-1 group-title="FAIRCHILD",Hub Sports 1
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=1110667&extension=ts
+#EXTINF:-1 group-title="FAIRCHILD",Hub Sports 2
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=1110666&extension=ts
+#EXTINF:-1 group-title="FAIRCHILD",Hub Sports 4
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=1110665&extension=ts
+#EXTINF:-1 group-title="FAIRCHILD",ESPN
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=45579&extension=ts
+#EXTINF:-1 group-title="FAIRCHILD",ESPN 2
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=45580&extension=ts
+#EXTINF:-1 group-title="FAIRCHILD",FS 1
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=45571&extension=ts
+#EXTINF:-1 group-title="FAIRCHILD",FS 2
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=45570&extension=ts
+#EXTINF:-1 group-title="FAIRCHILD",FOX SOCCER PLUS
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=45572&extension=ts
+#EXTINF:-1 group-title="FAIRCHILD",BT Sport 1
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=30567&extension=ts
+#EXTINF:-1 group-title="FAIRCHILD",BT Sport 2
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=30566&extension=ts
+#EXTINF:-1 group-title="FAIRCHILD",BT Sport 3
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=30565&extension=ts
+#EXTINF:-1 group-title="FAIRCHILD",BT Sport 4
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=30564&extension=ts
+#EXTINF:-1 group-title="FAIRCHILD",Sky Sports Premier League
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=30493&extension=ts
+#EXTINF:-1 group-title="FAIRCHILD",Sky Sports Football
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=30498&extension=ts
+#EXTINF:-1 group-title="FAIRCHILD",Sky Sports Main Event
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=30496&extension=ts
+#EXTINF:-1 group-title="FAIRCHILD",Sky Sports Mix
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=30495&extension=ts
+#EXTINF:-1 group-title="FAIRCHILD",song
+http://tvmvip110.live/3.mp4
+#EXTINF:-1 group-title="FAIRCHILD",Sky Sports Action
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=929003&extension=ts
+#EXTINF:-1 group-title="FAIRCHILD",Sky Sports Arena
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=30500&extension=ts
+#EXTINF:-1 group-title="FAIRCHILD",Sky Sports F1
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=30499&extension=ts
+#EXTINF:-1 group-title="FAIRCHILD",TSN 1
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=177344&extension=ts
+#EXTINF:-1 group-title="FAIRCHILD",TSN 2
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=177345&extension=ts
+#EXTINF:-1 group-title="FAIRCHILD",TSN 3
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=177346&extension=ts
+#EXTINF:-1 group-title="FAIRCHILD",TSN 4
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=904213&extension=ts
+#EXTINF:-1 group-title="FAIRCHILD",TSN 5
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=904212&extension=ts
+#EXTINF:-1 group-title="FAIRCHILD",EUROSPORT 1
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=30541&extension=ts
+#EXTINF:-1 group-title="FAIRCHILD",EUROSPORT 2
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=30540&extension=ts
+#EXTINF:-1 group-title="FAIRCHILD",LALIGA TV
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=163611&extension=ts
+#EXTINF:-1 group-title="FAIRCHILD",VIAPLAY SPORTS 1
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=163607&extension=ts
+#EXTINF:-1 group-title="FAIRCHILD",VIAPLAY SPORTS 2
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=45251&extension=ts
+#EXTINF:-1 group-title="FAIRCHILD",VIAPLAY XTRA
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=546807&extension=ts
+#EXTINF:-1 group-title="FAIRCHILD",EDGE SPORT
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=1014266&extension=ts
+#EXTINF:-1 group-title="FAIRCHILD",SONY SPORTS 1
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=1114576&extension=ts
+#EXTINF:-1 group-title="FAIRCHILD",wei
+http://tvmvip110.live/3.mp4
+#EXTINF:-1 group-title="FAIRCHILD",SONY SPORTS 2
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=1114577&extension=ts
+#EXTINF:-1 group-title="FAIRCHILD",SONY SPORTS 3
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=156024&extension=ts
+#EXTINF:-1 group-title="FAIRCHILD",STAR SPORTS 1
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=155968&extension=ts
+#EXTINF:-1 group-title="FAIRCHILD",STAR SPORTS 2
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=155966&extension=ts
+#EXTINF:-1 group-title="FAIRCHILD",STAR SPORTS 3
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=155976&extension=ts
+#EXTINF:-1 group-title="FAIRCHILD",STAR SPORTS SELECT 1
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=155972&extension=ts
+#EXTINF:-1 group-title="FAIRCHILD",STAR SPORTS SELECT 2
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=155973&extension=ts
+#EXTINF:-1 group-title="FAIRCHILD",Hub Premier 1
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=1032529&extension=ts
+#EXTINF:-1 group-title="FAIRCHILD",Hub Premier 2
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=1032528&extension=ts
+#EXTINF:-1 group-title="FAIRCHILD",Hub Premier 3
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=1032527&extension=ts
+#EXTINF:-1 group-title="FAIRCHILD",Hub Premier 4
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=1032526&extension=ts
+#EXTINF:-1 group-title="FAIRCHILD",Hub Premier 5
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=1032525&extension=ts
+#EXTINF:-1 group-title="FAIRCHILD",Hub Premier 6
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=1032524&extension=ts
+#EXTINF:-1 group-title="FAIRCHILD",Hub Premier 7
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=1032523&extension=ts
+#EXTINF:-1 group-title="FAIRCHILD",Hub Premier 8
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=1032522&extension=ts
+#EXTINF:-1 group-title="FAIRCHILD",Hub Premier 9
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=1032521&extension=ts
+#EXTINF:-1 group-title="FAIRCHILD",Hub Premier 10
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=1032520&extension=ts
+#EXTINF:-1 group-title="FAIRCHILD",Hub Premier 11
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=1032519&extension=ts
+#EXTINF:-1 group-title="FAIRCHILD",ELEVEN SPORTS 1
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=880457&extension=ts
+#EXTINF:-1 group-title="FAIRCHILD",ELEVEN SPORTS 2
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=880456&extension=ts
+#EXTINF:-1 group-title="FAIRCHILD",ELEVEN SPORTS 3
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=880455&extension=ts
+#EXTINF:-1 group-title="FAIRCHILD",ELEVEN SPORTS 4
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=880454&extension=ts
+#EXTINF:-1 group-title="FAIRCHILD",CANAL+ SPORT 1
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=880461&extension=ts
+#EXTINF:-1 group-title="FAIRCHILD",CANAL+ SPORT 2
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=880460&extension=ts
+#EXTINF:-1 group-title="FAIRCHILD",CANAL+ SPORT 3
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=880459&extension=ts
+#EXTINF:-1 group-title="FAIRCHILD",CANAL+ SPORT 4
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=880458&extension=ts
+#EXTINF:-1 group-title="FAIRCHILD",NBA LIVE 1
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=836373&extension=ts
+#EXTINF:-1 group-title="FAIRCHILD",NBA LIVE 2
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=836372&extension=ts
+#EXTINF:-1 group-title="FAIRCHILD",NBA LIVE 3
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=836371&extension=ts
+#EXTINF:-1 group-title="FAIRCHILD",NBA LIVE 4
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=836370&extension=ts
+#EXTINF:-1 group-title="FAIRCHILD",NBA LIVE 5
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=836369&extension=ts
+#EXTINF:-1 group-title="FAIRCHILD",NBA LIVE 6
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=836368&extension=ts
+#EXTINF:-1 group-title="FAIRCHILD",NBA LIVE 7
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=836367&extension=ts
+#EXTINF:-1 group-title="FAIRCHILD",NBA LIVE 8
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=836366&extension=ts
+#EXTINF:-1 group-title="FAIRCHILD",NBA LIVE 9
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=836365&extension=ts
+#EXTINF:-1 group-title="FAIRCHILD",NBA LIVE 10
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=836364&extension=ts
+#EXTINF:-1 group-title="FAIRCHILD",NBA REPLAY INFO
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=1040606&extension=ts
+#EXTINF:-1 group-title="FAIRCHILD",NBA REPLAY HIGHLIGHTS
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=1040605&extension=ts
+#EXTINF:-1 group-title="FAIRCHILD",NBA REPLAY 1
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=1040604&extension=ts
+#EXTINF:-1 group-title="FAIRCHILD",NBA REPLAY 2
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=1040603&extension=ts
+#EXTINF:-1 group-title="FAIRCHILD",NBA REPLAY 3
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=1040602&extension=ts
+#EXTINF:-1 group-title="FAIRCHILD",NBA REPLAY 4
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=1040601&extension=ts
+#EXTINF:-1 group-title="FAIRCHILD",NBA REPLAY 5
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=1040600&extension=ts
+#EXTINF:-1 group-title="FAIRCHILD",NBA REPLAY 6
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=1040599&extension=ts
+#EXTINF:-1 group-title="FAIRCHILD",NBA REPLAY 7
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=1040598&extension=ts
+#EXTINF:-1 group-title="FAIRCHILD",NBA REPLAY 8
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=1040597&extension=ts
+#EXTINF:-1 group-title="FAIRCHILD",NBA REPLAY 9
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=1040596&extension=ts
+#EXTINF:-1 group-title="FAIRCHILD",NBA REPLAY 10
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=1040595&extension=ts
+#EXTINF:-1 group-title="FAIRCHILD",NBA REPLAY 11
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=1040594&extension=ts
+#EXTINF:-1 group-title="FAIRCHILD",NBA REPLAY 12
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=1040593&extension=ts
+#EXTINF:-1 group-title="FAIRCHILD",NBA REPLAY 13
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=1040592&extension=ts
+#EXTINF:-1 group-title="FAIRCHILD",NBA REPLAY 14
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=1040591&extension=ts
+#EXTINF:-1 group-title="FAIRCHILD",NBA REPLAY 15
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=1040590&extension=ts
+#EXTINF:-1 group-title="FAIRCHILD",NBA REPLAY 16
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=1040589&extension=ts
+#EXTINF:-1 group-title="FAIRCHILD",NBA REPLAY 17
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=1040588&extension=ts
+
