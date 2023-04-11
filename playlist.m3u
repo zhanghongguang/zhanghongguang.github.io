@@ -781,7 +781,7 @@ http://60.249.146.250:8511/playlist.m3u8
 #EXTINF:-1 group-title="臺灣 🇹🇼️" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FTV.png",民视无线台
 http://23.237.10.66:16334
 #EXTINF:-1 group-title="臺灣 🇹🇼️" tvg-logo="https://www.lyngsat.com/logo/tv/aa/asia_travel_tv.png",亚洲旅游
-http://50.7.220.74:8278/asiatravel_twn/playlist.m3u8?tid=MB9B9461769094617690&ct=18393&tsum=57c12e5ba95cca684613ec5e14714ff8
+http://www.336699.live:1935/blocksix/litv-longturn17.stream/playlist.m3u8
 #EXTINF:-1 group-title="臺灣 🇹🇼️",原住民
 http://streamipcf.akamaized.net/live/_definst_/live_720/key_b1500.m3u8
 #EXTINF:-1 group-title="臺灣 🇹🇼️",TLC旅游生活频道
@@ -827,7 +827,7 @@ http://23.237.10.66:16344
 #EXTINF:-1 group-title="臺灣 🇹🇼️" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBO.png",HBO
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 #EXTINF:-1 group-title="臺灣 🇹🇼️" tvg-name="民视无线台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FTV.png",民视频道
-http://www.336699.live:1935/blockfour/4gtv-4gtv002.stream/playlist.m3u8
+rtmp://119.81.124.89/sat/tv051
 #EXTINF:-1 group-title="臺灣 🇹🇼️" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E4%B8%AD%E8%A7%86%E6%96%B0%E9%97%BB.png",中视新闻
 http://www.336699.live:1935/blockfour/4gtv-4gtv074.stream/playlist.m3u8
 #EXTINF:-1 group-title="臺灣 🇹🇼️" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GlobalNews.png",寰宇新闻
@@ -858,6 +858,10 @@ https://d1--cn-gotcha204.bilivideo.com/live-bvc/792068/live_372775317_46465575/i
 https://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch6-2.m3u8
 #EXTINF:-1 group-title="臺灣 🇹🇼️",GoodTV 爱旅行台
 https://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch11-2.m3u8
+#EXTINF:-1 group-title="臺灣 🇹🇼️",LIVE互動英語
+http://www.336699.live:1935/blocksix/4gtv-live030.stream/chunklist.m3u8
+#EXTINF:-1 tvg-name="民视新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FTVNews.png" group-title="臺灣 🇹🇼️",民视新闻台
+http://47.113.189.55/iptv/iptv.php?key=ced93979274d74470b525fc6372adbc9&id=50
 #EXTINF:-1 group-title="臺灣 🇹🇼️丨ladder",★★★★★臺灣 🇹🇼️丨ladder★★★★★
 https://upload.wikimedia.org/wikipedia/commons/transcoded/b/be/National_anthem_of_the_Republic_of_China_%28Taiwan%29_%E4%B8%AD%E8%8F%AF%E6%B0%91%E5%9C%8B%E5%9C%8B%E6%AD%8C%28%E6%BC%94%E5%A5%8F%E7%89%88%29.ogg/National_anthem_of_the_Republic_of_China_%28Taiwan%29_%E4%B8%AD%E8%8F%AF%E6%B0%91%E5%9C%8B%E5%9C%8B%E6%AD%8C%28%E6%BC%94%E5%A5%8F%E7%89%88%29.ogg.mp3
 #EXTINF:-1 tvg-name="壹电视新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/NextTVNews.png" group-title="臺灣 🇹🇼️丨ladder",壹电视新闻台
