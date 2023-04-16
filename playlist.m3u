@@ -96,6 +96,18 @@ http://www.372583307.top:4022/udp/233.50.201.175:5140
 http://www.372583307.top:4022/udp/233.50.201.176:5140
 #EXTINF:-1 group-title="浙江 🇨🇳️",杭州青少体育
 http://www.372583307.top:4022/udp/233.50.201.177:5140
+#EXTINF:-1 group-title="浙江 🇨🇳️",杭州综合
+http://live.cooltv.top/tv/hz.php?id=16
+#EXTINF:-1 group-title="浙江 🇨🇳️",杭州明珠
+http://live.cooltv.top/tv/hz.php?id=17
+#EXTINF:-1 group-title="浙江 🇨🇳️",杭州生活
+http://live.cooltv.top/tv/hz.php?id=18
+#EXTINF:-1 group-title="浙江 🇨🇳️",杭州影视
+http://live.cooltv.top/tv/hz.php?id=21
+#EXTINF:-1 group-title="浙江 🇨🇳️",杭州青少体育
+http://live.cooltv.top/tv/hz.php?id=20
+#EXTINF:-1 group-title="浙江 🇨🇳️",杭州导视
+http://live.cooltv.top/tv/hz.php?id=22
 #EXTINF:-1 group-title="央視 🇨🇳",★★★★★央視 🇨🇳 ★★★★★
 https://upload.wikimedia.org/wikipedia/commons/0/08/National_Flag_Anthem_of_the_Republic_of_China%E4%B8%AD%E8%8F%AF%E6%B0%91%E5%9C%8B%E5%9C%8B%E6%97%97%E6%AD%8C_%28%E6%BC%94%E5%A5%8F%E7%89%88%29.oga
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央視 🇨🇳",CCTV-1综合
@@ -271,13 +283,13 @@ https://live.v1.mk/api/bestv.php?id=dfyshd8m/8000000
 #EXTINF:-1 group-title="上海 🇨🇳️" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanghaijishi.png",上海纪实
 https://live.v1.mk/api/bestv.php?id=jspdhd/4000000
 #EXTINF:-1 tvg-id="1984" tvg-name="上视新闻频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shangshixinwen.png" group-title="上海 🇨🇳️",上海新闻综合
-http://183.207.255.188/live/program/live/xwzh/1300000/mnf.m3u8
+https://live.v1.mk/api/bestv.php?id=xwzhhd8m/8000000
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="上海 🇨🇳️",东方卫视
 http://183.207.255.188/live/program/live/qcxj/1300000/mnf.m3u8
 #EXTINF:-1 group-title="上海 🇨🇳️" tvg-logo="https://epg.pm/media/images/channel/2022/05/08/large/20220508004000234533_13.jpg",上海教育高清
-http://183.207.255.188/live/program/live/setv/1300000/mnf.m3u8
+https://live2018.setv.sh.cn/setv/programme10_ud.m3u8?auth_key=4794048378-0-0-06e60dd476e18047abd3be7701993ee8
 #EXTINF:-1 group-title="上海 🇨🇳️" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaiwaiyu.png",上视外语频道
-http://183.207.255.188/live/program/live/wypdhd/4000000/mnf.m3u8
+https://live.v1.mk/api/bestv.php?id=icshd8m/8000000
 #EXTINF:-1 group-title="上海 🇨🇳️" tvg-logo="https://epg.112114.xyz/logo/生活时尚.png",生活时尚
 http://183.207.255.188/live/program/live/shsshd/4000000/mnf.m3u8
 #EXTINF:-1 tvg-id="上海第一财经" tvg-name="上海第一财经" tvg-logo="https://epg.112114.xyz/logo/上海第一财经.png" group-title="上海 🇨🇳️",上海第一财经[百视通]
@@ -295,7 +307,7 @@ http://61.164.158.155/liveplay-kk.rtxapp.com/live/program/live/wxtyhd8m/8000000/
 #EXTINF:-1 group-title="上海 🇨🇳️" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/diyicaijing.png",上海第一财经
 http://61.164.158.155/liveplay-kk.rtxapp.com/live/program/live/dycjhd/4000000/mnf.m3u8
 #EXTINF:-1 group-title="上海 🇨🇳️" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanghaijishi.png",上海纪实
-http://183.207.255.188/live/program/live/jspdhd/4000000/mnf.m3u8
+https://live.v1.mk/api/bestv.php?id=jspdhd/4000000
 #EXTINF:-1 group-title="上海 🇨🇳️" tvg-logo="https://epg.112114.xyz/logo/乐游.png",乐游
 http://183.207.255.188/live/program/live/qjshd/4000000/mnf.m3u8
 #EXTINF:-1 group-title="上海 🇨🇳️" tvg-logo="https://epg.112114.xyz/logo/乐游.png",乐游
@@ -347,7 +359,7 @@ http://source07.v.news.cn/live/CNC_CN/playlist.m3u8
 #EXTINF:-1 tvg-id="求索纪录" tvg-name="求索纪录" tvg-logo="https://epg.112114.xyz/logo/求索纪录.png" group-title="地方臺 🇨🇳️",求索纪录高清
 http://39.134.136.141:6610/000000001000/2000000004000000010/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000010&livemode=1&stbId=3
 #EXTINF:-1 group-title="福建 🇨🇳️",福建乡村振兴公共
-http://39.135.55.72:6610/PLTV/88888888/224/3221227153/index.m3u8?servicetype=1
+http://[2409:8087:3428:20:500::1009]:6610/PLTV/88888888/224/3221227153/index.m3u8?servicetype=1
 #EXTINF:-1 group-title="福建 🇨🇳️",福州新闻综合频道
 http://live.zohi.tv/video/s10001-FZTV-1/index.m3u8
 #EXTINF:-1 tvg-id="海峡卫视" tvg-name="海峡卫视" group-title="卫视 🇨🇳️",海峡卫视
@@ -469,7 +481,7 @@ http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227190/index.m3u8
 #EXTINF:-1 group-title="福建 🇨🇳️",福建旅游
 http://[2409:8087:3428:20:500::1009]:6610/PLTV/88888888/224/3221227190/index.m3u8?servicetype=1
 #EXTINF:-1 group-title="福建 🇨🇳️" tvg-logo="https://epg.pm/media/images/channel/2022/05/30/large/20220530233623778528_85.jpg",福建综合
-http://p2.weizan.cn/11844069/132114573749498521/live.m3u8
+http://[2409:8087:3428:20:500::1009]:6610/PLTV/88888888/224/3221227149/index.m3u8?servicetype=1
 #EXTINF:-1 tvg-logo="../Channel/Logo/newtv中国功夫.jpg" group-title="NewTV🇨🇳️",NewTV东北热剧
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226202/index.m3u8#http://39.135.138.58:18890/PLTV/88888888/224/3221226202/index.m3u8
 #EXTINF:-1 tvg-logo="../Channel/Logo/newtv中国功夫.jpg" group-title="NewTV🇨🇳️",NewTV中国功夫
