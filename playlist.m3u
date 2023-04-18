@@ -1213,7 +1213,7 @@ https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master_2000.m3u8
 #EXTINF:-1 group-title="Global 🇺🇸🇬🇧🇶🇦️" tvg-logo="https://seeklogo.com/images/N/NASA-logo-9411797223-seeklogo.com.png",NASA TV Public
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 #EXTINF:-1 group-title="Global 🇺🇸🇬🇧🇶🇦️" tvg-name="TLC旅游生活频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tlc.png",TLC HD
-http://cdn-cf.vthanhtivi.pw/fptplay/travel-living/bitrate_5000.m3u8
+https://ancom.ga/fpt/travel-living/bitrate_5000.m3u8
 #EXTINF:-1 tvg-id="MET.ID" group-title="Global 🇺🇸🇬🇧🇶🇦️" tvg-logo="https://static.epg.best/id/MetroTV.id.png",Metro TV
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w2006790992_b1492000_sleng.m3u8
 #EXTINF:-1 group-title="Global 🇺🇸🇬🇧🇶🇦️" tvg-logo="https://www.mncvision.id/userfiles/image/channel/bbc_earth150x150.jpg",BBC earth
@@ -1275,23 +1275,21 @@ http://113.164.225.140:1935/live/quochoitvlive.stream_720p/playlist.m3u8
 #EXTINF:-1 group-title="Global 🇺🇸🇬🇧🇶🇦️",越南MV
 http://vcdn1.vtc.gov.vn:1935/m_4k/smil:4k.smil/playlist.m3u8
 #EXTINF:-1 group-title="Global 🇺🇸🇬🇧🇶🇦️" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CNNNews.png",CNN
-http://cdn-cf.vthanhtivi.pw/fptplay/cnn/bitrate_5000.m3u8
+https://ancom.ga/fpt/cnn/bitrate_5000.m3u8
 #EXTINF:-1 tvg-id="discoveryasiahd" tvg-name="Discovery Asia" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/Discovery-Asia.png" group-title="Global 🇺🇸🇬🇧🇶🇦️",Discovery Asia
-http://cdn-cf.vthanhtivi.pw/fptplay/discovery-asia/bitrate_5000.m3u8
+https://ancom.ga/fpt/discovery-asia/bitrate_5000.m3u8
 #EXTINF:-1 tvg-id="afnhd" tvg-name="Asian Food Network" tvg-logo="https://i.imgur.com/B8zA2gc.png" group-title="Global 🇺🇸🇬🇧🇶🇦️",Asian Food Network
 http://livecdn.fptplay.net/hda1/afchd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:0 tvg-id="" tvg-logo="https://i.ibb.co/kB91Qgx/HGTV.png" group-title="Global 🇺🇸🇬🇧🇶🇦️", HGTV
 https://code.vthanhtivi.pw/getlink/tv360/99/2.m3u8
 #EXTINF:-1 tvg-id="bbcearth" tvg-name="BBC Earth" tvg-logo="https://i.ibb.co/bWMMncB/bbcearth-cc.png" group-title="Global 🇺🇸🇬🇧🇶🇦️",BBC Earth
-http://cdn-cf.vthanhtivi.pw/fptplay/bbc-earth/bitrate_5000.m3u8
+https://ancom.ga/fpt/bbc-earth/bitrate_5000.m3u8
 #EXTINF:-1 tvg-id="bbclifestyle" tvg-name="BBC Lifestyle" tvg-logo="https://i.imgur.com/bn7ha63.png" group-title="Global 🇺🇸🇬🇧🇶🇦️",BBC Lifestyle
-http://cdn-cf.vthanhtivi.pw/fptplay/bbc-lifestyle/bitrate_5000.m3u8
+https://ancom.ga/fpt/bbc-lifestyle/bitrate_5000.m3u8
 #EXTINF:-1 tvg-id="bbcworldnews" tvg-name="BBC News" tvg-logo="https://i.ibb.co/j5jJptz/bbcworldnews-cc.png" group-title="Global 🇺🇸🇬🇧🇶🇦️",BBC News
-http://cdn-cf.vthanhtivi.pw/fptplay/bbc-news/bitrate_5000.m3u8
-#EXTINF:-1 tvg-id="cna" tvg-name="Channel NewsAsia" tvg-logo="https://i.imgur.com/iX9c7AK.png" group-title="Global 🇺🇸🇬🇧🇶🇦️",Channel NewsAsia
-http://livecdn.fptplay.net/sdb/newsasia_hls.smil/chunklist_b2500000.m3u8
+https://ancom.ga/fpt/bbc-news/bitrate_5000.m3u8
 #EXTINF:-1 tvg-id="cnbc" tvg-name="CNBC" tvg-logo="https://i.imgur.com/EwLawKc.png" group-title="Global 🇺🇸🇬🇧🇶🇦️",CNBC
-http://cdn-cf.vthanhtivi.pw/fptplay/cnbc/bitrate_2500.m3u8
+https://ancom.ga/fpt/cnbc/bitrate_2500.m3u8
 #EXTINF:-1 group-title="網絡廣播 🇨🇳️",★★★★★網絡廣播 🇨🇳️★★★★★
 https://upload.wikimedia.org/wikipedia/commons/0/08/National_Flag_Anthem_of_the_Republic_of_China%E4%B8%AD%E8%8F%AF%E6%B0%91%E5%9C%8B%E5%9C%8B%E6%97%97%E6%AD%8C_%28%E6%BC%94%E5%A5%8F%E7%89%88%29.oga
 #EXTINF:-1 group-title="網絡廣播 🇨🇳️",China Plus Radio
