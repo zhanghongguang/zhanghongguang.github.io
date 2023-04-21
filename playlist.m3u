@@ -1085,7 +1085,7 @@ http://mfe.cliptv.az/dash/BBC_World_News_SD.ism/playlist.mpd?checkedby:iptvcat.c
 #EXTINF:-1 group-title="Global 🇺🇸🇬🇧🇶🇦️" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BBCWORLDNEWSASIA.png",BBCWorldNews
 http://185.236.229.31:9981/play/a072
 #EXTINF:-1 tvg-logo="https://i.imgur.com/j449MD4.png" group-title="Global 🇺🇸🇬🇧🇶🇦️",BBC News
-http://1292072398.rsc.cdn77.org/nBbuZ6Afbig5-u5-q-WDbg==,1678461874/1292072398/tracks-v1a1/mono.m3u8
+https://epg.pw/stream/66257d6873fca26b987ca41d21b80a0f2e6cbfc20b42b4421a2e7011ff6357c8.m3u8
 #EXTINF:-1 group-title="Global 🇺🇸🇬🇧🇶🇦️" tvg-logo="https://www.mncvision.id/userfiles/image/channel/aljazeera.png",Al Jazeera HD
 https://live-hls-web-aje.getaj.net/AJE/03.m3u8
 #EXTINF:-1 group-title="Global 🇺🇸🇬🇧🇶🇦️" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_330.png",Channel NewsAsia
