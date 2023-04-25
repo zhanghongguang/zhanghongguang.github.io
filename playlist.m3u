@@ -48,6 +48,8 @@ https://live1.fhtv.net.cn/shys/sd/live.m3u8
 http://pluslive.zhxww.net/channel1/sd/live.m3u8
 #EXTINF:-1 group-title="寧波 🇨🇳️" tvg-logo="https://zhanghongguang.github.io/Logo/bltv.png",北仑电视台
 http://play-sh.quklive.com/live/1626327731714170.m3u8
+#EXTINF:-1 group-title="寧波 🇨🇳️" tvg-logo="https://zhanghongguang.github.io/Logo/nbtv1.png",宁波新闻综合频道高清NBTV-1
+http://183.129.242.178:3333/tsfile/live/1010_1.m3u8
 #EXTINF:-1 group-title="浙江 🇨🇳️",★★★★★浙江 🇨🇳️★★★★★
 https://upload.wikimedia.org/wikipedia/commons/transcoded/b/be/National_anthem_of_the_Republic_of_China_%28Taiwan%29_%E4%B8%AD%E8%8F%AF%E6%B0%91%E5%9C%8B%E5%9C%8B%E6%AD%8C%28%E6%BC%94%E5%A5%8F%E7%89%88%29.ogg/National_anthem_of_the_Republic_of_China_%28Taiwan%29_%E4%B8%AD%E8%8F%AF%E6%B0%91%E5%9C%8B%E5%9C%8B%E6%AD%8C%28%E6%BC%94%E5%A5%8F%E7%89%88%29.ogg.mp3
 #EXTINF:-1 tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="浙江 🇨🇳️",浙江卫视
@@ -737,43 +739,43 @@ https://pull-l3-cny.douyincdn.com/live/0bda6e264bbd69af50b1878435769f5f.flv
 #EXTINF:-1 group-title="臺灣 🇹🇼️",★★★★★臺灣 🇹🇼️★★★★★
 https://upload.wikimedia.org/wikipedia/commons/transcoded/b/be/National_anthem_of_the_Republic_of_China_%28Taiwan%29_%E4%B8%AD%E8%8F%AF%E6%B0%91%E5%9C%8B%E5%9C%8B%E6%AD%8C%28%E6%BC%94%E5%A5%8F%E7%89%88%29.ogg/National_anthem_of_the_Republic_of_China_%28Taiwan%29_%E4%B8%AD%E8%8F%AF%E6%B0%91%E5%9C%8B%E5%9C%8B%E6%AD%8C%28%E6%BC%94%E5%A5%8F%E7%89%88%29.ogg.mp3
 #EXTINF:-1 tvg-id="6069" tvg-name="東森新聞" tvg-logo="http://or00.stream-link.org/tv_logo/ebc-news.png" group-title="臺灣 🇹🇼️",東森新聞
-http://2023.stream-link.org/live/1793825065
+http://2023.stream-link.org/live/256467434
 #EXTINF:-1 tvg-id="6075" tvg-name="東森財經新聞" tvg-logo="http://or00.stream-link.org/tv_logo/ebc-finance.png" group-title="臺灣 🇹🇼️",東森財經新聞
-http://2023.stream-link.org/live/249006034
+http://2023.stream-link.org/live/1562729921
 #EXTINF:-1 tvg-id="9999" tvg-name="tvgName" tvg-logo="http://or00.stream-link.org/tv_logo/cts-news.png" group-title="臺灣 🇹🇼️",華視新聞
-http://2023.stream-link.org/live/215730961
+http://2023.stream-link.org/live/924948281
 #EXTINF:-1 tvg-id="9999" tvg-name="tvgName" tvg-logo="http://or00.stream-link.org/tv_logo/cti-news.png" group-title="臺灣 🇹🇼️",中天新聞
-http://2023.stream-link.org/live/1552993665
+http://2023.stream-link.org/live/2072341054
 #EXTINF:-1 tvg-id="7176" tvg-name="中視新聞" tvg-logo="http://or00.stream-link.org/tv_logo/ctv-news.png" group-title="臺灣 🇹🇼️",中視新聞
 http://2023.stream-link.org/live/926790469
 #EXTINF:-1 tvg-id="6071" tvg-name="民視新聞" tvg-logo="http://or00.stream-link.org/tv_logo/ftv-news.png" group-title="臺灣 🇹🇼️",民視新聞
-http://2023.stream-link.org/live/1637144344
+http://2023.stream-link.org/live/1536981751
 #EXTINF:-1 tvg-id="6171" tvg-name="寰宇國際新聞" tvg-logo="http://or00.stream-link.org/tv_logo/global-news.png" group-title="臺灣 🇹🇼️",寰宇國際新聞
-http://2023.stream-link.org/live/1212532853
+http://2023.stream-link.org/live/187458082
 #EXTINF:-1 tvg-id="6171" tvg-name="寰宇臺灣 🇹🇼️" tvg-logo="http://or00.stream-link.org/tv_logo/global-news.png" group-title="臺灣 🇹🇼️",寰宇臺灣新聞
-http://2023.stream-link.org/live/1932250847
+http://2023.stream-link.org/live/1666533776
 #EXTINF:-1 tvg-id="6108" tvg-name="三立財經新聞" tvg-logo="http://or00.stream-link.org/tv_logo/set-finance.png" group-title="臺灣 🇹🇼️",三立財經新聞
-http://2023.stream-link.org/live/172551145
+http://2023.stream-link.org/live/2044630364
 #EXTINF:-1 tvg-id="6072" tvg-name="三立新聞" tvg-logo="http://or00.stream-link.org/tv_logo/set-news.png" group-title="臺灣 🇹🇼️",三立新聞
-http://2023.stream-link.org/live/1803236734
+http://2023.stream-link.org/live/779328641
 #EXTINF:-1 tvg-id="6072" tvg-name="三立新聞+" tvg-logo="http://or00.stream-link.org/tv_logo/set-news+.png" group-title="臺灣 🇹🇼️",三立新聞+
-http://2023.stream-link.org/live/1998094138
+http://2023.stream-link.org/live/2068259502
 #EXTINF:-1 tvg-id="6143" tvg-name="台視新聞" tvg-logo="http://or00.stream-link.org/tv_logo/ttv-news.png" group-title="臺灣 🇹🇼️",台視新聞
-http://2023.stream-link.org/live/966381653
+http://2023.stream-link.org/live/1660463420
 #EXTINF:-1 tvg-id="6073" tvg-name="TVBS新聞" tvg-logo="http://or00.stream-link.org/tv_logo/tvbs-news.png" group-title="臺灣 🇹🇼️",TVBS新聞
-http://2023.stream-link.org/live/401131254
+http://2023.stream-link.org/live/2051588601
 #EXTINF:-1 tvg-id="6074" tvg-name="TVBS財經" tvg-logo="http://or00.stream-link.org/tv_logo/tvbs.png" group-title="臺灣 🇹🇼️",TVBS財經
-http://2023.stream-link.org/live/1711676066
+http://2023.stream-link.org/live/1767909787
 #EXTINF:-1 tvg-id="6054" tvg-name="中天綜合台" tvg-logo="http://or00.stream-link.org/tv_logo/cti-zh.png" group-title="臺灣 🇹🇼️",中天綜合台
-http://2023.stream-link.org/live/35397979
+http://2023.stream-link.org/live/661595652
 #EXTINF:-1 tvg-id="9999" tvg-name="tvgName" tvg-logo="http://or00.stream-link.org/tv_logo/cti-asia.png" group-title="臺灣 🇹🇼️",中天亞洲台
-http://2023.stream-link.org/live/1096161090
+http://2023.stream-link.org/live/1133505187
 #EXTINF:-1 tvg-id="6026" tvg-name="台視" tvg-logo="http://or00.stream-link.org/tv_logo/ttv.png" group-title="臺灣 🇹🇼️",台視
-http://2023.stream-link.org/live/280878870
+http://2023.stream-link.org/live/1558743392
 #EXTINF:-1 tvg-id="9999" tvg-name="tvgName" tvg-logo="http://or00.stream-link.org/tv_logo/cts-zy.png" group-title="臺灣 🇹🇼️",天才衝衝衝
-http://2023.stream-link.org/live/1311166619
+http://2023.stream-link.org/live/623892102
 #EXTINF:-1 tvg-id="6069" tvg-name="東森yoyo" tvg-logo="http://or00.stream-link.org/tv_logo/ebc-yoyo.png" group-title="臺灣 🇹🇼️",東森yoyo
-http://2023.stream-link.org/live/367293080
+http://2023.stream-link.org/live/638555913
 #EXTINF:-1 tvg-id="6071" tvg-name="民视新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FTVNews.png" group-title="臺灣 🇹🇼️",民视新闻
 http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
 #EXTINF:-1 tvg-name="民视新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FTVNews.png" group-title="臺灣 🇹🇼️",民视新闻台
