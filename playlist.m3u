@@ -479,7 +479,7 @@ http://39.135.55.72:6610/PLTV/88888888/224/3221227066/index.m3u8?servicetype=1
 #EXTINF:-1 group-title="福建 🇨🇳️",南平2 8M1080
 http://39.135.55.72:6610/PLTV/88888888/224/3221226956/index.m3u8?servicetype=1
 #EXTINF:-1 group-title="福建 🇨🇳️",福建旅游
-http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227190/index.m3u8?servicetype=1
+http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227190/index.m3u8
 #EXTINF:-1 group-title="福建 🇨🇳️",福建旅游
 http://[2409:8087:3428:20:500::1009]:6610/PLTV/88888888/224/3221227190/index.m3u8?servicetype=1
 #EXTINF:-1 group-title="福建 🇨🇳️" tvg-logo="https://epg.pm/media/images/channel/2022/05/30/large/20220530233623778528_85.jpg",福建综合
@@ -665,7 +665,7 @@ http://2023.stream-link.org/live/2068259502
 #EXTINF:-1 tvg-id="6143" tvg-name="台視新聞" tvg-logo="http://or00.stream-link.org/tv_logo/ttv-news.png" group-title="臺灣 🇹🇼️",台視新聞
 http://2023.stream-link.org/live/1660463420
 #EXTINF:-1 tvg-id="6073" tvg-name="TVBS新聞" tvg-logo="http://or00.stream-link.org/tv_logo/tvbs-news.png" group-title="臺灣 🇹🇼️",TVBS新聞
-http://2023.stream-link.org/live/2051588601
+https://pull-l3-cny.douyincdn.com/live/YesLiveTV-117d23f8-829e-4a89-b043-bf8834993617.m3u8?by=yeslivetv_com
 #EXTINF:-1 tvg-id="6074" tvg-name="TVBS財經" tvg-logo="http://or00.stream-link.org/tv_logo/tvbs.png" group-title="臺灣 🇹🇼️",TVBS財經
 http://2023.stream-link.org/live/1767909787
 #EXTINF:-1 tvg-id="6054" tvg-name="中天綜合台" tvg-logo="http://or00.stream-link.org/tv_logo/cti-zh.png" group-title="臺灣 🇹🇼️",中天綜合台
@@ -981,7 +981,7 @@ https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="CNN" tvg-name="CNN" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CNNNews.png" group-title="Global 🇺🇸🇬🇧🇶🇦️",CNN
 https://tve-live-lln.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 group-title="Global 🇺🇸🇬🇧🇶🇦️" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CNNNews.png",CNN
-http://meumd.com:80/rootiptv/5176iXo7/126062
+https://cnn-cnninternational-1-eu.rakuten.wurl.tv/206849c7acd1570962df1ad525fa8688.m3u8?blog.ntnas.top
 #EXTINF:-1 group-title="Global 🇺🇸🇬🇧🇶🇦️" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BBCWORLDNEWSASIA.png",BBCWorldNews
 http://ott-cdn.ucom.am/s24/index.m3u8
 #EXTINF:-1 group-title="Global 🇺🇸🇬🇧🇶🇦️" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BBCWORLDNEWSASIA.png",BBCWorldNews
@@ -1099,6 +1099,8 @@ https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/m
 #EXTINF:-1 group-title="Global 🇺🇸🇬🇧🇶🇦️",Best Movies HD (USA)
 https://bcovlive-a.akamaihd.net/b3ed62003de946c896f4f541b908376e/us-east-1/6240731308001/playlist.m3u8
 #EXTINF:-1 group-title="Global 🇺🇸🇬🇧🇶🇦️",Известия (720p) （俄罗斯）
+#EXTINF:-1 group-title="Global 🇺🇸🇬🇧🇶🇦️",俄罗斯中文
+http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
 https://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
 #EXTINF:-1 group-title="Global 🇺🇸🇬🇧🇶🇦️",Yahoo Finance
 https://yahoofinance-localnow.amagi.tv/playlist.m3u8
