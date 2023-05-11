@@ -117,7 +117,7 @@ http://39.134.115.163:8080/PLTV/88888910/224/3221225618/index.m3u8
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="央視 🇨🇳",CCTV-2财经
 http://39.134.115.163:8080/PLTV/88888910/224/3221225619/index.m3u8
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="央視 🇨🇳",CCTV-2财经
-http://218.204.51.252:9901/tsfile/live/1007_1.m3u8
+http://125.210.152.19:9120/live/hzgq-cctv2gq-h264.m3u8
 #EXTINF:-1 tvg-name="CCT31" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="央視 🇨🇳",CCTV-3综艺
 http://39.134.115.163:8080/PLTV/88888910/224/3221225647/index.m3u8
 #EXTINF:-1 tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="央視 🇨🇳",CCTV-4中文国际
@@ -163,7 +163,7 @@ https://livedoc.cgtn.com/1000d/prog_index.m3u8
 #EXTINF:-1 group-title="央視 🇨🇳" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVshijiedili.png",世界地理
 http://jydx.jdshipin.com:8081/hls/124/index.m3u8
 #EXTINF:-1 group-title="央視 🇨🇳"  tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVfengyunyinyue.png",风云音乐
-http://bytedance.live.cqccn.com/__cl/cg:live/__c/fyyyHD/__op/default/__f//index.m3u8
+https://live.goodiptv.club/api/cqyx.php?id=fyyyHD
 #EXTINF:-1 tvg-logo=CCTV1.png group-title="央視 🇨🇳",CCTV1
 http://39.135.138.59:18890/PLTV/88888910/224/3221225642/index.m3u8
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="央視 🇨🇳",CCTV-2财经
@@ -246,10 +246,10 @@ http://www.fuxiaopang.work:8866/udp/239.253.92.117:8062
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002515/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 group-title="央視 🇨🇳" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTBfengyun.png",风云剧场
 http://www.fuxiaopang.work:8866/udp/239.253.92.22:6073
-#EXTINF:-1 group-title="央視 🇨🇳" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVwenhuajingpin.png",文化精品
-,http://jydx.jdshipin.com:8081/hls/116/index.m3u8
-#EXTINF:-1 group-title="央視 🇨🇳" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/HUANQIUQIGUAN.jpg",环球奇观
-http://jydx.jdshipin.com:8081/hls/119/index.m3u8
+#EXTINF:-1 tvg-id="发现之旅" tvg-name="发现之旅" tvg-logo="https://epg.112114.xyz/logo/发现之旅.png" group-title="央視 🇨🇳",发现之旅
+https://live.goodiptv.club/api/cqyx.php?id=faxian
+#EXTINF:-1 tvg-id="环球旅游" tvg-name="环球旅游" tvg-logo="https://epg.112114.xyz/logo/环球旅游.png" group-title="央視 🇨🇳",环球旅游
+https://live.goodiptv.club/api/cqyx.php?id=huanqiulvyou
 #EXTINF:-1 group-title="央視 🇨🇳" tvg-logo="",电视指南
 http://www.fuxiaopang.work:8866/udp/239.253.92.17:6078
 #EXTINF:-1 group-title="央視 🇨🇳"  tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVfengyunyinyue.png",风云音乐
@@ -297,7 +297,7 @@ http://183.207.255.188/live/program/live/shsshd/4000000/mnf.m3u8
 #EXTINF:-1 tvg-id="上海第一财经" tvg-name="上海第一财经" tvg-logo="https://epg.112114.xyz/logo/上海第一财经.png" group-title="上海 🇨🇳️",上海第一财经[百视通]
 https://live.v1.mk/api/bestv.php?id=dycjhd8m/8000000
 #EXTINF:-1 group-title="上海 🇨🇳️" tvg-logo="https://epg.112114.xyz/logo/东方财经.png",东方财经
-https://live.v1.mk/api/bestv.php?id=dfcjhd8m/8000000
+https://live.goodiptv.club/api/cqyx.php?id=dfcj
 #EXTINF:-1 group-title="上海 🇨🇳️" tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/新视觉",新视觉
 https://live.v1.mk/api/bestv.php?id=xsjhd8m/8000000
 #EXTINF:-1 group-title="上海 🇨🇳️" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaiwaiyu.png",上视外语频道
@@ -309,7 +309,7 @@ http://61.164.158.155/liveplay-kk.rtxapp.com/live/program/live/wxtyhd8m/8000000/
 #EXTINF:-1 group-title="上海 🇨🇳️" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/diyicaijing.png",上海第一财经
 http://61.164.158.155/liveplay-kk.rtxapp.com/live/program/live/dycjhd/4000000/mnf.m3u8
 #EXTINF:-1 group-title="上海 🇨🇳️" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanghaijishi.png",上海纪实
-https://live.v1.mk/api/bestv.php?id=jspdhd/4000000
+http://39.134.115.163:8080/PLTV/88888910/224/3221225655/index.m3u8
 #EXTINF:-1 group-title="上海 🇨🇳️" tvg-logo="https://epg.112114.xyz/logo/乐游.png",乐游
 http://183.207.255.188/live/program/live/qjshd/4000000/mnf.m3u8
 #EXTINF:-1 group-title="上海 🇨🇳️" tvg-logo="https://epg.112114.xyz/logo/乐游.png",乐游
@@ -328,6 +328,8 @@ http://lu1.cc/itv/php/baitv.php?id=qcxj
 https://live.v1.mk/api/bestv.php?id=qcxjhd8m/8000000
 #EXTINF:-1 group-title="地方臺 🇨🇳️",★★★★★地方臺 🇨🇳️★★★★★
 https://upload.wikimedia.org/wikipedia/commons/0/08/National_Flag_Anthem_of_the_Republic_of_China%E4%B8%AD%E8%8F%AF%E6%B0%91%E5%9C%8B%E5%9C%8B%E6%97%97%E6%AD%8C_%28%E6%BC%94%E5%A5%8F%E7%89%88%29.oga
+#EXTINF:-1 tvg-id="摄影" tvg-name="摄影" tvg-logo="https://epg.112114.xyz/logo/摄影.png" group-title="地方臺 🇨🇳️",摄影频道
+https://live.goodiptv.club/api/cqyx.php?id=sheying
 #EXTINF:-1 group-title="地方臺 🇨🇳️" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/WHTV1.png",武汉新闻综合频道
 http://live.appwuhan.com/1tzb/sd/live.m3u8
 #EXTINF:-1 group-title="地方臺 🇨🇳️" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/WHTV6.png",武汉外语频道
@@ -651,7 +653,7 @@ http://2023.stream-link.org/live/2072341054
 #EXTINF:-1 tvg-id="7176" tvg-name="中視新聞" tvg-logo="http://or00.stream-link.org/tv_logo/ctv-news.png" group-title="臺灣 🇹🇼️",中視新聞
 http://2023.stream-link.org/live/926790469
 #EXTINF:-1 tvg-id="6071" tvg-name="民視新聞" tvg-logo="http://or00.stream-link.org/tv_logo/ftv-news.png" group-title="臺灣 🇹🇼️",民視新聞
-http://2023.stream-link.org/live/1536981751
+http://123.51.230.108:18663/.m3u8
 #EXTINF:-1 tvg-id="6171" tvg-name="寰宇國際新聞" tvg-logo="http://or00.stream-link.org/tv_logo/global-news.png" group-title="臺灣 🇹🇼️",寰宇國際新聞
 http://2023.stream-link.org/live/187458082
 #EXTINF:-1 tvg-id="6171" tvg-name="寰宇臺灣 🇹🇼️" tvg-logo="http://or00.stream-link.org/tv_logo/global-news.png" group-title="臺灣 🇹🇼️",寰宇臺灣新聞
