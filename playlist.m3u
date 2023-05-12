@@ -726,7 +726,7 @@ http://210.209.3.1/live/E6290DC0-BE6A-B7C4-79F5-114BDB417F9E.m3u8?fmt=x264_500K_
 http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch2-1.m3u8
 #EXTINF:-1 tvg-id="6047" tvg-name="三立臺灣台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETTaiwan.png" group-title="臺灣 🇹🇼️",三立臺灣台
 https://sanlihalive1-a.akamaihd.net/5ffd3a166f7241d9b489b7d7241db96f/ap-northeast-1/4338955585001/profile_0/chunklist.m3u8?hdnea=st=1664678506~exp=9007200919419497~acl=/5ffd3a166f7241d9b489b7d7241db96f/*/profile_0/chunklist.m3u8*~hmac=cfd432e7da8eece68fe4a4da3a3bc08ab1bbc50b147a84c95ae3d4a569e932b1
-#EXTINF:-1,tvg-id="三立都会台" tvg-name="三立都会台" tvg-logo="https://epg.112114.xyz/logo/三立都会台.png" group-title="臺灣 🇹🇼️",三立都会台
+#EXTINF:-1 tvg-id="三立都会台" tvg-name="三立都会台" tvg-logo="https://epg.112114.xyz/logo/三立都会台.png" group-title="臺灣 🇹🇼️",三立都会台
 https://sanlihalive1-a.akamaihd.net/4c3bb0ccad574d0e9b507c2dcd2dfabc/ap-northeast-1/4338955585001/profile_0/chunklist.m3u8?hdnea=st=1664678487~exp=9007200919419478~acl=/4c3bb0ccad574d0e9b507c2dcd2dfabc/*/profile_0/chunklist.m3u8*~hmac=1a3986bd8fb660eacbcc9954c67fb674fa810779ddc2fab5fa77188868ca3686
 #EXTINF:-1 group-title="臺灣 🇹🇼️",东森新闻美国
 http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
