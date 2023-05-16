@@ -153,7 +153,7 @@ http://39.134.115.163:8080/PLTV/88888910/224/3221225908/index.m3u8
 #EXTINF:-1 tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" tvg-speed="13MB/s" tvg-rez="3840x2160" group-title="央視 🇨🇳",CCTV4K
 http://159.75.85.63:5679/cctv4k.php
 #EXTINF:-1 tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" tvg-speed="13MB/s" tvg-rez="3840x2160" group-title="央視 🇨🇳",CCTV4K
-http://113.207.84.197:8090/__cl/cg:live/__c/CCTV4K/__op/default/__f/index.m3u8
+http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000266303.m3u8
 #EXTINF:-1 tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" tvg-speed="36MB/s" tvg-rez="3840x2160" group-title="央視 🇨🇳",CCTV奥林匹克频道
 http://39.135.41.243/PLTV/88888888/224/3221226716/index.m3u8?hls
 #EXTINF:-1 tvg-name="CCGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央視 🇨🇳",CGTN
@@ -237,7 +237,7 @@ http://jydx.jdshipin.com:808/hls/17/index.m3u8
 #EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央視 🇨🇳",CGTN
 https://live.cgtn.com/1000/prog_index.m3u8
 #EXTINF:-1 group-title="央視 🇨🇳" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVshijiedili.png",世界地理
-http://218.17.216.102:9901/tsfile/live/1068_1.m3u8
+http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2012513302.m3u8
 #EXTINF:-1 group-title="央視 🇨🇳" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVshijiedili.png",世界地理
 http://111.20.40.170/PLTV/88888893/224/3221226947/index.m3u8
 #EXTINF:-1 group-title="央視 🇨🇳" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE13.jpg",高尔夫网球
@@ -253,7 +253,7 @@ https://live.goodiptv.club/api/cqyx.php?id=huanqiulvyou
 #EXTINF:-1 group-title="央視 🇨🇳" tvg-logo="",电视指南
 http://www.fuxiaopang.work:8866/udp/239.253.92.17:6078
 #EXTINF:-1 group-title="央視 🇨🇳"  tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVfengyunyinyue.png",风云音乐
-http://60.213.134.68/tlivecloud-ipv6.ysp.cctv.cn/ysp/2012514103.m3u8
+http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2012514102.m3u8
 #EXTINF:-1 tvg-id="6557" tvg-name="风云音乐" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVfengyunyinyue.png" group-title="央視 🇨🇳",风云音乐
 http://jydx.jdshipin.com:808/hls/117/index.m3u8
 #EXTINF:-1 group-title="央視 🇨🇳" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE7.jpg",怀旧剧场
@@ -481,7 +481,7 @@ http://39.135.55.72:6610/PLTV/88888888/224/3221227066/index.m3u8?servicetype=1
 #EXTINF:-1 group-title="福建 🇨🇳️",南平2 8M1080
 http://39.135.55.72:6610/PLTV/88888888/224/3221226956/index.m3u8?servicetype=1
 #EXTINF:-1 group-title="福建 🇨🇳️",福建旅游
-http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227190/index.m3u8
+http://[2409:8087:3408:20:5040::106]:18890/PLTV/88888888/224/3221227190/index.m3u8
 #EXTINF:-1 group-title="福建 🇨🇳️",福建旅游
 http://[2409:8087:3428:20:500::1009]:6610/PLTV/88888888/224/3221227190/index.m3u8?servicetype=1
 #EXTINF:-1 group-title="福建 🇨🇳️" tvg-logo="https://epg.pm/media/images/channel/2022/05/30/large/20220530233623778528_85.jpg",福建综合
@@ -643,19 +643,19 @@ https://pull-l3-cny.douyincdn.com/live/stream-1452172023043011035.m3u8
 #EXTINF:-1 group-title="臺灣 🇹🇼️",★★★★★臺灣 🇹🇼️★★★★★
 https://upload.wikimedia.org/wikipedia/commons/transcoded/b/be/National_anthem_of_the_Republic_of_China_%28Taiwan%29_%E4%B8%AD%E8%8F%AF%E6%B0%91%E5%9C%8B%E5%9C%8B%E6%AD%8C%28%E6%BC%94%E5%A5%8F%E7%89%88%29.ogg/National_anthem_of_the_Republic_of_China_%28Taiwan%29_%E4%B8%AD%E8%8F%AF%E6%B0%91%E5%9C%8B%E5%9C%8B%E6%AD%8C%28%E6%BC%94%E5%A5%8F%E7%89%88%29.ogg.mp3
 #EXTINF:-1 tvg-id="6069" tvg-name="東森新聞" tvg-logo="http://or00.stream-link.org/tv_logo/ebc-news.png" group-title="臺灣 🇹🇼️",東森新聞
-http://2023.stream-link.org/live/256467434
+https://dispatch.ulivetv.net/v/live/cfxwieh71kg0.m3u8?stream_id=cfxwieh71kg0&timestamp=1684220947&rand=352ZCg984e&uuid=9b647b3816b2a66a&from=web&sign=bfa4cb027c34af0e320f764ac2c17270
 #EXTINF:-1 tvg-id="6075" tvg-name="東森財經新聞" tvg-logo="http://or00.stream-link.org/tv_logo/ebc-finance.png" group-title="臺灣 🇹🇼️",東森財經新聞
-http://2023.stream-link.org/live/1562729921
+http://123.51.230.108:18515/.m3u8
 #EXTINF:-1 tvg-id="9999" tvg-name="tvgName" tvg-logo="http://or00.stream-link.org/tv_logo/cts-news.png" group-title="臺灣 🇹🇼️",華視新聞
 http://2023.stream-link.org/live/924948281
 #EXTINF:-1 tvg-id="9999" tvg-name="tvgName" tvg-logo="http://or00.stream-link.org/tv_logo/cti-news.png" group-title="臺灣 🇹🇼️",中天新聞
-http://2023.stream-link.org/live/2072341054
+https://dispatch.ulivetv.net/v/live/cg1049vjg14w.m3u8?stream_id=cg1049vjg14w&timestamp=1684220061&rand=ozOJcRxKhv&uuid=9b647b3816b2a66a&from=web&sign=ab2084bfcea63e832e11823ef85fb417
 #EXTINF:-1 tvg-id="7176" tvg-name="中視新聞" tvg-logo="http://or00.stream-link.org/tv_logo/ctv-news.png" group-title="臺灣 🇹🇼️",中視新聞
 http://2023.stream-link.org/live/926790469
 #EXTINF:-1 tvg-id="6071" tvg-name="民視新聞" tvg-logo="http://or00.stream-link.org/tv_logo/ftv-news.png" group-title="臺灣 🇹🇼️",民視新聞
 http://123.51.230.108:18663/.m3u8
 #EXTINF:-1 tvg-id="6171" tvg-name="寰宇國際新聞" tvg-logo="http://or00.stream-link.org/tv_logo/global-news.png" group-title="臺灣 🇹🇼️",寰宇國際新聞
-http://2023.stream-link.org/live/187458082
+https://dispatch.ulivetv.net/v/live/cfxws90rpmf4.m3u8?stream_id=cfxws90rpmf4&timestamp=1684219862&rand=UsllXcwxbp&uuid=9b647b3816b2a66a&from=web&sign=659a3a6564d4ca206d2c6be20c5ea906
 #EXTINF:-1 tvg-id="6171" tvg-name="寰宇臺灣 🇹🇼️" tvg-logo="http://or00.stream-link.org/tv_logo/global-news.png" group-title="臺灣 🇹🇼️",寰宇臺灣新聞
 http://2023.stream-link.org/live/1666533776
 #EXTINF:-1 tvg-id="6108" tvg-name="三立財經新聞" tvg-logo="http://or00.stream-link.org/tv_logo/set-finance.png" group-title="臺灣 🇹🇼️",三立財經新聞
@@ -667,7 +667,7 @@ http://2023.stream-link.org/live/2068259502
 #EXTINF:-1 tvg-id="6143" tvg-name="台視新聞" tvg-logo="http://or00.stream-link.org/tv_logo/ttv-news.png" group-title="臺灣 🇹🇼️",台視新聞
 http://2023.stream-link.org/live/1660463420
 #EXTINF:-1 tvg-id="6073" tvg-name="TVBS新聞" tvg-logo="http://or00.stream-link.org/tv_logo/tvbs-news.png" group-title="臺灣 🇹🇼️",TVBS新聞
-https://pull-l3-cny.douyincdn.com/live/YesLiveTV-117d23f8-829e-4a89-b043-bf8834993617.m3u8?by=yeslivetv_com
+https://dispatch.ulivetv.net/v/live/cfxyummruo5c.m3u8?stream_id=cfxyummruo5c&timestamp=1684220007&rand=01XVtfQV30&uuid=9b647b3816b2a66a&from=web&sign=07ce20e47593bcc2f19630a482a34b5b
 #EXTINF:-1 tvg-id="6074" tvg-name="TVBS財經" tvg-logo="http://or00.stream-link.org/tv_logo/tvbs.png" group-title="臺灣 🇹🇼️",TVBS財經
 http://2023.stream-link.org/live/1767909787
 #EXTINF:-1 tvg-id="6054" tvg-name="中天綜合台" tvg-logo="http://or00.stream-link.org/tv_logo/cti-zh.png" group-title="臺灣 🇹🇼️",中天綜合台
@@ -997,7 +997,7 @@ https://epg.pw/stream/66257d6873fca26b987ca41d21b80a0f2e6cbfc20b42b4421a2e7011ff
 #EXTINF:-1 group-title="Global 🇺🇸🇬🇧🇶🇦️" tvg-logo="https://www.mncvision.id/userfiles/image/channel/aljazeera.png",Al Jazeera HD
 https://live-hls-web-aje.getaj.net/AJE/03.m3u8
 #EXTINF:-1 group-title="Global 🇺🇸🇬🇧🇶🇦️" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_330.png",Channel NewsAsia
-https://mediacorp-videosbclive.akamaized.net/dd724cfb0e8e4cdc921bbc4ac94614bf/ap-southeast-1/6057994443001/profile_0/chunklist.m3u8
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 #EXTINF:-1 group-title="Global 🇺🇸🇬🇧🇶🇦️" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_330.png",Channel NewsAsia
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1 group-title="Global 🇺🇸🇬🇧🇶🇦️" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_357.png",DW English
