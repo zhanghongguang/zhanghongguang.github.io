@@ -645,7 +645,7 @@ https://upload.wikimedia.org/wikipedia/commons/transcoded/b/be/National_anthem_o
 #EXTINF:-1 tvg-id="6069" tvg-name="東森新聞" tvg-logo="http://or00.stream-link.org/tv_logo/ebc-news.png" group-title="臺灣 🇹🇼️",東森新聞
 https://dispatch.ulivetv.net/v/live/cfxwieh71kg0.m3u8?stream_id=cfxwieh71kg0&timestamp=1684220947&rand=352ZCg984e&uuid=9b647b3816b2a66a&from=web&sign=bfa4cb027c34af0e320f764ac2c17270
 #EXTINF:-1 tvg-id="6075" tvg-name="東森財經新聞" tvg-logo="http://or00.stream-link.org/tv_logo/ebc-finance.png" group-title="臺灣 🇹🇼️",東森財經新聞
-http://123.51.230.108:18515/.m3u8
+rtmp://219.80.97.77/sat/tv571
 #EXTINF:-1 tvg-id="9999" tvg-name="tvgName" tvg-logo="http://or00.stream-link.org/tv_logo/cts-news.png" group-title="臺灣 🇹🇼️",華視新聞
 http://2023.stream-link.org/live/924948281
 #EXTINF:-1 tvg-id="9999" tvg-name="tvgName" tvg-logo="http://or00.stream-link.org/tv_logo/cti-news.png" group-title="臺灣 🇹🇼️",中天新聞
@@ -667,7 +667,7 @@ http://2023.stream-link.org/live/2068259502
 #EXTINF:-1 tvg-id="6143" tvg-name="台視新聞" tvg-logo="http://or00.stream-link.org/tv_logo/ttv-news.png" group-title="臺灣 🇹🇼️",台視新聞
 http://2023.stream-link.org/live/1660463420
 #EXTINF:-1 tvg-id="6073" tvg-name="TVBS新聞" tvg-logo="http://or00.stream-link.org/tv_logo/tvbs-news.png" group-title="臺灣 🇹🇼️",TVBS新聞
-https://dispatch.ulivetv.net/v/live/cfxyummruo5c.m3u8?stream_id=cfxyummruo5c&timestamp=1684220007&rand=01XVtfQV30&uuid=9b647b3816b2a66a&from=web&sign=07ce20e47593bcc2f19630a482a34b5b
+rtmp://119.81.124.89/sat/tv551
 #EXTINF:-1 tvg-id="6074" tvg-name="TVBS財經" tvg-logo="http://or00.stream-link.org/tv_logo/tvbs.png" group-title="臺灣 🇹🇼️",TVBS財經
 http://2023.stream-link.org/live/1767909787
 #EXTINF:-1 tvg-id="6054" tvg-name="中天綜合台" tvg-logo="http://or00.stream-link.org/tv_logo/cti-zh.png" group-title="臺灣 🇹🇼️",中天綜合台
@@ -746,7 +746,7 @@ http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
 http://23.237.10.66:16344
 #EXTINF:-1 group-title="臺灣 🇹🇼️" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBO.png",HBO
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
-#EXTINF:-1 group-title="臺灣 🇹🇼️" tvg-name="民视无线台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FTV.png",民视频道
+#EXTINF:-1 group-title="臺灣 🇹🇼️" tvg-name="民视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FTV.png",民视频道
 rtmp://119.81.124.89/sat/tv051
 #EXTINF:-1 group-title="臺灣 🇹🇼️" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E4%B8%AD%E8%A7%86%E6%96%B0%E9%97%BB.png",中视新闻
 http://www.336699.live:1935/blockfour/4gtv-4gtv074.stream/playlist.m3u8
