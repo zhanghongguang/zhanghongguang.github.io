@@ -676,8 +676,8 @@ http://2023.stream-link.org/live/1767909787
 http://2023.stream-link.org/live/661595652
 #EXTINF:-1 tvg-id="9999" tvg-name="tvgName" tvg-logo="http://or00.stream-link.org/tv_logo/cti-asia.png" group-title="臺灣 🇹🇼️",中天亞洲台
 http://2023.stream-link.org/live/1133505187
-#EXTINF:-1 tvg-id="6026" tvg-name="台視" tvg-logo="http://or00.stream-link.org/tv_logo/ttv.png" group-title="臺灣 🇹🇼️",台視
-http://2023.stream-link.org/live/1558743392
+#EXTINF:-1 group-title="臺灣 🇹🇼️" tvg-logo="https://epg.112114.xyz/logo/台视新闻.png" ,台视新闻
+https://dispatch.ulivetv.net/v/live/cfxww2r4nnwg.m3u8?stream_id=cfxww2r4nnwg&timestamp=1684387599&rand=ppf2G1Add7&uuid=9b647b3816b2a66a&from=web&sign=9938a91fced907abe987ccf609ed9b64
 #EXTINF:-1 tvg-id="9999" tvg-name="tvgName" tvg-logo="http://or00.stream-link.org/tv_logo/cts-zy.png" group-title="臺灣 🇹🇼️",天才衝衝衝
 http://2023.stream-link.org/live/623892102
 #EXTINF:-1 tvg-id="6069" tvg-name="東森yoyo" tvg-logo="http://or00.stream-link.org/tv_logo/ebc-yoyo.png" group-title="臺灣 🇹🇼️",東森yoyo
@@ -1019,11 +1019,13 @@ http://obsfullhd.tv:25461/@localhdtv/WJudqvpAbuP8/9771
 #EXTINF:-1 group-title="Global 🇺🇸🇬🇧🇶🇦️" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/travelchannel.png",TravelChannel
 http://obsfullhd.tv:25461/@localhdtv/WJudqvpAbuP8/9761
 #EXTINF:-1 tvg-name="国家地理野生频道" group-title="Global 🇺🇸🇬🇧🇶🇦️" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/natgeowild.png",Nat Geo Wild
-http://obsfullhd.tv:25461/@localhdtv/WJudqvpAbuP8/1379
+https://dispatch.ulivetv.net/v/live/cg1kmp2fnw00.m3u8?stream_id=cg1kmp2fnw00&timestamp=1684397287&rand=QBAHO9WEeS&uuid=9b647b3816b2a66a&from=web&sign=3daa80e8ec421a08bed7a242addd84e1
 #EXTINF:-1 group-title="Global 🇺🇸🇬🇧🇶🇦️" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DiscoveryHD.png",Discovery
 http://obsfullhd.tv:25461/@localhdtv/WJudqvpAbuP8/42058
-#EXTINF:-1 tvg-name="动物星球" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/AnimalPlanet.png" group-title="Global 🇺🇸🇬🇧🇶🇦️", Animal Planet
- http://obsfullhd.tv:25461/@localhdtv/WJudqvpAbuP8/1377
+#EXTINF:-1 tvg-name="动物星球" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/Animal
+Planet.png" group-title="Global 🇺🇸🇬🇧🇶🇦️", Animal Planet
+https://dispatch.ulivetv.net/v/live/cg1l4589x9s0.m3u8?stream_id=cg1l4589x9s0&timestamp=1684397589&rand=m7LkPiG23u&uuid=9b647b3816b2a66a&from=web&sign=e94fd952784e4b4994e29dd472a660f3
+
 #EXTINF:-1 group-title="Global 🇺🇸🇬🇧🇶🇦️",Nat Geo People
 http://obsfullhd.tv:25461/@localhdtv/WJudqvpAbuP8/6914
 #EXTINF:-1 group-title="Global 🇺🇸🇬🇧🇶🇦️" tvg-logo="https://www.mncvision.id/userfiles/image/channel/bbc_earth150x150.jpg",BBC Earth HD
