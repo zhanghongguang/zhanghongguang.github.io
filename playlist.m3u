@@ -309,7 +309,7 @@ http://61.164.158.155/liveplay-kk.rtxapp.com/live/program/live/wxtyhd8m/8000000/
 #EXTINF:-1 group-title="上海 🇨🇳️" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/diyicaijing.png",上海第一财经
 http://61.164.158.155/liveplay-kk.rtxapp.com/live/program/live/dycjhd/4000000/mnf.m3u8
 #EXTINF:-1 group-title="上海 🇨🇳️" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanghaijishi.png",上海纪实
-http://39.134.115.163:8080/PLTV/88888910/224/3221225655/index.m3u8
+http://www.icancloud.top:8888/udp/239.3.1.212:8060$北京联通1
 #EXTINF:-1 group-title="上海 🇨🇳️" tvg-logo="https://epg.112114.xyz/logo/乐游.png",乐游
 http://183.207.255.188/live/program/live/qjshd/4000000/mnf.m3u8
 #EXTINF:-1 group-title="上海 🇨🇳️" tvg-logo="https://epg.112114.xyz/logo/乐游.png",乐游
@@ -325,7 +325,7 @@ https://live.goodiptv.club/api/sxg.php?id=jsqcH265_4000
 #EXTINF:-1 group-title="上海 🇨🇳️" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/qicaixiju.png",七彩戏剧
 https://live.goodiptv.club/api/sxg.php?id=qcxj_2000
 #EXTINF:-1 tvg-id="SITV七彩戏剧" tvg-name="SITV七彩戏剧" tvg-logo="https://epg.112114.xyz/logo/SITV七彩戏剧.png" group-title="上海 🇨🇳️",七彩戏剧
-http://cntv.sbs/live?id=qcxj
+http://jasoncao.asuscomm.com:8888/udp/239.45.0.16:5140$上海电信组播
 #EXTINF:-1 group-title="地方臺 🇨🇳️",★★★★★地方臺 🇨🇳️★★★★★
 https://upload.wikimedia.org/wikipedia/commons/0/08/National_Flag_Anthem_of_the_Republic_of_China%E4%B8%AD%E8%8F%AF%E6%B0%91%E5%9C%8B%E5%9C%8B%E6%97%97%E6%AD%8C_%28%E6%BC%94%E5%A5%8F%E7%89%88%29.oga
 #EXTINF:-1 tvg-id="摄影" tvg-name="摄影" tvg-logo="https://epg.112114.xyz/logo/摄影.png" group-title="地方臺 🇨🇳️",摄影频道
@@ -485,7 +485,7 @@ http://[2409:8087:3408:20:5040::106]:18890/PLTV/88888888/224/3221227190/index.m3
 #EXTINF:-1 group-title="福建 🇨🇳️",福建旅游
 http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227190/index.m3u8
 #EXTINF:-1 group-title="福建 🇨🇳️" tvg-logo="https://epg.pm/media/images/channel/2022/05/30/large/20220530233623778528_85.jpg",福建综合
-http://[2409:8087:3428:20:500::1009]:6610/PLTV/88888888/224/3221227149/index.m3u8?servicetype=1
+http://p6.vzan.com/slowlive/255033440446192227/live.m3u8
 #EXTINF:-1 tvg-logo="../Channel/Logo/newtv中国功夫.jpg" group-title="NewTV🇨🇳️",NewTV东北热剧
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226202/index.m3u8#http://39.135.138.58:18890/PLTV/88888888/224/3221226202/index.m3u8
 #EXTINF:-1 tvg-logo="../Channel/Logo/newtv中国功夫.jpg" group-title="NewTV🇨🇳️",NewTV中国功夫
