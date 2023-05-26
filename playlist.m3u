@@ -277,7 +277,7 @@ https://upload.wikimedia.org/wikipedia/commons/0/08/National_Flag_Anthem_of_the_
 #EXTINF:-1 tvg-id="1984" tvg-name="上视新闻频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shangshixinwen.png" group-title="上海 🇨🇳️",上海新闻综合
 https://live.v1.mk/api/bestv.php?id=xwzhhd8m/8000000
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="上海 🇨🇳️",东方卫视
-http://113.62.253.22/live.aishang.ctlcdn.com/00000110240242_1/playlist.m3u8?CONTENTID=00000110240242_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
+http://222.71.221.186:9901/tsfile/live/0016_1.m3u8
 #EXTINF:-1 group-title="上海 🇨🇳️" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaidushi.jpg",上海都市频道
 http://hlsbkmgsplive.miguvideo.com/wd_r4/dfl/yulehd/3000/01.m3u8?&HlsSubType=&encrypt=1
 #EXTINF:-1 tvg-id="上视东方影视" tvg-name="上视东方影视" tvg-logo="https://epg.112114.xyz/logo/上视东方影视.png" group-title="上海 🇨🇳️",东方影视[百视通]
@@ -1200,10 +1200,10 @@ https://code.vthanhtivi.pw/getlink/tv360/99/2.m3u8
 https://ancom.ga/fpt/bbc-earth/bitrate_5000.m3u8
 #EXTINF:-1 tvg-id="bbclifestyle" tvg-name="BBC Lifestyle" tvg-logo="https://i.imgur.com/bn7ha63.png" group-title="Global 🇺🇸🇬🇧🇶🇦️",BBC Lifestyle
 https://ancom.ga/fpt/bbc-lifestyle/bitrate_5000.m3u8
-#EXTINF:-1 tvg-id="bbcworldnews" tvg-name="BBC News" tvg-logo="https://i.ibb.co/j5jJptz/bbcworldnews-cc.png" group-title="Global 🇺🇸🇬🇧🇶🇦️",BBC News
-https://ancom.ga/fpt/bbc-news/bitrate_5000.m3u8
-#EXTINF:-1 tvg-id="cnbc" tvg-name="CNBC" tvg-logo="https://i.imgur.com/EwLawKc.png" group-title="Global 🇺🇸🇬🇧🇶🇦️",CNBC
-https://ancom.ga/fpt/cnbc/bitrate_2500.m3u8
+#EXTINF:-1 group-title="Global 🇺🇸🇬🇧🇶🇦️",Da Nang TV1 (1080p) [Not 24/7]
+http://drtdnglive.e49a7c38.cdnviet.com/livedrt1/chunklist.m3u8
+#EXTINF:-1 group-title="Global 🇺🇸🇬🇧🇶🇦️",Da Nang TV2 (1080p) [Not 24/7]
+http://drtdnglive.e49a7c38.cdnviet.com/livestream/chunklist.m3u8
 #EXTINF:-1 group-title="網絡廣播 🇨🇳️",★★★★★網絡廣播 🇨🇳️★★★★★
 https://upload.wikimedia.org/wikipedia/commons/0/08/National_Flag_Anthem_of_the_Republic_of_China%E4%B8%AD%E8%8F%AF%E6%B0%91%E5%9C%8B%E5%9C%8B%E6%97%97%E6%AD%8C_%28%E6%BC%94%E5%A5%8F%E7%89%88%29.oga
 #EXTINF:-1 group-title="網絡廣播 🇨🇳️",China Plus Radio
