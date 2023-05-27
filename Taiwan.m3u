@@ -1,0 +1,635 @@
+#EXTM3U x-tvg-url="https://epg.112114.xyz/pp.xml,https://epg.hklive.tv"
+#EXTINF:-1 tvg-id="国家地理" tvg-name="国家地理" tvg-logo="https://upload.112114.xyz/logo/NATIONALGEOGRAPHIC.png" group-title="紀實",國家地理
+http://50.7.238.114:8278/natgeohd_twn/playlist.m3u8?tid=ma1f0b9808d5014467661&ct=17874&tsum=73dfb91284f5b1358251546e6f03da3d
+#EXTINF:-1 tvg-id="国家地理野生" tvg-name="国家地理野生" tvg-logo="https://upload.112114.xyz/logo/NATGEOWILD.png" group-title="紀實",國家地理野生
+http://198.16.100.90:8278/natgeowild_twn/playlist.m3u8?tid=MDDD9803492998034929&ct=18393&tsum=b276f2598186cdc8f4c513d89bfc2032
+#EXTINF:-1 tvg-id="DISCOVERY" tvg-name="DISCOVERY" tvg-logo="https://upload.112114.xyz/logo/Discovery.png" group-title="紀實",探索頻道
+http://50.7.238.114:8278/discoveryhd_twn/playlist.m3u8?tid=MB0B5177298351772983&ct=19234&tsum=ca4373fe502ea49d281ea1ecdd3531f5
+#EXTINF:-1 tvg-id="DMAX" tvg-name="DMAX" tvg-logo="https://epg.112114.xyz/logo/DMAX.png" group-title="紀實",探索動力
+http://50.7.238.114:8278/discoveryturbo_twn/playlist.m3u8?tid=MD5D5964869459648694&ct=19225&tsum=a21251b62069dff5c52601a3e4bc4a6d
+#EXTINF:-1 tvg-id="动物星球" tvg-name="动物星球" tvg-logo="https://epg.112114.xyz/logo/ANIMALPLANET.png" group-title="紀實",動物星球
+http://50.7.238.114:8278/animalplanet_twn/playlist.m3u8?tid=MABA3681856636818566&ct=18393&tsum=2066d4c793195f8449577d35af941288
+#EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="https://epg.112114.xyz/logo/HBO.png" group-title="影視",HBO
+http://198.16.100.90:8278/hbohd_twn/playlist.m3u8?tid=ME7E8473082984730829&ct=18392&tsum=acad12b7c208bda39b68dec98349e138
+#EXTINF:-1 tvg-id="HBOFAMILY" tvg-name="HBOFAMILY" tvg-logo="https://epg.112114.xyz/logo/HBOFAMILY.png" group-title="影視",HBO 家庭
+http://198.16.100.90:8278/fyi_twn/playlist.m3u8?tid=MFCF7312728573127285&ct=18393&tsum=bc4d3db9ca83c3765cc75512a1bbbbe3
+#EXTINF:-1 tvg-id="HBOHITS" tvg-name="HBOHITS" tvg-logo="https://epg.112114.xyz/logo/HBOHITS.png" group-title="影視",HBO 強檔巨獻
+http://50.7.238.114:8278/hbohead_twn/playlist.m3u8?tid=MCDC6663932966639329&ct=19193&tsum=6999a99699b097f3af2ef550e5c81f93
+#EXTINF:-1 tvg-id="HBOSIGNATURE" tvg-name="HBOSIGNATURE" tvg-logo="https://epg.112114.xyz/logo/HBOSIGNATURE.png" group-title="影視",HBO 原創钜獻
+http://198.16.100.90:8278/hbosignature_twn/playlist.m3u8?tid=MC5C5754321157543211&ct=19225&tsum=2b86077147813534b4cae6dd85bb3c4a
+#EXTINF:-1 tvg-id="CINEMAX" tvg-name="CINEMAX" tvg-logo="https://epg.112114.xyz/logo/CINEMAX.png" group-title="影視",Cinemax
+http://198.16.100.90:8278/cinemax_twn/playlist.m3u8?tid=MFEF8256939882569398&ct=19225&tsum=b6faed73a920c75f873a0c8f511eeba2
+#EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo="https://epg.112114.xyz/logo/AXN.png" group-title="影視",AXN 台灣
+http://50.7.238.114:8278/axn_twn/playlist.m3u8?tid=m1776995e9b3e16458394&ct=17874&tsum=b8a111d0b13c7761ce8b4e8f047adddb
+#EXTINF:-1 tvg-id="好莱坞电影台" tvg-name="好莱坞电影台" tvg-logo="https://epg.112114.xyz/logo/好萊塢電影.png" group-title="影視",好萊塢電影
+http://198.16.100.90:8278/hollywoodmovies_twn/playlist.m3u8?tid=MF6F7143280071432800&ct=19211&tsum=c0bc00f05a03eb1bef16741e9fd9737e
+#EXTINF:-1 tvg-id="美亚高清电影台" tvg-name="美亚高清电影台" tvg-logo="https://epg.112114.xyz/logo/美亞電影.png" group-title="影視",美亞電影
+http://50.7.238.114:8278/meiyamovie_twn/playlist.m3u8?tid=MFDF2848449728484497&ct=19211&tsum=f65f39620c24fee2e633c4727cc48727
+#EXTINF:-1 tvg-id="BBCWORLDNEWS" tvg-name="BBCWORLDNEWS" tvg-logo="https://epg.112114.xyz/logo/BBCWORLDNEWS.png" group-title="新聞",BBC World News
+http://50.7.238.114:8278/bbcnews_twn/playlist.m3u8?tid=ME2E9411781394117813&ct=19225&tsum=ffaa2caa60183eec89d730ed80b336d1
+#EXTINF:-1 tvg-id="ABCAUSTRALIA" tvg-name="ABCAUSTRALIA" tvg-logo="https://epg.112114.xyz/logo/ABCNEWS.png" group-title="新聞",ABC News
+http://50.7.238.114:8278/abcnews_glo/playlist.m3u8?tid=MAEA6759929367599293&ct=19225&tsum=edd59704e2182262583ea5b0e1093b9d
+#EXTINF:-1 tvg-id="BLOOMBERGTV" tvg-name="BLOOMBERGTV" tvg-logo="https://epg.112114.xyz/logo/BLOOMBERGTV.png" group-title="新聞",Bloomberg
+http://50.7.238.114:8278/bloomberg_twn/playlist.m3u8?tid=MBDB5111864051118640&ct=19254&tsum=20e267ffc313070f5fff457700929457
+#EXTINF:-1 tvg-id="CNBCHONGKONG" tvg-name="CNBCHONGKONG" tvg-logo="https://upload.112114.xyz/logo/CNBC.png" group-title="新聞",CNBC
+http://50.7.238.114:8278/cnbc_twn/playlist.m3u8?tid=MCBC5251518852515188&ct=19254&tsum=37bd48b924a593e126344eae8baec162
+#EXTINF:-1 tvg-id="中天新闻台" tvg-name="中天新闻台" tvg-logo="https://iptv-pro.github.io/logo/中天新闻.png" group-title="台灣",中天新聞
+http://50.7.238.114:8278/ctinews/playlist.m3u8?tid=MC3C3915550439155504&ct=19193&tsum=a8168b7967dda9bfebdd5b1403dc19b0
+#EXTINF:-1 tvg-id="中天亚洲台" tvg-name="中天亚洲台" tvg-logo="https://epg.112114.xyz/logo/中天亞洲.png" group-title="台灣",中天亞洲
+http://50.7.238.114:8278/ctiasia_twn/playlist.m3u8?tid=MBAB5565131955651319&ct=19249&tsum=6c292a6f51658779ced6a108f779ed35
+#EXTINF:-1 tvg-id="中天娱乐台" tvg-name="中天娱乐台" tvg-logo="https://epg.112114.xyz/logo/中天娛樂.png" group-title="台灣",中天娛樂
+http://50.7.238.114:8278/ctient/playlist.m3u8?tid=MDED1780059017800590&ct=19226&tsum=4d05ea700aa8fd436b51ce703680e674
+#EXTINF:-1 tvg-id="中天综合台" tvg-name="中天综合台" tvg-logo="https://epg.112114.xyz/logo/中天綜合.png" group-title="台灣",中天綜合
+http://198.16.100.90:8278/ctizhonghe/playlist.m3u8?tid=MBBB1520797915207979&ct=19193&tsum=3a6f7f0c591c2ec6678d51b741f290b2
+#EXTINF:-1 tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://epg.112114.xyz/logo/TVBS.png" group-title="台灣",TVBS HD
+http://50.7.238.114:8278/tvbs/playlist.m3u8?tid=MDED5111960351119603&ct=19226&tsum=49931e2d3885c468d56ffae2c2db9e6e
+#EXTINF:-1 tvg-id="TVBS欢乐台" tvg-name="TVBS欢乐台" tvg-logo="https://raw.githubusercontent.com/darlin8855/turbo/main/logo/tvbshl.png" group-title="台灣",TVBS歡樂台
+http://198.16.100.90:8278/tvbshuanle_twn/playlist.m3u8?tid=MC8C2318787923187879&ct=19193&tsum=394d2b9af3df7846e2cdc60d69dd4219
+#EXTINF:-1 tvg-id="TVBS新闻台" tvg-name="TVBS新闻台" tvg-logo="https://raw.githubusercontent.com/darlin8855/turbo/main/logo/tvbsnews.png" group-title="台灣",TVBS新聞
+http://50.7.238.114:8278/tvbs_n/playlist.m3u8?tid=MC3C9358473393584733&ct=19193&tsum=38970ab977b9e318cbead37db4134eb8
+#EXTINF:-1 tvg-id="东森超视" tvg-name="东森超视" tvg-logo="https://epg.112114.xyz/logo/东森超视.png" group-title="台灣",東森超視
+http://50.7.238.114:8278/ettvsuper/playlist.m3u8?tid=MA4A3005409230054092&ct=19225&tsum=c5d89f66fa1a8bcd26f482d4a370def5
+#EXTINF:-1 tvg-id="东森电影台" tvg-name="东森电影台" tvg-logo="https://epg.112114.xyz/logo/東森電影.png" group-title="台灣",東森電影
+http://50.7.238.114:8278/ettvmovie/playlist.m3u8?tid=MBDB9268852192688521&ct=19254&tsum=7514b50ebc2e4b06f2e402578d0ac996
+#EXTINF:-1 tvg-id="东森戏剧台" tvg-name="东森戏剧台" tvg-logo="https://epg.112114.xyz/logo/東森戲劇.png" group-title="台灣",東森戲劇
+http://50.7.238.114:8278/ettvdrama/playlist.m3u8?tid=m921dcb630ebe17354109&ct=17874&tsum=695370160923af940d1a90d44c262acc
+#EXTINF:-1 tvg-id="东森新闻台" tvg-name="东森新闻台" tvg-logo="https://epg.112114.xyz/logo/东森新闻.png" group-title="台灣",東森新聞
+http://50.7.238.114:8278/ettvnews/playlist.m3u8?tid=m1785954e5a67&ct=18336&tsum=ce82c650c85a63fe1ead9e30f2d4bfb4
+#EXTINF:-1 tvg-id="东森洋片台" tvg-name="东森洋片台" tvg-logo="https://epg.112114.xyz/logo/東森洋片.png" group-title="台灣",東森洋片
+http://50.7.238.114:8278/ettvwestern/playlist.m3u8?tid=MB7B8303252483032524&ct=19249&tsum=14f89967cdf6c504230be29a87cc54f0
+#EXTINF:-1 tvg-id="东森综合台" tvg-name="东森综合台" tvg-logo="https://epg.112114.xyz/logo/東森綜合.png" group-title="台灣",東森綜合
+http://50.7.238.114:8278/ettvzhonghe/playlist.m3u8?tid=MC4C1214674912146749&ct=19254&tsum=9b96a50ba99dca1a02a27b05a6fb4b0d
+#EXTINF:-1 tvg-id="东森幼幼台" tvg-name="东森幼幼台" tvg-logo="https://epg.112114.xyz/logo/东森幼幼台.png" group-title="台灣",東森幼幼
+http://50.7.238.114:8278/yoyo_twn/playlist.m3u8?tid=MEBE7340063173400631&ct=19225&tsum=e95304aa3743de8d4f23a23642d4d8a5
+#EXTINF:-1 tvg-id="民视" tvg-name="民视" tvg-logo="https://raw.githubusercontent.com/darlin8855/turbo/main//logo/mshd.png" group-title="台灣",民視HD
+http://50.7.238.114:8278/ftvhd_taiwan/playlist.m3u8?tid=15141291&ct=17990&tsum=ab93fcdf581cc3f483e1ceede13312ce
+#EXTINF:-1 tvg-id="民视第一台" tvg-name="民视第一台" tvg-logo="https://epg.112114.xyz/logo/民視第一台.png" group-title="台灣",民視第一台
+http://50.7.238.114:8278/lunghuajingdian_twn/playlist.m3u8?tid=MC2C7597780175977801&ct=19249&tsum=b7602981567d8f0171e8de29154f5014
+#EXTINF:-1 tvg-id="民视台湾台" tvg-name="民视台湾台" tvg-logo="https://epg.112114.xyz/logo/民视台湾台.png" group-title="台灣",民視臺灣
+http://50.7.238.114:8278/ftvtaiwan_twn/playlist.m3u8?tid=MDFD8196635981966359&ct=19226&tsum=b82639ac8b4590b4206effe348e2f9c2
+#EXTINF:-1 tvg-id="民视新闻台" tvg-name="民视新闻台" tvg-logo="https://epg.112114.xyz/logo/民視新聞.png" group-title="台灣",民視新聞
+http://50.7.238.114:8278/ftvnew_taiwan/playlist.m3u8?tid=md953ce86cdad16241449&ct=17874&tsum=949d4aace793a001dd41392b210ba406
+#EXTINF:-1 tvg-id="年代新闻台" tvg-name="年代新闻台" tvg-logo="https://epg.112114.xyz/logo/年代新闻.png" group-title="台灣",年代新聞
+http://50.7.238.114:8278/niandainews_twn/playlist.m3u8?ct=19226&tid=MA6A4647720946477209&tsum=48a66838dbcf633b2fb41307b29ef50a
+#EXTINF:-1 tvg-id="三立都会台" tvg-name="三立都会台" tvg-logo="https://epg.112114.xyz/logo/三立都會.png" group-title="台灣",三立都會
+http://50.7.238.114:8278/sanlidouhui_twn/playlist.m3u8?tid=md028b33ea0f7&ct=19361&tsum=1930e4b2cfbbd2f9f821af1c41e8d18d
+#EXTINF:-1 tvg-id="三立台湾台" tvg-name="三立台湾台" tvg-logo="https://epg.112114.xyz/logo/三立台灣.png" group-title="台灣",三立台灣
+http://50.7.238.114:8278/sanlitaiwan/playlist.m3u8?tid=MBFB2351438523514385&ct=19193&tsum=15393958be0bf6c0905bbb578dad1240
+#EXTINF:-1 tvg-id="三立戏剧" tvg-name="三立戏剧" tvg-logo="https://epg.112114.xyz/logo/三立戲劇.png" group-title="台灣",三立戲劇
+http://50.7.238.114:8278/sanlixiju_twn/playlist.m3u8?ct=19226&tid=MBDB8405357084053570&tsum=78944c0951d21a699e46fff4318a3799
+#EXTINF:-1 tvg-id="三立综合台" tvg-name="三立综合台" tvg-logo="https://epg.112114.xyz/logo/三立綜合.png" group-title="台灣",三立綜合
+http://50.7.238.114:8278/sanlizhonghe/playlist.m3u8?ct=17874&tid=m3362167a08a014596868&tsum=4472a7c943b67bf52fe5e836ca9f3b6b
+#EXTINF:-1 tvg-id="台视" tvg-name="台视" tvg-logo="https://epg.112114.xyz/logo/台視.png" group-title="台灣",台視
+http://50.7.238.114:8278/ttv_taiwan/playlist.m3u8?ct=17874&tid=mdea1ba75c9e516139101&tsum=95f1742d36f959fe6e241587a4f8e970
+#EXTINF:-1 tvg-id="台视新闻台" tvg-name="台视新闻台" tvg-logo="https://epg.112114.xyz/logo/台視新聞.png" group-title="台灣",台視新聞
+http://50.7.238.114:8278/ttvnews_twn/playlist.m3u8?tid=MBBB6637589866375898&ct=19234&tsum=d2c641a325bf02e0b68c4f245e0165b0
+#EXTINF:-1 tvg-id="非凡新闻台" tvg-name="非凡新闻台" tvg-logo="https://epg.112114.xyz/logo/非凡新聞.png" group-title="台灣",非凡新聞
+http://50.7.238.114:8278/feifannews_twn/playlist.m3u8?ct=17874&tid=m050e7aad65f614336734&tsum=4ea1b829d195ac69a6c2ca51b21ae378
+#EXTINF:-1 tvg-id="中视新闻" tvg-name="中视新闻" tvg-logo="https://epg.112114.xyz/logo/中視新聞.png" group-title="台灣",中視新聞
+http://50.7.238.114:8278/ca73a13c37/playlist.m3u8?tid=mee3f06f682eb&ct=18335&tsum=7491cceca17c1e2af05824583855f8bd
+#EXTINF:-1 tvg-id="中视" tvg-name="中视" tvg-logo="https://epg.112114.xyz/logo/中視.png" group-title="台灣",中視 HD
+http://50.7.238.114:8278/zhongshihd_twn/playlist.m3u8?tid=MB4B2404962324049623&ct=19193&tsum=671b112a447ed494ae6219c14d0fab93
+#EXTINF:-1 tvg-id="中视经典" tvg-name="中视经典" tvg-logo="https://epg.112114.xyz/logo/中視經典.png" group-title="台灣",中視經典
+http://50.7.238.114:8278/zhongshi_twn/playlist.m3u8?tid=14379667&ct=17988&tsum=de63d02f44741580b5070077d1949841
+#EXTINF:-1 tvg-id="公视" tvg-name="公视" tvg-logo="https://epg.112114.xyz/logo/公視.png" group-title="台灣",公視
+http://198.16.100.90:8278/ctv_taiwan/playlist.m3u8?tid=MD4D6839548568395485&ct=19193&tsum=56b3e3b150f4fcbc1877e081b313bcd4
+#EXTINF:-1 tvg-id="华视" tvg-name="华视" tvg-logo="https://epg.112114.xyz/logo/華視.png" group-title="台灣",華視
+http://50.7.238.114:8278/ctshd_twn/playlist.m3u8?tid=m760743cf1f5e&ct=18335&tsum=9b0d2efb292253075aa4ec25cc439b81
+#EXTINF:-1 tvg-id="八大第一台" tvg-name="八大第一台" tvg-logo="https://epg.112114.xyz/logo/八大第一台.png" group-title="台灣",八大第一台
+http://50.7.238.114:8278/badafirst/playlist.m3u8?tid=mb8efded78b4e12042621&ct=17874&tsum=028ad819cd9a0f949a043d652fa3e164
+#EXTINF:-1 tvg-id="八大戏剧台" tvg-name="八大戏剧台" tvg-logo="https://epg.112114.xyz/logo/八大戲劇.png" group-title="台灣",八大戲劇
+http://50.7.238.114:8278/badadrama/playlist.m3u8?ct=19225&tid=ME4E4734124647341246&tsum=c4e596572a79ad99675ee2137d1cc43d
+#EXTINF:-1 tvg-id="八大综合台" tvg-name="八大综合台" tvg-logo="https://epg.112114.xyz/logo/八大綜合.png" group-title="台灣",八大綜合
+http://50.7.238.114:8278/badazhonghe/playlist.m3u8?ct=19225&tid=MC7C4692263546922635&tsum=ffdc7a6397b511103e0df0b92e678790
+#EXTINF:-1 tvg-id="靖天国际" tvg-name="靖天国际" tvg-logo="https://raw.githubusercontent.com/darlin8855/turbo/main//logo/jtgjt.png" group-title="台灣",靖天國際台
+http://50.7.238.114:8278/jingtianintl_twn/playlist.m3u8?tid=MC7C4153806141538061&ct=19254&tsum=79854f3ccdc23693ea39da52af54d35b
+#EXTINF:-1 tvg-id="靖天卡通台" tvg-name="靖天卡通台" tvg-logo="https://epg.112114.xyz/logo/靖天卡通台.png" group-title="台灣",靖天卡通台
+http://50.7.238.114:8278/jingtiancartoon_twn/playlist.m3u8?tid=m1465dab025b5&ct=18335&tsum=ba935e583d90bfbe1d1d9662e9ac600c
+#EXTINF:-1 tvg-id="CN卡通" tvg-name="CN卡通" tvg-logo="https://epg.112114.xyz/logo/CN卡通.png" group-title="台灣",CN 卡通頻道
+http://50.7.238.114:8278/momo1_twn/playlist.m3u8?ct=19225&tid=MA0A4898983648989836&tsum=bd109117d126916f203880b1f2063d5e
+#EXTINF:-1 tvg-id="龙华偶像" tvg-name="龙华偶像" tvg-logo="https://epg.112114.xyz/logo/龍華偶像.png" group-title="台灣",龍華偶像
+http://50.7.238.114:8278/lunghuaidol_twn/playlist.m3u8?tid=MB3B9268047492680474&ct=19234&tsum=792a8d573313f22d3bd8670148df20cb
+#EXTINF:-1 tvg-id="龙华戏剧" tvg-name="龙华戏剧" tvg-logo="https://epg.112114.xyz/logo/龍華戲劇.png" group-title="台灣",龍華戲劇
+http://50.7.238.114:8278/lunghuaxiju_twn/playlist.m3u8?tid=m5c1b0bf1531015581628&ct=17874&tsum=2d2c4d6761fa92d63b97c0fe787007cb
+#EXTINF:-1 tvg-id="龙华洋片" tvg-name="龙华洋片" tvg-logo="https://epg.112114.xyz/logo/龍華洋片.png" group-title="台灣",龍華洋片
+http://50.7.238.114:8278/lunghuawestern_twn/playlist.m3u8?tid=MC1C3944472239444722&ct=19226&tsum=99c0c7c82e2fc48b16605865c3eaeb82
+#EXTINF:-1 tvg-id="龙祥时代" tvg-name="龙祥时代" tvg-logo="https://raw.githubusercontent.com/darlin8855/turbo/main//logo/lxdyt.png" group-title="台灣",龍祥時代
+http://198.16.100.90:8278/cb7a1fec69/playlist.m3u8?tid=md05ab4002297&ct=18335&tsum=ebe4254ee0e073c2d3c9789e679c00a5
+#EXTINF:-1 tvg-id="美食星球" tvg-name="美食星球" tvg-logo="https://epg.112114.xyz/logo/美食星球.png" group-title="台灣",美食星球
+http://198.16.100.90:8278/foodplanet_twn/playlist.m3u8?tid=MCCC8639507586395075&ct=19226&tsum=69f5a90ff21aa5f4f58667bcdd713353
+#EXTINF:-1 tvg-id="卫视中文台" tvg-name="卫视中文台" tvg-logo="https://epg.112114.xyz/logo/衛視中文.png" group-title="台灣",衛視中文
+http://50.7.238.114:8278/weishichinese_twn/playlist.m3u8?ct=19226&tid=MA8A7894022878940228&tsum=c0323ce59263e0096d4181626874e17c
+#EXTINF:-1 tvg-id="亚洲旅游台" tvg-name="亚洲旅游台" tvg-logo="https://epg.112114.xyz/logo/亞洲旅遊台.png" group-title="台灣",亞洲旅遊台
+http://50.7.238.114:8278/asiatravel_twn/playlist.m3u8?ct=19225&tid=MF2F4967516549675165&tsum=3b56404a8f861c7fef6ac79a798e4a8c
+#EXTINF:-1 tvg-id="EYE旅游" tvg-name="EYE旅游" tvg-logo="https://upload.112114.xyz/logo/EYETV.png" group-title="台灣",EYETV旅遊
+http://50.7.238.114:8278/eyetvtravel_twn/playlist.m3u8?tid=MFDF5066608450666084&ct=19254&tsum=0bb4cbfc0d32bff89ab5b3a5352fcf94
+#EXTINF:-1 tvg-id="EVE" tvg-name="EVE" tvg-logo="https://epg.112114.xyz/logo/EYETV戲劇.png" group-title="台灣",EYETV戲劇
+http://50.7.238.114:8278/eyetvxiju_twn/playlist.m3u8?tid=ME3E6686724066867240&ct=19254&tsum=728fc49fcd53cd770381ffd87883b1d1
+#EXTINF:-1 tvg-id="纬来电影台" tvg-name="纬来电影台" tvg-logo="https://epg.112114.xyz/logo/緯來電影.png" group-title="台灣",緯來電影
+http://50.7.238.114:8278/videolandmovie/playlist.m3u8?ct=18335&tid=ma2dac66da407&tsum=9a5a39559f64a71081ef9b3a85f2886c
+#EXTINF:-1 tvg-id="纬来日本台" tvg-name="纬来日本台" tvg-logo="https://epg.112114.xyz/logo/緯來日本.png" group-title="台灣",緯來日本
+http://50.7.238.114:8278/videolandjapan/playlist.m3u8?tid=MBAB7250273772502737&ct=19344&tsum=2b580b485643235654de4a1bbc9639cb
+#EXTINF:-1 tvg-id="纬来体育台" tvg-name="纬来体育台" tvg-logo="https://epg.112114.xyz/logo/緯來體育.png" group-title="台灣",緯來體育
+http://50.7.238.114:8278/videolandsport/playlist.m3u8?tid=MD2D5343800653438006&ct=19234&tsum=1be724fb8246abfedaf2bd088ec98f03
+#EXTINF:-1 tvg-id="ELEVEN体育一台" tvg-name="ELEVEN体育一台" tvg-logo="https://epg.112114.xyz/logo/EVE.png" group-title="台灣",ELEVEN 體育1台
+http://50.7.238.114:8278/golfchannel_twn/playlist.m3u8?tid=MFBF2798068027980680&ct=18393&tsum=d8204023f67120512c75a8882f121120
+#EXTINF:-1 tvg-id="博斯高球1台" tvg-name="博斯高球1台" tvg-logo="https://epg.112114.xyz/logo/博斯高球.png" group-title="台灣",博斯高球1
+http://50.7.238.114:8278/bosigolf1_twn/playlist.m3u8?tid=m51c41c232c43&ct=18335&tsum=26e2e08302bf0409db94a692921fa08b
+#EXTINF:-1 tvg-id="博斯高球2台" tvg-name="博斯高球2台" tvg-logo="https://epg.112114.xyz/logo/博斯高球.png" group-title="台灣",博斯高球2
+http://50.7.238.114:8278/bosigolf2_twn/playlist.m3u8?tid=MC1C7192072371920723&ct=19249&tsum=fbea99cd84e7284f2cd3f8eab29435dc
+#EXTINF:-1 tvg-id="博斯魅力网" tvg-name="博斯魅力网" tvg-logo="https://epg.112114.xyz/logo/博斯魅力网.png" group-title="台灣",博斯魅力
+http://50.7.238.114:8278/bosisport1_twn/playlist.m3u8?tid=MCEC3596356835963568&ct=19234&tsum=b4f0f6248548de66e4ff5d230c130d1a
+#EXTINF:-1 tvg-id="博斯网球台" tvg-name="博斯网球台" tvg-logo="https://epg.112114.xyz/logo/博斯網球.png" group-title="台灣",博斯網球
+http://50.7.238.114:8278/bositennis_twn/playlist.m3u8?tid=m60f4fd9da4d1&ct=18335&tsum=4d026bfb332da29886aa772f2e149edb
+#EXTINF:-1 tvg-id="博斯运动二台" tvg-name="博斯运动二台" tvg-logo="https://raw.githubusercontent.com/darlin8855/turbo/main//logo/bsyd.png" group-title="台灣",博斯運動二台
+http://50.7.238.114:8278/bosisport2_twn/playlist.m3u8?tid=mb50f39eebf51&ct=18335&tsum=4f8960c36a3e7f2b069d574293809283
+#EXTINF:-1 tvg-id="爱尔达体育1" tvg-name="爱尔达体育1" tvg-logo="https://upload.112114.xyz/logo/ELTA1.png" group-title="台灣",愛爾達體育1
+http://50.7.238.114:8278/eltasport_twn/playlist.m3u8?tid=md3567b35401611916221&ct=17874&tsum=be2a069324faa7f0737ca0d396d43745
+#EXTINF:-1 tvg-id="爱尔达体育2" tvg-name="爱尔达体育2" tvg-logo="https://raw.githubusercontent.com/darlin8855/turbo/main//logo/elta2.png" group-title="台灣",愛爾達體育2
+http://50.7.238.114:8278/eltasport2_twn/playlist.m3u8?tid=ME3E4844502848445028&ct=19317&tsum=035fc643389fcb4a6bf124bca1248aab
+#EXTINF:-1 tvg-id="爱尔达娱乐台" tvg-name="爱尔达娱乐台" tvg-logo="https://epg.112114.xyz/logo/愛爾達影劇.png" group-title="台灣",愛爾達影劇
+http://50.7.238.114:8278/eltadrama_twn/playlist.m3u8?tid=mea60e416943110603068&ct=17874&tsum=ede38d2a218a34b5397af9d19e0c39a3
+#EXTINF:-1 tvg-id="84" tvg-name="明珠台" tvg-logo="https://epg.112114.xyz/logo/明珠台.png" group-title="香港",明珠台
+http://50.7.238.114:8278/pearl_twn/playlist.m3u8?tid=MC6C7041327570413275&ct=19226&tsum=681972baf66d69caf7cccc92a90e5aad
+#EXTINF:-1 tvg-id="82" tvg-name="J2台" tvg-logo="https://epg.112114.xyz/logo/J2.png" group-title="香港",TVB J2
+http://50.7.238.114:8278/j2_twn/playlist.m3u8?tid=MA8A1176878411768784&ct=19225&tsum=fea41bb592165942b9971148376f8b70
+#EXTINF:-1 tvg-id="96" tvg-name="ViuTV Six" tvg-logo="https://epg.112114.xyz/logo/VIUTVSIX.png" group-title="香港",ViuTV6
+http://50.7.238.114:8278/viusix_twn/playlist.m3u8?tid=MD7D9950629799506297&ct=19234&tsum=83ba3013be3e325b775bcd348b38eab1
+#EXTINF:-1 tvg-id="31" tvg-name="港台電視31" tvg-logo="https://upload.112114.xyz/logo/RTHK31.png" group-title="香港",RHK31
+http://50.7.238.114:8278/rhk31_twn/playlist.m3u8?tid=MA6A6225600662256006&ct=19249&tsum=7b0adccccff4fded44e906e9d848ee35
+#EXTINF:-1 tvg-id="32" tvg-name="港台電視32" tvg-logo="https://upload.112114.xyz/logo/RTHK32.png" group-title="香港",RHK32
+http://50.7.238.114:8278/rhk32_twn/playlist.m3u8?tid=MDBD4704174447041744&ct=19249&tsum=763ebe53fc33677d02ebf83b4d558d33
+#EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo="https://epg.112114.xyz/logo/AXN.png" group-title="其他",AXN台灣
+http://198.16.100.90:8278/axn_twn/playlist.m3u8?tid=m1776995e9b3e16458394&ct=17874&tsum=b8a111d0b13c7761ce8b4e8f047adddb
+#EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo="https://epg.112114.xyz/logo/AXN.png" group-title="其他",AXN台灣
+http://198.16.100.90:8278/axn_twn/playlist.m3u8?tid=MA1A8358225083582250&ct=19193&tsum=105511aaad1c3ff86d7489e83e18b209
+#EXTINF:-1 tvg-id="AnimalPlanet" tvg-name="AnimalPlanet" tvg-logo="https://epg.112114.xyz/logo/ANIMALPLANET.png" group-title="其他",AnimalPlanet
+http://198.16.100.90:8278/AnimalPlanet/playlist.m3u8?tid=MC3C3856400538564005&ct=19225&tsum=6255ab9649411a8a70c7cbf2ebd7eb23
+#EXTINF:-1 tvg-id="Awani" tvg-name="Awani" tvg-logo="https://epg.112114.xyz/logo/AWANI.png" group-title="其他",Awani
+http://198.16.100.90:8278/Awani/playlist.m3u8?tid=MB3B5555835155558351&ct=19225&tsum=148341f2ac3dfc57fd8bb8b2f6e4d190
+#EXTINF:-1 tvg-id="BBC1" tvg-name="BBC1" tvg-logo="https://epg.112114.xyz/logo/BBC1.png" group-title="其他",BBC1
+http://198.16.100.90:8278/bbc1_antik/playlist.m3u8?tid=MF5F6677034466770344&ct=19225&tsum=7620e8a88546352c525938a2dee63a56
+#EXTINF:-1 tvg-id="BBC2" tvg-name="BBC2" tvg-logo="https://epg.112114.xyz/logo/BBC2.png" group-title="其他",BBC2
+http://198.16.100.90:8278/bbc2_antik/playlist.m3u8?tid=MA6A4519490645194906&ct=19225&tsum=9b7ac03eed5276fa8bda87e0e8e64ed1
+#EXTINF:-1 tvg-id="BBCWORLDNEWS" tvg-name="BBCWORLDNEWS" tvg-logo="https://epg.112114.xyz/logo/BBCWORLDNEWS.png" group-title="其他",BBCWORLDNEWS
+http://198.16.100.90:8278/bbcnews_twn/playlist.m3u8?tid=ME2E9411781394117813&ct=19225&tsum=ffaa2caa60183eec89d730ed80b336d1
+#EXTINF:-1 tvg-id="BABYTV" tvg-name="BABYTV" tvg-logo="https://epg.112114.xyz/logo/BABYTV.png" group-title="其他",BabyTV
+http://198.16.100.90:8278/babytv_twn/playlist.m3u8?tid=MB3B7827650178276501&ct=18393&tsum=27fb0219125df6a523b97248cdf16d1b
+#EXTINF:-1 tvg-id="BABYTV" tvg-name="BABYTV" tvg-logo="https://epg.112114.xyz/logo/BABYTV.png" group-title="其他",BabyTV
+http://198.16.100.90:8278/babytv_twn/playlist.m3u8?tid=m7ab1b92a1306&ct=18335&tsum=57086eb57e1cc0c75ba08c75acab2406
+#EXTINF:-1 tvg-id="CBSNews" tvg-name="CBSNews" tvg-logo="https://epg.112114.xyz/logo/CBSNEWS.png" group-title="其他",CBSNews
+http://198.16.100.90:8278/cbsn_glo/playlist.m3u8?tid=ME2E7003518970035189&ct=19225&tsum=c1cc67ff59df6d6f608a400760be0bda
+#EXTINF:-1 tvg-id="CINEMAX" tvg-name="CINEMAX" tvg-logo="https://epg.112114.xyz/logo/CINEMAX.png" group-title="其他",CINEMAX
+http://198.16.100.90:8278/cinemax_twn/playlist.m3u8?tid=MFEF8256939882569398&ct=19225&tsum=b6faed73a920c75f873a0c8f511eeba2
+#EXTINF:-1 tvg-id="CINEMAX" tvg-name="CINEMAX" tvg-logo="https://epg.112114.xyz/logo/CINEMAX.png" group-title="其他",CINEMAXHD
+http://198.16.100.90:8278/cinemax_twn/playlist.m3u8?tid=MF6F1142326311423263&ct=19254&tsum=716939f2b6d75d0bb83a4c780e00dbd3
+#EXTINF:-1 tvg-id="CartoonNetwork" tvg-name="CartoonNetwork" tvg-logo="https://epg.112114.xyz/logo/CARTOONNETWORK.png" group-title="其他",CartoonNetwork
+http://198.16.100.90:8278/Cn/playlist.m3u8?tid=MCDC2144535021445350&ct=19225&tsum=32569c846de798e3502372d35d00773f
+#EXTINF:-1 tvg-id="DISCOVERY" tvg-name="DISCOVERY" tvg-logo="https://epg.112114.xyz/logo/DISCOVERY.png" group-title="其他",Discovery亞洲
+http://198.16.100.90:8278/discoverytwn_twn/playlist.m3u8?tid=m42a2d91d6f2413622196&ct=17874&tsum=3653c4c61f0a0443dbb256dc465b4715
+#EXTINF:-1 tvg-id="DISCOVERY" tvg-name="DISCOVERY" tvg-logo="https://epg.112114.xyz/logo/DISCOVERY.png" group-title="其他",Discovery亞洲
+http://198.16.100.90:8278/discoverytwn_twn/playlist.m3u8?tid=MAAA4463833744638337&ct=18393&tsum=c4bd4c633430327425e073012785525e
+#EXTINF:-1 tvg-id="DISCOVERY" tvg-name="DISCOVERY" tvg-logo="https://epg.112114.xyz/logo/DISCOVERY.png" group-title="其他",Discovery頻道-10
+http://198.16.100.90:8278/discoverych_twn/playlist.m3u8?tid=MA3A2844188928441889&ct=18393&tsum=5b966ba17918ab0d7dd4c462d1b0b811
+#EXTINF:-1 tvg-id="DISCOVERY" tvg-name="DISCOVERY" tvg-logo="https://epg.112114.xyz/logo/DISCOVERY.png" group-title="其他",Discovery頻道-11
+http://198.16.100.90:8278/ba86fcd935/playlist.m3u8?tid=m1b458a366fcb&ct=18335&tsum=6ee1498a5e37d8bd1e3f62954629ed4f
+#EXTINF:-1 tvg-id="DISCOVERY" tvg-name="DISCOVERY" tvg-logo="https://epg.112114.xyz/logo/DISCOVERY.png" group-title="其他",Discovery頻道-12
+http://198.16.100.90:8278/discoveryhd_twn/playlist.m3u8?tid=MB0B1462900214629002&ct=18393&tsum=ce9990e01102bf91728bdbbb549b04a7
+#EXTINF:-1 tvg-id="DISCOVERY" tvg-name="DISCOVERY" tvg-logo="https://epg.112114.xyz/logo/DISCOVERY.png" group-title="其他",Discovery頻道-13
+http://198.16.100.90:8278/discoveryhd_twn/playlist.m3u8?tid=ME6E2405719624057196&ct=19225&tsum=57a7c421c65e00c1b8f68f67c30141dc
+#EXTINF:-1 tvg-id="EVE" tvg-name="EVE" tvg-logo="https://epg.112114.xyz/logo/EVE.png" group-title="港澳台",ELEVEN體育1台
+http://198.16.100.90:8278/bs181_japan/playlist.m3u8?tid=MEBE3981057839810578&ct=19225&tsum=d6fa49cd7b45b3bea924647730100283
+#EXTINF:-1 tvg-id="EVE" tvg-name="EVE" tvg-logo="https://epg.112114.xyz/logo/EVE.png" group-title="港澳台",ELEVEN體育2台
+http://198.16.100.90:8278/bsfuji_japan/playlist.m3u8?tid=MEFE1641904216419042&ct=19225&tsum=e49ffeb9a6df295150be1cd8f9b0ea30
+#EXTINF:-1 tvg-id="EYETV戲劇" tvg-name="EYETV戲劇" tvg-logo="https://epg.112114.xyz/logo/EYETV戲劇.png" group-title="其他",EYETV戲劇
+http://198.16.100.90:8278/eyetvxiju_twn/playlist.m3u8?tid=m379e8846d31b14432367&ct=17874&tsum=2c4c2acd16a5a5e00797ad6f4c4cb586
+#EXTINF:-1 tvg-id="EYETV戲劇台" tvg-name="EYETV戲劇台" tvg-logo="https://epg.112114.xyz/logo/EYETV戲劇台.png" group-title="其他",EYETV戲劇台
+http://198.16.100.90:8278/eyetvxiju_twn/playlist.m3u8?tid=ME3E6686724066867240&ct=19254&tsum=728fc49fcd53cd770381ffd87883b1d1
+#EXTINF:-1 tvg-id="EYETV旅遊" tvg-name="EYETV旅遊" tvg-logo="https://epg.112114.xyz/logo/EYETV旅遊.png" group-title="其他",EYETV旅遊
+http://198.16.100.90:8278/eyetvtravel_twn/playlist.m3u8?tid=m3e96290c929116279255&ct=17874&tsum=7c060d25738e52e57372f408b9ccd0bc
+#EXTINF:-1 tvg-id="EURONEWS" tvg-name="EURONEWS" tvg-logo="https://epg.112114.xyz/logo/EURONEWS.png" group-title="其他",Euronews
+http://198.16.100.90:8278/euronews_antik/playlist.m3u8?tid=MF2F8095655880956558&ct=19225&tsum=30c549f4730e3d83725a443cf0c16bbe
+#EXTINF:-1 tvg-id="GOODTV" tvg-name="GOODTV" tvg-logo="https://epg.112114.xyz/logo/GOODTV.png" group-title="其他",GOODTVCH02真理台
+http://198.16.100.90:8278/good2_twn/playlist.m3u8?tid=ME9E3966510439665104&ct=19225&tsum=a2788b2ccea04a8a8082d663fb7838e5
+#EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="https://epg.112114.xyz/logo/HBO.png" group-title="港澳台",HBO HD
+http://198.16.100.90:8278/hbohd_twn/playlist.m3u8?tid=m8d785f4e022616401837&ct=17877&tsum=56e767abfc65234db52b017576b00403
+#EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="https://epg.112114.xyz/logo/HBO.png" group-title="港澳台",HBO HD
+http://198.16.100.90:8278/hbohd_twn/playlist.m3u8?tid=ME7E8473082984730829&ct=18392&tsum=acad12b7c208bda39b68dec98349e138
+#EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="https://epg.112114.xyz/logo/HBO.png" group-title="港澳台",HBO HD
+http://198.16.100.90:8278/hbohd_twn/playlist.m3u8?tid=MBBB7425808074258080&ct=19193&tsum=a0bdd395bfc4cf07d9414d5372f59ad2
+#EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="https://epg.112114.xyz/logo/HBO.png" group-title="港澳台",HBO HD
+http://198.16.100.90:8278/hbohd_twn/playlist.m3u8?tid=ME9E5260921952609219&ct=19225&tsum=a904cd480db106670befb11d14149fce
+#EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="https://epg.112114.xyz/logo/HBO.png" group-title="港澳台",HBOHD
+http://198.16.100.90:8278/hbohd_twn/playlist.m3u8?tid=ME9E5260921952609219&ct=19225&tsum=a904cd480db106670befb11d14149fce
+#EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="https://epg.112114.xyz/logo/HBO.png" group-title="港澳台",HBOHD
+http://198.16.100.90:8278/hbohd_twn/playlist.m3u8?tid=m8d785f4e022616401837&ct=17877&tsum=56e767abfc65234db52b017576b00403
+#EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="https://epg.112114.xyz/logo/HBO.png" group-title="港澳台",HBO原創
+http://198.16.100.90:8278/hbosignature_twn/playlist.m3u8?tid=MD6D5767423357674233&ct=18392&tsum=995709f1100cf1b07964790160bfb4ee
+#EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="https://epg.112114.xyz/logo/HBO.png" group-title="港澳台",HBO原創
+http://198.16.100.90:8278/hbosignature_twn/playlist.m3u8?tid=m48ee99a5dacb15948906&ct=17874&tsum=3d127801d49fa098b4118400117b4fbb
+#EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="https://epg.112114.xyz/logo/HBO.png" group-title="港澳台",HBO原創鉅獻
+http://198.16.100.90:8278/hbosignature_twn/playlist.m3u8?tid=m48ee99a5dacb15948906&ct=17874&tsum=3d127801d49fa098b4118400117b4fbb
+#EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="https://epg.112114.xyz/logo/HBO.png" group-title="港澳台",HBO原創鉅獻
+http://198.16.100.90:8278/hbosignature_twn/playlist.m3u8?tid=MD6D5767423357674233&ct=18392&tsum=995709f1100cf1b07964790160bfb4ee
+#EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="https://epg.112114.xyz/logo/HBO.png" group-title="港澳台",HBO原創鉅獻
+http://198.16.100.90:8278/hbosignature_twn/playlist.m3u8?tid=MC5C5754321157543211&ct=19225&tsum=2b86077147813534b4cae6dd85bb3c4a
+#EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="https://epg.112114.xyz/logo/HBO.png" group-title="港澳台",HBO家庭
+http://198.16.100.90:8278/fyi_twn/playlist.m3u8?tid=MFCF7312728573127285&ct=18393&tsum=bc4d3db9ca83c3765cc75512a1bbbbe3
+#EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="https://epg.112114.xyz/logo/HBO.png" group-title="港澳台",HBO家庭
+http://198.16.100.90:8278/fyi_twn/playlist.m3u8?tid=m99b80124e3b4&ct=18337&tsum=73f6f540497de9a5615b9bd55bec8853
+#EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="https://epg.112114.xyz/logo/HBO.png" group-title="港澳台",HBO溫馨家庭
+http://198.16.100.90:8278/fyi_twn/playlist.m3u8?tid=18186902&ct=17988&&tsum=7a21abab0a5912afb0ebc01db111e59f
+#EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="https://epg.112114.xyz/logo/HBO.png" group-title="港澳台",HBO溫馨家庭
+http://198.16.100.90:8278/fyi_twn/playlist.m3u8?tid=MFCF7312728573127285&ct=18393&tsum=bc4d3db9ca83c3765cc75512a1bbbbe3
+#EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="https://epg.112114.xyz/logo/HBO.png" group-title="港澳台",HBO溫馨家庭
+http://198.16.100.90:8278/fyi_twn/playlist.m3u8?tid=m99b80124e3b4&ct=18337&tsum=73f6f540497de9a5615b9bd55bec8853
+#EXTINF:-1 tvg-id="JET綜合" tvg-name="JET綜合" tvg-logo="https://epg.112114.xyz/logo/JET綜合.png" group-title="其他",JET綜合
+http://198.16.100.90:8278/jettv_japan/playlist.m3u8?tid=MA7A4202687942026879&ct=19225&tsum=e84bc4851b9d6f6a18282c1efcb6ed1d
+#EXTINF:-1 tvg-id="Z" tvg-name="Z" tvg-logo="https://epg.112114.xyz/logo/Z.png" group-title="其他",M--SkyZ
+http://198.16.100.90:8278/skynews_antik/playlist.m3u8?tid=MA7A8995522289955222&ct=19225&tsum=017cd1040a70d579955560a0c550c0f2
+#EXTINF:-1 tvg-id="BBCLIFESTYLE" tvg-name="BBCLIFESTYLE" tvg-logo="https://epg.112114.xyz/logo/BBCLIFESTYLE.png" group-title="其他",M-BBCLifestyle
+http://198.16.100.90:8278/bbclifestyle_twn/playlist.m3u8?tid=MFCF4299842642998426&ct=19225&tsum=d9cac5a62e5c33574ac9c3e860e01623
+#EXTINF:-1 tvg-id="MusicTV" tvg-name="MusicTV" tvg-logo="https://epg.112114.xyz/logo/MUSICTV.png" group-title="其他",MusicTV
+http://198.16.100.90:8278/MusicTV/playlist.m3u8?tid=MFEF2771586927715869&ct=19225&tsum=25aeb843227531bfab3d9fde062323b2
+#EXTINF:-1 tvg-id="RTHK32" tvg-name="RTHK32" tvg-logo="https://epg.112114.xyz/logo/RTHK32.png" group-title="其他",RTHK32
+http://198.16.100.90:8278/rhk32_twn/playlist.m3u8?tid=MBCB4455322944553229&ct=19226&tsum=60bac13753ada5abc8873783d6611ebd
+#EXTINF:-1 tvg-id="SkySportsCricket" tvg-name="SkySportsCricket" tvg-logo="https://epg.112114.xyz/logo/SKYSPORTSCRICKET.png" group-title="其他",SkySportsCricket
+http://198.16.100.90:8278/tiankongcricket/playlist.m3u8?tid=MF0F2840305428403054&ct=19225&tsum=b212d3a5e0f928f816ba4653a3b31f6d
+#EXTINF:-1 tvg-id="SkySportsF1" tvg-name="SkySportsF1" tvg-logo="https://epg.112114.xyz/logo/SKYSPORTSF1.png" group-title="其他",SkySportsF1
+http://198.16.100.90:8278/tiankongf1/playlist.m3u8?tid=MEEE9486185594861855&ct=19225&tsum=bb4f02666ab26ce255f8e16f7ce67dd2
+#EXTINF:-1 tvg-id="TLC旅遊生活" tvg-name="TLC旅遊生活" tvg-logo="https://epg.112114.xyz/logo/TLC旅遊生活.png" group-title="其他",TLC旅遊生活
+http://198.16.100.90:8278/tlc_twn/playlist.m3u8?tid=MA0A5904082259040822&ct=19226&tsum=8fa7deead1d4b260825af15bc7378132
+#EXTINF:-1 tvg-id="TLC旅遊生活" tvg-name="TLC旅遊生活" tvg-logo="https://epg.112114.xyz/logo/TLC旅遊生活.png" group-title="其他",TLC旅遊生活
+http://198.16.100.90:8278/tlc_twn/playlist.m3u8?tid=MA0A5904082259040822&ct=19226&tsum=8fa7deead1d4b260825af15bc7378132
+#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://epg.112114.xyz/logo/CCTV8.png" group-title="其他",TV8
+http://198.16.100.90:8278/TV8/playlist.m3u8?tid=MDFD8437455184374551&ct=19225&tsum=ea08ca3d3651a75f499af2fc429eee35
+#EXTINF:-1 tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://epg.112114.xyz/logo/TVBS.png" group-title="港澳台",TVBS HD
+http://198.16.100.90:8278/tvbs/playlist.m3u8?tid=MDED5111960351119603&ct=19226&tsum=49931e2d3885c468d56ffae2c2db9e6e
+#EXTINF:-1 tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://epg.112114.xyz/logo/TVBS.png" group-title="港澳台",TVBS HD
+http://198.16.100.90:8278/tvbs/playlist.m3u8?tid=MF8F6036660760366607&ct=19225&tsum=28b93d22eed82973d85656ff0a6978c5
+#EXTINF:-1 tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://epg.112114.xyz/logo/TVBS.png" group-title="港澳台",TVBS HD
+http://198.16.100.90:8278/tvbs/playlist.m3u8?tid=MF8F6036660760366607&ct=19225&tsum=28b93d22eed82973d85656ff0a6978c5
+#EXTINF:-1 tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://epg.112114.xyz/logo/TVBS.png" group-title="港澳台",TVBS HD
+http://198.16.100.90:8278/tvbs/playlist.m3u8?tid=m0f93590c7a75&ct=18335&tsum=d55d4e5f3a3d424454dbc8d70e3bb1b6
+#EXTINF:-1 tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://epg.112114.xyz/logo/TVBS.png" group-title="港澳台",TVBS HD
+http://198.16.100.90:8278/tvbs/playlist.m3u8?tid=MDED5111960351119603&ct=19226&tsum=49931e2d3885c468d56ffae2c2db9e6e
+#EXTINF:-1 tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://epg.112114.xyz/logo/TVBS.png" group-title="港澳台",TVBS歡樂台 HD
+http://198.16.100.90:8278/tvbshuanle_twn/playlist.m3u8?tid=MC8C2318787923187879&ct=19193&tsum=394d2b9af3df7846e2cdc60d69dd4219
+#EXTINF:-1 tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://epg.112114.xyz/logo/TVBS.png" group-title="港澳台",TVBS歡樂台 HD
+http://198.16.100.90:8278/tvbshuanle_twn/playlist.m3u8?ct=19193&tid=MC8C2318787923187879&tsum=394d2b9af3df7846e2cdc60d69dd4219
+#EXTINF:-1 tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://epg.112114.xyz/logo/TVBS.png" group-title="港澳台",TVBS歡樂台 HD
+http://198.16.100.90:8278/tvbshuanle_twn/playlist.m3u8?tid=MA9A4111409641114096&ct=19225&tsum=600f3056bba6413dec3155efd19e2d20
+#EXTINF:-1 tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://epg.112114.xyz/logo/TVBS.png" group-title="港澳台",TVBS歡樂台HD
+http://198.16.100.90:8278/tvbshuanle_twn/playlist.m3u8?tid=MA9A4111409641114096&ct=19225&tsum=600f3056bba6413dec3155efd19e2d20
+#EXTINF:-1 tvg-id="VIUTV" tvg-name="VIUTV" tvg-logo="https://epg.112114.xyz/logo/VIUTV.png" group-title="其他",VIUTV 6
+http://198.16.100.90:8278/viusix_twn/playlist.m3u8?tid=MC6C1412376614123766&ct=19225&tsum=f4273425d435057616c3380b9e2a0287
+#EXTINF:-1 tvg-id="VIUTV" tvg-name="VIUTV" tvg-logo="https://epg.112114.xyz/logo/VIUTV.png" group-title="其他",VIUTV
+http://198.16.100.90:8278/viu_twn/playlist.m3u8?tid=MF2F6219999362199993&ct=19225&tsum=0315b071e42f6b8b6f49b6ca58b7393b
+#EXTINF:-1 tvg-id="三立台灣" tvg-name="三立台灣" tvg-logo="https://epg.112114.xyz/logo/三立台灣.png" group-title="其他",三立台灣
+http://198.16.100.90:8278/sanlitaiwan/playlist.m3u8?tid=m92ccadc4dc3718157816&ct=17874&tsum=3570a8198ca0fb7ebb803807e38b33fb
+#EXTINF:-1 tvg-id="三立台灣" tvg-name="三立台灣" tvg-logo="https://epg.112114.xyz/logo/三立台灣.png" group-title="其他",三立台灣
+http://198.16.100.90:8278/sanlitaiwan/playlist.m3u8?tid=m92ccadc4dc3718157816&ct=17874&tsum=3570a8198ca0fb7ebb803807e38b33fb
+#EXTINF:-1 tvg-id="三立台灣" tvg-name="三立台灣" tvg-logo="https://epg.112114.xyz/logo/三立台灣.png" group-title="其他",三立台灣
+http://198.16.100.90:8278/sanlitaiwan/playlist.m3u8?tid=MBFB2351438523514385&ct=19193&tsum=15393958be0bf6c0905bbb578dad1240
+#EXTINF:-1 tvg-id="三立戏剧" tvg-name="三立戏剧" tvg-logo="https://epg.112114.xyz/logo/三立戏剧.png" group-title="其他",三立戏剧台
+http://198.16.100.90:8278/sanlixiju_twn/playlist.m3u8?tid=MA8A4626080046260800&ct=19053&tsum=205a453781925ebfb8996c1db8d4ed59 
+#EXTINF:-1 tvg-id="三立戏剧" tvg-name="三立戏剧" tvg-logo="https://epg.112114.xyz/logo/三立戏剧.png" group-title="其他",三立戏剧台
+http://198.16.100.90:8278/sanlixiju_twn/playlist.m3u8?tid=MBDB8405357084053570&ct=19226&tsum=78944c0951d21a699e46fff4318a3799
+#EXTINF:-1 tvg-id="三立戏剧" tvg-name="三立戏剧" tvg-logo="https://epg.112114.xyz/logo/三立戏剧.png" group-title="其他",三立戏剧台
+http://198.16.100.90:8278/sanlixiju_twn/playlist.m3u8?tid=MCFC5174201151742011&ct=19193&tsum=27477ddeec029345da276c2c903f09c2
+#EXTINF:-1 tvg-id="三立戲劇" tvg-name="三立戲劇" tvg-logo="https://epg.112114.xyz/logo/三立戲劇.png" group-title="其他",三立戲劇
+http://198.16.100.90:8278/sanlixiju_twn/playlist.m3u8?tid=MCFC5174201151742011&ct=19193&tsum=27477ddeec029345da276c2c903f09c2
+#EXTINF:-1 tvg-id="三立戲劇" tvg-name="三立戲劇" tvg-logo="https://epg.112114.xyz/logo/三立戲劇.png" group-title="其他",三立戲劇
+http://198.16.100.90:8278/sanlixiju_twn/playlist.m3u8?ct=19226&tid=MBDB8405357084053570&tsum=78944c0951d21a699e46fff4318a3799
+#EXTINF:-1 tvg-id="三立綜合" tvg-name="三立綜合" tvg-logo="https://epg.112114.xyz/logo/三立綜合.png" group-title="其他",三立綜合
+http://198.16.100.90:8278/sanlizhonghe/playlist.m3u8?tid=MF4F9472920894729208&ct=19249&tsum=874aaa2015440b417746e5c11fa40220
+#EXTINF:-1 tvg-id="三立綜合" tvg-name="三立綜合" tvg-logo="https://epg.112114.xyz/logo/三立綜合.png" group-title="其他",三立綜合
+http://198.16.100.90:8278/sanlizhonghe/playlist.m3u8?tid=m3362167a08a014596868&ct=17874&tsum=4472a7c943b67bf52fe5e836ca9f3b6b
+#EXTINF:-1 tvg-id="东森幼幼台" tvg-name="东森幼幼台" tvg-logo="https://epg.112114.xyz/logo/东森幼幼台.png" group-title="港澳台",东森幼幼
+http://198.16.100.90:8278/yoyo_twn/playlist.m3u8?tid=MEBE7340063173400631&ct=19225&tsum=e95304aa3743de8d4f23a23642d4d8a5
+#EXTINF:-1 tvg-id="东森洋片台" tvg-name="东森洋片台" tvg-logo="https://epg.112114.xyz/logo/东森洋片台.png" group-title="港澳台",东森洋片
+http://198.16.100.90:8278/ettvwestern/playlist.m3u8?tid=MA6A9686180296861802&ct=19193&tsum=79b2173b4455c70b50330eed478049a4
+#EXTINF:-1 tvg-id="东森洋片台" tvg-name="东森洋片台" tvg-logo="https://epg.112114.xyz/logo/东森洋片台.png" group-title="港澳台",东森洋片
+http://198.16.100.90:8278/ettvwestern/playlist.m3u8?tid=MC2C7134276471342764&ct=19225&tsum=4889d0c08d077336bd5066b912891aee
+#EXTINF:-1 tvg-id="东森电影台" tvg-name="东森电影台" tvg-logo="https://epg.112114.xyz/logo/东森电影台.png" group-title="港澳台",东森电影
+http://198.16.100.90:8278/ettvmovie/playlist.m3u8?tid=MDED1943740419437404&ct=19225&tsum=120834a4218c4b5c3bb19efb8116f859
+#EXTINF:-1 tvg-id="东森电影台" tvg-name="东森电影台" tvg-logo="https://epg.112114.xyz/logo/东森电影台.png" group-title="港澳台",东森电影
+http://198.16.100.90:8278/ettvmovie/playlist.m3u8?tid=MEDE1688528216885282&ct=19193&tsum=843fbd698e260c1fcda128dce85ead3b
+#EXTINF:-1 tvg-id="东森综合台" tvg-name="东森综合台" tvg-logo="https://epg.112114.xyz/logo/东森综合台.png" group-title="港澳台",东森综合
+http://198.16.100.90:8278/ettvzhonghe/playlist.m3u8?tid=m65c4e525f24617101171&ct=17874&tsum=663db593cfeefc92ce4b5d7461988f3f
+#EXTINF:-1 tvg-id="东森超视" tvg-name="东森超视" tvg-logo="https://epg.112114.xyz/logo/东森超视.png" group-title="港澳台",东森超视
+http://198.16.100.90:8278/ettvsuper/playlist.m3u8?tid=MA4A3005409230054092&ct=19225&tsum=c5d89f66fa1a8bcd26f482d4a370def5
+#EXTINF:-1 tvg-id="中天亞洲台" tvg-name="中天亞洲台" tvg-logo="https://epg.112114.xyz/logo/中天亞洲台.png" group-title="其他",中天亞洲台
+http://198.16.100.90:8278/ctiasia_twn/playlist.m3u8?tid=mfc2c5bc6c101&ct=18335&tsum=d074a602fcd98718afeb8fc9a18fa964
+#EXTINF:-1 tvg-id="中天娛樂 HD" tvg-name="中天娛樂 HD" tvg-logo="https://epg.112114.xyz/logo/中天娛樂.png" group-title="其他",中天娛樂 HD
+http://198.16.100.90:8278/ctient/playlist.m3u8?tid=MDED1780059017800590&ct=19226&tsum=4d05ea700aa8fd436b51ce703680e674
+#EXTINF:-1 tvg-id="中天娛樂 HD" tvg-name="中天娛樂 HD" tvg-logo="https://epg.112114.xyz/logo/中天娛樂.png" group-title="其他",中天娛樂 HD
+http://198.16.100.90:8278/ctient/playlist.m3u8?tid=m6780c60bd34a13540795&ct=17874&tsum=06089e289a460b0685447b7656d550e3
+#EXTINF:-1 tvg-id="中天娛樂 HD" tvg-name="中天娛樂 HD" tvg-logo="https://epg.112114.xyz/logo/中天娛樂.png" group-title="其他",中天娛樂 HD
+http://198.16.100.90:8278/ctient/playlist.m3u8?tid=MA8A3069789530697895&ct=19193&tsum=20c49fe9e15ad366c6e32b141f03bf8a
+#EXTINF:-1 tvg-id="中天娛樂 HD" tvg-name="中天娛樂 HD" tvg-logo="https://epg.112114.xyz/logo/中天娛樂.png" group-title="其他",中天娛樂 HD
+http://198.16.100.90:8278/ctient/playlist.m3u8?tid=MC9C7081133170811331&ct=19249&tsum=8b08b54208f3ee30e12f419d587f46ac
+#EXTINF:-1 tvg-id="中天娛樂HD" tvg-name="中天娛樂HD" tvg-logo="https://epg.112114.xyz/logo/中天娛樂.png" group-title="其他",中天娛樂HD
+http://198.16.100.90:8278/ctient/playlist.m3u8?tid=MDED1780059017800590&ct=19226&tsum=4d05ea700aa8fd436b51ce703680e674
+#EXTINF:-1 tvg-id="中天娛樂HD" tvg-name="中天娛樂HD" tvg-logo="https://epg.112114.xyz/logo/中天娛樂.png" group-title="其他",中天娛樂HD
+http://198.16.100.90:8278/ctient/playlist.m3u8?tid=m6780c60bd34a13540795&ct=17874&tsum=06089e289a460b0685447b7656d550e3
+#EXTINF:-1 tvg-id="中天綜合 HD" tvg-name="中天綜合 HD" tvg-logo="https://epg.112114.xyz/logo/中天綜合.png" group-title="其他",中天綜合 HD
+http://198.16.100.90:8278/ctizhonghe/playlist.m3u8?tid=MBBB1520797915207979&ct=19193&tsum=3a6f7f0c591c2ec6678d51b741f290b2
+#EXTINF:-1 tvg-id="中天綜合 HD" tvg-name="中天綜合 HD" tvg-logo="https://epg.112114.xyz/logo/中天綜合.png" group-title="其他",中天綜合 HD
+http://198.16.100.90:8278/ctizhonghe/playlist.m3u8?tid=MB6B3888954738889547&ct=19254&tsum=d0cb922e44e8a16bea598530697c581e
+#EXTINF:-1 tvg-id="中天綜合 HD" tvg-name="中天綜合 HD" tvg-logo="https://epg.112114.xyz/logo/中天綜合.png" group-title="其他",中天綜合 HD
+http://198.16.100.90:8278/ctizhonghe/playlist.m3u8?tid=ME3E9861589598615895&ct=19226&tsum=7e6a4896cab50c2c48d7a889c1076ffc
+#EXTINF:-1 tvg-id="中天綜合 HD" tvg-name="中天綜合 HD" tvg-logo="https://epg.112114.xyz/logo/中天綜合.png" group-title="其他",中天綜合 HD
+http://198.16.100.90:8278/ctizhonghe/playlist.m3u8?tid=m85005aeec85b14021104&ct=17874&tsum=69f19f4b12ab79d2ee683b28cdb1c8ca
+#EXTINF:-1 tvg-id="中天綜合HD" tvg-name="中天綜合HD" tvg-logo="https://epg.112114.xyz/logo/中天綜合.png" group-title="其他",中天綜合HD
+http://198.16.100.90:8278/ctizhonghe/playlist.m3u8?tid=m85005aeec85b14021104&ct=17874&tsum=69f19f4b12ab79d2ee683b28cdb1c8ca
+#EXTINF:-1 tvg-id="中視新聞HD" tvg-name="中視新聞HD" tvg-logo="https://epg.112114.xyz/logo/中視新聞.png" group-title="其他",中視新聞HD
+http://198.16.100.90:8278/ca73a13c37/playlist.m3u8?tid=mee3f06f682eb&ct=18335&tsum=7491cceca17c1e2af05824583855f8bd
+#EXTINF:-1 tvg-id="中視經典 HD" tvg-name="中視經典 HD" tvg-logo="https://epg.112114.xyz/logo/中視經典.png" group-title="其他",中視經典 HD
+http://198.16.100.90:8278/zhongshi_twn/playlist.m3u8?tid=14379667&ct=17988&tsum=de63d02f44741580b5070077d1949841
+#EXTINF:-1 tvg-id="中視經典 HD" tvg-name="中視經典 HD" tvg-logo="https://epg.112114.xyz/logo/中視經典.png" group-title="其他",中視經典 HD
+http://198.16.100.90:8278/zhongshi_twn/playlist.m3u8?tid=mffe9aaf8765f&ct=18335&tsum=bcdd7a2ce4a5498b1449cb26a01150c0
+#EXTINF:-1 tvg-id="中視經典HD" tvg-name="中視經典HD" tvg-logo="https://epg.112114.xyz/logo/中視經典.png" group-title="其他",中視經典HD
+http://198.16.100.90:8278/zhongshi_twn/playlist.m3u8?tid=14379667&ct=17988&tsum=de63d02f44741580b5070077d1949841
+#EXTINF:-1 tvg-id="中視經典HD" tvg-name="中視經典HD" tvg-logo="https://epg.112114.xyz/logo/中視經典.png" group-title="其他",中視經典HD
+http://198.16.100.90:8278/zhongshi_twn/playlist.m3u8?tid=mffe9aaf8765f&ct=18335&tsum=bcdd7a2ce4a5498b1449cb26a01150c0
+#EXTINF:-1 tvg-id="亞洲旅遊台" tvg-name="亞洲旅遊台" tvg-logo="https://epg.112114.xyz/logo/亞洲旅遊台.png" group-title="其他",亞洲旅遊台
+http://198.16.100.90:8278/asiatravel_twn/playlist.m3u8?tid=MF2F4967516549675165&ct=19225&tsum=3b56404a8f861c7fef6ac79a798e4a8c
+#EXTINF:-1 tvg-id="亞洲旅遊台" tvg-name="亞洲旅遊台" tvg-logo="https://epg.112114.xyz/logo/亞洲旅遊台.png" group-title="其他",亞洲旅遊台
+http://198.16.100.90:8278/asiatravel_twn/playlist.m3u8?tid=ma9ec30da9ef3&ct=18335&tsum=ff0bd9207f2c72a8c9bf38464433dc7d
+#EXTINF:-1 tvg-id="八大戲劇 HD" tvg-name="八大戲劇 HD" tvg-logo="https://epg.112114.xyz/logo/八大戲劇.png" group-title="其他",八大戲劇 HD
+http://198.16.100.90:8278/badadrama/playlist.m3u8?tid=m4970c4e1b988&ct=18335&tsum=20cb1d15d4e116ab9e44edb542cf51a5
+#EXTINF:-1 tvg-id="八大戲劇 HD" tvg-name="八大戲劇 HD" tvg-logo="https://epg.112114.xyz/logo/八大戲劇.png" group-title="其他",八大戲劇 HD
+http://198.16.100.90:8278/badadrama/playlist.m3u8?tid=m6e4372d7fc8217605152&ct=17874&tsum=d9af89e299560350336e22c1418e6b54
+#EXTINF:-1 tvg-id="八大戲劇 HD" tvg-name="八大戲劇 HD" tvg-logo="https://epg.112114.xyz/logo/八大戲劇.png" group-title="其他",八大戲劇 HD
+http://198.16.100.90:8278/badadrama/playlist.m3u8?tid=ME4E4734124647341246&ct=19225&tsum=c4e596572a79ad99675ee2137d1cc43d
+#EXTINF:-1 tvg-id="八大戲劇 HD" tvg-name="八大戲劇 HD" tvg-logo="https://epg.112114.xyz/logo/八大戲劇.png" group-title="其他",八大戲劇 HD
+http://198.16.100.90:8278/badadrama/playlist.m3u8?tid=ME3E7432781774327817&ct=19193&tsum=504532547ffc646858157dd724bca18d
+#EXTINF:-1 tvg-id="八大戲劇HD" tvg-name="八大戲劇HD" tvg-logo="https://epg.112114.xyz/logo/八大戲劇.png" group-title="其他",八大戲劇HD
+http://198.16.100.90:8278/badadrama/playlist.m3u8?tid=m4970c4e1b988&ct=18335&tsum=20cb1d15d4e116ab9e44edb542cf51a5
+#EXTINF:-1 tvg-id="八大戲劇HD" tvg-name="八大戲劇HD" tvg-logo="https://epg.112114.xyz/logo/八大戲劇.png" group-title="其他",八大戲劇HD
+http://198.16.100.90:8278/badadrama/playlist.m3u8?tid=m4a65d3abd9ee13871929&ct=17924&tsum=8e5ef501e42d00cdc6a761ca3dc693d8
+#EXTINF:-1 tvg-id="八大第一台" tvg-name="八大第一台" tvg-logo="https://epg.112114.xyz/logo/八大第一台.png" group-title="其他",八大第一 HD
+http://198.16.100.90:8278/badafirst/playlist.m3u8?tid=mb8efded78b4e12042621&ct=17874&tsum=028ad819cd9a0f949a043d652fa3e164
+#EXTINF:-1 tvg-id="八大第一台" tvg-name="八大第一台" tvg-logo="https://epg.112114.xyz/logo/八大第一台.png" group-title="其他",八大第一 HD
+http://198.16.100.90:8278/badafirst/playlist.m3u8?tid=MBDB5904995459049954&ct=19193&tsum=ab627e00a84b423b5747a65289eec076
+#EXTINF:-1 tvg-id="八大第一台" tvg-name="八大第一台" tvg-logo="https://epg.112114.xyz/logo/八大第一台.png" group-title="其他",八大第一HD
+http://198.16.100.90:8278/badafirst/playlist.m3u8?tid=mb8efded78b4e12042621&ct=17874&tsum=028ad819cd9a0f949a043d652fa3e164
+#EXTINF:-1 tvg-id="八大綜合 HD" tvg-name="八大綜合 HD" tvg-logo="https://epg.112114.xyz/logo/八大綜合.png" group-title="其他",八大綜合 HD
+http://198.16.100.90:8278/badazhonghe/playlist.m3u8?tid=MC5C5422299054222990&ct=19193&tsum=8189d5b21bdeabdffa3d2b2cbeaae0ae
+#EXTINF:-1 tvg-id="八大綜合 HD" tvg-name="八大綜合 HD" tvg-logo="https://epg.112114.xyz/logo/八大綜合.png" group-title="其他",八大綜合 HD
+http://198.16.100.90:8278/badazhonghe/playlist.m3u8?tid=mfb8d64b6276514171054&ct=17874&tsum=a87466c997089ea7dce98cd17301667d
+#EXTINF:-1 tvg-id="八大綜合 HD" tvg-name="八大綜合 HD" tvg-logo="https://epg.112114.xyz/logo/八大綜合.png" group-title="其他",八大綜合 HD
+http://198.16.100.90:8278/badazhonghe/playlist.m3u8?tid=MC7C4692263546922635&ct=19225&tsum=ffdc7a6397b511103e0df0b92e678790
+#EXTINF:-1 tvg-id="八大綜合HD" tvg-name="八大綜合HD" tvg-logo="https://epg.112114.xyz/logo/八大綜合.png" group-title="其他",八大綜合HD
+http://198.16.100.90:8278/badazhonghe/playlist.m3u8?tid=mfb8d64b6276514171054&ct=17874&tsum=a87466c997089ea7dce98cd17301667d
+#EXTINF:-1 tvg-id="公視" tvg-name="公視" tvg-logo="https://epg.112114.xyz/logo/公視.png" group-title="其他",公視
+http://198.16.100.90:8278/ctv_taiwan/playlist.m3u8?tid=MCCC8750228587502285&ct=19225&tsum=aca6268c0dd9f618ed5e944942132557
+#EXTINF:-1 tvg-id="公視" tvg-name="公視" tvg-logo="https://epg.112114.xyz/logo/公視.png" group-title="其他",公視
+http://198.16.100.90:8278/ctv_taiwan/playlist.m3u8?tid=MDCD6096520560965205&ct=19249&tsum=64237c7ffa0c00b62657a938247bcab0
+#EXTINF:-1 tvg-id="公視" tvg-name="公視" tvg-logo="https://epg.112114.xyz/logo/公視.png" group-title="其他",公視
+http://198.16.100.90:8278/ctv_taiwan/playlist.m3u8?tid=m33b41eb996d0&ct=18336&tsum=ea5304d5140e9a3d2a32aece896feeed
+#EXTINF:-1 tvg-id="公視" tvg-name="公視" tvg-logo="https://epg.112114.xyz/logo/公視.png" group-title="其他",公視
+http://198.16.100.90:8278/ctv_taiwan/playlist.m3u8?ct=17990&tid=13765524&tsum=03eb77c1c186944b97737f14e95076c0
+#EXTINF:-1 tvg-id="公視" tvg-name="公視" tvg-logo="https://epg.112114.xyz/logo/公視.png" group-title="其他",公視
+http://198.16.100.90:8278/ctv_taiwan/playlist.m3u8?tid=MD4D6839548568395485&ct=19193&tsum=56b3e3b150f4fcbc1877e081b313bcd4
+#EXTINF:-1 tvg-id="動物星球" tvg-name="動物星球" tvg-logo="https://epg.112114.xyz/logo/動物星球.png" group-title="其他",動物星球
+http://198.16.100.90:8278/animalplanet_twn/playlist.m3u8?tid=MABA3681856636818566&ct=18393&tsum=2066d4c793195f8449577d35af941288
+#EXTINF:-1 tvg-id="動物星球" tvg-name="動物星球" tvg-logo="https://epg.112114.xyz/logo/動物星球.png" group-title="其他",動物星球
+http://198.16.100.90:8278/animalplanet_twn/playlist.m3u8?tid=ME1E7303496773034967&ct=19225&tsum=07b0edc521a4edcb7a00d7e943b8aa72
+#EXTINF:-1 tvg-id="動物星球" tvg-name="動物星球" tvg-logo="https://epg.112114.xyz/logo/動物星球.png" group-title="其他",動物星球
+http://198.16.100.90:8278/animalplanet_twn/playlist.m3u8?tid=m4da2c053371613331372&ct=17874&tsum=4481f502bb91c2c67964feecfbc4b702
+#EXTINF:-1 tvg-id="华視" tvg-name="华視" tvg-logo="https://epg.112114.xyz/logo/华視.png" group-title="其他",华視
+http://198.16.100.90:8278/ctshd_twn/playlist.m3u8?tid=MC3C3582911835829118&ct=19249&tsum=f2c0c86801d43be647206c4ddb8e9ce6
+#EXTINF:-1 tvg-id="博斯網球" tvg-name="博斯網球" tvg-logo="https://epg.112114.xyz/logo/博斯網球.png" group-title="港澳台",博斯網球
+http://198.16.100.90:8278/bositennis_twn/playlist.m3u8?tid=MA9A5922328659223286&ct=19225&tsum=c83f112dbae37be6d20618138fddcf77
+#EXTINF:-1 tvg-id="博斯網球" tvg-name="博斯網球" tvg-logo="https://epg.112114.xyz/logo/博斯網球.png" group-title="港澳台",博斯網球
+http://198.16.100.90:8278/bositennis_twn/playlist.m3u8?tid=MDCD2148551721485517&ct=19249&tsum=bab41ccd3843b938886a64a656463af0
+#EXTINF:-1 tvg-id="博斯網球" tvg-name="博斯網球" tvg-logo="https://epg.112114.xyz/logo/博斯網球.png" group-title="港澳台",博斯網球
+http://198.16.100.90:8278/bositennis_twn/playlist.m3u8?tid=m60f4fd9da4d1&ct=18335&tsum=4d026bfb332da29886aa772f2e149edb
+#EXTINF:-1 tvg-id="博斯運動2" tvg-name="博斯運動2" tvg-logo="https://epg.112114.xyz/logo/博斯運動2.png" group-title="港澳台",博斯運動2
+http://198.16.100.90:8278/bosisport2_twn/playlist.m3u8?tid=ME9E7698135376981353&ct=19249&tsum=9eadcc8585f74357f09f1465844024c9
+#EXTINF:-1 tvg-id="博斯運動2" tvg-name="博斯運動2" tvg-logo="https://epg.112114.xyz/logo/博斯運動2.png" group-title="港澳台",博斯運動2
+http://198.16.100.90:8278/bosisport2_twn/playlist.m3u8?tid=mb50f39eebf51&ct=18335&tsum=4f8960c36a3e7f2b069d574293809283
+#EXTINF:-1 tvg-id="博斯高球1台" tvg-name="博斯高球1台" tvg-logo="https://epg.112114.xyz/logo/博斯高球1台.png" group-title="港澳台",博斯高球1
+http://198.16.100.90:8278/bosigolf1_twn/playlist.m3u8?tid=m51c41c232c43&ct=18335&tsum=26e2e08302bf0409db94a692921fa08b
+#EXTINF:-1 tvg-id="博斯高球1台" tvg-name="博斯高球1台" tvg-logo="https://epg.112114.xyz/logo/博斯高球1台.png" group-title="港澳台",博斯高球1
+http://198.16.100.90:8278/bosigolf1_twn/playlist.m3u8?tid=MD5D3832704238327042&ct=18393&tsum=cbf3bf749c9b0bf4828ab19efff1c5b0
+#EXTINF:-1 tvg-id="博斯高球1台" tvg-name="博斯高球1台" tvg-logo="https://epg.112114.xyz/logo/博斯高球1台.png" group-title="港澳台",博斯高球1
+http://198.16.100.90:8278/bosigolf1_twn/playlist.m3u8?tid=m51c41c232c43&ct=18335&tsum=26e2e08302bf0409db94a692921fa08b
+#EXTINF:-1 tvg-id="博斯高球2台" tvg-name="博斯高球2台" tvg-logo="https://epg.112114.xyz/logo/博斯高球2台.png" group-title="港澳台",博斯高球2
+http://198.16.100.90:8278/bosigolf2_twn/playlist.m3u8?tid=MC1C7192072371920723&ct=19249&tsum=fbea99cd84e7284f2cd3f8eab29435dc
+#EXTINF:-1 tvg-id="台視 HD" tvg-name="台視 HD" tvg-logo="https://epg.112114.xyz/logo/台視.png" group-title="其他",台視 HD
+http://198.16.100.90:8278/ttv_taiwan/playlist.m3u8?tid=MDCD7498841774988417&ct=19226&tsum=205fa69ca9e6c04cfa0ed0b301647d1e
+#EXTINF:-1 tvg-id="台視HD" tvg-name="台視HD" tvg-logo="https://epg.112114.xyz/logo/台視.png" group-title="其他",台視HD
+http://198.16.100.90:8278/ttv_taiwan/playlist.m3u8?tid=MDCD7498841774988417&ct=19226&tsum=205fa69ca9e6c04cfa0ed0b301647d1e
+#EXTINF:-1 tvg-id="台視HD" tvg-name="台視HD" tvg-logo="https://epg.112114.xyz/logo/台視.png" group-title="其他",台視HD
+http://198.16.100.90:8278/ttv_taiwan/playlist.m3u8?tid=mdea1ba75c9e516139101&ct=17874&tsum=95f1742d36f959fe6e241587a4f8e970
+#EXTINF:-1 tvg-id="國家地理" tvg-name="國家地理" tvg-logo="https://epg.112114.xyz/logo/國家地理.png" group-title="其他",國家地理
+http://198.16.100.90:8278/natgeohd_twn/playlist.m3u8?tid=ME0E9332119893321198&ct=19225&tsum=86a42e161c519916f498348c3c672787
+#EXTINF:-1 tvg-id="國家地理台灣" tvg-name="國家地理台灣" tvg-logo="https://epg.112114.xyz/logo/國家地理台灣.png" group-title="其他",國家地理台灣
+http://198.16.100.90:8278/natgeohd_twn/playlist.m3u8?tid=ma1f0b9808d5014467661&ct=17874&tsum=73dfb91284f5b1358251546e6f03da3d
+#EXTINF:-1 tvg-id="國家地理野生" tvg-name="國家地理野生" tvg-logo="https://epg.112114.xyz/logo/國家地理野生.png" group-title="其他",國家地理野生
+http://198.16.100.90:8278/natgeowild_twn/playlist.m3u8?tid=MDDD9803492998034929&ct=18393&tsum=b276f2598186cdc8f4c513d89bfc2032
+#EXTINF:-1 tvg-id="國家地理野生" tvg-name="國家地理野生" tvg-logo="https://epg.112114.xyz/logo/國家地理野生.png" group-title="其他",國家地理野生
+http://198.16.100.90:8278/natgeowild_twn/playlist.m3u8?tid=mc9d789e8a1bb12836354&ct=17877&tsum=82c5ce1596dc364c112c79b239c3f5e8
+#EXTINF:-1 tvg-id="國家地理野生頻道" tvg-name="國家地理野生頻道" tvg-logo="https://epg.112114.xyz/logo/國家地理野生頻道.png" group-title="其他",國家地理野生頻道
+http://198.16.100.90:8278/natgeowild_twn/playlist.m3u8?tid=mc9d789e8a1bb12836354&ct=17877&tsum=82c5ce1596dc364c112c79b239c3f5e8
+#EXTINF:-1 tvg-id="國家地理野生頻道" tvg-name="國家地理野生頻道" tvg-logo="https://epg.112114.xyz/logo/國家地理野生頻道.png" group-title="其他",國家地理野生頻道
+http://198.16.100.90:8278/natgeowild_twn/playlist.m3u8?tid=MDDD9803492998034929&ct=18393&tsum=b276f2598186cdc8f4c513d89bfc2032
+#EXTINF:-1 tvg-id="國家地理野生頻道" tvg-name="國家地理野生頻道" tvg-logo="https://epg.112114.xyz/logo/國家地理野生頻道.png" group-title="其他",國家地理野生頻道
+http://198.16.100.90:8278/natgeowild_twn/playlist.m3u8?tid=ME7E6122598161225981&ct=19225&tsum=c88897efa30d472128421acf3d4b62c8
+#EXTINF:-1 tvg-id="國家地理頻道" tvg-name="國家地理頻道" tvg-logo="https://epg.112114.xyz/logo/國家地理頻道.png" group-title="其他",國家地理頻道
+http://198.16.100.90:8278/natgeohd_twn/playlist.m3u8?tid=ma1f0b9808d5014467661&ct=17874&tsum=73dfb91284f5b1358251546e6f03da3d
+#EXTINF:-1 tvg-id="國家地理頻道" tvg-name="國家地理頻道" tvg-logo="https://epg.112114.xyz/logo/國家地理頻道.png" group-title="其他",國家地理頻道
+http://198.16.100.90:8278/natgeohd_twn/playlist.m3u8?tid=MB5B4841803948418039&ct=18393&tsum=a2343b2c061fc9de3fa7857e832d9625
+#EXTINF:-1 tvg-id="國家地理頻道" tvg-name="國家地理頻道" tvg-logo="https://epg.112114.xyz/logo/國家地理頻道.png" group-title="其他",國家地理頻道
+http://198.16.100.90:8278/natgeohd_twn/playlist.m3u8?tid=ME0E9332119893321198&ct=19225&tsum=86a42e161c519916f498348c3c672787
+#EXTINF:-1 tvg-id="好萊塢電影" tvg-name="好萊塢電影" tvg-logo="https://epg.112114.xyz/logo/好萊塢電影.png" group-title="其他",好萊塢電影
+http://198.16.100.90:8278/hollywoodmovies_twn/playlist.m3u8?tid=MA8A4005638840056388&ct=18392&tsum=a1f1517d4ea64fd01267905f21d83859
+#EXTINF:-1 tvg-id="好萊塢電影" tvg-name="好萊塢電影" tvg-logo="https://epg.112114.xyz/logo/好萊塢電影.png" group-title="其他",好萊塢電影
+http://198.16.100.90:8278/hollywoodmovies_twn/playlist.m3u8?tid=m39bfcd99239617992917&ct=17874&tsum=774ffa7546c934dc27e743c5bbb454d3
+#EXTINF:-1 tvg-id="好萊塢電影" tvg-name="好萊塢電影" tvg-logo="https://epg.112114.xyz/logo/好萊塢電影.png" group-title="其他",好萊塢電影
+http://198.16.100.90:8278/hollywoodmovies_twn/playlist.m3u8?tid=MF6F7143280071432800&ct=19211&tsum=c0bc00f05a03eb1bef16741e9fd9737e
+#EXTINF:-1 tvg-id="好萊塢電影HD" tvg-name="好萊塢電影HD" tvg-logo="https://epg.112114.xyz/logo/好萊塢電影.png" group-title="其他",好萊塢電影HD
+http://198.16.100.90:8278/hollywoodmovies_twn/playlist.m3u8?tid=MA8A4005638840056388&ct=18392&tsum=a1f1517d4ea64fd01267905f21d83859
+#EXTINF:-1 tvg-id="好萊塢電影HD" tvg-name="好萊塢電影HD" tvg-logo="https://epg.112114.xyz/logo/好萊塢電影.png" group-title="其他",好萊塢電影HD
+http://198.16.100.90:8278/hollywoodmovies_twn/playlist.m3u8?tid=MECE5611281156112811&ct=19225&tsum=ad8884ee16b04f885f24bae98fc5fb9f
+#EXTINF:-1 tvg-id="好萊塢電影HD" tvg-name="好萊塢電影HD" tvg-logo="https://epg.112114.xyz/logo/好萊塢電影.png" group-title="其他",好萊塢電影HD
+http://198.16.100.90:8278/hollywoodmovies_twn/playlist.m3u8?tid=MF6F7143280071432800&ct=19211&tsum=c0bc00f05a03eb1bef16741e9fd9737e
+#EXTINF:-1 tvg-id="愛爾達影劇HD" tvg-name="愛爾達影劇HD" tvg-logo="https://epg.112114.xyz/logo/愛爾達影劇.png" group-title="其他",愛爾達影劇HD
+http://198.16.100.90:8278/eltadrama_twn/playlist.m3u8?tid=mea60e416943110603068&ct=17874&tsum=ede38d2a218a34b5397af9d19e0c39a3
+#EXTINF:-1 tvg-id="愛爾達體育1台" tvg-name="愛爾達體育1台" tvg-logo="https://epg.112114.xyz/logo/愛爾達體育1台.png" group-title="其他",愛爾達體育1台
+http://198.16.100.90:8278/eltasport_twn/playlist.m3u8?tid=MF1F8884668388846683&ct=19249&tsum=b676f636b8ef285596dc6512fc4659d4
+#EXTINF:-1 tvg-id="愛爾達體育1台" tvg-name="愛爾達體育1台" tvg-logo="https://epg.112114.xyz/logo/愛爾達體育1台.png" group-title="其他",愛爾達體育1台
+http://198.16.100.90:8278/eltasport_twn/playlist.m3u8?tid=md3567b35401611916221&ct=17874&tsum=be2a069324faa7f0737ca0d396d43745
+#EXTINF:-1 tvg-id="愛爾達體育2台" tvg-name="愛爾達體育2台" tvg-logo="https://epg.112114.xyz/logo/愛爾達體育2台.png" group-title="其他",愛爾達體育2台
+http://198.16.100.90:8278/eltasport2_twn/playlist.m3u8?tid=MB2B3966739039667390&ct=19249&tsum=20bdbd3a22909e8d89aabe7a923c8c5b
+#EXTINF:-1 tvg-id="愛爾達體育2台" tvg-name="愛爾達體育2台" tvg-logo="https://epg.112114.xyz/logo/愛爾達體育2台.png" group-title="其他",愛爾達體育2台
+http://198.16.100.90:8278/eltasport_twn/playlist.m3u8?tid=MB5B8133126081331260&ct=19225&tsum=5cb9d121709b107014d31cf856f3572e
+#EXTINF:-1 tvg-id="探索亞洲" tvg-name="探索亞洲" tvg-logo="https://epg.112114.xyz/logo/探索亞洲.png" group-title="其他",探索亞洲
+http://198.16.100.90:8278/discoverytwn_twn/playlist.m3u8?tid=MAAA4463833744638337&ct=18393&tsum=c4bd4c633430327425e073012785525e
+#EXTINF:-1 tvg-id="探索亞洲" tvg-name="探索亞洲" tvg-logo="https://epg.112114.xyz/logo/探索亞洲.png" group-title="其他",探索亞洲
+http://198.16.100.90:8278/discoverytwn_twn/playlist.m3u8?tid=m42a2d91d6f2413622196&ct=17874&tsum=3653c4c61f0a0443dbb256dc465b4715
+#EXTINF:-1 tvg-id="探索動力" tvg-name="探索動力" tvg-logo="https://epg.112114.xyz/logo/探索動力.png" group-title="其他",探索動力
+http://198.16.100.90:8278/discoveryturbo_twn/playlist.m3u8?tid=MECE3122352031223520&ct=18393&tsum=66f49d6631e9a76ea563d20a25e0bd4c
+#EXTINF:-1 tvg-id="探索動力" tvg-name="探索動力" tvg-logo="https://epg.112114.xyz/logo/探索動力.png" group-title="其他",探索動力
+http://198.16.100.90:8278/discoveryturbo_twn/playlist.m3u8?tid=m33a70bc8259c12219783&ct=17877&tsum=b8470668b7a41d6b15a90b7aa43b3279
+#EXTINF:-1 tvg-id="探索動力" tvg-name="探索動力" tvg-logo="https://epg.112114.xyz/logo/探索動力.png" group-title="其他",探索動力
+http://198.16.100.90:8278/discoveryturbo_twn/playlist.m3u8?tid=MD5D5964869459648694&ct=19225&tsum=a21251b62069dff5c52601a3e4bc4a6d
+#EXTINF:-1 tvg-id="探索動力" tvg-name="探索動力" tvg-logo="https://epg.112114.xyz/logo/探索動力.png" group-title="其他",探索動力
+http://198.16.100.90:8278/discoveryturbo_twn/playlist.m3u8?tid=m33a70bc8259c12219783&ct=17877&tsum=b8470668b7a41d6b15a90b7aa43b3279
+#EXTINF:-1 tvg-id="探索動力" tvg-name="探索動力" tvg-logo="https://epg.112114.xyz/logo/探索動力.png" group-title="其他",探索動力
+http://198.16.100.90:8278/discoveryturbo_twn/playlist.m3u8?tid=MECE3122352031223520&ct=18393&tsum=66f49d6631e9a76ea563d20a25e0bd4c
+#EXTINF:-1 tvg-id="DMAX" tvg-name="DMAX" tvg-logo="https://epg.112114.xyz/logo/DMAX.png" group-title="其他",探索動力DMAX
+http://198.16.100.90:8278/discoveryturbo_twn/playlist.m3u8?tid=MD5D5964869459648694&ct=19225&tsum=a21251b62069dff5c52601a3e4bc4a6d
+#EXTINF:-1 tvg-id="探索科學" tvg-name="探索科學" tvg-logo="https://epg.112114.xyz/logo/探索科學.png" group-title="其他",探索科學
+http://198.16.100.90:8278/discoverysc_twn/playlist.m3u8?tid=MECE1045237810452378&ct=18393&tsum=806a4803bc2c402750bf7fde4daaf50e
+#EXTINF:-1 tvg-id="探索科學" tvg-name="探索科學" tvg-logo="https://epg.112114.xyz/logo/探索科學.png" group-title="其他",探索科學
+http://198.16.100.90:8278/discoverysc_twn/playlist.m3u8?tid=mc6599c2e8abf17200438&ct=17877&tsum=04c82c404888445ec55711287ad6b21b
+#EXTINF:-1 tvg-id="探索科學" tvg-name="探索科學" tvg-logo="https://epg.112114.xyz/logo/探索科學.png" group-title="其他",探索科學
+http://198.16.100.90:8278/discoverysc_twn/playlist.m3u8?tid=MECE1045237810452378&ct=18393&tsum=806a4803bc2c402750bf7fde4daaf50e
+#EXTINF:-1 tvg-id="探索科學" tvg-name="探索科學" tvg-logo="https://epg.112114.xyz/logo/探索科學.png" group-title="其他",探索科學
+http://198.16.100.90:8278/discoverysc_twn/playlist.m3u8?tid=mc6599c2e8abf17200438&ct=17877&tsum=04c82c404888445ec55711287ad6b21b
+#EXTINF:-1 tvg-id="探索科學" tvg-name="探索科學" tvg-logo="https://epg.112114.xyz/logo/探索科學.png" group-title="其他",探索科學
+http://198.16.100.90:8278/discoverysc_twn/playlist.m3u8?tid=MA9A4194864841948648&ct=19225&tsum=d87ede28c5152d8a730038fd5fb8207f
+#EXTINF:-1 tvg-id="探索頻道" tvg-name="探索頻道" tvg-logo="https://epg.112114.xyz/logo/探索頻道.png" group-title="其他",探索頻道
+http://198.16.100.90:8278/discoveryhd_twn/playlist.m3u8?tid=ME6E2405719624057196&ct=19225&tsum=57a7c421c65e00c1b8f68f67c30141dc
+#EXTINF:-1 tvg-id="探索頻道HD" tvg-name="探索頻道HD" tvg-logo="https://epg.112114.xyz/logo/探索頻道.png" group-title="其他",探索頻道HD
+http://198.16.100.90:8278/ba86fcd935/playlist.m3u8?tid=m1b458a366fcb&ct=18335&tsum=6ee1498a5e37d8bd1e3f62954629ed4f
+#EXTINF:-1 tvg-id="探索頻道HD" tvg-name="探索頻道HD" tvg-logo="https://epg.112114.xyz/logo/探索頻道.png" group-title="其他",探索頻道HD
+http://198.16.100.90:8278/discoverych_twn/playlist.m3u8?tid=MA3A2844188928441889&ct=18393&tsum=5b966ba17918ab0d7dd4c462d1b0b811
+#EXTINF:-1 tvg-id="星衛電影 HD" tvg-name="星衛電影 HD" tvg-logo="https://epg.112114.xyz/logo/星衛電影.png" group-title="其他",星衛電影 HD
+http://198.16.100.90:8278/xingwei_movie/playlist.m3u8?tid=ME6E2875344228753442&ct=18392&tsum=c21fc395d9e540e48d429400b2fb0b05
+#EXTINF:-1 tvg-id="星衛電影 HD" tvg-name="星衛電影 HD" tvg-logo="https://epg.112114.xyz/logo/星衛電影.png" group-title="其他",星衛電影 HD
+http://198.16.100.90:8278/xingwei_movie/playlist.m3u8?tid=MBDB4578128345781283&ct=19225&tsum=f2041ec954c95b4a5fe29d7ccbfe5b60
+#EXTINF:-1 tvg-id="星衛電影HD" tvg-name="星衛電影HD" tvg-logo="https://epg.112114.xyz/logo/星衛電影.png" group-title="其他",星衛電影HD
+http://198.16.100.90:8278/xingwei_movie/playlist.m3u8?tid=MBAB2096754620967546&ct=18392&tsum=2c800c1f0b6cc98d2404608c294dcbc2
+#EXTINF:-1 tvg-id="時尚台FTV" tvg-name="時尚台FTV" tvg-logo="https://epg.112114.xyz/logo/時尚台FTV.png" group-title="其他",時尚台FTV
+http://198.16.100.90:8278/fashiontv_twn/playlist.m3u8?tid=MABA6457047364570473&ct=18393&tsum=82840dc94ca1ecca47ac4c26d3ee4afc
+#EXTINF:-1 tvg-id="時尚台FTV" tvg-name="時尚台FTV" tvg-logo="https://epg.112114.xyz/logo/時尚台FTV.png" group-title="其他",時尚台FTV
+http://198.16.100.90:8278/fashiontv_twn/playlist.m3u8?tid=ma97f669e7343&ct=18335&tsum=732ba26aa334bf6c1fad8812deda83d1
+#EXTINF:-1 tvg-id="東森LIVE" tvg-name="東森LIVE" tvg-logo="https://epg.112114.xyz/logo/東森LIVE.png" group-title="其他",東森LIVE
+http://198.16.100.90:8278/ettvnews/playlist.m3u8?ct=19225&tid=MAEA2793211727932117&tsum=151345e2ab6bc0c89ac85598f1988cd3
+#EXTINF:-1 tvg-id="東森LIVE" tvg-name="東森LIVE" tvg-logo="https://epg.112114.xyz/logo/東森LIVE.png" group-title="其他",東森LIVE
+http://198.16.100.90:8278/ettvnews/playlist.m3u8?tid=MD1D1428989414289894&ct=19346&tsum=d8fc0ab62e1d97aaca4279883cb1101c
+#EXTINF:-1 tvg-id="東森幼幼 HD" tvg-name="東森幼幼 HD" tvg-logo="https://epg.112114.xyz/logo/東森幼幼.png" group-title="其他",東森幼幼 HD
+http://198.16.100.90:8278/yoyo_twn/playlist.m3u8?ct=17874&tid=m84c9b210bc7f11269156&tsum=51340c8fb7ca02ab978ee0791843501d
+#EXTINF:-1 tvg-id="東森幼幼 HD" tvg-name="東森幼幼 HD" tvg-logo="https://epg.112114.xyz/logo/東森幼幼.png" group-title="其他",東森幼幼 HD
+http://198.16.100.90:8278/yoyo_twn/playlist.m3u8?tid=m84c9b210bc7f11269156&ct=17874&tsum=51340c8fb7ca02ab978ee0791843501d
+#EXTINF:-1 tvg-id="東森戲劇 HD" tvg-name="東森戲劇 HD" tvg-logo="https://epg.112114.xyz/logo/東森戲劇.png" group-title="其他",東森戲劇 HD
+http://198.16.100.90:8278/ettvdrama/playlist.m3u8?tid=m921dcb630ebe17354109&ct=17874&tsum=695370160923af940d1a90d44c262acc
+#EXTINF:-1 tvg-id="東森戲劇 HD" tvg-name="東森戲劇 HD" tvg-logo="https://epg.112114.xyz/logo/東森戲劇.png" group-title="其他",東森戲劇 HD
+http://198.16.100.90:8278/ettvdrama/playlist.m3u8?tid=ME1E3883142638831426&ct=19225&tsum=12c87a5fab65a0ba071cebce86313f45
+#EXTINF:-1 tvg-id="東森戲劇" tvg-name="東森戲劇" tvg-logo="https://epg.112114.xyz/logo/東森戲劇.png" group-title="其他",東森戲劇
+http://198.16.100.90:8278/ettvdrama/playlist.m3u8?tid=MA2A9945921599459215&ct=19249&tsum=c9097ecdf4a17c0922196dbf04b0c6e7
+#EXTINF:-1 tvg-id="東森戲劇" tvg-name="東森戲劇" tvg-logo="https://epg.112114.xyz/logo/東森戲劇.png" group-title="其他",東森戲劇
+http://198.16.100.90:8278/ettvdrama/playlist.m3u8?tid=ME1E3883142638831426&ct=19225&tsum=12c87a5fab65a0ba071cebce86313f45
+#EXTINF:-1 tvg-id="東森洋片 HD" tvg-name="東森洋片 HD" tvg-logo="https://epg.112114.xyz/logo/東森洋片.png" group-title="其他",東森洋片 HD
+http://198.16.100.90:8278/ettvwestern/playlist.m3u8?tid=MC2C7134276471342764&ct=19225&tsum=4889d0c08d077336bd5066b912891aee
+#EXTINF:-1 tvg-id="東森洋片 HD" tvg-name="東森洋片 HD" tvg-logo="https://epg.112114.xyz/logo/東森洋片.png" group-title="其他",東森洋片 HD
+http://198.16.100.90:8278/ettvwestern/playlist.m3u8?tid=MB7B8303252483032524&ct=19249&tsum=14f89967cdf6c504230be29a87cc54f0
+#EXTINF:-1 tvg-id="東森洋片HD" tvg-name="東森洋片HD" tvg-logo="https://epg.112114.xyz/logo/東森洋片.png" group-title="其他",東森洋片HD
+http://198.16.100.90:8278/ettvwestern/playlist.m3u8?tid=mfdfc048e6c2416337202&ct=17874&tsum=cad39b26202d525ea820bee1d69e545f
+#EXTINF:-1 tvg-id="東森綜合 HD" tvg-name="東森綜合 HD" tvg-logo="https://epg.112114.xyz/logo/東森綜合.png" group-title="其他",東森綜合 HD
+http://198.16.100.90:8278/ettvzhonghe/playlist.m3u8?tid=m65c4e525f24617101171&ct=17874&tsum=663db593cfeefc92ce4b5d7461988f3f
+#EXTINF:-1 tvg-id="東森綜合 HD" tvg-name="東森綜合 HD" tvg-logo="https://epg.112114.xyz/logo/東森綜合.png" group-title="其他",東森綜合 HD
+http://198.16.100.90:8278/ettvzhonghe/playlist.m3u8?ct=17874&tid=m65c4e525f24617101171&tsum=663db593cfeefc92ce4b5d7461988f3f
+#EXTINF:-1 tvg-id="東森綜合" tvg-name="東森綜合" tvg-logo="https://epg.112114.xyz/logo/東森綜合.png" group-title="其他",東森綜合
+http://198.16.100.90:8278/ettvzhonghe/playlist.m3u8?tid=MC4C1214674912146749&ct=19254&tsum=9b96a50ba99dca1a02a27b05a6fb4b0d
+#EXTINF:-1 tvg-id="東森綜合HD" tvg-name="東森綜合HD" tvg-logo="https://epg.112114.xyz/logo/東森綜合.png" group-title="其他",東森綜合HD
+http://198.16.100.90:8278/ettvzhonghe/playlist.m3u8?tid=m65c4e525f24617101171&ct=17874&tsum=663db593cfeefc92ce4b5d7461988f3f
+#EXTINF:-1 tvg-id="東森財經HD" tvg-name="東森財經HD" tvg-logo="https://epg.112114.xyz/logo/東森財經.png" group-title="其他",東森財經HD
+http://198.16.100.90:8278/ettvcaijing_twn/playlist.m3u8?tid=MD5D9010164090101640&ct=19225&tsum=cc229773020f89af853b23d81e0e6371
+#EXTINF:-1 tvg-id="東森財經HD" tvg-name="東森財經HD" tvg-logo="https://epg.112114.xyz/logo/東森財經.png" group-title="其他",東森財經HD
+http://198.16.100.90:8278/ettvcaijing_twn/playlist.m3u8?tid=m999b5a0f7fca17599138&ct=17874&tsum=345085d2d6d4401fdb3da968dfee5a54
+#EXTINF:-1 tvg-id="東森財經新聞" tvg-name="東森財經新聞" tvg-logo="https://epg.112114.xyz/logo/東森財經新聞.png" group-title="其他",東森財經新聞
+http://198.16.100.90:8278/ettvcaijing_twn/playlist.m3u8?tid=MB8B2069463920694639&ct=19249&tsum=05ff51a1b274ce7d31d05bbf11df18ad
+#EXTINF:-1 tvg-id="東森超視 HD" tvg-name="東森超視 HD" tvg-logo="https://epg.112114.xyz/logo/東森超視.png" group-title="其他",東森超視 HD
+http://198.16.100.90:8278/ettvsuper/playlist.m3u8?tid=MA4A3005409230054092&ct=19225&tsum=c5d89f66fa1a8bcd26f482d4a370def5
+#EXTINF:-1 tvg-id="東森超視" tvg-name="東森超視" tvg-logo="https://epg.112114.xyz/logo/東森超視.png" group-title="其他",東森超視
+http://198.16.100.90:8278/ettvsuper/playlist.m3u8?tid=MB0B9022098390220983&ct=19249&tsum=594e3a93afe766cf27fd21b8addee391
+#EXTINF:-1 tvg-id="東森電影 HD" tvg-name="東森電影 HD" tvg-logo="https://epg.112114.xyz/logo/東森電影.png" group-title="其他",東森電影 HD
+http://198.16.100.90:8278/ettvmovie/playlist.m3u8?tid=MDED1943740419437404&ct=19225&tsum=120834a4218c4b5c3bb19efb8116f859
+#EXTINF:-1 tvg-id="東森電影 HD" tvg-name="東森電影 HD" tvg-logo="https://epg.112114.xyz/logo/東森電影.png" group-title="其他",東森電影 HD
+http://198.16.100.90:8278/ettvmovie/playlist.m3u8?tid=md2ba4c243ed411481253&ct=17874&tsum=4637ffbc3260e78931b566300e618313
+#EXTINF:-1 tvg-id="東森電影" tvg-name="東森電影" tvg-logo="https://epg.112114.xyz/logo/東森電影.png" group-title="其他",東森電影
+http://198.16.100.90:8278/ettvmovie/playlist.m3u8?tid=md2ba4c243ed411481253&ct=17874&tsum=4637ffbc3260e78931b566300e618313
+#EXTINF:-1 tvg-id="民視 HD" tvg-name="民視 HD" tvg-logo="https://epg.112114.xyz/logo/民視.png" group-title="其他",民視 HD
+http://198.16.100.90:8278/ftvhd_taiwan/playlist.m3u8?tid=15141291&ct=17990&tsum=ab93fcdf581cc3f483e1ceede13312ce
+#EXTINF:-1 tvg-id="民視 HD" tvg-name="民視 HD" tvg-logo="https://epg.112114.xyz/logo/民視.png" group-title="其他",民視 HD
+http://198.16.100.90:8278/ftvhd_taiwan/playlist.m3u8?tid=m15b424641a89&ct=18335&tsum=ba82cdbfb8253c45a13df5354e6d0dbc
+#EXTINF:-1 tvg-id="民視 HD" tvg-name="民視 HD" tvg-logo="https://epg.112114.xyz/logo/民視.png" group-title="其他",民視 HD
+http://198.16.100.90:8278/ftvhd_taiwan/playlist.m3u8?tid=MF8F2804739628047396&ct=19193&tsum=73a49379fed74f8fc39359fcf589a9d8
+#EXTINF:-1 tvg-id="民視HD" tvg-name="民視HD" tvg-logo="https://epg.112114.xyz/logo/民視.png" group-title="其他",民視HD
+http://198.16.100.90:8278/ftvhd_taiwan/playlist.m3u8?tid=15141291&ct=17990&tsum=ab93fcdf581cc3f483e1ceede13312ce
+#EXTINF:-1 tvg-id="民視HD" tvg-name="民視HD" tvg-logo="https://epg.112114.xyz/logo/民視.png" group-title="其他",民視HD
+http://198.16.100.90:8278/ftvhd_taiwan/playlist.m3u8?tid=m15b424641a89&ct=18335&tsum=ba82cdbfb8253c45a13df5354e6d0dbc
+#EXTINF:-1 tvg-id="民視台灣台" tvg-name="民視台灣台" tvg-logo="https://epg.112114.xyz/logo/民視台灣台.png" group-title="其他",民視台灣台
+http://198.16.100.90:8278/ftvtaiwan_twn/playlist.m3u8?tid=MDFD6045594360455943&ct=19193&tsum=0de4f998b15ba8f2ecdaa107d866212a
+#EXTINF:-1 tvg-id="民視台灣台" tvg-name="民視台灣台" tvg-logo="https://epg.112114.xyz/logo/民視台灣台.png" group-title="其他",民視台灣台
+http://198.16.100.90:8278/ftvtaiwan_twn/playlist.m3u8?tid=MEFE5254515252545152&ct=19249&tsum=c17f872b1772df8f76032030cc40bdbd
+#EXTINF:-1 tvg-id="民視台灣台" tvg-name="民視台灣台" tvg-logo="https://epg.112114.xyz/logo/民視台灣台.png" group-title="其他",民視台灣台
+http://198.16.100.90:8278/ftvtaiwan_twn/playlist.m3u8?tid=MDFD8196635981966359&ct=19226&tsum=b82639ac8b4590b4206effe348e2f9c2
+#EXTINF:-1 tvg-id="民視新聞HD" tvg-name="民視新聞HD" tvg-logo="https://epg.112114.xyz/logo/民視新聞.png" group-title="其他",民視新聞HD
+http://198.16.100.90:8278/ftvnew_taiwan/playlist.m3u8?tid=md953ce86cdad16241449&ct=17874&tsum=949d4aace793a001dd41392b210ba406
+#EXTINF:-1 tvg-id="民視第一台" tvg-name="民視第一台" tvg-logo="https://epg.112114.xyz/logo/民視第一台.png" group-title="其他",民視第一台
+http://198.16.100.90:8278/lunghuajingdian_twn/playlist.m3u8?tid=ME8E7785888977858889&ct=19226&tsum=a7c782372313ea616d8fced1cebdfbab
+#EXTINF:-1 tvg-id="緯來日本 HD" tvg-name="緯來日本 HD" tvg-logo="https://epg.112114.xyz/logo/緯來日本.png" group-title="其他",緯來日本 HD
+http://198.16.100.90:8278/videolandjapan/playlist.m3u8?tid=MBAB7250273772502737&ct=19344&tsum=2b580b485643235654de4a1bbc9639cb
+#EXTINF:-1 tvg-id="美亞電影" tvg-name="美亞電影" tvg-logo="https://epg.112114.xyz/logo/美亞電影.png" group-title="其他",美亞電影
+http://198.16.100.90:8278/meiyamovie_twn/playlist.m3u8?tid=ME9E6301165163011651&ct=19249&tsum=c2c246af848b424b68e94e4b35cfa337
+#EXTINF:-1 tvg-id="美亞電影" tvg-name="美亞電影" tvg-logo="https://epg.112114.xyz/logo/美亞電影.png" group-title="其他",美亞電影
+http://198.16.100.90:8278/meiyamovie_twn/playlist.m3u8?tid=mcfe3e109029013892155&ct=17874&tsum=164baeda6ab6c4160f2775128cfc6f4e
+#EXTINF:-1 tvg-id="美亞電影" tvg-name="美亞電影" tvg-logo="https://epg.112114.xyz/logo/美亞電影.png" group-title="其他",美亞電影
+http://198.16.100.90:8278/meiyamovie_twn/playlist.m3u8?tid=MD3D6323299363232993&ct=18392&tsum=3f73f541d33abe71140d28ada99a071b
+#EXTINF:-1 tvg-id="美亞電影HD" tvg-name="美亞電影HD" tvg-logo="https://epg.112114.xyz/logo/美亞電影.png" group-title="其他",美亞電影HD
+http://198.16.100.90:8278/meiyamovie_twn/playlist.m3u8?tid=MD3D6323299363232993&ct=18392&tsum=3f73f541d33abe71140d28ada99a071b
+#EXTINF:-1 tvg-id="美亞電影HD" tvg-name="美亞電影HD" tvg-logo="https://epg.112114.xyz/logo/美亞電影.png" group-title="其他",美亞電影HD
+http://198.16.100.90:8278/meiyamovie_twn/playlist.m3u8?tid=mcfe3e109029013892155&ct=17874&tsum=164baeda6ab6c4160f2775128cfc6f4e
+#EXTINF:-1 tvg-id="美食星球" tvg-name="美食星球" tvg-logo="https://epg.112114.xyz/logo/美食星球.png" group-title="其他",美食星球
+http://198.16.100.90:8278/foodplanet_twn/playlist.m3u8?tid=MCCC8639507586395075&ct=19226&tsum=69f5a90ff21aa5f4f58667bcdd713353
+#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.112114.xyz/logo/翡翠台.png" group-title="港澳台",翡翠台
+http://198.16.100.90:8278/Wlt/playlist.m3u8?tid=MC9C7523788875237888&ct=19225&tsum=fc74aa160d3ca61369c2e5f3ae79ee8e
+#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.112114.xyz/logo/翡翠台.png" group-title="港澳台",翡翠台
+http://198.16.100.90:8278/jade_twn/playlist.m3u8?tid=ME6E1330319113303191&ct=19225&tsum=d76985c4965fd63807e131035f66af09
+#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.112114.xyz/logo/翡翠台.png" group-title="港澳台",翡翠台
+http://198.16.100.90:8278/tvbxinhe_twn/playlist.m3u8?tid=ME2E8352893183528931&ct=19225&tsum=5f852c878e02000708a055c6b08a9405
+#EXTINF:-1 tvg-id="華視CH12HD" tvg-name="華視CH12HD" tvg-logo="https://epg.112114.xyz/logo/華視CH12.png" group-title="其他",華視CH12HD
+http://198.16.100.90:8278/ctshd_twn/playlist.m3u8?tid=m760743cf1f5e&ct=18335&tsum=9b0d2efb292253075aa4ec25cc439b81
+#EXTINF:-1 tvg-id="華視主頻道 HD" tvg-name="華視主頻道 HD" tvg-logo="https://epg.112114.xyz/logo/華視主頻道.png" group-title="其他",華視主頻道 HD
+http://198.16.100.90:8278/ctshd_twn/playlist.m3u8?ct=19226&tid=MAFA1309481213094812&tsum=429f7c40691cdcc6c1fb108dbd11e002
+#EXTINF:-1 tvg-id="華視主頻道 HD" tvg-name="華視主頻道 HD" tvg-logo="https://epg.112114.xyz/logo/華視主頻道.png" group-title="其他",華視主頻道 HD
+http://198.16.100.90:8278/ctshd_twn/playlist.m3u8?tid=m760743cf1f5e&ct=18335&tsum=9b0d2efb292253075aa4ec25cc439b81
+#EXTINF:-1 tvg-id="衛視中文台 HD" tvg-name="衛視中文台 HD" tvg-logo="https://epg.112114.xyz/logo/衛視中文台.png" group-title="其他",衛視中文台 HD
+http://198.16.100.90:8278/weishichinese_twn/playlist.m3u8?tid=MA8A7894022878940228&ct=19226&tsum=c0323ce59263e0096d4181626874e17c
+#EXTINF:-1 tvg-id="衛視中文台HD" tvg-name="衛視中文台HD" tvg-logo="https://epg.112114.xyz/logo/衛視中文台.png" group-title="其他",衛視中文台HD
+http://198.16.100.90:8278/weishichinese_twn/playlist.m3u8?tid=MB7B8325601583256015&ct=19249&tsum=88f84634240050b869fbbe8cfeb43cc7
+#EXTINF:-1 tvg-id="長城精品" tvg-name="長城精品" tvg-logo="https://epg.112114.xyz/logo/長城精品.png" group-title="其他",長城精品
+http://198.16.100.90:8278/chcfamily/playlist.m3u8?tid=ME7E3282776332827763&ct=18393&tsum=c098f25f9c140478d2a814b22a7ccbd3
+#EXTINF:-1 tvg-id="靖天卡通台" tvg-name="靖天卡通台" tvg-logo="https://epg.112114.xyz/logo/靖天卡通台.png" group-title="其他",靖天卡通
+http://198.16.100.90:8278/jingtiancartoon_twn/playlist.m3u8?tid=m1465dab025b5&ct=18335&tsum=ba935e583d90bfbe1d1d9662e9ac600c
+#EXTINF:-1 tvg-id="靖天國際台" tvg-name="靖天國際台" tvg-logo="https://epg.112114.xyz/logo/靖天國際台.png" group-title="其他",靖天國際台
+http://198.16.100.90:8278/jingtianintl_twn/playlist.m3u8?tid=ME4E7632479576324795&ct=19226&tsum=9922eeed6392b21e1710ba791cc599d6
+#EXTINF:-1 tvg-id="非凡新聞" tvg-name="非凡新聞" tvg-logo="https://epg.112114.xyz/logo/非凡新聞.png" group-title="其他",非凡新聞
+http://198.16.100.90:8278/feifannews_twn/playlist.m3u8?tid=ME3E6962233269622332&ct=19225&tsum=eea4d84db71e12ba91bfcf328f4dec9d
+#EXTINF:-1 tvg-id="鳳凰中文" tvg-name="鳳凰中文" tvg-logo="https://epg.112114.xyz/logo/鳳凰中文.png" group-title="其他",鳳凰中文
+http://198.16.100.90:8278/phoenixtv_hd/playlist.m3u8?tid=MFBF2713938527139385&ct=19225&tsum=1c8ca0899277714ab83db57245220068
+#EXTINF:-1 tvg-id="龍祥時代" tvg-name="龍祥時代" tvg-logo="https://epg.112114.xyz/logo/龍祥時代.png" group-title="其他",龍祥時代
+http://198.16.100.90:8278/cb7a1fec69/playlist.m3u8?tid=md05ab4002297&ct=18335&tsum=ebe4254ee0e073c2d3c9789e679c00a5
+#EXTINF:-1 tvg-id="龍祥時代" tvg-name="龍祥時代" tvg-logo="https://epg.112114.xyz/logo/龍祥時代.png" group-title="其他",龍祥時代
+http://198.16.100.90:8278/lungxiangtime_twn/playlist.m3u8?tid=MADA6805114368051143&ct=18392&tsum=d6a1f02ca9abd5368d2a365e40247ae8
+#EXTINF:-1 tvg-id="龍華偶像" tvg-name="龍華偶像" tvg-logo="https://epg.112114.xyz/logo/龍華偶像.png" group-title="其他",龍華偶像
+http://198.16.100.90:8278/lunghuaidol_twn/playlist.m3u8?tid=ME6E1618913016189130&ct=19226&tsum=392d7662a2ff7080289fbe9646e8501d
+#EXTINF:-1 tvg-id="龍華戲劇" tvg-name="龍華戲劇" tvg-logo="https://epg.112114.xyz/logo/龍華戲劇.png" group-title="其他",龍華戲劇
+http://198.16.100.90:8278/lunghuaxiju_twn/playlist.m3u8?tid=MBAB4709384347093843&ct=19226&tsum=a2a7258f8565588e10b8da2f26ba8039
+#EXTINF:-1 tvg-id="龍華戲劇" tvg-name="龍華戲劇" tvg-logo="https://epg.112114.xyz/logo/龍華戲劇.png" group-title="其他",龍華戲劇
+http://198.16.100.90:8278/lunghuaxiju_twn/playlist.m3u8?tid=m5c1b0bf1531015581628&ct=17874&tsum=2d2c4d6761fa92d63b97c0fe787007cb
+#EXTINF:-1 tvg-id="龍華戲劇" tvg-name="龍華戲劇" tvg-logo="https://epg.112114.xyz/logo/龍華戲劇.png" group-title="其他",龍華戲劇
+http://198.16.100.90:8278/lunghuaxiju_twn/playlist.m3u8?tid=MF2F2793524427935244&ct=19249&tsum=db1ef83fbbbae9a364979295fd690f7d
+#EXTINF:-1 tvg-id="龍華戲劇" tvg-name="龍華戲劇" tvg-logo="https://epg.112114.xyz/logo/龍華戲劇.png" group-title="其他",龍華戲劇
+http://198.16.100.90:8278/lunghuaxiju_twn/playlist.m3u8?tid=MBAB4709384347093843&ct=19226&tsum=a2a7258f8565588e10b8da2f26ba8039
+#EXTINF:-1 tvg-id="龍華洋片" tvg-name="龍華洋片" tvg-logo="https://epg.112114.xyz/logo/龍華洋片.png" group-title="其他",龍華洋片
+http://198.16.100.90:8278/lunghuawestern_twn/playlist.m3u8?tid=MF2F4784718547847185&ct=19249&tsum=55fdf18d765f2692c0553d316b671326
+#EXTINF:-1 tvg-id="龍華洋片" tvg-name="龍華洋片" tvg-logo="https://epg.112114.xyz/logo/龍華洋片.png" group-title="其他",龍華洋片
+http://198.16.100.90:8278/lunghuawestern_twn/playlist.m3u8?tid=MC1C3944472239444722&ct=19226&tsum=99c0c7c82e2fc48b16605865c3eaeb82
