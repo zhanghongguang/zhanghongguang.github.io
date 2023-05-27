@@ -270,12 +270,12 @@ http://livefr.cgtn.com/1000f/prog_index.m3u8
 http://tlivectfree-cdn.ysp.cctv.cn/AA7E3A0D77B6E9CB27AC884C34EB5689A9142C1025CF78048EC2389632462579A8011A79AB5CFB526CFE543C925C8D4A657AB934DAF09A1855DAE5BA1AB362215E4C862C0FA2C8B42C3AE9D5E3A327FA5E434CBFACB910E131FBC6882FFCF77F4DF8CEF5B7C555454EF4A77033F6C4B264D9A9A66C634268B10664FB236D290E6658FCF09790BEF90F94B28366F1A260/2010152603.m3u8?from=player&svrtime=1648265933&pid=600001800&cdn=5505
 #EXTINF:-1 group-title="央視 🇨🇳",阿拉伯语
 http://tlivectfree-cdn.ysp.cctv.cn/E301A8A6554A0A11990E1B5D01AD24B2418F0C6094B4C964E1CB8C4E8530C90284C01D98E5E7C95AA78CA329E871E22E966CBFAA8279CE3C73811A69EAC35FC619D4D2DCEE8DE9519AB9B2A20301BFBEB9AEC8C404B7ADE87EB72F90D14688AC06BEB56A43AEA821CABF9A04BFC217B7AD0C539D520F4B49CDF97E8914CA93C09369383646A16A26BA1A3955C26A5AC7/2010155203.m3u8?from=player&svrtime=1648265824&pid=600001800&cdn=5505
-#EXTINF:-1 group-title="央視 🇨🇳",兵器科技
-http://111.32.169.222/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2012513403.m3u8
+#EXTINF:-1 group-title="央視 🇨🇳",CCTV8K
+http://[2409:8087:2001:20:2800:0:df6e:eb02]/ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8
 #EXTINF:-1 group-title="上海 🇨🇳️",★★★★★上海 🇨🇳️★★★★★
 https://upload.wikimedia.org/wikipedia/commons/0/08/National_Flag_Anthem_of_the_Republic_of_China%E4%B8%AD%E8%8F%AF%E6%B0%91%E5%9C%8B%E5%9C%8B%E6%97%97%E6%AD%8C_%28%E6%BC%94%E5%A5%8F%E7%89%88%29.oga
 #EXTINF:-1 tvg-id="1984" tvg-name="上视新闻频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shangshixinwen.png" group-title="上海 🇨🇳️",上海新闻综合
-https://live.v1.mk/api/bestv.php?id=xwzhhd8m/8000000
+http://222.65.21.143:4022/udp/239.45.3.209:5140
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="上海 🇨🇳️",东方卫视
 http://222.71.221.186:9901/tsfile/live/0016_1.m3u8
 #EXTINF:-1 group-title="上海 🇨🇳️" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaidushi.jpg",上海都市频道
@@ -305,7 +305,7 @@ http://cfss.cc/ds/bst.php?id=Cf-55
 #EXTINF:-1 group-title="上海 🇨🇳️" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaidongfangyingshi.png",东方影视
 http://58.34.204.67:9901/tsfile/live/1016_1.m3u8
 #EXTINF:-1 tvg-id="五星体育" tvg-name="五星体育" tvg-logo="https://epg.112114.xyz/logo/五星体育.png" group-title="上海 🇨🇳️",五星体育[百视通]
-http://61.164.158.155/liveplay-kk.rtxapp.com/live/program/live/wxtyhd8m/8000000/mnf.m3u8
+http://222.65.21.143:4022/udp/239.45.3.210:5140
 #EXTINF:-1 group-title="上海 🇨🇳️" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/diyicaijing.png",上海第一财经
 http://61.164.158.155/liveplay-kk.rtxapp.com/live/program/live/dycjhd/4000000/mnf.m3u8
 #EXTINF:-1 group-title="上海 🇨🇳️" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanghaijishi.png",上海纪实
@@ -323,7 +323,7 @@ http://61.164.158.155/liveplay-kk.rtxapp.com/live/program/live/jbtyhd8m/8000000/
 #EXTINF:-1 group-title="上海 🇨🇳️" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jisuqiche.png",MAX极速汽车
 https://live.goodiptv.club/api/sxg.php?id=jsqcH265_4000
 #EXTINF:-1 group-title="上海 🇨🇳️" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/qicaixiju.png",七彩戏剧
-https://live.goodiptv.club/api/sxg.php?id=qcxj_2000
+http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001308/index.m3u8?
 #EXTINF:-1 tvg-id="SITV七彩戏剧" tvg-name="SITV七彩戏剧" tvg-logo="https://epg.112114.xyz/logo/SITV七彩戏剧.png" group-title="上海 🇨🇳️",七彩戏剧
 http://jasoncao.asuscomm.com:8888/udp/239.45.0.16:5140$上海电信组播
 #EXTINF:-1 group-title="地方臺 🇨🇳️",★★★★★地方臺 🇨🇳️★★★★★
