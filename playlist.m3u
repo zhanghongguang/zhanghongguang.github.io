@@ -766,30 +766,26 @@ http://pull-l3-cny.douyincdn.com/live/a9e3982a798d13ba350075af6cff4119.m3u8
 http://www.336699.live:1935/blockfour/4gtv-4gtv052.stream/playlist.m3u8
 #EXTINF:-1 group-title="臺灣 🇹🇼️" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ftv-taiwan.png",民视台湾台
 http://www.336699.live:1935/blockfour/4gtv-4gtv001.stream/playlist.m3u8
-#EXTINF:-1 group-title="臺灣 🇹🇼️",民视第一台
-http://www.336699.live:1935/blockfour/4gtv-4gtv003.stream/playlist.m3u8
-#EXTINF:-1 group-title="臺灣 🇹🇼️",民视综艺台
-http://www.336699.live:1935/blockfour/4gtv-4gtv004.stream/playlist.m3u8
-#EXTINF:-1 group-title="臺灣 🇹🇼️",智林体育台
-http://www.336699.live:1935/blockfour/4gtv-4gtv101.stream/playlist.m3u8
-#EXTINF:-1 group-title="臺灣 🇹🇼️",TVBS
-http://www.336699.live:1935/blockfour/4gtv-4gtv073.stream/playlist.m3u8
-#EXTINF:-1 group-title="臺灣 🇹🇼️",CHY电影台
-http://www.336699.live:1935/blockfour/4gtv-4gtv076.stream/playlist.m3u8
-#EXTINF:-1 group-title="臺灣 🇹🇼️",HITS
-http://www.336699.live:1935/blockfour/4gtv-4gtv082.stream/playlist.m3u8
-#EXTINF:-1 group-title="臺灣 🇹🇼️",GinX
-http://www.336699.live:1935/blockfour/4gtv-4gtv053.stream/playlist.m3u8
-#EXTINF:-1 group-title="臺灣 🇹🇼️",好莱坞电影
-https://pull-l3-cny.douyincdn.com/live/06027cd7cadf310982fe67221578515b.m3u8
+#EXTINF:-1 group-title="臺灣 🇹🇼️",TVBS欢乐
+rtmp://9wv7.mine.nu/sat/tv421
+#EXTINF:-1 group-title="臺灣 🇹🇼️",纬来育乐
+rtmp://9wv7.mine.nu/sat/tv701
+#EXTINF:-1 group-title="臺灣 🇹🇼️",momo综合
+rtmp://9wv7.mine.nu/sat/tv761
+#EXTINF:-1 group-title="臺灣 🇹🇼️",纬来日本
+rtmp://9wv7.mine.nu/sat/tv771
+#EXTINF:-1 group-title="臺灣 🇹🇼️",华视
+rtmp://9wv7.mine.nu/sat/tv111
+#EXTINF:-1 group-title="臺灣 🇹🇼️",中视
+rtmp://9wv7.mine.nu/sat/tv091
 #EXTINF:-1 group-title="臺灣 🇹🇼️",卫视卡式台
 https://d1--cn-gotcha204.bilivideo.com/live-bvc/792068/live_372775317_46465575/index.m3u8
-#EXTINF:-1 group-title="臺灣 🇹🇼️",GoodTV 经典音乐
-https://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch6-2.m3u8
-#EXTINF:-1 group-title="臺灣 🇹🇼️",GoodTV 爱旅行台
-https://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch11-2.m3u8
-#EXTINF:-1 group-title="臺灣 🇹🇼️",LIVE互動英語
-http://www.336699.live:1935/blocksix/4gtv-live030.stream/chunklist.m3u8
+#EXTINF:-1 group-title="臺灣 🇹🇼️",台视
+rtmp://9wv7.mine.nu/sat/tv071
+#EXTINF:-1 group-title="臺灣 🇹🇼️",民视
+rtmp://9wv7.mine.nu/sat/tv051
+#EXTINF:-1 group-title="臺灣 🇹🇼️",東森超视
+rtmp://9wv7.mine.nu/sat/tv331
 #EXTINF:-1 tvg-name="民视新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FTVNews.png" group-title="臺灣 🇹🇼️",民视新闻台
 http://47.113.189.55/iptv/iptv.php?key=ced93979274d74470b525fc6372adbc9&id=50
 #EXTINF:-1 tvg-name="民视新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FTVNews.png" group-title="臺灣 🇹🇼️",民视新闻台
