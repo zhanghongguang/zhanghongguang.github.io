@@ -1,4 +1,41 @@
 #EXTM3U
+#EXTINF:-1 group-title="CCTV",CCTV1_2.5M720
+http://cyz32.livehbindex.hbcatv.cn/live/50000020935c4d59965a1cbf159c9be9.m3u8?bitrate=2300&pt=5
+#EXTINF:-1 group-title="CCTV",CCTV2_2.5M720
+http://cyz32.livehbindex.hbcatv.cn/live/50000020d7ae404dbd55b5d0ba6fe735.m3u8?bitrate=2300&pt=5
+#EXTINF:-1 group-title="CCTV",CCTV3_2.5M720(4:3)
+http://cyz32.livehbindex.hbcatv.cn/live/50000020425540c3b4e7c41ca3eabb76.m3u8?bitrate=2300&pt=5
+#EXTINF:-1 group-title="CCTV",CCTV4_2.5M720
+http://cyz32.livehbindex.hbcatv.cn/live/5b0dff5235e94ba8bff8731427145289.m3u8?bitrate=2300&pt=5
+#EXTINF:-1 group-title="CCTV",CCTV5_2.5M720(4:3)
+http://cyz32.livehbindex.hbcatv.cn/live/500000206cd748d58f41b13aa2754139.m3u8?bitrate=2300&pt=5
+#EXTINF:-1 group-title="CCTV",CCTV5+_2.5M720
+http://cyz32.livehbindex.hbcatv.cn/live/50000020484943edba96ac9f93f858ce.m3u8?bitrate=2300&pt=5
+#EXTINF:-1 group-title="CCTV",CCTV6_2.5M720(4:3)
+http://cyz32.livehbindex.hbcatv.cn/live/50000020da6d4c40a2ca3b1bdc786016.m3u8?bitrate=2300&pt=5
+#EXTINF:-1 group-title="CCTV",CCTV7_2.5M720
+http://cyz32.livehbindex.hbcatv.cn/live/500000204daa45af99b5800a528fac21.m3u8?bitrate=2300&pt=5
+#EXTINF:-1 group-title="CCTV",CCTV8_2.5M720(拉伸)
+http://cyz32.livehbindex.hbcatv.cn/live/500000202d8c4f56ba03e623caa09f1b.m3u8?bitrate=2300&pt=5
+#EXTINF:-1 group-title="CCTV",CCTV9_2.5M720
+http://cyz32.livehbindex.hbcatv.cn/live/50000020edf54f6c92778d0ccdfcca30.m3u8?bitrate=2300&pt=5
+#EXTINF:-1 group-title="CCTV",CCTV10_2.5M720
+http://cyz32.livehbindex.hbcatv.cn/live/a66832f3323643189c3a0e91f9fad3e3.m3u8?bitrate=2300&pt=5
+#EXTINF:-1 group-title="CCTV",CCTV11_2.5M576
+http://cyz32.livehbindex.hbcatv.cn/live/5000002086444f0886ad7032ad8f756b.m3u8?bitrate=2300&pt=5
+#EXTINF:-1 group-title="CCTV",CCTV12_2.5M720
+http://cyz32.livehbindex.hbcatv.cn/live/fbe7688bc539461da71ff649e4ba1d75.m3u8?bitrate=2300&pt=5
+#EXTINF:-1 group-title="CCTV",CCTV13_2.5M720
+http://cyz32.livehbindex.hbcatv.cn/live/5000002081f5478882f00a0f9be4b01f.m3u8?bitrate=2300&pt=5
+#EXTINF:-1 group-title="CCTV",CCTV14_2.5M720
+http://cyz32.livehbindex.hbcatv.cn/live/8a22035194884b1eb5515aac434c313c.m3u8?bitrate=2300&pt=5
+#EXTINF:-1 group-title="CCTV",CCTV15_2.5M576
+http://cyz32.livehbindex.hbcatv.cn/live/50000020f44f4f4b8aa33925dba216df.m3u8?bitrate=2300&pt=5
+#EXTINF:-1 group-title="CCTV",CCTV16_2.5M720
+http://cyz32.livehbindex.hbcatv.cn/live/50000020c65d4a6b9b4e278405124734.m3u8?bitrate=2300&pt=5
+#EXTINF:-1 group-title="CCTV",CCTV17_2.5M720
+http://cyz32.livehbindex.hbcatv.cn/live/500000208b8d41c4b436ef32428c229d.m3u8?bitrate=2300&pt=5
+
 #EXTINF:-1 group-title="台湾",RHK 32
 http://198.16.100.90:8278/rhk32_twn/playlist.m3u8?tid=MDBD4704174447041744&ct=19249&tsum=763ebe53fc33677d02ebf83b4d558d33
 #EXTINF:-1 group-title="台湾",RHK 31
