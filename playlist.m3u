@@ -361,7 +361,7 @@ http://hongyanqiang.top/chudian.php?id=gdgj
 #EXTINF:-1 tvg-id="6242" tvg-name="求索动物“ tvg-logo="http://epg.51zmt.top:8000/tb1/qt/QSDW.png" group-title="地方臺 🇨🇳️",求索动物
 http://39.134.136.141:6610/000000001000/2000000004000000009/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000009&livemode=1&stbId=3
 #EXTINF:-1 group-title="地方臺 🇨🇳️" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jinyingjishi.png",金鹰纪实
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225595/index.m3u8?fmt=ts2hls
+http://test.jlpgs.top:7000/udp/239.93.0.130:5140
 #EXTINF:-1 group-title="地方臺 🇨🇳️",中国气象频道
 http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
 #EXTINF:-1 group-title="地方臺 🇨🇳️",CNC 英文
