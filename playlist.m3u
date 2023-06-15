@@ -210,7 +210,7 @@ http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/bestv.php?id=cctv2hd8m/8000
 http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/bestv.php?id=cctv38m/8000000
 #EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV4" tvg-id="CCTV4" tvg-name="CCTV4" group-title="央視 🇨🇳",CCTV4 8M
 http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/bestv.php?id=cctv4hd8m/8000000
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV4k" tvg-id="CCTV4k" tvg-name="CCTV4k" group-title="数字付费",CCTV4K-25P-HLG源
+#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV4k" tvg-id="CCTV4k" tvg-name="CCTV4k" group-title="央視 🇨🇳",CCTV4K-25P-HLG源
 http://159.75.85.63:5679/cctv4k.php
 #EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV5" tvg-id="CCTV5" tvg-name="CCTV5" group-title="央視 🇨🇳",CCTV5 8M
 http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/bestv.php?id=cctv58m/8000000
