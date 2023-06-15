@@ -293,9 +293,9 @@ http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/bestv.php?id=dycjhd8m/80000
 #EXTINF:-1 group-title="上海 🇨🇳️" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanghaijishi.png",上海纪实
 http://www.icancloud.top:8888/udp/239.3.1.212:8060$北京联通1
 #EXTINF:-1 group-title="上海 🇨🇳️" tvg-logo="https://epg.112114.xyz/logo/乐游.png",乐游
-http://183.207.255.188/live/program/live/qjshd/4000000/mnf.m3u8
+http://[2409:8087:7000:20::F]:80/dbiptv.sn.chinamobile.com/TVOD/88888890/224/3221226580/index.m3u8
 #EXTINF:-1 group-title="上海 🇨🇳️" tvg-logo="https://epg.112114.xyz/logo/乐游.png",乐游
-http://61.164.158.155/liveplay-kk.rtxapp.com/live/program/live/qjshd8m/8000000/mnf.m3u8
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002157/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 group-title="上海 🇨🇳️" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/xuandong.png",哈哈炫动
 http://op.nicker.top:3222/udp/239.11.0.64:5140
 #EXTINF:-1 group-title="上海 🇨🇳️" tvg-logo="https://epg.112114.xyz/logo/SITV都市剧场.png",都市剧场
