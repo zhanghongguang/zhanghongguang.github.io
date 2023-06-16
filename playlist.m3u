@@ -476,54 +476,62 @@ http://[2409:8087:3408:20:5040::106]:18890/PLTV/88888888/224/3221227190/index.m3
 http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227190/index.m3u8
 #EXTINF:-1 group-title="福建 🇨🇳️" tvg-logo="https://epg.pm/media/images/channel/2022/05/30/large/20220530233623778528_85.jpg",福建综合
 http://p6.vzan.com/slowlive/255033440446192227/live.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/newtv中国功夫.jpg" group-title="NewTV🇨🇳️",NewTV东北热剧
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226202/index.m3u8#http://39.135.138.58:18890/PLTV/88888888/224/3221226202/index.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/newtv中国功夫.jpg" group-title="NewTV🇨🇳️",NewTV中国功夫
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225660/index.m3u8#http://111.40.196.9/PLTV/88888888/224/3221225678/index.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/newtv军事评论.jpg" group-title="NewTV🇨🇳️",NewTV军事评论
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225757/index.m3u8#http://111.40.196.9/PLTV/88888888/224/3221225634/index.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/newtv军旅剧场.jpg" group-title="NewTV🇨🇳️",NewTV军旅剧场 4M1080
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225669/index.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/newtv农业致富.jpg" group-title="NewTV🇨🇳️",NewTV农业致富
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225670/index.m3u8#http://111.40.196.9/PLTV/88888888/224/3221225636/index.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/newtv古装剧场.jpg" group-title="NewTV🇨🇳️",NewTV古装剧场 4M1080
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225678/index.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/newtv家庭剧场.jpg" group-title="NewTV🇨🇳️",NewTV家庭剧场
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225713/index.m3u8#http://111.40.196.9/PLTV/88888888/224/3221225626/index.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/newtv中国功夫.jpg" group-title="NewTV🇨🇳️",NewTV怡伴健康 4M1080
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225666/index.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/newtv惊悚悬疑.jpg" group-title="NewTV🇨🇳️",NewTV惊悚悬疑 4M1080
-http://39.135.253.7/0000000000001001/1/index.m3u8?Contentid=7151256057701199617&livemode=1&stbId=2&channel-id=ystenlive
-#EXTINF:-1 tvg-logo="../Channel/Logo/newtv明星大片.jpg" group-title="NewTV🇨🇳️",NewTV明星大片
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225716/index.m3u8#3221225716
-#EXTINF:-1 tvg-logo="../Channel/Logo/newtv中国功夫.jpg" group-title="NewTV🇨🇳️",NewTV欢乐剧场
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226210/index.m3u8#http://39.135.138.58:18890/PLTV/88888888/224/3221226210/index.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/NewTV武搏世界.jpg" group-title="NewTV🇨🇳️",NewTV武搏世界
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225656/index.m3u8#http://111.40.196.9/PLTV/88888888/224/3221225664/index.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/newtv海外剧场.jpg" group-title="NewTV🇨🇳️",NewTV海外剧场 4M1080
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225712/index.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/newtv潮妈辣婆.jpg" group-title="NewTV🇨🇳️",NewTV潮妈辣婆 4M1080
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225708/index.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/newtv中国功夫.jpg" group-title="NewTV🇨🇳️",NewTV炫舞未来
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225707/index.m3u8#http://39.135.138.58:18890/PLTV/88888888/224/3221225707/index.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/newtv爱情喜剧.jpg" group-title="NewTV🇨🇳️",NewTV爱情喜剧 4M1080
-http://39.135.253.7/0000000000001001/1/index.m3u8?Contentid=8393829412396288037&livemode=1&stbId=2&channel-id=ystenlive
-#EXTINF:-1 tvg-logo="../Channel/Logo/newtv精品体育.jpg" group-title="NewTV🇨🇳️",NewTV精品综合
-http://111.40.196.9/PLTV/88888888/224/3221225632/index.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/newtv精品体育.jpg" group-title="NewTV🇨🇳️",NewTV精品体育 4M1080
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225709/index.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/newtv精品大剧.jpg" group-title="NewTV🇨🇳️",NewTV精品大剧 4M1080
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225714/index.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/newtv精品体育.jpg" group-title="NewTV🇨🇳️",NewTV精品纪录 2.5M1080
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225710/index.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/newtv中国功夫.jpg" group-title="NewTV🇨🇳️",NewTV超级体育
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225767/index.m3u8#http://39.135.138.58:18890/PLTV/88888888/224/3221225622/index.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/newtv中国功夫.jpg" group-title="NewTV🇨🇳️",NewTV超级电视剧
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225765/index.m3u8#http://39.135.138.58:18890/PLTV/88888888/224/3221225625/index.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/newtv中国功夫.jpg" group-title="NewTV🇨🇳️",NewTV超级综艺
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225768/index.m3u8#http://39.135.138.58:18890/PLTV/88888888/224/3221225620/index.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/newtv金牌综艺.jpg" group-title="NewTV🇨🇳️",NewTV金牌综艺
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225711/index.m3u8#http://111.40.196.9/PLTV/88888888/224/3221225650/index.m3u8
+#EXTINF:-1 group-title="NewTV🇨🇳️",NewTV潮妈辣婆
+http://api3.52tb.xyz/info?id=314&token=20230227aesvnb
+#EXTINF:-1 group-title="NewTV🇨🇳️",NewTV军事评论
+http://api3.52tb.xyz/info?id=318&token=20230227aesvnb
+#EXTINF:-1 group-title="NewTV🇨🇳️",NewTV武博世界
+http://api3.52tb.xyz/info?id=313&token=20230227aesvnb
+#EXTINF:-1 group-title="NewTV🇨🇳️",NewTV魅力潇湘
+http://api3.52tb.xyz/info?id=320&token=20230227aesvnb
+#EXTINF:-1 group-title="NewTV🇨🇳️",NewTV军旅剧场
+http://api3.52tb.xyz/info?id=309&token=20221127jxwhhemby
+#EXTINF:-1 group-title="NewTV🇨🇳️",NewTV精品纪录
+http://api3.52tb.xyz/info?id=311&token=20221127jxwhhemby
+#EXTINF:-1 group-title="NewTV🇨🇳️",NewTV农业致富
+http://api3.52tb.xyz/info?id=312&token=20221127jxwhhemby
+#EXTINF:-1 group-title="NewTV🇨🇳️",NewTV武博世界
+http://api3.52tb.xyz/info?id=313&token=20221127jxwhhemby
+#EXTINF:-1 group-title="NewTV🇨🇳️",NewTV炫舞未来
+http://api3.52tb.xyz/info?id=315&token=20221127jxwhhemby
+#EXTINF:-1 group-title="NewTV🇨🇳️",NewTV潮妈辣婆
+http://api3.52tb.xyz/info?id=314&token=20221127jxwhhemby
+#EXTINF:-1 group-title="NewTV🇨🇳️",NewTV健康有约
+http://api3.52tb.xyz/info?id=316&token=20221127jxwhhemby
+#EXTINF:-1 group-title="NewTV🇨🇳️",NewTV中国功夫
+http://api3.52tb.xyz/info?id=317&token=20221127jxwhhemby
+#EXTINF:-1 group-title="NewTV🇨🇳️",NewTV军事评论
+http://api3.52tb.xyz/info?id=318&token=20221127jxwhhemby
+#EXTINF:-1 group-title="NewTV🇨🇳️",NewTV魅力潇湘
+http://api3.52tb.xyz/info?id=320&token=20221127jxwhhemby
+#EXTINF:-1 group-title="NewTV🇨🇳️",NewTV明星大片
+http://api2.52tb.xyz/info?id=302&token=20230218qkyjia
+#EXTINF:-1 group-title="NewTV🇨🇳️",NewTV金牌综艺
+http://api2.52tb.xyz/info?id=303&token=20230218qkyjia
+#EXTINF:-1 group-title="NewTV🇨🇳️",NewTV惊悚悬疑
+http://api2.52tb.xyz/info?id=304&token=20230218qkyjia
+#EXTINF:-1 group-title="NewTV🇨🇳️",NewTV惊悚悬疑
+http://api2.52tb.xyz/info?id=304&token=20230218jsyklh
+#EXTINF:-1 group-title="NewTV🇨🇳️",NewTV金牌综艺
+http://api2.52tb.xyz/info?id=303&token=20230218jsyklh
+#EXTINF:-1 group-title="NewTV🇨🇳️",NewTV古装剧场
+http://api2.52tb.xyz/info?id=306&token=20230218jsyklh
+#EXTINF:-1 group-title="NewTV🇨🇳️",NewTV爱情喜剧
+http://api2.52tb.xyz/info?id=305&token=20230218jsyklh
+#EXTINF:-1 group-title="NewTV🇨🇳️",NewTV精品大剧
+http://api2.52tb.xyz/info?id=308&token=20230218jsyklh
+#EXTINF:-1 group-title="NewTV🇨🇳️",NewTV家庭剧场
+http://api2.52tb.xyz/info?id=307&token=20230218jsyklh
+#EXTINF:-1 group-title="NewTV🇨🇳️",NewTV军旅剧场
+http://api2.52tb.xyz/info?id=309&token=20230218jsyklh
+#EXTINF:-1 group-title="NewTV🇨🇳️",NewTV精品体育
+http://api2.52tb.xyz/info?id=310&token=20230218jsyklh
+#EXTINF:-1 group-title="NewTV🇨🇳️",NewTV精品纪录
+http://api2.52tb.xyz/info?id=311&token=20230218jsyklh
+#EXTINF:-1 group-title="NewTV🇨🇳️",NewTV农业致富
+http://api2.52tb.xyz/info?id=312&token=20230218jsyklh
+#EXTINF:-1 group-title="NewTV🇨🇳️",NewTV武博世界
+http://api2.52tb.xyz/info?id=313&token=20230218jsyklh
 #EXTINF:-1 group-title="iHOT 🇨🇳️",精彩影视
 http://39.134.136.160:6610/000000001000/6000000006000320630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000320630&livemode=1&stbId=3
 #EXTINF:-1 group-title="iHOT 🇨🇳️",求索动物
