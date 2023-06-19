@@ -463,19 +463,19 @@ http://tv.vtibet.cn/live/fvu63z5JqH7P3.m3u8
 #EXTINF:-1 tvg-id="71" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xizang.png" tvg-speed="4MB/s" tvg-rez="720x576" group-title="卫视 🇨🇳️",藏语卫视
 https://tv.vtibet.cn/live/M7B3Uyd8XG8H1.m3u8
 #EXTINF:-1 tvg-id="68" tvg-name="厦门卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xiamen.png" tvg-speed="3MB/s" tvg-rez="720x576" group-title="福建 🇨🇳️",厦门卫视
-http://39.135.138.58:18890/ysten-businessmobile/live/SD-4000k-576P-xiamenstv/1.m3u8?zfud
+http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221226964/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
 #EXTINF:-1 tvg-logo=厦门卫视.png tvg-name=厦门卫视 group-title="福建 🇨🇳️",厦门1
-http://39.135.34.144:8080/PLTV/88888888/224/3221226814/index.m3u8?servicetype=1
+http://[2409:8087:3408:20:5040::106]:18890/PLTV/88888888/224/3221227185/index.m3u8
 #EXTINF:-1 group-title="福建 🇨🇳️",南平1 8M1080
-http://39.135.55.72:6610/PLTV/88888888/224/3221227066/index.m3u8?servicetype=1
+http://[2409:8087:3408:20:5040::106]:18890/PLTV/88888888/224/3221227066/index.m3u8
 #EXTINF:-1 group-title="福建 🇨🇳️",南平2 8M1080
-http://39.135.55.72:6610/PLTV/88888888/224/3221226956/index.m3u8?servicetype=1
+http://[2409:8087:3408:20:5040::106]:18890/PLTV/88888888/224/3221226956/index.m3u8
 #EXTINF:-1 group-title="福建 🇨🇳️",福建旅游
-http://[2409:8087:3408:20:5040::106]:18890/PLTV/88888888/224/3221227190/index.m3u8
+http://[2409:8087:3408:20:5040::106]:18890/PLTV/88888888/224/3221227188/index.m3u8
 #EXTINF:-1 group-title="福建 🇨🇳️",福建旅游
 http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227190/index.m3u8
 #EXTINF:-1 group-title="福建 🇨🇳️" tvg-logo="https://epg.pm/media/images/channel/2022/05/30/large/20220530233623778528_85.jpg",福建综合
-http://p6.vzan.com/slowlive/255033440446192227/live.m3u8
+http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227149/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
 #EXTINF:-1 group-title="NewTV 🇨🇳️",NewTV潮妈辣婆
 http://api3.52tb.xyz/info?id=314&token=20230227aesvnb
 #EXTINF:-1 group-title="NewTV 🇨🇳️",NewTV军事评论
