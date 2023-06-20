@@ -203,39 +203,43 @@ http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226921/1.m3
 #EXTINF:-1 tvg-logo=CCTV17.png group-title="央視 🇨🇳",CCTV17
 http://39.135.138.59:18890/PLTV/88888910/224/3221225908/index.m3u8
 #EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV1" tvg-id="CCTV1" tvg-name="CCTV1" group-title="央視 🇨🇳",CCTV1 8M
-http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/bestv.php?id=cctv1hd8m/8000000
+http://cfss.cc/ds/bst.php?id=Cf-1
 #EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV2" tvg-id="CCTV2" tvg-name="CCTV2" group-title="央視 🇨🇳",CCTV2 8M
-http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/bestv.php?id=cctv2hd8m/8000000
+http://cfss.cc/ds/bst.php?id=Cf-2
 #EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV3" tvg-id="CCTV3" tvg-name="CCTV3" group-title="央視 🇨🇳",CCTV3 8M
-http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/bestv.php?id=cctv38m/8000000
+http://cfss.cc/ds/bst.php?id=Cf-3
 #EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV4" tvg-id="CCTV4" tvg-name="CCTV4" group-title="央視 🇨🇳",CCTV4 8M
-http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/bestv.php?id=cctv4hd8m/8000000
+http://cfss.cc/ds/bst.php?id=Cf-4
 #EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV4k" tvg-id="CCTV4k" tvg-name="CCTV4k" group-title="央視 🇨🇳",CCTV4K-25P-HLG源
 http://159.75.85.63:5679/cctv4k.php
 #EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV5" tvg-id="CCTV5" tvg-name="CCTV5" group-title="央視 🇨🇳",CCTV5 8M
-http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/bestv.php?id=cctv58m/8000000
+http://cfss.cc/ds/bst.php?id=Cf-5
 #EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV5" tvg-id="CCTV5" tvg-name="CCTV5" group-title="央視 🇨🇳",CCTV5+ 8M
-http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/bestv.php?id=cctv5phd8m/8000000
+http://cfss.cc/ds/bst.php?id=Cf-6
 #EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV6" tvg-id="CCTV6" tvg-name="CCTV6" group-title="央視 🇨🇳",CCTV6 8M
-http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/bestv.php?id=cctv6hd8m/8000000
+http://cfss.cc/ds/bst.php?id=Cf-7
 #EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV7" tvg-id="CCTV7" tvg-name="CCTV7" group-title="央視 🇨🇳",CCTV7 8M
-http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/bestv.php?id=cctv7hd8m/8000000
+http://cfss.cc/ds/bst.php?id=Cf-8
 #EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV8" tvg-id="CCTV8" tvg-name="CCTV8" group-title="央視 🇨🇳",CCTV8 8M
-http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/bestv.php?id=cctv8hd8m/8000000
+http://cfss.cc/ds/bst.php?id=Cf-9
 #EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV9" tvg-id="CCTV9" tvg-name="CCTV9" group-title="央視 🇨🇳",CCTV9 8M
-http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/bestv.php?id=cctv9hd8m/8000000
+http://cfss.cc/ds/bst.php?id=Cf-10
 #EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV10" tvg-id="CCTV10" tvg-name="CCTV10" group-title="央視 🇨🇳",CCTV10 8M
-http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/bestv.php?id=cctv10hd8m/8000000
+http://cfss.cc/ds/bst.php?id=Cf-11
+#EXTINF:-1 tvg-name="CCTV11" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png" tvg-speed="9MB/s" group-title="央視 🇨🇳",CCTV-11 8M
+http://cfss.cc/ds/bst.php?id=Cf-12
 #EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV12" tvg-id="CCTV12" tvg-name="CCTV12" group-title="央視 🇨🇳",CCTV12 8M
-http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/bestv.php?id=cctv12hd8m/8000000
+http://cfss.cc/ds/bst.php?id=Cf-13
 #EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV13" tvg-id="CCTV13" tvg-name="CCTV13" group-title="央視 🇨🇳",CCTV13 8M
-http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/bestv.php?id=cctv13xwhd8m/8000000
+http://cfss.cc/ds/bst.php?id=Cf-14
+#EXTINF:-1 tvg-name="CCTV14" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" tvg-speed="7MB/s" group-title="央視 🇨🇳",CCTV-14 8M
+http://cfss.cc/ds/bst.php?id=Cf-15
 #EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV15" tvg-id="CCTV15" tvg-name="CCTV15" group-title="央視 🇨🇳",CCTV15 8M
-http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/bestv.php?id=cctv15hd8m/8000000
+http://cfss.cc/ds/bst.php?id=Cf-16
 #EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV16" tvg-id="CCTV16" tvg-name="CCTV16" group-title="央視 🇨🇳",CCTV16-4K
-http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/bestv.php?id=cctv16hd4k/15000000
+http://cfss.cc/ds/bst.php?id=Cf-17
 #EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV17" tvg-id="CCTV17" tvg-name="CCTV17" group-title="央視 🇨🇳",CCTV17 8M
-http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/bestv.php?id=cctv17hd8m/8000000
+http://cfss.cc/ds/bst.php?id=Cf-18
 #EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV央视文化精品" tvg-id="CCTV央视文化精品" tvg-name="CCTV央视文化精品" group-title="央視 🇨🇳",CCTV央视文化精品
 http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2012513802.m3u8
 #EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV卫生健康" tvg-id="CCTV卫生健康" tvg-name="CCTV卫生健康" group-title="央視 🇨🇳",CCTV卫生健康
@@ -394,7 +398,7 @@ http://221.2.36.34:8888/newlive/live/hls/24/live.m3u8
 http://39.134.115.163:8080/PLTV/88888910/224/3221225702/index.m3u8
 #EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="卫视 🇨🇳️",北京卫视
 http://112.19.214.90:8883/tsfile/live/0122_1.m3u8
-#EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="卫视 🇨🇳️",东方卫视
+#EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="http://epghttp://cfss.cc/ds/bst.php?id=Cf-2.51zmt.top:8000/tb1/ws/dongfang.png" group-title="卫视 🇨🇳️",东方卫视
 http://39.135.138.59:18890/PLTV/88888910/224/3221225658/index.m3u8
 #EXTINF:-1 tvg-id="32" tvg-name="安徽卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png" group-title="卫视 🇨🇳️",安徽卫视
 http://39.134.115.163:8080/PLTV/88888910/224/3221225737/index.m3u8
