@@ -27,15 +27,15 @@ http://v2.91kds.cn/b9/zjnbtv.m3u8?fmt=hls&id=zjnbtv5&auth=rinimabi
 #EXTINF:-1 group-title="寧波 🇨🇳️" tvg-logo="https://zhanghongguang.github.io/Logo/yytv.png",余姚新闻综合
 http://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8
 #EXTINF:-1 group-title="寧波 🇨🇳️" tvg-logo="https://zhanghongguang.github.io/Logo/nbtv1.png",NBTV-1
-http://hnan.ueuo.com/nbtv/1.m3u8
+http://183.129.242.178:3333/tsfile/live/1010_1.m3u8
 #EXTINF:-1 group-title="寧波 🇨🇳️" tvg-logo="https://zhanghongguang.github.io/Logo/nbtv.png",NBTV-2
-http://hnan.ueuo.com/nbtv/2.m3u8
+http://183.129.242.178:3333/tsfile/live/1011_1.m3u8
 #EXTINF:-1 group-title="寧波 🇨🇳️" tvg-logo="https://zhanghongguang.github.io/Logo/nbtv.png",NBTV-3
-http://hnan.ueuo.com/nbtv/3.m3u8
+http://183.129.242.178:3333/tsfile/live/1012_1.m3u8
 #EXTINF:-1 group-title="寧波 🇨🇳️" tvg-logo="https://zhanghongguang.github.io/Logo/nbtv4.png",NBTV-4
-http://hnan.ueuo.com/nbtv/4.m3u8
+http://183.129.242.178:3333/tsfile/live/1013_1.m3u8
 #EXTINF:-1 group-title="寧波 🇨🇳️" tvg-logo="https://zhanghongguang.github.io/Logo/nbtv5.png",NBTV-5
-http://hnan.ueuo.com/nbtv/5.m3u8
+http://183.129.242.178:3333/tsfile/live/1014_1.m3u8
 #EXTINF:-1 group-title="寧波 🇨🇳️" tvg-logo="https://zhanghongguang.github.io/Logo/yztv.png",鄞州1
 http://pili-publish.yzxw.newaircloud.com/newaircloud-yzxw/yzxw_20190925090843.m3u8
 #EXTINF:-1 group-title="寧波 🇨🇳️" tvg-logo="https://zhanghongguang.github.io/Logo/yztv.png",鄞州2
@@ -48,8 +48,6 @@ https://live1.fhtv.net.cn/shys/sd/live.m3u8
 http://pluslive.zhxww.net/channel1/sd/live.m3u8
 #EXTINF:-1 group-title="寧波 🇨🇳️" tvg-logo="https://zhanghongguang.github.io/Logo/bltv.png",北仑电视台
 http://play-sh.quklive.com/live/1626327731714170.m3u8
-#EXTINF:-1 group-title="寧波 🇨🇳️" tvg-logo="https://zhanghongguang.github.io/Logo/nbtv1.png",宁波新闻综合频道高清NBTV-1
-http://183.129.242.178:3333/tsfile/live/1010_1.m3u8
 #EXTINF:-1 group-title="寧波 🇨🇳️",宁海新闻综合
 http://mmitv.top/test/ady.php?id=1423
 #EXTINF:-1 group-title="浙江 🇨🇳️",★★★★★浙江 🇨🇳️★★★★★
@@ -89,17 +87,19 @@ http://l.cztvcloud.com/channels/lantian/SXputuo1/720p.m3u8
 #EXTINF:-1 group-title="浙江 🇨🇳️",杭州-桐庐综合
 http://livetongl.chinamcache.com/live/tlzb01.m3u8?txSecret=0e344d60c8f0ce16b57102ae81d10d6a&txTime=5fd316c1
 #EXTINF:-1 group-title="浙江 🇨🇳️",杭州综合
-http://www.372583307.top:4022/udp/233.50.201.173:5140
+http://183.129.242.178:3333/tsfile/live/1015_1.m3u8
 #EXTINF:-1 group-title="浙江 🇨🇳️",杭州综合频道
 http://www.372583307.top:4022/udp/233.50.201.173:5140
 #EXTINF:-1 group-title="浙江 🇨🇳️" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB明珠台.png",杭州明珠频道
-http://www.372583307.top:4022/udp/233.50.201.174:5140
+http://183.129.242.178:3333/tsfile/live/1016_1.m3u8
 #EXTINF:-1 group-title="浙江 🇨🇳️",杭州生活频道
-http://www.372583307.top:4022/udp/233.50.201.175:5140
+http://183.129.242.178:3333/tsfile/live/1016_1.m3u8
 #EXTINF:-1 group-title="浙江 🇨🇳️",杭州影视频道
-http://www.372583307.top:4022/udp/233.50.201.176:5140
+http://183.129.242.178:3333/tsfile/live/1018_1.m3u8
 #EXTINF:-1 group-title="浙江 🇨🇳️",杭州青少体育
-http://www.372583307.top:4022/udp/233.50.201.177:5140
+http://183.129.242.178:3333/tsfile/live/1019_1.m3u8
+#EXTINF:-1 group-title="浙江 🇨🇳️",杭州导视
+http://183.129.242.178:3333/tsfile/live/1020_1.m3u8
 #EXTINF:-1 group-title="浙江 🇨🇳️",杭州综合
 http://live.cooltv.top/tv/hz.php?id=16
 #EXTINF:-1 group-title="浙江 🇨🇳️",杭州明珠
@@ -331,7 +331,7 @@ http://stream.appwuhan.com/6tzb/sd/live.m3u8
 #EXTINF:-1 group-title="地方臺 🇨🇳️",广州综合
 http://player.521fanli.cn/1691/gd/gztvm3u8.php?id=gzzh
 #EXTINF:-1 group-title="地方臺 🇨🇳️",广州新闻
-http://v2.91kds.cn/b9/gdgztv.m3u8?id=gdgzxw&auth=rinimabi
+https://justsometime.gztv.com/sec/xinwen.m3u8
 #EXTINF:-1 group-title="地方臺 🇨🇳️",广州竞赛
 http://player.521fanli.cn/1691/gd/gztvm3u8.php?id=gzjs
 #EXTINF:-1 group-title="地方臺 🇨🇳️",安徽卫视
