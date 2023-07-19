@@ -117,13 +117,13 @@ https://upload.wikimedia.org/wikipedia/commons/0/08/National_Flag_Anthem_of_the_
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央視 🇨🇳",CCTV-1综合
 https://live.goodiptv.club/api/bestv.php?id=cctv1hd8m/8000000
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="央視 🇨🇳",CCTV-2财经
-https://live.goodiptv.club/api/bestv.php?id=cctv2hd8m/8000000
+http://moss.hk3.345888.xyz.cdn.cloudflare.net/11/bestv.php?id=cctv2hd8m/8000000
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="央視 🇨🇳",CCTV-2财经
 http://125.210.152.19:9120/live/hzgq-cctv2gq-h264.m3u8
 #EXTINF:-1 tvg-name="CCT31" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="央視 🇨🇳",CCTV-3综艺
 https://live.goodiptv.club/api/bestv.php?id=cctv38m/8000000
 #EXTINF:-1 tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="央視 🇨🇳",CCTV-4中文国际
-https://live.goodiptv.club/api/bestv.php?id=cctv4hd8m/8000000
+http://moss.hk3.345888.xyz.cdn.cloudflare.net/11/bestv.php?id=cctv4hd8m/8000000
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="央視 🇨🇳",CCTV-5体育
 https://live.goodiptv.club/api/bestv.php?id=cctv58m/8000000
 #EXTINF:-1 tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="央視 🇨🇳",CCTV-5+体育赛事
@@ -135,9 +135,9 @@ https://live.goodiptv.club/api/bestv.php?id=cctv7hd8m/8000000
 #EXTINF:-1 tvg-name="CCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="央視 🇨🇳",CCTV-8电视剧
 https://live.goodiptv.club/api/bestv.php?id=cctv8hd8m/8000000
 #EXTINF:-1 tvg-name="CCTV9" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" group-title="央視 🇨🇳",CCTV-9纪录
-https://live.goodiptv.club/api/bestv.php?id=cctv9hd8m/8000000
+http://moss.hk3.345888.xyz.cdn.cloudflare.net/11/bestv.php?id=cctv9hd8m/8000000
 #EXTINF:-1 tvg-name="CCTV10" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" group-title="央視 🇨🇳",CCTV-10科教
-https://live.goodiptv.club/api/bestv.php?id=cctv10hd8m/8000000
+http://moss.hk3.345888.xyz.cdn.cloudflare.net/11/bestv.php?id=cctv10hd8m/8000000
 #EXTINF:-1 tvg-name="CCTV11" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png" tvg-speed="9MB/s" group-title="央視 🇨🇳",CCTV-11戏曲
 https://live.goodiptv.club/api/bestv.php?id=cctv11hd8m/8000000
 #EXTINF:-1 tvg-name="CCTV12" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png" group-title="央視 🇨🇳",CCTV-12社会与法
@@ -151,7 +151,7 @@ https://live.goodiptv.club/api/bestv.php?id=cctv15hd8m/8000000
 #EXTINF:-1 tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="央視 🇨🇳",CCTV-16奥林
 http://live.cooltv.top/tv/aishang.php?id=cctv164k
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="央視 🇨🇳",CCTV-17农村农业
-https://live.goodiptv.club/api/bestv.php?id=cctv17hd8m/8000000
+http://moss.hk3.345888.xyz.cdn.cloudflare.net/11/bestv.php?id=cctv17hd8m/8000000
 #EXTINF:-1 tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" tvg-speed="13MB/s" tvg-rez="3840x2160" group-title="央視 🇨🇳",CCTV4K
 http://159.75.85.63:5679/cctv4k.php
 #EXTINF:-1 tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" tvg-speed="13MB/s" tvg-rez="3840x2160" group-title="央視 🇨🇳",CCTV4K
@@ -271,9 +271,9 @@ https://live.goodiptv.club/api/bestv.php?id=dfyshd8m/8000000
 #EXTINF:-1 group-title="上海 🇨🇳️" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanghaijishi.png",上海纪实
 https://live.goodiptv.club/api/bestv.php?id=jspdhd/4000000
 #EXTINF:-1 tvg-id="1984" tvg-name="上视新闻频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shangshixinwen.png" group-title="上海 🇨🇳️",上海新闻综合
-https://live.v1.mk/api/bestv.php?id=xwzhhd8m/8000000
+http://58.34.204.67:9901/tsfile/live/1015_1.m3u8
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="上海 🇨🇳️",东方卫视
-http://121.51.249.103/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000292403.m3u8
+http://39.136.18.105/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225752/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 group-title="上海 🇨🇳️" tvg-logo="https://epg.pm/media/images/channel/2022/05/08/large/20220508004000234533_13.jpg",上海教育高清
 https://live2018.setv.sh.cn/setv/programme10_ud.m3u8?auth_key=4794048378-0-0-06e60dd476e18047abd3be7701993ee8
 #EXTINF:-1 group-title="上海 🇨🇳️" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaiwaiyu.png",上视外语频道
@@ -293,23 +293,23 @@ http://58.34.204.67:9901/tsfile/live/1016_1.m3u8
 #EXTINF:-1 tvg-id="五星体育" tvg-name="五星体育" tvg-logo="https://epg.112114.xyz/logo/五星体育.png" group-title="上海 🇨🇳️",五星体育[百视通]
 https://live.goodiptv.club/api/bestv.php?id=wxtyhd8m/8000000
 #EXTINF:-1 group-title="上海 🇨🇳️" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/diyicaijing.png",上海第一财经
-http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/bestv.php?id=dycjhd8m/8000000
+http://58.34.204.67:9901/tsfile/live/1018_1.m3u8
 #EXTINF:-1 group-title="上海 🇨🇳️" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanghaijishi.png",上海纪实
 http://www.icancloud.top:8888/udp/239.3.1.212:8060$北京联通1
 #EXTINF:-1 group-title="上海 🇨🇳️" tvg-logo="https://epg.112114.xyz/logo/乐游.png",乐游
-http://[2409:8087:7000:20::F]:80/dbiptv.sn.chinamobile.com/TVOD/88888890/224/3221226580/index.m3u8
+http://58.34.204.67:9901/tsfile/live/1010_1.m3u8
 #EXTINF:-1 group-title="上海 🇨🇳️" tvg-logo="https://epg.112114.xyz/logo/乐游.png",乐游
-http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002157/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+http://39.136.18.105/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226221/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 group-title="上海 🇨🇳️" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/xuandong.png",哈哈炫动
 http://op.nicker.top:3222/udp/239.11.0.64:5140
 #EXTINF:-1 group-title="上海 🇨🇳️" tvg-logo="https://epg.112114.xyz/logo/SITV都市剧场.png",都市剧场
 http://183.207.255.188/live/program/live/dsjchd/4000000/mnf.m3u8
 #EXTINF:-1 tvg-id="SITV劲爆体育" tvg-name="SITV劲爆体育" tvg-logo="https://epg.112114.xyz/logo/SITV劲爆体育.png" group-title="上海 🇨🇳️",劲爆体育
-http://61.164.158.155/liveplay-kk.rtxapp.com/live/program/live/jbtyhd8m/8000000/mnf.m3u8
+http://moss.hk3.345888.xyz.cdn.cloudflare.net/11/bestv.php?id=jbtyhd8m/8000000
 #EXTINF:-1 group-title="上海 🇨🇳️" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jisuqiche.png",MAX极速汽车
 https://live.goodiptv.club/api/sxg.php?id=jsqcH265_4000
 #EXTINF:-1 group-title="上海 🇨🇳️" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/qicaixiju.png",七彩戏剧
-https://live.goodiptv.club/api/bestv.php?id=qcxjhd8m/8000000
+http://moss.hk3.345888.xyz.cdn.cloudflare.net/11/bestv.php?id=qcxjhd8m/8000000
 #EXTINF:-1 tvg-id="SITV七彩戏剧" tvg-name="SITV七彩戏剧" tvg-logo="https://epg.112114.xyz/logo/SITV七彩戏剧.png" group-title="上海 🇨🇳️",七彩戏剧
 http://jasoncao.asuscomm.com:8888/udp/239.45.0.16:5140$上海电信组播
 #EXTINF:-1 group-title="地方臺 🇨🇳️",★★★★★地方臺 🇨🇳️★★★★★
