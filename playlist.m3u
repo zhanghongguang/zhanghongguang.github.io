@@ -266,7 +266,7 @@ http://58.34.204.67:9901/tsfile/live/1015_1.m3u8
 http://222.71.221.186:9901/tsfile/live/0016_1.m3u8
 #EXTINF:-1 group-title="上海 🇨🇳️" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaidushi.jpg",上海都市频道
 https://live.goodiptv.club/api/bestv.php?id=dshd8m/8000000
-#EXTINF:-1 tvg-id="上视东方影视" tvg-name="上视东方影视" tvg-logo="https://epg.112114.xyz/logo/上视东方影视.png" group-title="上海 🇨🇳️",东方影视[百视通]
+#EXTINF:-1 tvg-id="上视东方影视" tvg-name="上视东方影视" tvg-logo="https://epg.112114.xyz/logo/上视东方影视.png" group-title="上海 🇨🇳️",东方影视
 https://live.goodiptv.club/api/bestv.php?id=dfyshd8m/8000000
 #EXTINF:-1 group-title="上海 🇨🇳️" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanghaijishi.png",上海纪实
 https://live.goodiptv.club/api/bestv.php?id=jspdhd/4000000
@@ -274,7 +274,7 @@ https://live.goodiptv.club/api/bestv.php?id=jspdhd/4000000
 http://58.34.204.67:9901/tsfile/live/1015_1.m3u8
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="上海 🇨🇳️",东方卫视
 http://39.136.18.105/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225752/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1 group-title="上海 🇨🇳️" tvg-logo="https://epg.pm/media/images/channel/2022/05/08/large/20220508004000234533_13.jpg",上海教育高清
+#EXTINF:-1 group-title="上海 🇨🇳️" tvg-logo="https://epg.112114.xyz/logo/上海教育台.png",上海教育高清
 https://live2018.setv.sh.cn/setv/programme10_ud.m3u8?auth_key=4794048378-0-0-06e60dd476e18047abd3be7701993ee8
 #EXTINF:-1 group-title="上海 🇨🇳️" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaiwaiyu.png",上视外语频道
 https://live.goodiptv.club/api/bestv.php?id=icshd8m/8000000
@@ -284,7 +284,7 @@ http://183.207.255.188/live/program/live/shsshd/4000000/mnf.m3u8
 https://live.goodiptv.club/api/bestv.php?id=dycjhd8m/8000000
 #EXTINF:-1 group-title="上海 🇨🇳️" tvg-logo="https://epg.112114.xyz/logo/东方财经.png",东方财经
 https://live.goodiptv.club/api/cqyx.php?id=dfcj
-#EXTINF:-1 group-title="上海 🇨🇳️" tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/新视觉",新视觉
+#EXTINF:-1 group-title="上海 🇨🇳️" tvg-logo="https://epg.112114.xyz/logo/新视觉.png",新视觉
 https://live.goodiptv.club/api/bestv.php?id=xsjhd8m/8000000
 #EXTINF:-1 group-title="上海 🇨🇳️" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaiwaiyu.png",上视外语频道
 http://cfss.cc/ds/bst.php?id=Cf-55
@@ -1783,12 +1783,12 @@ http://iyvhm8br.akciatv.ru/iptv/2XGFGMMXT97LQZ/18138/index.m3u8
 https://cdn1.ibizastream.biz:441/free/Stream1/playlist.m3u8
 #EXTINF:-1 group-title="XXX 🔞️",IBizaHDTV
 https://5ed5d165c218d.streamlock.net:441/free/Stream1/playlist.m3u8
-#EXTINF:-1 group-title="XXX 🔞️",Hustler HD
-http://193.33.240.8:80/hustler_hd/video.m3u8
-#EXTINF:-1 group-title="XXX 🔞️",Hustler HD
-http://193.33.240.8:80/hustler_hd/index.m3u8
-#EXTINF:-1 group-title="XXX 🔞️",Hustler
-http://78.83.191.18:8000/play/a078
+#EXTINF:-1 group-title="XXX 🔞️",Шалун 🔞
+http://46.180.252.106:9999/udp/239.255.43.85:1234
+#EXTINF:-1 group-title="XXX 🔞️",Blue Hustler 🔞
+http://46.180.252.106:9999/udp/239.255.42.222:1234
+#EXTINF:-1 group-title="XXX 🔞️",French Lover 🔞
+http://46.180.252.106:9999/udp/239.255.42.223:1234
 #EXTINF:-1 group-title="XXX 🔞️",AST 1
 https://www.ast.tv/stream/1/ultra.m3u8
 #EXTINF:-1 group-title="XXX 🔞️",AST 2
