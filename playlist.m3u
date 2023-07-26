@@ -261,7 +261,7 @@ http://[2409:8087:2001:20:2800:0:df6e:eb02]/ott.mobaibox.com/PLTV/3/224/32212281
 #EXTINF:-1 group-title="上海 🇨🇳️",★★★★★上海 🇨🇳️★★★★★
 https://upload.wikimedia.org/wikipedia/commons/0/08/National_Flag_Anthem_of_the_Republic_of_China%E4%B8%AD%E8%8F%AF%E6%B0%91%E5%9C%8B%E5%9C%8B%E6%97%97%E6%AD%8C_%28%E6%BC%94%E5%A5%8F%E7%89%88%29.oga
 #EXTINF:-1 tvg-id="1984" tvg-name="上视新闻频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shangshixinwen.png" group-title="上海 🇨🇳️",上海新闻综合
-http://moss.hk3.345888.xyz.cdn.cloudflare.net/11/bestv.php?id=xwzhhd8m/8000000
+https://live.goodiptv.club/api/bestv.php?id=xwzhhd8m/8000000
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="上海 🇨🇳️",东方卫视
 http://222.71.221.186:9901/tsfile/live/0016_1.m3u8
 #EXTINF:-1 group-title="上海 🇨🇳️" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaidushi.jpg",上海都市频道
@@ -369,15 +369,15 @@ http://stream2.xiancity.cn/xatv1/sd/live.m3u8
 #EXTINF:-1 group-title="地方臺 🇨🇳️" tvg-name="SCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/sctv4.png",四川新闻
 http://op.nicker.top:3222/udp/239.11.0.5:5140
 #EXTINF:-1 group-title="地方臺 🇨🇳️" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV%E7%94%9F%E6%B4%BB.png",BTV生活
-http://live.cooltv.top/tv/btime.php?id=btvsh
-#EXTINF:-1 group-title="地方臺 🇨🇳️" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV%E7%A7%91%E6%95%99.png",BTV科教
-https://epg.pm/stream/004ddc44c44aa078ecb70d057b2094ccd3c3dee7901dc91fe585599147e7bf5e.m3u8
-#EXTINF:-1 group-title="地方臺 🇨🇳️" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV%E7%A7%91%E6%95%99.png",BTV科教
-http://111.62.156.15/down.brtvcloud.com/brtv8kapptv/brtv8kapp8ktv.m3u8
+http://lu1.cc/c/tv/bjtv/btime1.php?id=bjsh
+#EXTINF:-1  tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV%E7%A7%91%E6%95%99.png",BTV科教
+https://live.goodiptv.club/api/cqyx.php?id=bjayjsSD
+#EXTINF:-1,tvg-id="北京文艺" tvg-name="北京文艺" tvg-logo="https://epg.112114.xyz/logo/北京文艺.png" group-title="地方臺 🇨🇳️",北京文艺BTV-2
+http://lu1.cc/c/tv/bjtv/btime1.php?id=bjwy
 #EXTINF:-1 tvg-id="6244" tvg-name="求索生活" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/QSJL.png" group-title="地方臺 🇨🇳️",求索生活
 http://39.134.136.141:6610/000000001000/2000000004000000008/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000008&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="BTV新闻" group-title="地方臺 🇨🇳️" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV%E6%96%B0%E9%97%BB.png",北京新闻
-http://live.cooltv.top/tv/btime.php?id=btvxw
+http://lu1.cc/c/tv/bjtv/btime1.php?id=bjxw
 #EXTINF:-1 tvg-id="6585" tvg-name="茶频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/DOCUMENTARY-CHANNEL.jpg" group-title="地方臺 🇨🇳️",茶友频道
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225781/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="南京新闻综合" tvg-name="南京新闻综合" tvg-logo="https://epg.112114.xyz/logo/南京新闻综合.png" group-title="地方臺 🇨🇳️",南京综合
@@ -655,7 +655,7 @@ http://sc2022.stream-link.org/list.php?id=t003
 #EXTINF:-1 tvg-id="7176" tvg-name="中視新聞" tvg-logo="http://or00.stream-link.org/tv_logo/ctv-news.png" group-title="臺灣 🇹🇼️",中視新聞
 http://sc2022.stream-link.org/list.php?id=t005
 #EXTINF:-1 tvg-id="6071" tvg-name="民視新聞" tvg-logo="http://or00.stream-link.org/tv_logo/ftv-news.png" group-title="臺灣 🇹🇼️",民視新聞
-http://123.51.230.108:18663/.m3u8
+http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=ftvnew_taiwan
 #EXTINF:-1 tvg-id="6171" tvg-name="寰宇國際新聞" tvg-logo="http://or00.stream-link.org/tv_logo/global-news.png" group-title="臺灣 🇹🇼️",寰宇國際新聞
 https://dispatch.ulivetv.net/v/live/cfxws90rpmf4.m3u8?stream_id=cfxws90rpmf4&timestamp=1684219862&rand=UsllXcwxbp&uuid=9b647b3816b2a66a&from=web&sign=659a3a6564d4ca206d2c6be20c5ea906
 #EXTINF:-1 tvg-id="6171" tvg-name="寰宇臺灣 🇹🇼️" tvg-logo="http://or00.stream-link.org/tv_logo/global-news.png" group-title="臺灣 🇹🇼️",寰宇臺灣新聞
@@ -669,7 +669,7 @@ http://sc2022.stream-link.org/list.php?id=t011
 #EXTINF:-1 tvg-id="6143" tvg-name="台視新聞" tvg-logo="http://or00.stream-link.org/tv_logo/ttv-news.png" group-title="臺灣 🇹🇼️",台視新聞
 http://sc2022.stream-link.org/list.php?id=t012
 #EXTINF:-1 tvg-id="6073" tvg-name="TVBS新聞" tvg-logo="http://or00.stream-link.org/tv_logo/tvbs-news.png" group-title="臺灣 🇹🇼️",TVBS新聞
-rtmp://119.81.124.89/sat/tv551
+http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=tvbs_n
 #EXTINF:-1 tvg-id="6074" tvg-name="TVBS財經" tvg-logo="http://or00.stream-link.org/tv_logo/tvbs.png" group-title="臺灣 🇹🇼️",TVBS財經
 http://2023.stream-link.org/live/1767909787
 #EXTINF:-1 tvg-id="6054" tvg-name="中天綜合台" tvg-logo="http://or00.stream-link.org/tv_logo/cti-zh.png" group-title="臺灣 🇹🇼️",中天綜合台
@@ -701,11 +701,11 @@ http://60.249.146.250:8511/playlist.m3u8
 #EXTINF:-1 group-title="臺灣 🇹🇼️" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FTV.png",民视无线台
 http://23.237.10.66:16334
 #EXTINF:-1 group-title="臺灣 🇹🇼️" tvg-logo="https://www.lyngsat.com/logo/tv/aa/asia_travel_tv.png",亚洲旅游
-http://www.336699.live:1935/blocksix/litv-longturn17.stream/playlist.m3u8
+http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=foodplanet_twn
 #EXTINF:-1 group-title="臺灣 🇹🇼️",原住民
 http://streamipcf.akamaized.net/live/_definst_/live_720/key_b1500.m3u8
 #EXTINF:-1 group-title="臺灣 🇹🇼️",TLC旅游生活频道
-http://1080.youkucdn.live:25461/live/66325546/123/4093.m3u8
+http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=Tlc
 #EXTINF:-1 group-title="臺灣 🇹🇼️",TVBS新闻
 http://38.64.72.148/hls/modn/list/4006/chunklist1.m3u8
 #EXTINF:-1 group-title="臺灣 🇹🇼️",TVBS亚洲
@@ -715,11 +715,11 @@ https://dcunilive30-lh.akamaihd.net/i/dclive_1@535522/master.m3u8
 #EXTINF:-1 group-title="臺灣 🇹🇼️" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/Discovery-Asia.png",DiscoveryAsia
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=571181&extension=ts
 #EXTINF:-1 group-title="臺灣 🇹🇼️" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/Discovery-Asia.png",DiscoveryAsia
-http://50.7.238.114:8278/discoverytwn_twn/playlist.m3u8?tid=MAAA4463833744638337&ct=18393&tsum=c4bd4c633430327425e073012785525e
+http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=discoverytwn_twn
 #EXTINF:-1 group-title="臺灣 🇹🇼️",BBC 地球
-http://line.premiumpowers.net:80/Manuel/1234567/941667
+http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=bbcearth_twn
 #EXTINF:-1 group-title="臺灣 🇹🇼️",國家地理頻道
-http://line.premiumpowers.net:80/Manuel/1234567/941665
+http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=natgeohd_twn
 #EXTINF:-1 group-title="臺灣 🇹🇼️",唯心電視
 http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
 #EXTINF:-1 group-title="臺灣 🇹🇼️",生命电视台
@@ -753,7 +753,7 @@ rtmp://119.81.124.89/sat/tv051
 #EXTINF:-1 group-title="臺灣 🇹🇼️" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E4%B8%AD%E8%A7%86%E6%96%B0%E9%97%BB.png",中视新闻
 http://www.336699.live:1935/blockfour/4gtv-4gtv074.stream/playlist.m3u8
 #EXTINF:-1 group-title="臺灣 🇹🇼️" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GlobalNews.png",寰宇新闻
-http://pull-l3-cny.douyincdn.com/live/a9e3982a798d13ba350075af6cff4119.m3u8
+http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=huanyuxinwen_twn
 #EXTINF:-1 group-title="臺灣 🇹🇼️" tvg-name="华视新闻资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CTS.png",华视新闻资讯
 http://sc2022.stream-link.org/list.php?id=t004
 #EXTINF:-1 group-title="臺灣 🇹🇼️" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ftv-taiwan.png",民视台湾台
@@ -1017,11 +1017,11 @@ http://obsfullhd.tv:25461/@localhdtv/WJudqvpAbuP8/9771
 #EXTINF:-1 group-title="Global 🇺🇸🇬🇧🇶🇦️" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/travelchannel.png",TravelChannel
 http://iyvhm8br.akciatv.ru/iptv/2XGFGMMXT97LQZ/9025/index.m3u8
 #EXTINF:-1 tvg-name="国家地理野生频道" group-title="Global 🇺🇸🇬🇧🇶🇦️" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/natgeowild.png",Nat Geo Wild
-https://dispatch.ulivetv.net/v/live/cg1kmp2fnw00.m3u8?stream_id=cg1kmp2fnw00&timestamp=1684397287&rand=QBAHO9WEeS&uuid=9b647b3816b2a66a&from=web&sign=3daa80e8ec421a08bed7a242addd84e1
+http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=natgeowild_twn
 #EXTINF:-1 group-title="Global 🇺🇸🇬🇧🇶🇦️" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DiscoveryHD.png",Discovery
-http://obsfullhd.tv:25461/@localhdtv/WJudqvpAbuP8/42058
+http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=discoverych_twn
 #EXTINF:-1 tvg-name="动物星球" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/AnimalPlanet.png" group-title="Global 🇺🇸🇬🇧🇶🇦️", Animal Planet
-https://dispatch.ulivetv.net/v/live/cg1l4589x9s0.m3u8?stream_id=cg1l4589x9s0&timestamp=1684397589&rand=m7LkPiG23u&uuid=9b647b3816b2a66a&from=web&sign=e94fd952784e4b4994e29dd472a660f3
+http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=animalplanet_twn
 #EXTINF:-1 group-title="Global 🇺🇸🇬🇧🇶🇦️",Nat Geo People
 http://obsfullhd.tv:25461/@localhdtv/WJudqvpAbuP8/6914
 #EXTINF:-1 group-title="Global 🇺🇸🇬🇧🇶🇦️" tvg-logo="https://www.mncvision.id/userfiles/image/channel/bbc_earth150x150.jpg",BBC Earth HD
