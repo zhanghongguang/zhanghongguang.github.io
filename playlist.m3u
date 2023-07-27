@@ -166,42 +166,42 @@ https://livedoc.cgtn.com/1000d/prog_index.m3u8
 http://39.136.18.70/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226071/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 group-title="央視 🇨🇳"  tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVfengyunyinyue.png",风云音乐
 https://live.goodiptv.club/api/cqyx.php?id=fyyyHD
-#EXTINF:-1 tvg-logo=CCTV1.png group-title="央視 🇨🇳",CCTV1
-http://39.134.61.218/PLTV/88888888/224/3221227090/index.m3u8
-#EXTINF:-1 tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="央視 🇨🇳",CCTV-2财经
-http://183.65.9.200:8888/udp/235.254.199.52:7980
-#EXTINF:-1 tvg-logo=CCTV3.png group-title="央視 🇨🇳",CCTV3
-http://39.134.61.218/PLTV/88888888/224/3221226889/index.m3u8
-#EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" tvg-rez="1920x1080" group-title="央視 🇨🇳",CCTV-4中文国际
-http://183.65.9.200:8888/udp/235.254.199.183:7980
-#EXTINF:-1 tvg-logo=CCTV5.png group-title="央視 🇨🇳",CCTV5
-http://39.134.61.218/PLTV/88888888/224/3221226900/index.m3u8
-#EXTINF:-1 tvg-logo=CCTV5+.png group-title="央視 🇨🇳",CCTV5+
-http://39.134.61.218/PLTV/88888888/224/3221227092/index.m3u8
-#EXTINF:-1 tvg-logo=CCTV6.png group-title="央視 🇨🇳",CCTV6
-http://39.134.61.218/PLTV/88888888/224/3221226891/index.m3u8
-#EXTINF:-1 tvg-logo=CCTV7.png group-title="央視 🇨🇳",CCTV7
-http://39.134.61.218/PLTV/88888888/224/3221226925/index.m3u8
-#EXTINF:-1 tvg-logo=CCTV8.png group-title="央視 🇨🇳",CCTV8
-http://39.134.61.218/PLTV/88888888/224/3221226946/index.m3u8
-#EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" tvg-rez="1920x1080" group-title="央視 🇨🇳",CCTV-9纪录
-http://183.65.9.200:8888/udp/235.254.199.58:7980
-#EXTINF:-1 tvg-id="11" tvg-name="CCTV10" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" tvg-rez="1920x1080" group-title="央視 🇨🇳",CCTV-10科教
-http://183.65.9.200:8888/udp/235.254.199.59:7980
-#EXTINF:-1 tvg-logo=CCTV11.png group-title="央視 🇨🇳",CCTV11
-http://39.134.61.218/PLTV/88888888/224/3221226851/index.m3u8
-#EXTINF:-1 tvg-logo=CCTV12.png group-title="央視 🇨🇳",CCTV12
-http://39.134.61.218/PLTV/88888888/224/3221226921/index.m3u8
-#EXTINF:-1 tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" tvg-speed="9MB/s" group-title="央視 🇨🇳",CCTV-13新闻
-http://183.65.9.200:8888/udp/235.254.196.162:7980
-#EXTINF:-1 tvg-logo=CCTV14.png  group-title="央視 🇨🇳",CCTV14
-http://39.134.61.218/PLTV/88888888/224/3221226974/index.m3u8
-#EXTINF:-1 tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" group-title="央視 🇨🇳",CCTV-15音乐
-http://183.65.9.200:8888/udp/235.254.196.163:7980
-#EXTINF:-1 tvg-logo=CCTV16.png group-title="央視 🇨🇳",CCTV16
-http://39.134.61.218/PLTV/88888888/224/3221226910/index.m3u8
-#EXTINF:-1 tvg-logo=CCTV17.png group-title="央視 🇨🇳",CCTV17
-http://183.65.9.200:8888/udp/235.254.199.130:7980
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" tvg-id="1" tvg-name="CCTV1" group-title="央視 🇨🇳",CCTV-1综合
+http://183.65.9.200:8888/udp/235.254.199.51:7980#http://125.82.171.210:8888/udp/235.254.199.51:7980#http://14.105.22.165:1388/udp/235.254.199.51:7980
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" tvg-id="2" tvg-name="CCTV2" group-title="央視 🇨🇳",CCTV-2财经
+http://183.65.9.200:8888/udp/235.254.199.52:7980#http://125.82.171.210:8888/udp/235.254.199.52:7980#http://14.105.22.165:1388/udp/235.254.199.52:7980
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" tvg-id="3" tvg-name="CCTV3" group-title="央視 🇨🇳",CCTV-3综艺
+http://183.65.9.200:8888/udp/235.254.199.53:7980#http://125.82.171.210:8888/udp/235.254.199.53:7980#http://14.105.22.165:1388/udp/235.254.199.53:7980
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" tvg-id="4" tvg-name="CCTV4" group-title="央視 🇨🇳",CCTV-4中文国际
+http://183.65.9.200:8888/udp/235.254.199.183:7980#http://125.82.171.210:8888/udp/235.254.199.183:7980#http://14.105.22.165:1388/udp/235.254.199.183:7980
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" tvg-id="5" tvg-name="CCTV5" group-title="央視 🇨🇳",CCTV-5体育
+http://183.65.9.200:8888/udp/235.254.199.54:7980#http://125.82.171.210:8888/udp/235.254.199.54:7980#http://14.105.22.165:1388/udp/235.254.199.54:7980
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" tvg-id="6" tvg-name="CCTV5+" group-title="央視 🇨🇳",CCTV-5+体育赛事
+http://183.65.9.200:8888/udp/235.254.199.121:7980#http://125.82.171.210:8888/udp/235.254.199.121:7980#http://14.105.22.165:1388/udp/235.254.199.121:7980
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" tvg-id="7" tvg-name="CCTV6" group-title="央視 🇨🇳",CCTV-6电影
+http://183.65.9.200:8888/udp/235.254.199.55:7980#http://125.82.171.210:8888/udp/235.254.199.55:7980#http://14.105.22.165:1388/udp/235.254.199.55:7980
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" tvg-id="8" tvg-name="CCTV7" group-title="央視 🇨🇳",CCTV-7国防军事
+http://183.65.9.200:8888/udp/235.254.199.56:7980#http://125.82.171.210:8888/udp/235.254.199.56:7980#http://14.105.22.165:1388/udp/235.254.199.56:7980
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" tvg-id="9" tvg-name="CCTV8" group-title="央視 🇨🇳",CCTV-8电视剧
+http://183.65.9.200:8888/udp/235.254.199.57:7980#http://125.82.171.210:8888/udp/235.254.199.57:7980#http://14.105.22.165:1388/udp/235.254.199.57:7980
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" tvg-id="10" tvg-name="CCTV9" group-title="央視 🇨🇳",CCTV-9纪录
+http://183.65.9.200:8888/udp/235.254.199.58:7980#http://125.82.171.210:8888/udp/235.254.199.58:7980#http://14.105.22.165:1388/udp/235.254.199.58:7980
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" tvg-id="11" tvg-name="CCTV10" group-title="央視 🇨🇳",CCTV-10科教
+http://183.65.9.200:8888/udp/235.254.199.59:7980#http://125.82.171.210:8888/udp/235.254.199.59:7980#http://14.105.22.165:1388/udp/235.254.199.59:7980
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png" tvg-id="12" tvg-name="CCTV11" group-title="央視 🇨🇳",CCTV-11戏曲
+http://183.65.9.200:8888/udp/235.254.196.161:7980#http://125.82.171.210:8888/udp/235.254.196.161:7980#http://14.105.22.165:1388/udp/235.254.196.161:7980
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png" tvg-id="13" tvg-name="CCTV12" group-title="央視 🇨🇳",CCTV-12社会与法
+http://183.65.9.200:8888/udp/235.254.199.60:7980#http://125.82.171.210:8888/udp/235.254.199.60:7980#http://14.105.22.165:1388/udp/235.254.199.60:7980
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" tvg-id="14" tvg-name="CCTV13" group-title="央視 🇨🇳",CCTV-13新闻
+http://183.65.9.200:8888/udp/235.254.196.162:7980#http://125.82.171.210:8888/udp/235.254.196.162:7980#http://14.105.22.165:1388/udp/235.254.196.162:7980
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" tvg-id="15" tvg-name="CCTV14" group-title="央視 🇨🇳",CCTV-14少儿
+http://183.65.9.200:8888/udp/235.254.199.61:7980#http://125.82.171.210:8888/udp/235.254.199.61:7980#http://14.105.22.165:1388/udp/235.254.199.61:7980
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" tvg-id="16" tvg-name="CCTV15" group-title="央視 🇨🇳",CCTV-15音乐
+http://183.65.9.200:8888/udp/235.254.196.163:7980#http://125.82.171.210:8888/udp/235.254.196.163:7980#http://14.105.22.165:1388/udp/235.254.196.163:798
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" tvg-id="17" tvg-name="CCTV16" group-title="央視 🇨🇳",CCTV-16奥林匹克
+http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8?
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" tvg-id="18" tvg-name="CCTV17" group-title="央視 🇨🇳",CCTV-17农村农业
+http://183.65.9.200:8888/udp/235.254.199.130:7980#http://125.82.171.210:8888/udp/235.254.199.130:7980#http://14.105.22.165:1388/udp/235.254.199.130:7980
 #EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV1" tvg-id="CCTV1" tvg-name="CCTV1" group-title="央視 🇨🇳",CCTV1 8M
 http://60.208.16.27:1505/gudou.php?id=364&id=1402_4500
 #EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV2" tvg-id="CCTV2" tvg-name="CCTV2" group-title="央視 🇨🇳",CCTV2 8M
