@@ -115,7 +115,7 @@ http://live.cooltv.top/tv/hz.php?id=22
 #EXTINF:-1 group-title="央視 🇨🇳",★★★★★央視 🇨🇳 ★★★★★
 https://upload.wikimedia.org/wikipedia/commons/0/08/National_Flag_Anthem_of_the_Republic_of_China%E4%B8%AD%E8%8F%AF%E6%B0%91%E5%9C%8B%E5%9C%8B%E6%97%97%E6%AD%8C_%28%E6%BC%94%E5%A5%8F%E7%89%88%29.oga
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央視 🇨🇳",CCTV-1综合
-http://113.105.111.79:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+http://175.13.226.6:8888/udp/239.76.251.87:9000
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="央視 🇨🇳",CCTV-2财经
 http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8?
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="央視 🇨🇳",CCTV-2财经
@@ -125,7 +125,7 @@ http://113.105.111.79:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=
 #EXTINF:-1 tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="央視 🇨🇳",CCTV-4中文国际
 http://103.76.61.2:808/hls/127/index.m3u8
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="央視 🇨🇳",CCTV-5体育
-http://113.105.111.79:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
+http://175.13.226.6:8888/udp/239.76.246.155:1234
 #EXTINF:-1 tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="央視 🇨🇳",CCTV-5+体育赛事
 http://103.76.61.2:808/hls/8/index.m3u8
 #EXTINF:-1 tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="央視 🇨🇳",CCTV-6电影
@@ -139,23 +139,23 @@ http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226197/inde
 #EXTINF:-1 tvg-name="CCTV10" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" group-title="央視 🇨🇳",CCTV-10科教
 http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226189/index.m3u8?
 #EXTINF:-1 tvg-name="CCTV11" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png" tvg-speed="9MB/s" group-title="央視 🇨🇳",CCTV-11戏曲
-http://113.105.111.79:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
+http://175.13.226.6:8888/udp/239.76.252.251:9000
 #EXTINF:-1 tvg-name="CCTV12" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png" group-title="央視 🇨🇳",CCTV-12社会与法
 http://103.76.61.2:808/hls/6/index.m3u8
 #EXTINF:-1 tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" tvg-speed="9MB/s" group-title="央視 🇨🇳",CCTV-13新闻
 https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
 #EXTINF:-1 tvg-name="CCTV14" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" tvg-speed="7MB/s" group-title="央視 🇨🇳",CCTV-14少儿
-http://113.105.111.79:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
+http://175.13.226.6:8888/udp/239.76.246.164:1234
 #EXTINF:-1 tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" group-title="央視 🇨🇳",CCTV-15音乐
 http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225785/index.m3u8?
 #EXTINF:-1 tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="央視 🇨🇳",CCTV-16奥林
-http://live.cooltv.top/tv/aishang.php?id=cctv164k
+http://175.13.226.6:8888/udp/239.76.247.200:1234
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="央視 🇨🇳",CCTV-17农村农业
 http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226660/1.m3u8?
 #EXTINF:-1 tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" tvg-speed="13MB/s" tvg-rez="3840x2160" group-title="央視 🇨🇳",CCTV4K
 http://159.75.85.63:5679/cctv4k.php
 #EXTINF:-1 tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" tvg-speed="13MB/s" tvg-rez="3840x2160" group-title="央視 🇨🇳",CCTV4K
-http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000266303.m3u8
+http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
 #EXTINF:-1 tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" tvg-speed="36MB/s" tvg-rez="3840x2160" group-title="央視 🇨🇳",CCTV奥林匹克频道
 http://39.135.41.243/PLTV/88888888/224/3221226716/index.m3u8?hls
 #EXTINF:-1 tvg-name="CCGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央視 🇨🇳",CGTN
@@ -261,7 +261,7 @@ http://[2409:8087:2001:20:2800:0:df6e:eb02]/ott.mobaibox.com/PLTV/3/224/32212281
 #EXTINF:-1 group-title="上海 🇨🇳️",★★★★★上海 🇨🇳️★★★★★
 https://upload.wikimedia.org/wikipedia/commons/0/08/National_Flag_Anthem_of_the_Republic_of_China%E4%B8%AD%E8%8F%AF%E6%B0%91%E5%9C%8B%E5%9C%8B%E6%97%97%E6%AD%8C_%28%E6%BC%94%E5%A5%8F%E7%89%88%29.oga
 #EXTINF:-1 tvg-id="1984" tvg-name="上视新闻频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shangshixinwen.png" group-title="上海 🇨🇳️",上海新闻综合
-https://live.goodiptv.club/api/bestv.php?id=xwzhhd8m/8000000
+http://jiexi.bulisite.top/bestv.php?id=xwzhhd8m/8000000
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="上海 🇨🇳️",东方卫视
 http://222.71.221.186:9901/tsfile/live/0016_1.m3u8
 #EXTINF:-1 group-title="上海 🇨🇳️" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaidushi.jpg",上海都市频道
@@ -277,11 +277,11 @@ http://39.136.18.105/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225752/1/in
 #EXTINF:-1 group-title="上海 🇨🇳️" tvg-logo="https://epg.112114.xyz/logo/上海教育.png",上海教育高清
 https://live2018.setv.sh.cn/setv/programme10_ud.m3u8?auth_key=4794048378-0-0-06e60dd476e18047abd3be7701993ee8
 #EXTINF:-1 group-title="上海 🇨🇳️" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaiwaiyu.png",上视外语频道
-https://live.goodiptv.club/api/bestv.php?id=icshd8m/8000000
+http://jiexi.bulisite.top/bestv.php?id=icshd8m/8000000
 #EXTINF:-1 group-title="上海 🇨🇳️" tvg-logo="https://epg.112114.xyz/logo/生活时尚.png",生活时尚
 http://183.207.255.188/live/program/live/shsshd/4000000/mnf.m3u8
 #EXTINF:-1 tvg-id="上海第一财经" tvg-name="上海第一财经" tvg-logo="https://epg.112114.xyz/logo/上海第一财经.png" group-title="上海 🇨🇳️",上海第一财经[百视通]
-https://live.goodiptv.club/api/bestv.php?id=dycjhd8m/8000000
+http://jiexi.bulisite.top/bestv.php?id=dycjhd8m/8000000
 #EXTINF:-1 group-title="上海 🇨🇳️" tvg-logo="https://epg.112114.xyz/logo/东方财经.png",东方财经
 https://live.goodiptv.club/api/cqyx.php?id=dfcj
 #EXTINF:-1 group-title="上海 🇨🇳️" tvg-logo="https://epg.112114.xyz/logo/新视觉.png",新视觉
@@ -291,7 +291,7 @@ http://cfss.cc/ds/bst.php?id=Cf-55
 #EXTINF:-1 group-title="上海 🇨🇳️" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaidongfangyingshi.png",东方影视
 http://58.34.204.67:9901/tsfile/live/1016_1.m3u8
 #EXTINF:-1 tvg-id="五星体育" tvg-name="五星体育" tvg-logo="https://epg.112114.xyz/logo/五星体育.png" group-title="上海 🇨🇳️",五星体育[百视通]
-https://live.goodiptv.club/api/bestv.php?id=wxtyhd8m/8000000
+http://jiexi.bulisite.top/bestv.php?id=wxtyhd8m/8000000
 #EXTINF:-1 group-title="上海 🇨🇳️" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/diyicaijing.png",上海第一财经
 http://58.34.204.67:9901/tsfile/live/1018_1.m3u8
 #EXTINF:-1 group-title="上海 🇨🇳️" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanghaijishi.png",上海纪实
@@ -305,11 +305,11 @@ http://op.nicker.top:3222/udp/239.11.0.64:5140
 #EXTINF:-1 group-title="上海 🇨🇳️" tvg-logo="https://epg.112114.xyz/logo/SITV都市剧场.png",都市剧场
 http://183.207.255.188/live/program/live/dsjchd/4000000/mnf.m3u8
 #EXTINF:-1 tvg-id="SITV劲爆体育" tvg-name="SITV劲爆体育" tvg-logo="https://epg.112114.xyz/logo/SITV劲爆体育.png" group-title="上海 🇨🇳️",劲爆体育
-http://moss.hk3.345888.xyz.cdn.cloudflare.net/11/bestv.php?id=jbtyhd8m/8000000
+http://jiexi.bulisite.top/bestv.php?id=jbtyhd8m/8000000
 #EXTINF:-1 group-title="上海 🇨🇳️" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jisuqiche.png",MAX极速汽车
 http://183.65.9.200:8888/udp/235.254.197.158:7980
 #EXTINF:-1 group-title="上海 🇨🇳️" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/qicaixiju.png",七彩戏剧
-http://moss.hk3.345888.xyz.cdn.cloudflare.net/11/bestv.php?id=qcxjhd8m/8000000
+http://jiexi.bulisite.top/bestv.php?id=qcxjhd8m/8000000
 #EXTINF:-1 tvg-id="SITV七彩戏剧" tvg-name="SITV七彩戏剧" tvg-logo="https://epg.112114.xyz/logo/SITV七彩戏剧.png" group-title="上海 🇨🇳️",七彩戏剧
 http://jasoncao.asuscomm.com:8888/udp/239.45.0.16:5140$上海电信组播
 #EXTINF:-1 group-title="地方臺 🇨🇳️",★★★★★地方臺 🇨🇳️★★★★★
