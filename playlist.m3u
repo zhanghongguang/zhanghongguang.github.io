@@ -169,7 +169,7 @@ https://live.goodiptv.club/api/cqyx.php?id=fyyyHD
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" tvg-id="1" tvg-name="CCTV1" group-title="央視 🇨🇳",CCTV-1综合
 http://a.xttv.top/xttv/27f43e697655f4d44c62d7f4d32fcctv.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" tvg-id="2" tvg-name="CCTV2" group-title="央視 🇨🇳",CCTV-2财经
-http://125.210.152.19:9120/live/hzgq-cctv2gq-h264.m3u8
+http://live.cooltv.top/tv/aishang.php?id=cctv2hd
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" tvg-id="3" tvg-name="CCTV3" group-title="央視 🇨🇳",CCTV-3综艺
 http://111.20.40.172/PLTV/88888893/224/3221226397/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" tvg-id="4" tvg-name="CCTV4" group-title="央視 🇨🇳",CCTV-4中文国际
