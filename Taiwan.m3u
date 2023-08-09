@@ -1,510 +1,354 @@
 #EXTM3U
-#EXTINF:-1 group-title="xiaozeng",纬来体育
-https://cloud.yumixiu768.com/tmp/123.m3u8
-#EXTINF:-1 group-title="xiaozeng",凤凰香港
-http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/fhtv.php?id=fhhk
-#EXTINF:-1 group-title="xiaozeng",凤凰中文
-http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/fhtv.php?id=fhzw
-#EXTINF:-1 group-title="xiaozeng",凤凰资讯
-http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/fhtv.php?id=fhzx
-#EXTINF:-1 group-title="xiaozeng",凤凰中文
-http://live.hust.edu.cn/hls/fhzw.m3u8
-#EXTINF:-1 group-title="xiaozeng",凤凰资讯
-http://live.hust.edu.cn/hls/fhzx.m3u8
-#EXTINF:-1 group-title="xiaozeng",凤凰电影
-http://live.hust.edu.cn/hls/fhdy.m3u8
-#EXTINF:-1 group-title="xiaozeng",Discovery
-http://live.hust.edu.cn/hls/discovery.m3u8
-#EXTINF:-1 group-title="xiaozeng",国家地理
-http://live.hust.edu.cn/hls/natlgeo.m3u8
-#EXTINF:-1 group-title="xiaozeng",Channel V
-http://live.hust.edu.cn/hls/channelv.m3u8
-#EXTINF:-1 group-title="xiaozeng",星空卫视
-http://live.hust.edu.cn/hls/startv.m3u8
-#EXTINF:-1 group-title="xiaozeng",Star Sports
-http://live.hust.edu.cn/hls/starsports.m3u8
-#EXTINF:-1 group-title="xiaozeng",m1905电影频道
-http://zgntv.icu/live/1905.php?id=1905dy
-#EXTINF:-1 group-title="xiaozeng",龙鑫电影频道
-http://106.115.24.52:9901/tsfile/live/1029_1.m3u8
-#EXTINF:-1 group-title="xiaozeng",港台電視31
-http://bad-ass.site/hklive.php?id=31
-#EXTINF:-1 group-title="xiaozeng",港台電視32
-http://bad-ass.site/hklive.php?id=32
-#EXTINF:-1 group-title="xiaozeng",港台電視33
-http://bad-ass.site/hklive.php?id=33
-#EXTINF:-1 group-title="xiaozeng",HOY TV
-http://bad-ass.site/hklive.php?id=77
-#EXTINF:-1 group-title="xiaozeng",HOY TV 資訊台
-http://bad-ass.site/hklive.php?id=78
-#EXTINF:-1 group-title="xiaozeng",香港國際財經台
-http://bad-ass.site/hklive.php?id=76
-#EXTINF:-1 group-title="xiaozeng",翡翠台
-http://bad-ass.site/hklive.php?id=81
-#EXTINF:-1 group-title="xiaozeng",J2台
-http://bad-ass.site/hklive.php?id=82
-#EXTINF:-1 group-title="xiaozeng",無綫新聞台
-http://bad-ass.site/hklive.php?id=83
-#EXTINF:-1 group-title="xiaozeng",明珠台
-http://bad-ass.site/hklive.php?id=84
-#EXTINF:-1 group-title="xiaozeng",無綫財經·資訊台
-http://bad-ass.site/hklive.php?id=85
-#EXTINF:-1 group-title="xiaozeng",ViuTV
-http://bad-ass.site/hklive.php?id=99
-#EXTINF:-1 group-title="xiaozeng",ViuTVSix
-http://bad-ass.site/hklive.php?id=96
-#EXTINF:-1 group-title="xiaozeng",Now 新聞台
-http://bad-ass.site/hklive.php?id=332
-#EXTINF:-1 group-title="xiaozeng",凤凰中文
-http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=phoenixtv_hd
-#EXTINF:-1 group-title="xiaozeng",凤凰资讯
-http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=phoenixinfo_hd
-#EXTINF:-1 group-title="xiaozeng",香港台
-http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=hkphoenix_twn
-#EXTINF:-1 group-title="xiaozeng",RTHK31
-http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=rhk31_twn
-#EXTINF:-1 group-title="xiaozeng",RTHK32
-http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=rhk32_twn
-#EXTINF:-1 group-title="xiaozeng",翡翠台
-http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=jade_twn
-#EXTINF:-1 group-title="xiaozeng",无线新闻台
-http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=inews_twn
-#EXTINF:-1 group-title="xiaozeng",无线财经台
-http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=tvbcaijing_twn
-#EXTINF:-1 group-title="xiaozeng",TVB J1
-http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=tvbxinhe_twn
-#EXTINF:-1 group-title="xiaozeng",J2
-http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=j2_twn
-#EXTINF:-1 group-title="xiaozeng",明珠台
-http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=pearl_twn
-#EXTINF:-1 group-title="xiaozeng",VIUTV
-http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=viu1_twn
-#EXTINF:-1 group-title="xiaozeng",VIUTV6
-http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=viusix_twn
-#EXTINF:-1 group-title="xiaozeng",卫视中文台
-http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=weishichinese_twn
-#EXTINF:-1 group-title="xiaozeng",爱奇艺
-http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=Qiyi
-#EXTINF:-1 group-title="xiaozeng",astro全挂
-http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=Quanjia
-#EXTINF:-1 group-title="xiaozeng",astro双星
-http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=Shuangxing
-#EXTINF:-1 group-title="xiaozeng",astro欢喜台
-http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=Huahee
-#EXTINF:-1 group-title="xiaozeng",astro小太阳
-http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=Xiaotaiyang
-#EXTINF:-1 group-title="xiaozeng",HBO1
-http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=Hbo
-#EXTINF:-1 group-title="xiaozeng",HBO HITS
-http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=hbohead_twn
-#EXTINF:-1 group-title="xiaozeng",HBO-原创
-http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=hbosignature_twn
-#EXTINF:-1 group-title="xiaozeng",HBO家庭
-http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=fyi_twn
-#EXTINF:-1 group-title="xiaozeng",HBO_
-http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=hbohd_twn
-#EXTINF:-1 group-title="xiaozeng",TVB星河
-http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=Xinhe
-#EXTINF:-1 group-title="xiaozeng",東森电影台
-http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=ettvmovie
-#EXTINF:-1 group-title="xiaozeng",纬来电影
-http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=videolandmovie
-#EXTINF:-1 group-title="xiaozeng",龙祥电影台1
-http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=cb7a1fec69
-#EXTINF:-1 group-title="xiaozeng",龙祥电影台
-http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=lungxiangtime_twn
-#EXTINF:-1 group-title="xiaozeng",美亚电影台
-http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=meiyamovie_twn
-#EXTINF:-1 group-title="xiaozeng",星卫电影台
-http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=xingwei_movie
-#EXTINF:-1 group-title="xiaozeng",天映频道1
-http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=Celestialindo
-#EXTINF:-1 group-title="xiaozeng",天映频道2
-http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=Celestial
-#EXTINF:-1 group-title="xiaozeng",好莱坞电影台
-http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=hollywoodmovies_twn
-#EXTINF:-1 group-title="xiaozeng",Thrill
-http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=Thrill
-#EXTINF:-1 group-title="xiaozeng",Boo
-http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=Boo
-#EXTINF:-1 group-title="xiaozeng",星空电影 Movies
-http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=starmovies_raj
-#EXTINF:-1 group-title="xiaozeng",AXN
-http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=Axn
-#EXTINF:-1 group-title="xiaozeng",AXNTW
-http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=axn_twn
-#EXTINF:-1 group-title="xiaozeng",CINEMAX
-http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=cinemax_twn
-#EXTINF:-1 group-title="xiaozeng",龙华戏剧
-http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=lunghuaxiju_twn
-#EXTINF:-1 group-title="xiaozeng",龙华偶像
-http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=lunghuaidol_twn
-#EXTINF:-1 group-title="xiaozeng",龙华洋片
-http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=lunghuawestern_twn
-#EXTINF:-1 group-title="xiaozeng",爱尔达影剧台1
-http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=eltadrama_twn
-#EXTINF:-1 group-title="xiaozeng",爱尔达影剧台2
-http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=eltayingju_twn
-#EXTINF:-1 group-title="xiaozeng",爱尔达综合台
-http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=eltazonghe
-#EXTINF:-1 group-title="xiaozeng",民视
-http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=ftvhd_taiwan
-#EXTINF:-1 group-title="xiaozeng",台视新闻
-http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=ttvnews_twn
-#EXTINF:-1 group-title="xiaozeng",华视
-http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=ctshd_twn
-#EXTINF:-1 group-title="xiaozeng",中视
-http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=zhongshihd_twn
-#EXTINF:-1 group-title="xiaozeng",公视
-http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=ctv_taiwan
-#EXTINF:-1 group-title="xiaozeng",中视新闻
-http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=ca73a13c37
-#EXTINF:-1 group-title="xiaozeng",中视新闻
-http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=zhongshinews_twn
-#EXTINF:-1 group-title="xiaozeng",民视新闻台
-http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=ftvnew_taiwan
-#EXTINF:-1 group-title="xiaozeng",民视台湾台
-http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=ftvtaiwan_twn
-#EXTINF:-1 group-title="xiaozeng",民视第一台
-http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=lunghuajingdian_twn
-#EXTINF:-1 group-title="xiaozeng",三立台湾
-http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=sanlitaiwan
-#EXTINF:-1 group-title="xiaozeng",三立综合台
-http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=sanlizhonghe
-#EXTINF:-1 group-title="xiaozeng",三立戏剧台
-http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=sanlixiju_twn
-#EXTINF:-1 group-title="xiaozeng",TVBS
-http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=tvbs
-#EXTINF:-1 group-title="xiaozeng",TVBS新闻台
-http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=tvbs_n
-#EXTINF:-1 group-title="xiaozeng",TVBS欢乐台
-http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=tvbshuanle_twn
-#EXTINF:-1 group-title="xiaozeng",八大第一台
-http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=badafirst
-#EXTINF:-1 group-title="xiaozeng",八大综合台
-http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=badazhonghe
-#EXTINF:-1 group-title="xiaozeng",八大戏剧台
-http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=badadrama
-#EXTINF:-1 group-title="xiaozeng",纬来日本台
-http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=videolandjapan
-#EXTINF:-1 group-title="xiaozeng",纬来体育
-http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=videolandsport
-#EXTINF:-1 group-title="xiaozeng",東森LIVE
-http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=ettvnews
-#EXTINF:-1 group-title="xiaozeng",東森戏剧
-http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=ettvdrama
-#EXTINF:-1 group-title="xiaozeng",东森财经新闻
-http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=ettvcaijing_twn
-#EXTINF:-1 group-title="xiaozeng",东森洋片
-http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=ettvwestern
-#EXTINF:-1 group-title="xiaozeng",东森超视
-http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=ettvsuper
-#EXTINF:-1 group-title="xiaozeng",东森综合台
-http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=ettvzhonghe
-#EXTINF:-1 group-title="xiaozeng",寰宇新闻台
-http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=huanyuxinwen_twn
-#EXTINF:-1 group-title="xiaozeng",寰宇财经
-http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=huanyutaiwan_twn
-#EXTINF:-1 group-title="xiaozeng",非凡新闻
-http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=feifannews_twn
-#EXTINF:-1 group-title="xiaozeng",年代新闻台
-http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=niandainews_twn
-#EXTINF:-1 group-title="xiaozeng",靖天卡通
-http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=jingtiancartoon_twn
-#EXTINF:-1 group-title="xiaozeng",靖天国际台
-http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=jingtianintl_twn
-#EXTINF:-1 group-title="xiaozeng",动物星球
-http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=animalplanet_twn
-#EXTINF:-1 group-title="xiaozeng",HGTV
-http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=HGTV
-#EXTINF:-1 group-title="xiaozeng",探索频道
-http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=ba86fcd935
-#EXTINF:-1 group-title="xiaozeng",探索频道
-http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=discoveryhd_twn
-#EXTINF:-1 group-title="xiaozeng",探索
-http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=discoverych_twn
-#EXTINF:-1 group-title="xiaozeng",探索亚洲
-http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=discoverytwn_twn
-#EXTINF:-1 group-title="xiaozeng",国家地理野生
-http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=natgeowild_twn
-#EXTINF:-1 group-title="xiaozeng",国家地理
-http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=natgeohd_twn
-#EXTINF:-1 group-title="xiaozeng",博斯运动 1
-http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=bosisport1_twn
-#EXTINF:-1 group-title="xiaozeng",博斯运动2
-http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=bosisport2_twn
-#EXTINF:-1 group-title="xiaozeng",博斯高球1
-http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=bosigolf1_twn
-#EXTINF:-1 group-title="xiaozeng",博斯高球2
-http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=bosigolf2_twn
-#EXTINF:-1 group-title="xiaozeng",博斯网球
-http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=bositennis_twn
-#EXTINF:-1 group-title="xiaozeng",ELEVEN 1
-http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=golfchannel_twn
-#EXTINF:-1 group-title="xiaozeng",EYE戏剧
-http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=eyetvxiju_twn
-#EXTINF:-1 group-title="xiaozeng",EYE旅游
-http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=eyetvtravel_twn
-#EXTINF:-1 group-title="xiaozeng",CN卡通频道
-http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=Cn
-#EXTINF:-1 group-title="xiaozeng",CN卡通频道2
-http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=momo1_twn
-#EXTINF:-1 group-title="xiaozeng",亚洲美食
-http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=afc_twn
-#EXTINF:-1 group-title="xiaozeng",美食星球
-http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=foodplanet_twn
-#EXTINF:-1 group-title="xiaozeng",亚洲旅游台
-http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=asiatravel_twn
-#EXTINF:-1 group-title="xiaozeng",好消息2台
-http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=good2_twn
-#EXTINF:-1 group-title="xiaozeng",大爱台
-http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=daai_twn
-#EXTINF:-1 group-title="xiaozeng",爱尔达体育1台
-http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=eltasport1_twn
-#EXTINF:-1 group-title="xiaozeng",爱尔达体育2台
-http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=eltasport2_twn
-#EXTINF:-1 group-title="xiaozeng",爱尔达体育3台
-http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=eltasport3_twn
-#EXTINF:-1 group-title="xiaozeng",DaaiTV
-http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=DaaiTV
-#EXTINF:-1 group-title="xiaozeng",新加坡CNA
-http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=cna
-#EXTINF:-1 group-title="xiaozeng",DiscoveryTurbo
-http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=discoveryturbo_twn
-#EXTINF:-1 group-title="xiaozeng",MiaoMi
-http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=MiaoMi
-#EXTINF:-1 group-title="xiaozeng",TLC旅游生活频道
-http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=Tlc
-#EXTINF:-1 group-title="xiaozeng",One
-http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=One
-#EXTINF:-1 group-title="xiaozeng",阿里郎Arirang
-http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=arirang_twn
-#EXTINF:-1 group-title="xiaozeng",NATGEOWILD
-http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=Natgeowild
-#EXTINF:-1 group-title="xiaozeng",BTESPN
-http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=btespn
-#EXTINF:-1 group-title="xiaozeng",BTSports3
-http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=beethree
-#EXTINF:-1 group-title="xiaozeng",BBCWORLDNEWS
-http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=bbcnews_twn
-#EXTINF:-1 group-title="xiaozeng",CBeebies
-http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=Cbeebies
-#EXTINF:-1 group-title="xiaozeng",CNBC
-http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=cnbc_twn
-#EXTINF:-1 group-title="xiaozeng",France24
-http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=france24_twn
-#EXTINF:-1 group-title="xiaozeng",TLC Asia
-http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=tlc_twn
-#EXTINF:-1 group-title="xiaozeng",BBCLifestyle
-http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=bbclifestyle_twn
-#EXTINF:-1 group-title="xiaozeng",Suria
-http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=Suria82
-#EXTINF:-1 group-title="xiaozeng",Suria
-http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=Suria
-#EXTINF:-1 group-title="xiaozeng",RIA
-http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=Ria
-#EXTINF:-1 group-title="xiaozeng",RIA
-http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=Ria_backup
-#EXTINF:-1 group-title="xiaozeng",Bernama
-http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=Bernama82
-#EXTINF:-1 group-title="xiaozeng",Bernama
-http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=Bernama
-#EXTINF:-1 group-title="xiaozeng",Al-Hijrah
-http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=Alhijrah
-#EXTINF:-1 group-title="xiaozeng",Mecca Live
-http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=quran_mido
-#EXTINF:-1 group-title="xiaozeng",Madinah
-http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=sunnah_mido
-#EXTINF:-1 group-title="xiaozeng",Oasis
-http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=Oasis
-#EXTINF:-1 group-title="xiaozeng",Ceria
-http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=Ceria
-#EXTINF:-1 group-title="xiaozeng",Sony
-http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=SetOne
-#EXTINF:-1 group-title="xiaozeng",Supersports 1
-http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=go_assp1
-#EXTINF:-1 group-title="xiaozeng",SPOTV 2
-http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=go_spotv2
-#EXTINF:-1 group-title="xiaozeng",Bein 1 Sports
-http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=bein1_mega
-#EXTINF:-1 group-title="xiaozeng",Bein 2 Sports
-http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=bein2_mega
-#EXTINF:-1 group-title="xiaozeng",Bein 3 Sports
-http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=bein3_mega
-#EXTINF:-1 group-title="xiaozeng",Bein 4 Sports
-http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=bein4_mega
-#EXTINF:-1 group-title="xiaozeng",Bein 5 Sports
-http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=bein5_mega
-#EXTINF:-1 group-title="xiaozeng",Bein 6 Sports
-http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=bein6_mega
-#EXTINF:-1 group-title="xiaozeng",Bein 7 Sports
-http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=bein7_mega
-#EXTINF:-1 group-title="xiaozeng",Bein 1 Premium
-http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=bein1pre_mega
-#EXTINF:-1 group-title="xiaozeng",Bein 2 Premium
-http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=bein2pre_mega
-#EXTINF:-1 group-title="xiaozeng",Bein 3 Premium
-http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=bein3pre_mega
-#EXTINF:-1 group-title="xiaozeng",CBS
-http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=cbshd_glo
-#EXTINF:-1 group-title="xiaozeng",Boomerang
-http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=Boomerang
-#EXTINF:-1 group-title="xiaozeng",Movies Now
-http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=moviesnow_raj
-#EXTINF:-1 group-title="xiaozeng",SCM
-http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=Weishimovie
-#EXTINF:-1 group-title="xiaozeng",AEC
-http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=AEC
-#EXTINF:-1 group-title="xiaozeng",BaBy-TV
-http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=babytv_twn
-#EXTINF:-1 group-title="xiaozeng",Al-Jazeera
-http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=aljazeera_twn
-#EXTINF:-1 group-title="xiaozeng",Animax
-http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=Animax
-#EXTINF:-1 group-title="xiaozeng",Awani
-http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=Awani
-#EXTINF:-1 group-title="xiaozeng",BBC1
-http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=bbc1_antik
-#EXTINF:-1 group-title="xiaozeng",BBC2
-http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=bbc2_antik
-#EXTINF:-1 group-title="xiaozeng",BTSports2
-http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=beetwo
-#EXTINF:-1 group-title="xiaozeng",BloombergNews
-http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=bloomberg_twn
-#EXTINF:-1 group-title="xiaozeng",CBBC
-http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=cbbc_antik
-#EXTINF:-1 group-title="xiaozeng",CBSN
-http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=cbsn_glo
-#EXTINF:-1 group-title="xiaozeng",CGTN
-http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=CGTN
-#EXTINF:-1 group-title="xiaozeng",Channel5Thailand
-http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=ch5_pat
-#EXTINF:-1 group-title="xiaozeng",DW(Deutsch)
-http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=dw_twn
-#EXTINF:-1 group-title="xiaozeng",DiscoveryKidsTamil
-http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=discoverykidtamil_raj
-#EXTINF:-1 group-title="xiaozeng",DiscoveryWorldTamil
-http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=discoveryworldtam_raj
-#EXTINF:-1 group-title="xiaozeng",FoxNews
-http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=foxnews_twn
-#EXTINF:-1 group-title="xiaozeng",WWE
-http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=Wwe
-#EXTINF:-1 group-title="xiaozeng",GmmChannel
-http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=gmmchannel_pat
-#EXTINF:-1 group-title="xiaozeng",Channel 5
-http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=Channel5HD
-#EXTINF:-1 group-title="xiaozeng",Channel 81
-http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=Channel8HD
-#EXTINF:-1 group-title="xiaozeng",Channel 8
-http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=Ch8114
-#EXTINF:-1 group-title="xiaozeng",ChannelU
-http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=ChannelU
-#EXTINF:-1 group-title="xiaozeng",TPTV
-http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=tptv_pat
-#EXTINF:-1 group-title="xiaozeng",TV1
-http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=TV1
-#EXTINF:-1 group-title="xiaozeng",TV2
-http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=TV2
-#EXTINF:-1 group-title="xiaozeng",TV3
-http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=TV3
-#EXTINF:-1 group-title="xiaozeng",TV3 backup
-http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=TV382_backup
-#EXTINF:-1 group-title="xiaozeng",TVMU
-http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=TVMU_eko
-#EXTINF:-1 group-title="xiaozeng",NTV71
-http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=NTV7
-#EXTINF:-1 group-title="xiaozeng",TV8
-http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=TV8
-#EXTINF:-1 group-title="xiaozeng",TV9
-http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=TV9
-#EXTINF:-1 group-title="xiaozeng",KBSWorld
-http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=KBS
-#EXTINF:-1 group-title="xiaozeng",KidsTV
-http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=KidsTV
-#EXTINF:-1 group-title="xiaozeng",MCOTThailand-1
-http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=mcot_pat
-#EXTINF:-1 group-title="xiaozeng",Mono
-http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=mono_pat
-#EXTINF:-1 group-title="xiaozeng",MuslimTV
-http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=MuslimTV
-#EXTINF:-1 group-title="xiaozeng",NatGeoTamil
-http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=natgeotamil_raj
-#EXTINF:-1 group-title="xiaozeng",Nation
-http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=nation_pat
-#EXTINF:-1 group-title="xiaozeng",New
-http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=new_pat
-#EXTINF:-1 group-title="xiaozeng",Prima
-http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=Prima
-#EXTINF:-1 group-title="xiaozeng",RTMSports
-http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=Rtmsport
-#EXTINF:-1 group-title="xiaozeng",SCTV
-http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=Sctv
-#EXTINF:-1 group-title="xiaozeng",SonyTen1
-http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=ten1_raj
-#EXTINF:-1 group-title="xiaozeng",StarVijayIndia
-http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=starvijay_raj
-#EXTINF:-1 group-title="xiaozeng",Starmaa
-http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=starmaa_raj
-#EXTINF:-1 group-title="xiaozeng",SunTV
-http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=Suntv
-#EXTINF:-1 group-title="xiaozeng",TawafTV
-http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=TawafTV
-#EXTINF:-1 group-title="xiaozeng",Thairath
-http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=thairath_pat
-#EXTINF:-1 group-title="xiaozeng",Tnn24
-http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=tnn24_pat
-#EXTINF:-1 group-title="xiaozeng",TruePremium1
-http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=truepre1_pat
-#EXTINF:-1 group-title="xiaozeng",TruePremium2
-http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=truepre2_pat
-#EXTINF:-1 group-title="xiaozeng",Tvone
-http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=Tvone
-#EXTINF:-1 group-title="xiaozeng",VisionPrime
-http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=VisionPrime
-#EXTINF:-1 group-title="xiaozeng",Warna
-http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=Warna
-#EXTINF:-1 group-title="xiaozeng",WarnerTV
-http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=WarnerTV
-#EXTINF:-1 group-title="xiaozeng",ZeeNews
-http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=Zeenews
-#EXTINF:-1 group-title="xiaozeng",itv1
-http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=itv1_antik
-#EXTINF:-1 group-title="xiaozeng",itv2
-http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=itv2_antik
-#EXTINF:-1 group-title="xiaozeng",tpbs
-http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=tpbs_pat
-#EXTINF:-1 group-title="xiaozeng",Drama Sangat
-http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=Dsangat
-#EXTINF:-1 group-title="xiaozeng",TVN
-http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=TVN
-#EXTINF:-1 group-title="xiaozeng",AFN
-http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=Afc
-#EXTINF:-1 group-title="xiaozeng",Nick JR
-http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=Nickjr
-#EXTINF:-1 group-title="xiaozeng",Babytv
-http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=Babytv
-#EXTINF:-1 group-title="xiaozeng",AnimalPlanet
-http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=AnimalPlanet
-#EXTINF:-1 group-title="xiaozeng",Nickelodeon
-http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=Nickelodeon
-#EXTINF:-1 group-title="xiaozeng",ABCNews
-http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=abcnews_glo
-#EXTINF:-1 group-title="xiaozeng",Euronews
-http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=euronews_antik
-#EXTINF:-1 group-title="xiaozeng",HISTORY
-http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=History
-#EXTINF:-1 group-title="xiaozeng",SkyNews
-http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=skynews_antik
-#EXTINF:-1 group-title="xiaozeng",CNN
-http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=cnn_twn
-#EXTINF:-1 group-title="xiaozeng",Goshop
-http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=Goshop
-#EXTINF:-1 group-title="xiaozeng",Bein 1 Xtra
-http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=bein1xtra_mega
-#EXTINF:-1 group-title="xiaozeng",NatGeo
-http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=Natgeo
-#EXTINF:-1 group-title="xiaozeng",BBC Earth
-http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=bbcearth_twn
+#EXTINF:-1 group-title="ulivetv",TVBS新闻
+https://us.dispatch.ulivetv.net/v/live/cfxyummruo5c.m3u8?stream_id=cfxyummruo5c&token=c0vzuc7wqkzk
+#EXTINF:-1 group-title="ulivetv",寰宇新闻
+https://us.dispatch.ulivetv.net/v/live/cfxws90rpmf4.m3u8?stream_id=cfxws90rpmf4&token=c0vzuc7wqkzk
+#EXTINF:-1 group-title="ulivetv",华视新闻
+https://us.dispatch.ulivetv.net/v/live/cfxxj2c5l6f4.m3u8?stream_id=cfxxj2c5l6f4&token=c0vzuc7wqkzk
+#EXTINF:-1 group-title="ulivetv",中天新闻
+https://us.dispatch.ulivetv.net/v/live/cg1049vjg14w.m3u8?stream_id=cg1049vjg14w&token=c0vzuc7wqkzk
+#EXTINF:-1 group-title="ulivetv",镜新闻
+https://us.dispatch.ulivetv.net/v/live/cfxxf3nxvem8.m3u8?stream_id=cfxxf3nxvem8&token=c0vzuc7wqkzk
+#EXTINF:-1 group-title="ulivetv",镜新闻HD
+https://us.dispatch.ulivetv.net/v/live/cfxwzsgnhnls.m3u8?stream_id=cfxwzsgnhnls&token=c0vzuc7wqkzk
+#EXTINF:-1 group-title="ulivetv",镜天资讯
+https://us.dispatch.ulivetv.net/v/live/cg16rqyr0wqo.m3u8?stream_id=cg16rqyr0wqo&token=c0vzuc7wqkzk
+#EXTINF:-1 group-title="ulivetv",中视新闻
+https://us.dispatch.ulivetv.net/v/live/clev54g636bk.m3u8?stream_id=clev54g636bk&token=c0vzuc7wqkzk
+#EXTINF:-1 group-title="ulivetv",台视新闻
+https://us.dispatch.ulivetv.net/v/live/clevc7agnphc.m3u8?stream_id=clevc7agnphc&token=c0vzuc7wqkzk
+#EXTINF:-1 group-title="ulivetv",TVBSHD
+https://us.dispatch.ulivetv.net/v/live/cl7c4wxioc00.m3u8?stream_id=cl7c4wxioc00&token=c0vzuc7wqkzk
+#EXTINF:-1 group-title="ulivetv",东森财经新闻
+https://us.dispatch.ulivetv.net/v/live/cl7c5f64zg74.m3u8?stream_id=cl7c5f64zg74&token=c0vzuc7wqkzk
+#EXTINF:-1 group-title="ulivetv",年代新闻
+https://us.dispatch.ulivetv.net/v/live/cl7cbgg2j000.m3u8?stream_id=cl7cbgg2j000&token=c0vzuc7wqkzk
+#EXTINF:-1 group-title="ulivetv",非凡新闻
+https://us.dispatch.ulivetv.net/v/live/cl7cc13lsxc0.m3u8?stream_id=cl7cc13lsxc0&token=c0vzuc7wqkzk
+#EXTINF:-1 group-title="ulivetv",东森新闻
+https://us.dispatch.ulivetv.net/v/live/clecuz9d78ow.m3u8?stream_id=clecuz9d78ow&token=c0vzuc7wqkzk
+#EXTINF:-1 group-title="",翡翠台
+https://dispatchnew.ulivetv.net/v/live/ccns0yuvkzpc.m3u8?stream_id=ccns0yuvkzpc&token=c0vzuc7wqkzk
+#EXTINF:-1 group-title="",凤凰中文
+https://us.dispatch.ulivetv.net/v/live/cg4l8oajkyww.m3u8?stream_id=cg4l8oajkyww&token=c0vzuc7wqkzk
+#EXTINF:-1 group-title="",凤凰资讯
+https://us.dispatch.ulivetv.net/v/live/cfxskn7pjv0g.m3u8?stream_id=cfxskn7pjv0g&token=c0vzuc7wqkzk
+#EXTINF:-1 group-title="",凤凰香港
+https://us.dispatch.ulivetv.net/v/live/cfxs8eqh503k.m3u8?stream_id=cfxs8eqh503k&token=c0vzuc7wqkzk
+#EXTINF:-1 group-title="",J2
+https://dispatchnew.ulivetv.net/v/live/ccns1caueri8.m3u8?stream_id=ccns1caueri8&token=c0vzuc7wqkzk
+#EXTINF:-1 group-title="",TVB明珠
+https://dispatchnew.ulivetv.net/v/live/ccns2cw1d7ls.m3u8?stream_id=ccns2cw1d7ls&token=c0vzuc7wqkzk
+#EXTINF:-1 group-title="",VIUTV
+https://dispatchnew.ulivetv.net/v/live/ccnuwp0ol8zk.m3u8?stream_id=ccnuwp0ol8zk&token=c0vzuc7wqkzk
+#EXTINF:-1 group-title="",VIUTV6
+https://dispatchnew.ulivetv.net/v/live/ccnuxr010b0g.m3u8?stream_id=ccnuxr010b0g&token=c0vzuc7wqkzk
+#EXTINF:-1 group-title="",TVB翡翠台
+https://dispatchnew.ulivetv.net/v/live/ccns0yuvkzpc.m3u8?stream_id=ccns0yuvkzpc&token=c0vzuc7wqkzk
+#EXTINF:-1 group-title="",NOW财经台
+https://us.dispatch.ulivetv.net/v/live/cnnrkvw6g98g.m3u8?stream_id=cnnrkvw6g98g&token=c0vzuc7wqkzk
+#EXTINF:-1 group-title="",凤凰卫视
+https://us.dispatch.ulivetv.net/v/live/cfxsdwcdynk0.m3u8?stream_id=cfxsdwcdynk0&token=c0vzuc7wqkzk
+#EXTINF:-1 group-title="",澳门莲花
+https://us.dispatch.ulivetv.net/v/live/cl7c8hsq3f0g.m3u8?stream_id=cl7c8hsq3f0g&token=c0vzuc7wqkzk
+#EXTINF:-1 group-title="",TVB无线新闻
+https://dispatchnew.ulivetv.net/v/live/ccns1uzk2bwg.m3u8?stream_id=ccns1uzk2bwg&token=c0vzuc7wqkzk
+#EXTINF:-1 group-title="",TVB无线财经
+https://dispatchnew.ulivetv.net/v/live/ccns2zd6z3y8.m3u8?stream_id=ccns2zd6z3y8&token=c0vzuc7wqkzk
+#EXTINF:-1 group-title="",RTHK31
+https://dispatchnew.ulivetv.net/v/live/ccnfegd7luio.m3u8?stream_id=ccnfegd7luio&token=c0vzuc7wqkzk
+#EXTINF:-1 group-title="",RTHK32
+https://dispatchnew.ulivetv.net/v/live/ccnp0ueaq75s.m3u8?stream_id=ccnp0ueaq75s&token=c0vzuc7wqkzk
+#EXTINF:-1 group-title="",HOYTV
+https://dispatchnew.ulivetv.net/v/live/ccnrzuw0kla8.m3u8?stream_id=ccnrzuw0kla8&token=c0vzuc7wqkzk
+#EXTINF:-1 group-title="",HOY资讯
+https://dispatchnew.ulivetv.net/v/live/ccns0cgwuf9c.m3u8?stream_id=ccns0cgwuf9c&token=c0vzuc7wqkzk
+#EXTINF:-1 group-title="",香港国际财经
+https://dispatchnew.ulivetv.net/v/live/ccnrz68enhz4.m3u8?stream_id=ccnrz68enhz4&token=c0vzuc7wqkzk
+#EXTINF:-1 group-title="",澳视澳门
+https://us.dispatch.ulivetv.net/v/live/cfxt168it3gg.m3u8?stream_id=cfxt168it3gg&token=c0vzuc7wqkzk
+#EXTINF:-1 group-title="",澳门资讯
+https://us.dispatch.ulivetv.net/v/live/cfxt8hrg64lc.m3u8?stream_id=cfxt8hrg64lc&token=c0vzuc7wqkzk
+#EXTINF:-1 group-title="",TVB经典台
+https://us.dispatch.ulivetv.net/v/live/cfxtubeazlc0.m3u8?stream_id=cfxtubeazlc0&token=c0vzuc7wqkzk
+#EXTINF:-1 group-title="",天映经典
+https://us.dispatch.ulivetv.net/v/live/cg48ogf0pj28.m3u8?stream_id=cg48ogf0pj28&token=c0vzuc7wqkzk
+#EXTINF:-1 group-title="",天映频道
+https://us.dispatch.ulivetv.net/v/live/cg4jy3qvi6kg.m3u8?stream_id=cg4jy3qvi6kg&token=c0vzuc7wqkzk
+#EXTINF:-1 group-title="",TVB华语剧台
+https://us.dispatch.ulivetv.net/v/live/ciw8gobsylds.m3u8?stream_id=ciw8gobsylds&token=c0vzuc7wqkzk
+#EXTINF:-1 group-title="",TVB星河
+https://us.dispatch.ulivetv.net/v/live/cl7c95iovqo0.m3u8?stream_id=cl7c95iovqo0&token=c0vzuc7wqkzk
+#EXTINF:-1 group-title="",NOW爆谷台
+https://us.dispatch.ulivetv.net/v/live/crq3y08d6hq8.m3u8?stream_id=crq3y08d6hq8%20%20&token=c0vzuc7wqkzk
+#EXTINF:-1 group-title="",TVB娱乐新闻
+https://us.dispatch.ulivetv.net/v/live/cnkh00kniz0g.m3u8?stream_id=cnkh00kniz0g&token=c0vzuc7wqkzk
+#EXTINF:-1 group-title="",TVB粤语片
+https://us.dispatch.ulivetv.net/v/live/cnv47oyqlmtc.m3u8?stream_id=cnv47oyqlmtc&token=c0vzuc7wqkzk
+#EXTINF:-1 group-title="",TVB亚洲剧
+https://us.dispatch.ulivetv.net/v/live/cnyy2jy9gdds.m3u8?stream_id=cnyy2jy9gdds&token=c0vzuc7wqkzk
+#EXTINF:-1 group-title="",TVB华剧
+https://us.dispatch.ulivetv.net/v/live/crxn7hd4vz9c.m3u8?stream_id=crxn7hd4vz9c&token=c0vzuc7wqkzk
+#EXTINF:-1 group-title="",中天综合
+https://us.dispatch.ulivetv.net/v/live/cg0ifkvu1hhc.m3u8?stream_id=cg0ifkvu1hhc&token=c0vzuc7wqkzk
+#EXTINF:-1 group-title="",大爱二台
+https://us.dispatch.ulivetv.net/v/live/cl7c83atb64g.m3u8?stream_id=cl7c83atb64g&token=c0vzuc7wqkzk
+#EXTINF:-1 group-title="",大爱一台
+https://us.dispatch.ulivetv.net/v/live/cl7c7r2jpg3k.m3u8?stream_id=cl7c7r2jpg3k&token=c0vzuc7wqkzk
+#EXTINF:-1 group-title="",中视
+https://us.dispatch.ulivetv.net/v/live/cfm2qel2kn9c.m3u8?stream_id=cfm2qel2kn9c&token=c0vzuc7wqkzk
+#EXTINF:-1 group-title="",公视
+https://us.dispatch.ulivetv.net/v/live/cg0hhu6qlpz4.m3u8?stream_id=cg0hhu6qlpz4&token=c0vzuc7wqkzk
+#EXTINF:-1 group-title="",公视3
+https://us.dispatch.ulivetv.net/v/live/cg0hro4vn54w.m3u8?stream_id=cg0hro4vn54w&token=c0vzuc7wqkzk
+#EXTINF:-1 group-title="",中天亚洲
+https://us.dispatch.ulivetv.net/v/live/cg0im4r5dh34.m3u8?stream_id=cg0im4r5dh34&token=c0vzuc7wqkzk
+#EXTINF:-1 group-title="",东森超视
+https://us.dispatch.ulivetv.net/v/live/cg169idwckw0.m3u8?stream_id=cg169idwckw0&token=c0vzuc7wqkzk
+#EXTINF:-1 group-title="",靖天国际台
+https://us.dispatch.ulivetv.net/v/live/cg169idwckw0.m3u8?stream_id=cg169idwckw0&token=c0vzuc7wqkzk
+#EXTINF:-1 group-title="",TVBS亚洲
+https://us.dispatch.ulivetv.net/v/live/cg169idwckw0.m3u8?stream_id=cg169idwckw0&token=c0vzuc7wqkzk
+#EXTINF:-1 group-title="",八大综合
+https://us.dispatch.ulivetv.net/v/live/cl7ckgyfn9vk.m3u8?stream_id=cl7ckgyfn9vk&token=c0vzuc7wqkzk
+#EXTINF:-1 group-title="",客家电视台
+https://us.dispatch.ulivetv.net/v/live/cl7ckgyfn9vk.m3u8?stream_id=cl7ckgyfn9vk&token=c0vzuc7wqkzk
+#EXTINF:-1 group-title="",东森综合
+https://us.dispatch.ulivetv.net/v/live/clecuafija9s.m3u8?stream_id=clecuafija9s&token=c0vzuc7wqkzk
+#EXTINF:-1 group-title="",中视
+https://us.dispatch.ulivetv.net/v/live/cl7c5tec5wow.m3u8?stream_id=cl7c5tec5wow&token=c0vzuc7wqkzk
+#EXTINF:-1 group-title="",华视
+https://us.dispatch.ulivetv.net/v/live/cl7c69hc4m2o.m3u8?stream_id=cl7c69hc4m2o&token=c0vzuc7wqkzk
+#EXTINF:-1 group-title="",台视
+https://us.dispatch.ulivetv.net/v/live/cl7c6o644t6o.m3u8?stream_id=cl7c6o644t6o&token=c0vzuc7wqkzk
+#EXTINF:-1 group-title="",纬来日本
+https://us.dispatch.ulivetv.net/v/live/cl7c7d6a1j28.m3u8?stream_id=cl7c7d6a1j28&token=c0vzuc7wqkzk
+#EXTINF:-1 group-title="",纬来综合
+https://us.dispatch.ulivetv.net/v/live/cl7clh349vpc.m3u8?stream_id=cl7clh349vpc&token=c0vzuc7wqkzk
+#EXTINF:-1 group-title="",八大第一
+https://us.dispatch.ulivetv.net/v/live/cs0cbcjywtog.m3u8?stream_id=cs0cbcjywtog&token=c0vzuc7wqkzk
+#EXTINF:-1 group-title="",ELTA综合
+https://us.dispatch.ulivetv.net/v/live/cl7cqw6n9sqo.m3u8?stream_id=cl7cqw6n9sqo&token=c0vzuc7wqkzk
+#EXTINF:-1 group-title="",TVBS欢乐
+https://us.dispatch.ulivetv.net/v/live/cg0hzu3sgc00.m3u8?stream_id=cg0hzu3sgc00&token=c0vzuc7wqkzk
+#EXTINF:-1 group-title="",中天娱乐
+https://us.dispatch.ulivetv.net/v/live/cg0iacfwayf4.m3u8?stream_id=cg0iacfwayf4&token=c0vzuc7wqkzk
+#EXTINF:-1 group-title="",八大娱乐
+https://us.dispatch.ulivetv.net/v/live/cg0j44tc0kow.m3u8?stream_id=cg0j44tc0kow&token=c0vzuc7wqkzk
+#EXTINF:-1 group-title="",东森电影HD
+https://us.dispatch.ulivetv.net/v/live/cg488dxn8xxc.m3u8?stream_id=cg488dxn8xxc&token=c0vzuc7wqkzk
+#EXTINF:-1 group-title="",东森电影
+https://us.dispatch.ulivetv.net/v/live/cl7ca5o7h4n4.m3u8?stream_id=cl7ca5o7h4n4&token=c0vzuc7wqkzk
+#EXTINF:-1 group-title="",东森戏剧
+https://us.dispatch.ulivetv.net/v/live/cl7caihk7zr4.m3u8?stream_id=cl7caihk7zr4&token=c0vzuc7wqkzk
+#EXTINF:-1 group-title="",东森洋片
+https://us.dispatch.ulivetv.net/v/live/cl7cavg498sg.m3u8?stream_id=cl7cavg498sg&token=c0vzuc7wqkzk
+#EXTINF:-1 group-title="",卫视中文台
+https://us.dispatch.ulivetv.net/v/live/cl7ciyx4pznk.m3u8?stream_id=cl7ciyx4pznk&token=c0vzuc7wqkzk
+#EXTINF:-1 group-title="",卫视电影台
+https://us.dispatch.ulivetv.net/v/live/cl7cjf5jgs00.m3u8?stream_id=cl7cjf5jgs00&token=c0vzuc7wqkzk
+#EXTINF:-1 group-title="",龙祥电影台
+https://us.dispatch.ulivetv.net/v/live/cl7cjqrlyzeo.m3u8?stream_id=cl7cjqrlyzeo&token=c0vzuc7wqkzk
+#EXTINF:-1 group-title="",好莱坞电影
+https://us.dispatch.ulivetv.net/v/live/cl7ck1qkwzpc.m3u8?stream_id=cl7ck1qkwzpc&token=c0vzuc7wqkzk
+#EXTINF:-1 group-title="",八大戏剧
+https://us.dispatch.ulivetv.net/v/live/cl7ckupkipc0.m3u8?stream_id=cl7ckupkipc0&token=c0vzuc7wqkzk
+#EXTINF:-1 group-title="",纬来戏剧
+https://us.dispatch.ulivetv.net/v/live/cl7cm1w9tl1c.m3u8?stream_id=cl7cm1w9tl1c&token=c0vzuc7wqkzk
+#EXTINF:-1 group-title="",纬来电影
+https://us.dispatch.ulivetv.net/v/live/cl7cmdp021mo.m3u8?stream_id=cl7cmdp021mo&token=c0vzuc7wqkzk
+#EXTINF:-1 group-title="",龙华电影
+https://us.dispatch.ulivetv.net/v/live/cl7cmqsyvdmo.m3u8?stream_id=cl7cmqsyvdmo&token=c0vzuc7wqkzk
+#EXTINF:-1 group-title="",龙华洋片
+https://us.dispatch.ulivetv.net/v/live/cl7cn6bknxds.m3u8?stream_id=cl7cn6bknxds&token=c0vzuc7wqkzk
+#EXTINF:-1 group-title="",靖天电影
+https://us.dispatch.ulivetv.net/v/live/cl7cnhrqwreo.m3u8?stream_id=cl7cnhrqwreo&token=c0vzuc7wqkzk
+#EXTINF:-1 group-title="",美亚电影
+https://us.dispatch.ulivetv.net/v/live/cl7cpvwwclog.m3u8?stream_id=cl7cpvwwclog&token=c0vzuc7wqkzk
+#EXTINF:-1 group-title="",MTV Live HD
+https://us.dispatch.ulivetv.net/v/live/clecsxddtsxs.m3u8?stream_id=clecsxddtsxs&token=c0vzuc7wqkzk
+#EXTINF:-1 group-title="",靖洋戏剧
+https://us.dispatch.ulivetv.net/v/live/clect8xzw534.m3u8?stream_id=clect8xzw534&token=c0vzuc7wqkzk
+#EXTINF:-1 group-title="",ELTA影剧
+https://us.dispatch.ulivetv.net/v/live/cl7cqioy0kao.m3u8?stream_id=cl7cqioy0kao&token=c0vzuc7wqkzk
+#EXTINF:-1 group-title="",ELTA戏剧
+https://us.dispatch.ulivetv.net/v/live/cl7crqv0voao.m3u8?stream_id=cl7crqv0voao&token=c0vzuc7wqkzk
+#EXTINF:-1 group-title="",星卫电影台
+https://us.dispatch.ulivetv.net/v/live/cl7cs387s6v4.m3u8?stream_id=cl7cs387s6v4&token=c0vzuc7wqkzk
+#EXTINF:-1 group-title="",星卫娱乐
+https://us.dispatch.ulivetv.net/v/live/cl7csf4rd2gw.m3u8?stream_id=cl7csf4rd2gw&token=c0vzuc7wqkzk
+#EXTINF:-1 group-title="",纬来体育
+https://us.dispatch.ulivetv.net/v/live/cg1mbnhpe0u8.m3u8?stream_id=cg1mbnhpe0u8&token=c0vzuc7wqkzk
+#EXTINF:-1 group-title="",ELEVEN1
+https://us.dispatch.ulivetv.net/v/live/cg1mg0pkbi68.m3u8?stream_id=cg1mg0pkbi68&token=c0vzuc7wqkzk
+#EXTINF:-1 group-title="",ELEVEN2
+https://us.dispatch.ulivetv.net/v/live/cg1mlp24a2tc.m3u8?stream_id=cg1mlp24a2tc&token=c0vzuc7wqkzk
+#EXTINF:-1 group-title="",博斯运动1
+https://us.dispatch.ulivetv.net/v/live/cg1mq9e7sl34.m3u8?stream_id=cg1mq9e7sl34&token=c0vzuc7wqkzk
+#EXTINF:-1 group-title="",博斯运动2
+https://us.dispatch.ulivetv.net/v/live/cg1mvz20c14w.m3u8?stream_id=cg1mvz20c14w&token=c0vzuc7wqkzk
+#EXTINF:-1 group-title="",博斯高球1
+https://us.dispatch.ulivetv.net/v/live/cg1n0b4bgbeo.m3u8?stream_id=cg1n0b4bgbeo&token=c0vzuc7wqkzk
+#EXTINF:-1 group-title="",博斯高球2
+https://us.dispatch.ulivetv.net/v/live/cg1n6ib9u4sg.m3u8?stream_id=cg1n6ib9u4sg&token=c0vzuc7wqkzk
+#EXTINF:-1 group-title="",博斯网球
+https://us.dispatch.ulivetv.net/v/live/cg1nb00eplts.m3u8?stream_id=cg1nb00eplts&token=c0vzuc7wqkzk
+#EXTINF:-1 group-title="",Astro SuperSport1
+https://us.dispatch.ulivetv.net/v/live/cg1npm2qvn40.m3u8?stream_id=cg1npm2qvn40&token=c0vzuc7wqkzk
+#EXTINF:-1 group-title="",Astro SuperSport2
+https://us.dispatch.ulivetv.net/v/live/cg1o236o5ubk.m3u8?stream_id=cg1o236o5ubk&token=c0vzuc7wqkzk
+#EXTINF:-1 group-title="",Astro SuperSport3
+https://us.dispatch.ulivetv.net/v/live/cg1occ9jk43k.m3u8?stream_id=cg1occ9jk43k&token=c0vzuc7wqkzk
+#EXTINF:-1 group-title="",Astro SuperSport4
+https://us.dispatch.ulivetv.net/v/live/cg1okgbznhs0.m3u8?stream_id=cg1okgbznhs0&token=c0vzuc7wqkzk
+#EXTINF:-1 group-title="",欧洲体育1
+https://us.dispatch.ulivetv.net/v/live/cl7cnsau00jk.m3u8?stream_id=cl7cnsau00jk&token=c0vzuc7wqkzk
+#EXTINF:-1 group-title="",欧洲体育2
+https://us.dispatch.ulivetv.net/v/live/cg1p37xozmio.m3u8?stream_id=cg1p37xozmio&token=c0vzuc7wqkzk
+#EXTINF:-1 group-title="",beIN Sports Max
+https://us.dispatch.ulivetv.net/v/live/cg1pl1djbidc.m3u8?stream_id=cg1pl1djbidc&token=c0vzuc7wqkzk
+#EXTINF:-1 group-title="",SPOTV
+https://us.dispatch.ulivetv.net/v/live/cg4y76plhgw0.m3u8?stream_id=cg4y76plhgw0&token=c0vzuc7wqkzk
+#EXTINF:-1 group-title="",SPOTV2
+https://us.dispatch.ulivetv.net/v/live/cg4vpue7oa80.m3u8?stream_id=cg4vpue7oa80&token=c0vzuc7wqkzk
+#EXTINF:-1 group-title="",beIN Sports1
+https://us.dispatch.ulivetv.net/v/live/cg4725fntcqo.m3u8?stream_id=cg4725fntcqo&token=c0vzuc7wqkzk
+#EXTINF:-1 group-title="",beIN Sports2
+https://us.dispatch.ulivetv.net/v/live/cg476ghmetvk.m3u8?stream_id=cg476ghmetvk&token=c0vzuc7wqkzk
+#EXTINF:-1 group-title="",beIN Sports3
+https://us.dispatch.ulivetv.net/v/live/cg47a0abw91c.m3u8?stream_id=cg47a0abw91c&token=c0vzuc7wqkzk
+#EXTINF:-1 group-title="",欧洲体育HD
+https://us.dispatch.ulivetv.net/v/live/cg4yqzuewerk.m3u8?stream_id=cg4yqzuewerk&token=c0vzuc7wqkzk
+#EXTINF:-1 group-title="",博斯无限
+https://us.dispatch.ulivetv.net/v/live/clecumtydz28.m3u8?stream_id=clecumtydz28&token=c0vzuc7wqkzk
+#EXTINF:-1 group-title="",NBA
+https://us.dispatch.ulivetv.net/v/live/cl7cdvv53n40.m3u8?stream_id=cl7cdvv53n40&token=c0vzuc7wqkzk
+#EXTINF:-1 group-title="",ELTA体育1
+https://us.dispatch.ulivetv.net/v/live/clecyhjewngg.m3u8?stream_id=clecyhjewngg&token=c0vzuc7wqkzk
+#EXTINF:-1 group-title="",ELTA体育2
+https://us.dispatch.ulivetv.net/v/live/clecysls7oow.m3u8?stream_id=clecysls7oow&token=c0vzuc7wqkzk
+#EXTINF:-1 group-title="",ELTA体育3
+https://us.dispatch.ulivetv.net/v/live/cnnh2pl4cam8.m3u8?stream_id=cnnh2pl4cam8&token=c0vzuc7wqkzk
+#EXTINF:-1 group-title="",靖天卡通
+https://us.dispatch.ulivetv.net/v/live/cg16vy7fp9s0.m3u8?stream_id=cg16vy7fp9s0&token=c0vzuc7wqkzk
+#EXTINF:-1 group-title="",Astro小太阳
+https://us.dispatch.ulivetv.net/v/live/cgbwueb4f8hs.m3u8?stream_id=cgbwueb4f8hs&token=c0vzuc7wqkzk
+#EXTINF:-1 group-title="",东森幼幼
+https://us.dispatch.ulivetv.net/v/live/ciw8f5pwdghs.m3u8?stream_id=ciw8f5pwdghs&token=c0vzuc7wqkzk
+#EXTINF:-1 group-title="",MOMOTV
+https://us.dispatch.ulivetv.net/v/live/ciw8e2mbl9z4.m3u8?stream_id=ciw8e2mbl9z4&token=c0vzuc7wqkzk
+#EXTINF:-1 group-title="",迪士尼频道
+https://us.dispatch.ulivetv.net/v/live/cl7ccczgethc.m3u8?stream_id=cl7ccczgethc&token=c0vzuc7wqkzk
+#EXTINF:-1 group-title="",小尼克频道
+https://us.dispatch.ulivetv.net/v/live/cl7ccsvv560w.m3u8?stream_id=cl7ccsvv560w&token=c0vzuc7wqkzk
+#EXTINF:-1 group-title="",MOMO亲子
+https://us.dispatch.ulivetv.net/v/live/cl7cd4sc85a8.m3u8?stream_id=cl7cd4sc85a8&token=c0vzuc7wqkzk
+#EXTINF:-1 group-title="",CN卡通
+https://us.dispatch.ulivetv.net/v/live/cl7cebyhju80.m3u8?stream_id=cl7cebyhju80&token=c0vzuc7wqkzk
+#EXTINF:-1 group-title="",Bloomeranq
+https://us.dispatch.ulivetv.net/v/live/cl7cetj6bz5s.m3u8?stream_id=cl7cetj6bz5s&token=c0vzuc7wqkzk
+#EXTINF:-1 group-title="",Animax卡通
+https://us.dispatch.ulivetv.net/v/live/cl7cf8045n7k.m3u8?stream_id=cl7cf8045n7k&token=c0vzuc7wqkzk
+#EXTINF:-1 group-title="",尼克儿童频道
+https://us.dispatch.ulivetv.net/v/live/clecty3pkqm8.m3u8?stream_id=clecty3pkqm8&token=c0vzuc7wqkzk
+#EXTINF:-1 group-title="",国家地理
+https://us.dispatch.ulivetv.net/v/live/cg1khzm3mzls.m3u8?stream_id=cg1khzm3mzls&token=c0vzuc7wqkzk
+#EXTINF:-1 group-title="",国家地理野生
+https://us.dispatch.ulivetv.net/v/live/cg1kmp2fnw00.m3u8?stream_id=cg1kmp2fnw00&token=c0vzuc7wqkzk
+#EXTINF:-1 group-title="",动物星球
+https://us.dispatch.ulivetv.net/v/live/cg1l4589x9s0.m3u8?stream_id=cg1l4589x9s0&token=c0vzuc7wqkzk
+#EXTINF:-1 group-title="",DMAX
+https://us.dispatch.ulivetv.net/v/live/cg1lcqvmahfk.m3u8?stream_id=cg1lcqvmahfk&token=c0vzuc7wqkzk
+#EXTINF:-1 group-title="",探索科学
+https://us.dispatch.ulivetv.net/v/live/cg1lhf32n268.m3u8?stream_id=cg1lhf32n268&token=c0vzuc7wqkzk
+#EXTINF:-1 group-title="",探索亚洲
+https://us.dispatch.ulivetv.net/v/live/cr8qvn9sf96o.m3u8?stream_id=cr8qvn9sf96o%20&token=c0vzuc7wqkzk
+#EXTINF:-1 group-title="",History
+https://us.dispatch.ulivetv.net/v/live/cl7ch406n6ww.m3u8?stream_id=cl7ch406n6ww&token=c0vzuc7wqkzk
+#EXTINF:-1 group-title="",History2
+https://us.dispatch.ulivetv.net/v/live/cl7chgdb1t4w.m3u8?stream_id=cl7chgdb1t4w&token=c0vzuc7wqkzk
+#EXTINF:-1 group-title="",TLC旅游生活
+https://us.dispatch.ulivetv.net/v/live/cl7chv63w4ao.m3u8?stream_id=cl7chv63w4ao&token=c0vzuc7wqkzk
+#EXTINF:-1 group-title="",CI罪案侦查
+https://us.dispatch.ulivetv.net/v/live/cl7ci6wopq68.m3u8?stream_id=cl7ci6wopq68&token=c0vzuc7wqkzk
+#EXTINF:-1 group-title="",亚洲旅游
+https://us.dispatch.ulivetv.net/v/live/cl7cikas48n4.m3u8?stream_id=cl7cikas48n4&token=c0vzuc7wqkzk
+#EXTINF:-1 group-title="",美食星球
+https://us.dispatch.ulivetv.net/v/live/cl7cq7br5d4w.m3u8?stream_id=cl7cq7br5d4w&token=c0vzuc7wqkzk
+#EXTINF:-1 group-title="",EYE旅游
+https://us.dispatch.ulivetv.net/v/live/cl7crdhyxn0g.m3u8?stream_id=cl7crdhyxn0g&token=c0vzuc7wqkzk
+#EXTINF:-1 group-title="",ABC新闻
+https://us.dispatch.ulivetv.net/v/live/cfxyzlerqda8.m3u8?stream_id=cfxyzlerqda8&token=c0vzuc7wqkzk
+#EXTINF:-1 group-title="",FOX新闻
+https://us.dispatch.ulivetv.net/v/live/cfy0k34f522o.m3u8?stream_id=cfy0k34f522o&token=c0vzuc7wqkzk
+#EXTINF:-1 group-title="",BBC世界新闻
+https://us.dispatch.ulivetv.net/v/live/cfxzpvvyodkw.m3u8?stream_id=cfxzpvvyodkw&token=c0vzuc7wqkzk
+#EXTINF:-1 group-title="",CNN
+https://us.dispatch.ulivetv.net/v/live/cfxzi2gyzutc.m3u8?stream_id=cfxzi2gyzutc&token=c0vzuc7wqkzk
+#EXTINF:-1 group-title="",CBS新闻
+https://us.dispatch.ulivetv.net/v/live/cfxz3f9zhayo.m3u8?stream_id=cfxz3f9zhayo&token=c0vzuc7wqkzk
+#EXTINF:-1 group-title="",CNBC
+https://us.dispatch.ulivetv.net/v/live/cl7cdjqouc3k.m3u8?stream_id=cl7cdjqouc3k&token=c0vzuc7wqkzk
+#EXTINF:-1 group-title="",HBO HD
+https://us.dispatch.ulivetv.net/v/live/cl7cfnwsvl4w.m3u8?stream_id=cl7cfnwsvl4w&token=c0vzuc7wqkzk
+#EXTINF:-1 group-title="",HBO Hits
+https://us.dispatch.ulivetv.net/v/live/cl7cgrkacmv4.m3u8?stream_id=cl7cgrkacmv4&token=c0vzuc7wqkzk
+#EXTINF:-1 group-title="",HLN
+https://us.dispatch.ulivetv.net/v/live/cl7cstetysao.m3u8?stream_id=cl7cstetysao&token=c0vzuc7wqkzk
+#EXTINF:-1 group-title="",CNN国际
+https://us.dispatch.ulivetv.net/v/live/cl7ct8ccm6yo.m3u8?stream_id=cl7ct8ccm6yo&token=c0vzuc7wqkzk
+#EXTINF:-1 group-title="",欧洲新闻
+https://us.dispatch.ulivetv.net/v/live/cl7ctk7x8hq8.m3u8?stream_id=cl7ctk7x8hq8&token=c0vzuc7wqkzk
+#EXTINF:-1 group-title="",Astro Awani
+https://us.dispatch.ulivetv.net/v/live/cg4v87c6i3ls.m3u8?stream_id=cg4v87c6i3ls&token=c0vzuc7wqkzk
+#EXTINF:-1 group-title="",Astro Ceria
+https://us.dispatch.ulivetv.net/v/live/cfmxywjomi0w.m3u8?stream_id=cfmxywjomi0w&token=c0vzuc7wqkzk
+#EXTINF:-1 group-title="",Astro ONE
+https://us.dispatch.ulivetv.net/v/live/cg48t03y5xvk.m3u8?stream_id=cg48t03y5xvk&token=c0vzuc7wqkzk
+#EXTINF:-1 group-title="",Astro Prima
+https://us.dispatch.ulivetv.net/v/live/cg49a7nnj64g.m3u8?stream_id=cg49a7nnj64g&token=c0vzuc7wqkzk
+#EXTINF:-1 group-title="",Astro Oasis
+https://us.dispatch.ulivetv.net/v/live/cg49i1nvcmo0.m3u8?stream_id=cg49i1nvcmo0&token=c0vzuc7wqkzk
+#EXTINF:-1 group-title="",Astro Warna
+https://us.dispatch.ulivetv.net/v/live/cg4ao9s4cbeo.m3u8?stream_id=cg4ao9s4cbeo&token=c0vzuc7wqkzk
+#EXTINF:-1 group-title="",Astro Rania
+https://us.dispatch.ulivetv.net/v/live/cg4c3q8mzqv4.m3u8?stream_id=cg4c3q8mzqv4&token=c0vzuc7wqkzk
+#EXTINF:-1 group-title="",Astro Aura
+https://us.dispatch.ulivetv.net/v/live/cg4c4f8bf6bk.m3u8?stream_id=cg4c4f8bf6bk&token=c0vzuc7wqkzk
+#EXTINF:-1 group-title="",8TV
+https://us.dispatch.ulivetv.net/v/live/cg4c5thnvf0g.m3u8?stream_id=cg4c5thnvf0g&token=c0vzuc7wqkzk
+#EXTINF:-1 group-title="",TV9
+https://us.dispatch.ulivetv.net/v/live/cg4c68lu92v4.m3u8?stream_id=cg4c68lu92v4&token=c0vzuc7wqkzk
+#EXTINF:-1 group-title="",Astro Citra
+https://us.dispatch.ulivetv.net/v/live/cg4ckrx6xyv4.m3u8?stream_id=cg4ckrx6xyv4&token=c0vzuc7wqkzk
+#EXTINF:-1 group-title="",Astro AEC
+https://us.dispatch.ulivetv.net/v/live/cg4cpixuofy8.m3u8?stream_id=cg4cpixuofy8&token=c0vzuc7wqkzk
+#EXTINF:-1 group-title="",Astro 双星台
+https://us.dispatch.ulivetv.net/v/live/cg4csztqx8sg.m3u8?stream_id=cg4csztqx8sg&token=c0vzuc7wqkzk
+#EXTINF:-1 group-title="",Astro 全佳台
+https://us.dispatch.ulivetv.net/v/live/cg4cwtbppkg0.m3u8?stream_id=cg4cwtbppkg0&token=c0vzuc7wqkzk
+#EXTINF:-1 group-title="",Astro AOD HD
+https://us.dispatch.ulivetv.net/v/live/cg4kl3517qv4.m3u8?stream_id=cg4kl3517qv4&token=c0vzuc7wqkzk
+#EXTINF:-1 group-title="",Astro 欢喜台
+https://us.dispatch.ulivetv.net/v/live/cg4leoie68xs.m3u8?stream_id=cg4leoie68xs&token=c0vzuc7wqkzk
+#EXTINF:-1 group-title="",Astro AOD
+https://us.dispatch.ulivetv.net/v/live/cg4lieo5chj4.m3u8?stream_id=cg4lieo5chj4&token=c0vzuc7wqkzk
+#EXTINF:-1 group-title="",Astro Arena HD
+https://us.dispatch.ulivetv.net/v/live/cg4vc57lvzy8.m3u8?stream_id=cg4vc57lvzy8&token=c0vzuc7wqkzk
+#EXTINF:-1 group-title="",Astro Arena2
+https://us.dispatch.ulivetv.net/v/live/cg4vigttsr0g.m3u8?stream_id=cg4vigttsr0g&token=c0vzuc7wqkzk
+#EXTINF:-1 group-title="",Astro 爱奇艺
+https://us.dispatch.ulivetv.net/v/live/cgbws364354w.m3u8?stream_id=cgbws364354w&token=c0vzuc7wqkzk
+#EXTINF:-1 group-title="",Channel5
+https://us.dispatch.ulivetv.net/v/live/ciw8hkwsa2tc.m3u8?stream_id=ciw8hkwsa2tc&token=c0vzuc7wqkzk
+#EXTINF:-1 group-title="",Channel U
+https://us.dispatch.ulivetv.net/v/live/ciw8h6xy7wzk.m3u8?stream_id=ciw8h6xy7wzk&token=c0vzuc7wqkzk
+#EXTINF:-1 group-title="",OKEY
+https://us.dispatch.ulivetv.net/v/live/ciw8fwr1be0w.m3u8?stream_id=ciw8fwr1be0w&token=c0vzuc7wqkzk
+#EXTINF:-1 group-title="",Astro 华丽台
+https://us.dispatch.ulivetv.net/v/live/ciw8fimzyu9s.m3u8?stream_id=ciw8fimzyu9s&token=c0vzuc7wqkzk
+#EXTINF:-1 group-title="",Channel8
+https://us.dispatch.ulivetv.net/v/live/crq39dkx6qf4.m3u8?stream_id=crq39dkx6qf4&token=c0vzuc7wqkzk
 #EXTM3U x-tvg-url="https://epg.112114.xyz/pp.xml,https://epg.hklive.tv"
 #EXTINF:-1 tvg-id="国家地理" tvg-name="国家地理" tvg-logo="https://upload.112114.xyz/logo/NATIONALGEOGRAPHIC.png" group-title="紀實",國家地理
 http://50.7.238.114:8278/natgeohd_twn/playlist.m3u8?tid=ma1f0b9808d5014467661&ct=17874&tsum=73dfb91284f5b1358251546e6f03da3d
