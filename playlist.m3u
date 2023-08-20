@@ -647,7 +647,7 @@ https://aweitv.ababa.fit/api/douyin.php?id=44
 #EXTINF:-1 tvg-id="6069" tvg-name="東森新聞" tvg-logo="http://or00.stream-link.org/tv_logo/ebc-news.png" group-title="臺灣 🇹🇼️",東森新聞
 https://pull-l3-cny.douyincdn.com/live/YesLiveTV-18617bfd-c179-4b64-beb7-88f7af03cc61.m3u8?by=yeslivetv_com
 #EXTINF:-1 tvg-id="6075" tvg-name="東森財經新聞" tvg-logo="http://or00.stream-link.org/tv_logo/ebc-finance.png" group-title="臺灣 🇹🇼️",東森財經新聞
-https://aweitv.ababa.fit/api/douyin.php?id=45
+https://fsv4.yj011.net/sat/tv571.flv
 #EXTINF:-1 tvg-id="9999" tvg-name="tvgName" tvg-logo="http://or00.stream-link.org/tv_logo/cts-news.png" group-title="臺灣 🇹🇼️",华视新闻资讯
 https://aweitv.ababa.fit/api/douyin.php?id=51
 #EXTINF:-1 tvg-id="9999" tvg-name="tvgName" tvg-logo="http://or00.stream-link.org/tv_logo/cti-news.png" group-title="臺灣 🇹🇼️",中天新聞
@@ -669,7 +669,7 @@ https://aweitv.ababa.fit/api/douyin.php?id=49
 #EXTINF:-1 tvg-id="6143" tvg-name="台視新聞" tvg-logo="http://or00.stream-link.org/tv_logo/ttv-news.png" group-title="臺灣 🇹🇼️",台視新聞
 https://aweitv.ababa.fit/api/douyin.php?id=47
 #EXTINF:-1 tvg-id="6073" tvg-name="TVBS新聞" tvg-logo="http://or00.stream-link.org/tv_logo/tvbs-news.png" group-title="臺灣 🇹🇼️",TVBS新聞
-https://aweitv.ababa.fit/api/douyin.php?id=54
+https://fsv4.yj011.net/sat/tv551.flv
 #EXTINF:-1 tvg-id="6074" tvg-name="TVBS財經" tvg-logo="http://or00.stream-link.org/tv_logo/tvbs.png" group-title="臺灣 🇹🇼️",TVBS財經
 http://2023.stream-link.org/live/1767909787
 #EXTINF:-1 tvg-id="6054" tvg-name="中天綜合台" tvg-logo="http://or00.stream-link.org/tv_logo/cti-zh.png" group-title="臺灣 🇹🇼️",中天綜合台
@@ -767,15 +767,15 @@ rtmp://9wv7.mine.nu/sat/tv761
 #EXTINF:-1 group-title="臺灣 🇹🇼️",纬来日本
 rtmp://9wv7.mine.nu/sat/tv771
 #EXTINF:-1 group-title="臺灣 🇹🇼️",华视
-https://aweitv.ababa.fit/api/douyin.php?id=63
+https://fsv4.yj011.net/sat/tv111.flv
 #EXTINF:-1 group-title="臺灣 🇹🇼️",中视
-https://aweitv.ababa.fit/api/douyin.php?id=60
+https://fsv4.yj011.net/sat/tv091.flv
 #EXTINF:-1 group-title="臺灣 🇹🇼️",卫视卡式台
 https://d1--cn-gotcha204.bilivideo.com/live-bvc/792068/live_372775317_46465575/index.m3u8
 #EXTINF:-1 group-title="臺灣 🇹🇼️",台视
-https://aweitv.ababa.fit/api/douyin.php?id=61
+https://fsv4.yj011.net/sat/tv071.flv
 #EXTINF:-1 group-title="臺灣 🇹🇼️",民视
-https://aweitv.ababa.fit/api/douyin.php?id=62
+https://fsv4.yj011.net/sat/tv051.flv
 #EXTINF:-1 group-title="臺灣 🇹🇼️",東森超视
 rtmp://9wv7.mine.nu/sat/tv331
 #EXTINF:-1 group-title="臺灣 🇹🇼️",民视旅游
