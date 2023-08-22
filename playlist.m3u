@@ -478,8 +478,8 @@ http://[2409:8087:3408:20:5040::106]:18890/PLTV/88888888/224/3221226956/index.m3
 http://ott.fj.chinamobile.com/TVOD/88888888/224/3221227190/index.m3u8
 #EXTINF:-1 group-title="福建 🇨🇳️",福建旅游
 http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227190/index.m3u8
-#EXTINF:-1 group-title="福建 🇨🇳️" tvg-logo="https://epg.pm/media/images/channel/2022/05/30/large/20220530233623778528_85.jpg",福建综合
-http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227149/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
+#EXTINF:-1 group-title="福建 🇨🇳️" tvg-logo="https://epg.pm/media/images/channel/2022/05/30/large/20220530233623778528_85.jpg",福建新闻
+http://58.222.53.42/fjnetv51.live.bestvcdn.com.cn/0/live/program/live/fjxwhd8m/8000000/d3.m3u8
 #EXTINF:-1 group-title="NewTV 🇨🇳️",NewTV潮妈辣婆
 http://api3.52tb.xyz/info?id=314&token=20230227aesvnb
 #EXTINF:-1 group-title="NewTV 🇨🇳️",NewTV军事评论
