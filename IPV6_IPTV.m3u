@@ -199,7 +199,6 @@ http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002085/index.m3
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002065/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-id="华数高清" tvg-name="华数高清" group-title="数字",华数高清
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000003000004748/index.m3u8?channel-id=wasusyt&Contentid=6000000003000004748&livemode=1&stbId=3
-#EXTM3U
 #EXTINF:-1 group-title="上海",CCTV1
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001022/index.m3u8?
 #EXTINF:-1 group-title="上海",CCTV2
