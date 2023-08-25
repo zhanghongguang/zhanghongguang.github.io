@@ -1781,20 +1781,20 @@ http://iyvhm8br.akciatv.ru/iptv/2XGFGMMXT97LQZ/18138/index.m3u8
 https://cdn1.ibizastream.biz:441/free/Stream1/playlist.m3u8
 #EXTINF:-1 group-title="XXX 🔞️",IBizaHDTV
 https://5ed5d165c218d.streamlock.net:441/free/Stream1/playlist.m3u8
-#EXTINF:-1 group-title="XXX 🔞️",Шалун 🔞
+#EXTINF:-1 tvg-id="2031" tvg-rec="3" tvg-logo="http://epg.it999.ru/img/2031.png" group-title="XXX 🔞️",Шалун 🔞
 http://46.180.252.106:9999/udp/239.255.43.85:1234
-#EXTINF:-1 group-title="XXX 🔞️",Blue Hustler 🔞
+#EXTINF:-1 tvg-id="2249" tvg-rec="0" tvg-logo="http://epg.it999.ru/img/2249.png" group-title="XXX 🔞️",Blue Hustler 🔞
 http://46.180.252.106:9999/udp/239.255.42.222:1234
-#EXTINF:-1 group-title="XXX 🔞️",French Lover 🔞
+#EXTINF:-1 tvg-id="2526" tvg-rec="3" tvg-logo="http://epg.it999.ru/img/2526.png" group-title="XXX 🔞️",French Lover 🔞
 http://46.180.252.106:9999/udp/239.255.42.223:1234
 #EXTINF:-1 group-title="XXX 🔞️",AST 1
 https://www.ast.tv/stream/1/ultra.m3u8
 #EXTINF:-1 group-title="XXX 🔞️",AST 2
 https://www.ast.tv/stream/2/ultra.m3u8
-#EXTINF:-1 group-title="XXX 🔞️",playboy
-http://160.20.164.171:8001/play/a074
-#EXTINF:-1 group-title="XXX 🔞️",VENUS
-http://160.20.164.171:8001/play/a034
+#EXTINF:-1 tvg-id="2528" tvg-rec="1" tvg-logo="http://epg.it999.ru/img/2528.png" group-title="XXX 🔞️",Vivid Red 🔞
+http://62.176.77.22:9781/play/a00m
+#EXTINF:-1 tvg-id="2319" tvg-rec="3" tvg-logo="http://epg.it999.ru/img/2319.png" group-title="XXX 🔞️",Passion XXX 🔞
+http://62.176.77.22:9781/play/a00n
 #EXTINF:-1 group-title="XXX 🔞️",Playboy TV
 http://190.83.119.67:8000/play/a0ow/index.m3u8
 #EXTINF:-1 group-title="XXX 🔞️",Visit X TV
