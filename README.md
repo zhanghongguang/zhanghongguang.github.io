@@ -1,5 +1,4 @@
 <h1 align="center">节目源分享 Program Source Sharing</h1>
-<hr width="100%" align="center">
 
 <p align="center">
   <img src="https://img.shields.io/badge/Progress-In%20Development-yellow" alt="Progress">
@@ -11,7 +10,6 @@
 
 This project compiles various sources of programs, which are sourced from the internet and not original creations. If any disputes are found, please promptly contact the original authors for resolution. We emphasize the importance of sharing joy over enjoying alone, hoping to bring more happiness and entertainment to everyone.
 
----
 免责声明：本项目仅用于分享娱乐信息，不对节目内容的合法性和准确性负责。
 
 Disclaimer: This project is intended solely for sharing entertainment information and does not take responsibility for the legality or accuracy of the program content.
