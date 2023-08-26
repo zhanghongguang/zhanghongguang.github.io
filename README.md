@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="600" src="https://img.shields.io/badge/-节目源分享 Program Source Sharing-000000?style=for-the-badge&logo=your-logo&logoColor=white" alt="Title">
+  <img width="600" src="https://img.shields.io/badge/-节目源分享 Program Source Sharing-blue?style=for-the-badge&logo=your-logo&logoColor=white" alt="Title">
 </p>
 
 
