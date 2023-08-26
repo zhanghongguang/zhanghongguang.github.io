@@ -1,4 +1,4 @@
-[![Any Text You Like](https://img.shields.io/badge/any_text-you_like-blue)]([https://your_link_here](https://github.com/zhanghongguang/zhanghongguang.github.io))
+[![Awesome Badge](https://img.shields.io/badge/Awesome-Badge-blueviolet)]([https://github.com/your_repo](https://github.com/zhanghongguang/zhanghongguang.github.io))
 
 # 节目源分享　Program Source Sharing
 
