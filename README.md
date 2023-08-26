@@ -1,4 +1,4 @@
-[![Build Status](https://img.shields.io/travis/zhanghongguang/zhanghongguang.github.io.svg)](https://travis-ci.org/zhanghongguang/zhanghongguang.github.io)
+![GitHub Followers](https://img.shields.io/github/followers/zhanghongguang?label=Followers&style=social)
 
 
 # 节目源分享　Program Source Sharing
