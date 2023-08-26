@@ -1,4 +1,5 @@
-[![GitHub Stars](https://img.shields.io/github/stars/your_username/your_repo.svg?style=social&label=Stars)](https://github.com/zhanghongguang/zhanghongguang.github.io)
+[![Build Status](https://img.shields.io/travis/your_username/your_repo.svg)](https://travis-ci.org/zhanghongguang/zhanghongguang.github.io)
+
 
 # 节目源分享　Program Source Sharing
 
