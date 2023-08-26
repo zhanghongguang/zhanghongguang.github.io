@@ -1,11 +1,5 @@
-<p align="center">
-  <h1>节目源分享 Program Source Sharing</h1>
-  <hr>
-</p>
-
-
-<h1 align="center"></h1>
-
+<h1 align="center">节目源分享 Program Source Sharing</h1>
+<hr width="50%" align="center">
 
 <p align="center">
   <img src="https://img.shields.io/badge/Progress-In%20Development-yellow" alt="Progress">
