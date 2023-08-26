@@ -1,4 +1,4 @@
-[![Code Quality](https://img.shields.io/scrutinizer/g/zhanghongguang/zhanghongguang.github.io.svg)](https://scrutinizer-ci.com/g/zhanghongguang/zhanghongguang.io)
+[![Build Status](https://img.shields.io/travis/zhanghongguang/zhanghongguang.github.io.svg)](https://travis-ci.org/zhanghongguang/zhanghongguang.github.io)
 
 
 # 节目源分享　Program Source Sharing
