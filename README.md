@@ -1,8 +1,4 @@
-![GitHub Followers](https://img.shields.io/github/followers/zhanghongguang?label=Followers&style=social)
-
 [![Activity](https://img.shields.io/github/last-commit/zhanghongguang/zhanghongguang.github.io.svg)](https://github.com/zhanghongguang/zhanghongguang.github.io/commits/main)
-
-
 
 # 节目源分享　Program Source Sharing
 
