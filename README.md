@@ -1,4 +1,7 @@
-[![Activity](https://img.shields.io/github/last-commit/zhanghongguang/zhanghongguang.github.io.svg)](https://github.com/zhanghongguang/zhanghongguang.github.io/commits/main)
+[![Progress](https://img.shields.io/badge/Progress-In%20Development-yellow)](https://github.com/zhanghongguang/zhanghongguang.github.io)
+[![Status](https://img.shields.io/badge/Status-Active-brightgreen)](https://github.com/zhanghongguang/zhanghongguang.github.io)
+[![Updates](https://img.shields.io/badge/Updates-Regular-blue)](https://github.com/zhanghongguang/zhanghongguang.github.io)
+
 
 # 节目源分享　Program Source Sharing
 
