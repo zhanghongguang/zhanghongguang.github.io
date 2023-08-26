@@ -1,7 +1,3 @@
-[![Progress](https://img.shields.io/badge/Progress-In%20Development-yellow)](https://github.com/zhanghongguang/zhanghongguang.github.io)
-[![Status](https://img.shields.io/badge/Status-Active-brightgreen)](https://github.com/zhanghongguang/zhanghongguang.github.io)
-[![Updates](https://img.shields.io/badge/Updates-Regular-blue)](https://github.com/zhanghongguang/zhanghongguang.github.io)
-
 <p align="center">
   <img src="https://img.shields.io/badge/Progress-In%20Development-yellow" alt="Progress">
   <img src="https://img.shields.io/badge/Status-Active-brightgreen" alt="Status">
