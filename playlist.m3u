@@ -115,11 +115,11 @@ http://live.cooltv.top/tv/hz.php?id=22
 #EXTINF:-1 group-title="央視 🇨🇳",★★★★★央視 🇨🇳 ★★★★★
 https://upload.wikimedia.org/wikipedia/commons/0/08/National_Flag_Anthem_of_the_Republic_of_China%E4%B8%AD%E8%8F%AF%E6%B0%91%E5%9C%8B%E5%9C%8B%E6%97%97%E6%AD%8C_%28%E6%BC%94%E5%A5%8F%E7%89%88%29.oga
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央視 🇨🇳",CCTV-1综合
-http://hls.cq.live.cbnbn.cn/__cl/cg:live/__c/cctv1HD/__op/default/__f/index.m3u8
+https://cntv.sbs/tv?auth=230813&id=cctv1
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="央視 🇨🇳",CCTV-2财经
 http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8?
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="央視 🇨🇳",CCTV-2财经
-http://125.210.152.19:9120/live/hzgq-cctv2gq-h264.m3u8
+https://cntv.sbs/tv?auth=230813&id=cctv2
 #EXTINF:-1 tvg-name="CCT31" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="央視 🇨🇳",CCTV-3综艺
 http://113.105.111.79:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="央視 🇨🇳",CCTV-4中文国际
@@ -356,10 +356,6 @@ http://source07.v.news.cn/live/CNC_EN/playlist.m3u8
 http://source07.v.news.cn/live/CNC_CN/playlist.m3u8
 #EXTINF:-1 tvg-id="求索纪录" tvg-name="求索纪录" tvg-logo="https://epg.112114.xyz/logo/求索纪录.png" group-title="地方臺 🇨🇳️",求索纪录高清
 http://183.65.9.200:8888/udp/235.254.199.251:7980
-#EXTINF:-1 group-title="福建 🇨🇳️",福建乡村振兴公共
-http://[2409:8087:3428:20:500::1009]:6610/PLTV/88888888/224/3221227153/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="福建 🇨🇳️",福州新闻综合频道
-http://live.zohi.tv/video/s10001-FZTV-1/index.m3u8
 #EXTINF:-1 tvg-id="海峡卫视" tvg-name="海峡卫视" group-title="卫视 🇨🇳️",海峡卫视
 http://39.135.55.13:6610/PLTV/88888888/224/3221227198/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 #EXTINF:-1 tvg-id="6240" tvg-name="求索科学" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/QSKX.png" group-title="地方臺 🇨🇳️",求索科学
@@ -474,12 +470,24 @@ http://[2409:8087:3408:20:5040::106]:18890/PLTV/88888888/224/3221227185/index.m3
 http://[2409:8087:3408:20:5040::106]:18890/PLTV/88888888/224/3221227066/index.m3u8
 #EXTINF:-1 group-title="福建 🇨🇳️",南平2 8M1080
 http://[2409:8087:3408:20:5040::106]:18890/PLTV/88888888/224/3221226956/index.m3u8
-#EXTINF:-1 group-title="福建 🇨🇳️",福建旅游
-http://ott.fj.chinamobile.com/TVOD/88888888/224/3221227190/index.m3u8
-#EXTINF:-1 group-title="福建 🇨🇳️",福建旅游
-http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227190/index.m3u8
-#EXTINF:-1 group-title="福建 🇨🇳️" tvg-logo="https://epg.pm/media/images/channel/2022/05/30/large/20220530233623778528_85.jpg",福建新闻
-http://58.222.53.42/fjnetv51.live.bestvcdn.com.cn/0/live/program/live/fjxwhd8m/8000000/d3.m3u8
+#EXTINF:-1 tvg-id="福建综合" tvg-name="福建综合" tvg-logo="https://live.fanmingming.com/tv/福建综合.png" group-title="福建 🇨🇳️",福建综合
+https://cntv.sbs/tv?auth=230813&id=fjzh
+#EXTINF:-1 tvg-id="福建新闻" tvg-name="福建新闻" tvg-logo="https://live.fanmingming.com/tv/福建新闻.png" group-title="福建 🇨🇳️",福建新闻
+https://cntv.sbs/tv?auth=230813&id=fjxw
+#EXTINF:-1 tvg-id="福建电视剧" tvg-name="福建电视剧" tvg-logo="https://live.fanmingming.com/tv/福建电视剧.png" group-title="福建 🇨🇳️",福建电视剧
+https://cntv.sbs/tv?auth=230813&id=fjdsj
+#EXTINF:-1 tvg-id="福建文体" tvg-name="福建文体" tvg-logo="https://live.fanmingming.com/tv/福建文体.png" group-title="福建 🇨🇳️",福建文体
+https://cntv.sbs/tv?auth=230813&id=fjwt
+#EXTINF:-1 tvg-id="福建少儿" tvg-name="福建少儿" tvg-logo="https://live.fanmingming.com/tv/福建少儿.png" group-title="福建 🇨🇳️",福建少儿
+https://cntv.sbs/tv?auth=230813&id=fjse
+#EXTINF:-1 tvg-id="福建旅游" tvg-name="福建旅游" tvg-logo="https://live.fanmingming.com/tv/福建旅游.png" group-title="福建 🇨🇳️",福建旅游
+https://cntv.sbs/tv?auth=230813&id=fjly
+#EXTINF:-1 tvg-id="福建经济" tvg-name="福建经济" tvg-logo="https://live.fanmingming.com/tv/福建经济.png" group-title="福建 🇨🇳️",福建经济
+https://cntv.sbs/tv?auth=230813&id=fjjj
+#EXTINF:-1 tvg-id="福建公共" tvg-name="福建公共" tvg-logo="https://live.fanmingming.com/tv/福建公共.png" group-title="福建 🇨🇳️",福建公共
+https://cntv.sbs/tv?auth=230813&id=fjgg
+#EXTINF:-1 tvg-id="福建教育" tvg-name="福建教育" tvg-logo="https://live.fanmingming.com/tv/福建教育.png" group-title="福建 🇨🇳️",福建教育
+https://cntv.sbs/tv?auth=230813&id=fjjy
 #EXTINF:-1 group-title="NewTV 🇨🇳️",NewTV潮妈辣婆
 http://api3.52tb.xyz/info?id=314&token=20230227aesvnb
 #EXTINF:-1 group-title="NewTV 🇨🇳️",NewTV军事评论
