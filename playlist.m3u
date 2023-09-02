@@ -334,8 +334,8 @@ http://player.521fanli.cn/1691/gd/gztvm3u8.php?id=gzzh
 https://justsometime.gztv.com/sec/xinwen.m3u8
 #EXTINF:-1 group-title="地方臺 🇨🇳️",广州竞赛
 http://player.521fanli.cn/1691/gd/gztvm3u8.php?id=gzjs
-#EXTINF:-1 group-title="地方臺 🇨🇳️",安徽卫视
-http://39.134.115.163:8080/PLTV/88888910/224/3221225737/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://live.cooltv.top/logo/hbnm.png" group-title="地方臺 🇨🇳️",河北农民 
+https://event.pull.hebtv.com/jishi/nongminpindao.m3u8
 #EXTINF:-1 group-title="地方臺 🇨🇳️" tvg-name="SCTV2"tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/sctv2.png",四川文旅
 http://api2.52tb.xyz/info?id=603&token=20230405tndmhg
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/bestv.png" group-title="地方臺 🇨🇳️",健康养生[百视通]
@@ -942,15 +942,15 @@ https://git.io/JgkAb
 https://raw.github.com/SSM0415/apptest/YTlive/FTVnnews.m3u8
 #EXTINF:-1 group-title="Overseas 🇺🇸️🇫🇷️丨ladder",★★★★★Overseas 🇺🇸️🇫🇷️丨ladder★★★★★
 https://upload.wikimedia.org/wikipedia/commons/0/08/National_Flag_Anthem_of_the_Republic_of_China%E4%B8%AD%E8%8F%AF%E6%B0%91%E5%9C%8B%E5%9C%8B%E6%97%97%E6%AD%8C_%28%E6%BC%94%E5%A5%8F%E7%89%88%29.oga
-#EXTINF:-1 tvg-id="france24eng" group-title="Overseas 🇺🇸️🇫🇷️丨ladder" tvg-logo="https://www.publicdiplomacycouncil.org/wp-content/uploads/2020/05/voa-logo.png",VOA China
+#EXTINF:-1 tvg-id="france24eng" group-title="Overseas 🇺🇸️🇫🇷️丨ladder" tvg-logo="https://static1.squarespace.com/static/51a013dee4b0a2a2d2ef73e9/t/530a34ace4b0d1b000d31222/1393177774359/voa.png",VOA China
 https://voa-ingest.akamaized.net/hls/live/2033878/tvmc08/VOA-TVMC08_1080/chunklist.m3u8
 #EXTINF:-1 group-title="Overseas 🇺🇸️🇫🇷️丨ladder"  tvg-logo="https://static1.squarespace.com/static/51a013dee4b0a2a2d2ef73e9/t/530a34ace4b0d1b000d31222/1393177774359/voa.png",V0A卫视
 https://voa-ingest.akamaized.net/dash/live/2033879/tvmc08/manifest.mpd
-#EXTINF:-1 group-title="Overseas 🇺🇸️🇫🇷️丨ladder" tvg-logo="https://gitee.com/radioer/radioer/raw/main/美国之音.png",VOA廣播
+#EXTINF:-1 group-title="Overseas 🇺🇸️🇫🇷️丨ladder" tvg-logo="http://live.cooltv.top/logo/voa.png",VOA廣播
 https://voa-ingest.akamaized.net/dash/live/2035109/151_124L/manifest.mpd
-#EXTINF:-1 group-title="Overseas 🇺🇸️🇫🇷️丨ladder" tvg-logo="https://gitee.com/radioer/radioer/raw/main/美国之音.png",VOA廣播
+#EXTINF:-1 group-title="Overseas 🇺🇸️🇫🇷️丨ladder" tvg-logo="http://live.cooltv.top/logo/voa.png",VOA廣播
 https://voa-ingest.akamaized.net/hls/live/2035206/151_124L/playlist.m3u8
-#EXTINF:-1 group-title="Overseas 🇺🇸️🇫🇷️丨ladder" tvg-logo="https://gitee.com/radioer/radioer/raw/main/自由亚洲电台.png" ,RFA
+#EXTINF:-1 group-title="Overseas 🇺🇸️🇫🇷️丨ladder" tvg-logo="http://live.cooltv.top/logo/rfa.png" ,RFA
 https://rfa-ingest.akamaized.net/hls/live/2040699/RFA_AUDIO_LIVE1/master.m3u8
 #EXTINF:-1 group-title="Overseas 🇺🇸️🇫🇷️丨ladder" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/RFI_logo_2013.svg/1200px-RFI_logo_2013.svg.png",法国国际廣播电台
 https://rfienchinois64k.ice.infomaniak.ch/rfienchinois-64.mp3
