@@ -243,9 +243,9 @@ http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226660/1.m3u8?
 #EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV央视文化精品" tvg-id="CCTV央视文化精品" tvg-name="CCTV央视文化精品" group-title="央視 🇨🇳",CCTV央视文化精品
 http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2012513802.m3u8
 #EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV卫生健康" tvg-id="CCTV卫生健康" tvg-name="CCTV卫生健康" group-title="央視 🇨🇳",CCTV卫生健康
-http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2012513502.m3u8
+http://39.136.18.69/cdnrrs.gz.chinamobile.com/TVOD/88888888/224/3221225675/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV世界地理" tvg-id="CCTV世界地理" tvg-name="CCTV世界地理" group-title="央視 🇨🇳",CCTV世界地理
-http://hls.cq.live.cbnbn.cn/__cl/cg:live/__c/sjdlHD/__op/default/__f/index.m3u8
+http://111.20.40.162/PLTV/88888893/224/3221226947/index.m3u8
 #EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV风云音乐" tvg-id="CCTV风云音乐" tvg-name="CCTV风云音乐" group-title="央視 🇨🇳",CCTV风云音乐
 http://hls.cq.live.cbnbn.cn/__cl/cg:live/__c/fyyyHD/__op/default/__f/index.m3u8
 #EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV兵器科技" tvg-id="CCTV兵器科技" tvg-name="CCTV兵器科技" group-title="央視 🇨🇳",CCTV兵器科技
@@ -337,7 +337,7 @@ http://player.521fanli.cn/1691/gd/gztvm3u8.php?id=gzjs
 #EXTINF:-1 group-title="地方臺 🇨🇳️",安徽卫视
 http://39.134.115.163:8080/PLTV/88888910/224/3221225737/index.m3u8
 #EXTINF:-1 group-title="地方臺 🇨🇳️" tvg-name="SCTV2"tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/sctv2.png",四川文旅
-http://112.19.214.90:8883/tsfile/live/1003_1.m3u8
+http://api2.52tb.xyz/info?id=603&token=20230405tndmhg
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/bestv.png" group-title="地方臺 🇨🇳️",健康养生[百视通]
 https://cntv.sbs/tv?auth=230830&id=jkys
 #EXTINF:-1 tvg-name="BTV纪实科教-8KSDR源" tvg-logo="https://live.fanmingming.com/tv/北京纪实科教.png" group-title="地方臺 🇨🇳️",北京纪实科教
@@ -345,7 +345,7 @@ https://cntv.sbs/tv?auth=230830&id=bjjskj
 #EXTINF:-1 group-title="地方臺 🇨🇳️",广东国际
 http://hongyanqiang.top/chudian.php?id=gdgj
 #EXTINF:-1 tvg-id="6242" tvg-name="求索动物“ tvg-logo="http://epg.51zmt.top:8000/tb1/qt/QSDW.png" group-title="地方臺 🇨🇳️",求索动物
-http://60.208.16.27:1505/gudou.php?id=364&id=QSDWHD_7000
+http://suixiaobin.dsmynas.net:5666/gudou.php?phone=freeuser&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=004bfc8f56cd2797&cid=1332&id=QSDWHD_7000
 #EXTINF:-1 group-title="地方臺 🇨🇳️" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jinyingjishi.png",金鹰纪实
 https://cntv.sbs/tv?auth=230830&id=jyjs
 #EXTINF:-1 group-title="地方臺 🇨🇳️",中国气象频道
@@ -363,7 +363,7 @@ http://60.208.16.27:1505/gudou.php?id=364&id=qiusuokexueHD_7000
 #EXTINF:-1 group-title="地方臺 🇨🇳️",西安新闻
 http://stream2.xiancity.cn/xatv1/sd/live.m3u8
 #EXTINF:-1 group-title="地方臺 🇨🇳️" tvg-name="SCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/sctv4.png",四川新闻
-http://op.nicker.top:3222/udp/239.11.0.5:5140
+http://183.223.157.33:85/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="地方臺 🇨🇳️" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV%E7%94%9F%E6%B4%BB.png",BTV生活
 http://lu1.cc/c/tv/bjtv/btime1.php?id=bjsh
 #EXTINF:-1  tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV%E7%A7%91%E6%95%99.png",BTV科教
@@ -488,66 +488,48 @@ https://cntv.sbs/tv?auth=230830&id=fjjj
 https://cntv.sbs/tv?auth=230830&id=fjgg
 #EXTINF:-1 tvg-id="福建教育" tvg-name="福建教育" tvg-logo="https://live.fanmingming.com/tv/福建教育.png" group-title="福建 🇨🇳️",福建教育
 https://cntv.sbs/tv?auth=230830&id=fjjy
-#EXTINF:-1 group-title="NewTV 🇨🇳️",NewTV潮妈辣婆
-http://api3.52tb.xyz/info?id=314&token=20230227aesvnb
-#EXTINF:-1 group-title="NewTV 🇨🇳️",NewTV军事评论
-http://api3.52tb.xyz/info?id=318&token=20230227aesvnb
-#EXTINF:-1 group-title="NewTV 🇨🇳️",NewTV武博世界
-http://api3.52tb.xyz/info?id=313&token=20230227aesvnb
-#EXTINF:-1 group-title="NewTV 🇨🇳️",NewTV魅力潇湘
-http://api3.52tb.xyz/info?id=320&token=20230227aesvnb
-#EXTINF:-1 group-title="NewTV 🇨🇳️",NewTV军旅剧场
-http://api3.52tb.xyz/info?id=309&token=20221127jxwhhemby
-#EXTINF:-1 group-title="NewTV 🇨🇳️",NewTV精品纪录
-http://api3.52tb.xyz/info?id=311&token=20221127jxwhhemby
-#EXTINF:-1 group-title="NewTV 🇨🇳️",NewTV农业致富
-http://api3.52tb.xyz/info?id=312&token=20221127jxwhhemby
-#EXTINF:-1 group-title="NewTV 🇨🇳️",NewTV武博世界
-http://api3.52tb.xyz/info?id=313&token=20221127jxwhhemby
-#EXTINF:-1 group-title="NewTV 🇨🇳️",NewTV炫舞未来
-http://api3.52tb.xyz/info?id=315&token=20221127jxwhhemby
-#EXTINF:-1 group-title="NewTV 🇨🇳️",NewTV潮妈辣婆
-http://api3.52tb.xyz/info?id=314&token=20221127jxwhhemby
-#EXTINF:-1 group-title="NewTV 🇨🇳️",NewTV健康有约
-http://api3.52tb.xyz/info?id=316&token=20221127jxwhhemby
-#EXTINF:-1 group-title="NewTV 🇨🇳️",NewTV中国功夫
-http://api3.52tb.xyz/info?id=317&token=20221127jxwhhemby
-#EXTINF:-1 group-title="NewTV 🇨🇳️",NewTV军事评论
-http://api3.52tb.xyz/info?id=318&token=20221127jxwhhemby
-#EXTINF:-1 group-title="NewTV 🇨🇳️",NewTV魅力潇湘
-http://api3.52tb.xyz/info?id=320&token=20221127jxwhhemby
-#EXTINF:-1 group-title="NewTV 🇨🇳️",NewTV明星大片
-http://api2.52tb.xyz/info?id=302&token=20230218qkyjia
-#EXTINF:-1 group-title="NewTV 🇨🇳️",NewTV金牌综艺
-http://api2.52tb.xyz/info?id=303&token=20230218qkyjia
-#EXTINF:-1 group-title="NewTV 🇨🇳️",NewTV惊悚悬疑
-http://api2.52tb.xyz/info?id=304&token=20230218qkyjia
-#EXTINF:-1 group-title="NewTV 🇨🇳️",NewTV惊悚悬疑
-http://api2.52tb.xyz/info?id=304&token=20230218jsyklh
-#EXTINF:-1 group-title="NewTV 🇨🇳️",NewTV金牌综艺
-http://api2.52tb.xyz/info?id=303&token=20230218jsyklh
-#EXTINF:-1 group-title="NewTV 🇨🇳️",NewTV古装剧场
-http://api2.52tb.xyz/info?id=306&token=20230218jsyklh
-#EXTINF:-1 group-title="NewTV 🇨🇳️",NewTV爱情喜剧
-http://api2.52tb.xyz/info?id=305&token=20230218jsyklh
-#EXTINF:-1 group-title="NewTV 🇨🇳️",NewTV精品大剧
-http://api2.52tb.xyz/info?id=308&token=20230218jsyklh
-#EXTINF:-1 group-title="NewTV 🇨🇳️",NewTV家庭剧场
-http://api2.52tb.xyz/info?id=307&token=20230218jsyklh
-#EXTINF:-1 group-title="NewTV 🇨🇳️",NewTV军旅剧场
-http://api2.52tb.xyz/info?id=309&token=20230218jsyklh
-#EXTINF:-1 group-title="NewTV 🇨🇳️",NewTV精品体育
-http://api2.52tb.xyz/info?id=310&token=20230218jsyklh
-#EXTINF:-1 group-title="NewTV 🇨🇳️",NewTV精品纪录
-http://api2.52tb.xyz/info?id=311&token=20230218jsyklh
-#EXTINF:-1 group-title="NewTV 🇨🇳️",NewTV农业致富
-http://api2.52tb.xyz/info?id=312&token=20230218jsyklh
-#EXTINF:-1 group-title="NewTV 🇨🇳️",NewTV武博世界
-http://api2.52tb.xyz/info?id=313&token=20230218jsyklh
+#EXTINF:-1group-title="NewTV 🇨🇳️",NewTV爱情喜剧
+http://111.40.196.38:443/PLTV/88888888/224/3221225616/1.m3u8
+#EXTINF:-1group-title="NewTV 🇨🇳️",NewTV潮妈辣婆
+http://111.40.196.27:443/PLTV/88888888/224/3221225680/1.m3u8
+#EXTINF:-1group-title="NewTV 🇨🇳️",NewTV动作电影
+http://111.40.196.31:443/PLTV/88888888/224/3221225620/1.m3u8
+#EXTINF:-1group-title="NewTV 🇨🇳️",NewTV古装剧场
+http://111.40.196.36:443/PLTV/88888888/224/3221225618/1.m3u8
+#EXTINF:-1group-title="NewTV 🇨🇳️",NewTV家庭剧场
+http://111.40.196.29:443/PLTV/88888888/224/3221225626/1.m3u8
+#EXTINF:-1group-title="NewTV 🇨🇳️",NewTV金牌综艺
+http://111.40.196.27:443/PLTV/88888888/224/3221225650/1.m3u8
+#EXTINF:-1group-title="NewTV 🇨🇳️",NewTV惊悚悬疑
+http://111.40.196.30:443/PLTV/88888888/224/3221225638/1.m3u8
+#EXTINF:-1group-title="NewTV 🇨🇳️",NewTV精彩电视剧
+http://39.134.24.165:80/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226012/index.m3u8
+#EXTINF:-1group-title="NewTV 🇨🇳️",NewTV精品大剧
+http://111.40.196.33:443/PLTV/88888888/224/3221225612/1.m3u8
+#EXTINF:-1group-title="NewTV 🇨🇳️",NewTV精品纪录
+http://111.40.196.27:443/PLTV/88888888/224/3221225630/1.m3u8
+#EXTINF:-1group-title="NewTV 🇨🇳️",NewTV精品体育
+http://111.40.196.30:443/PLTV/88888888/224/3221225608/1.m3u8
+#EXTINF:-1group-title="NewTV 🇨🇳️",NewTV精品综合
+http://111.40.196.27:443/PLTV/88888888/224/3221225632/1.m3u8
+#EXTINF:-1group-title="NewTV 🇨🇳️",NewTV军旅剧场
+http://111.40.196.28:443/PLTV/88888888/224/3221225622/1.m3u8
+#EXTINF:-1group-title="NewTV 🇨🇳️",NewTV军事评论
+http://111.40.196.31:443/PLTV/88888888/224/3221225634/1.m3u8
+#EXTINF:-1group-title="NewTV 🇨🇳️",NewTV农业致富
+http://111.40.196.35:443/PLTV/88888888/224/3221225636/1.m3u8
+#EXTINF:-1group-title="NewTV 🇨🇳️",NewTV热播精选
+http://111.40.196.33:443/PLTV/88888888/224/3221225624/1.m3u8
+#EXTINF:-1group-title="NewTV 🇨🇳️",NewTV武搏世界
+http://111.40.196.31:443/PLTV/88888888/224/3221225664/1.m3u8
+#EXTINF:-1group-title="NewTV 🇨🇳️",NewTV怡伴健康
+http://111.40.196.28:443/PLTV/88888888/224/3221225614/1.m3u8
+#EXTINF:-1group-title="NewTV 🇨🇳️",NewTV中国功夫
+http://111.40.196.31:443/PLTV/88888888/224/3221225678/1.m3u8
 #EXTINF:-1 group-title="iHOT 🇨🇳️",精彩影视
 http://39.134.136.160:6610/000000001000/6000000006000320630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000320630&livemode=1&stbId=3
 #EXTINF:-1 group-title="地方臺 🇨🇳️",求索记录
-http://60.208.16.27:1505/gudou.php?id=364&id=QSJLHD_7000
+http://183.65.9.200:8888/udp/235.254.199.251:7980
 #EXTINF:-1 group-title="iHOT 🇨🇳️",求索科学
 http://39.134.136.160:6610/000000001000/6000000002000032344/index.m3u8?channel-id=wasusyt&Contentid=6000000002000032344&livemode=1&stbId=3
 #EXTINF:-1 group-title="iHOT 🇨🇳️",求索生活
@@ -1795,8 +1777,8 @@ http://46.180.252.106:9999/udp/239.255.43.85:1234
 http://46.180.252.106:9999/udp/239.255.42.222:1234
 #EXTINF:-1 tvg-id="2526" tvg-rec="3" tvg-logo="http://epg.it999.ru/img/2526.png" group-title="XXX 🔞️",French Lover 🔞
 http://46.180.252.106:9999/udp/239.255.42.223:1234
-#EXTINF:-1 group-title="XXX 🔞️",AST 1
-https://www.ast.tv/stream/1/ultra.m3u8
+#EXTINF:-1 tvg-id="2781" tvg-rec="3" tvg-logo="http://epg.it999.ru/img/2781.png" group-title="XXX 🔞️",Eroxxx 
+http://94.229.250.73:8008/play/a002
 #EXTINF:-1 group-title="XXX 🔞️",AST 2
 https://www.ast.tv/stream/2/ultra.m3u8
 #EXTINF:-1 tvg-id="2528" tvg-rec="1" tvg-logo="http://epg.it999.ru/img/2528.png" group-title="XXX 🔞️",Vivid Red 🔞
@@ -1911,8 +1893,8 @@ http://cdn.adultiptv.net/gay.m3u8
 http://cdn.adultiptv.net/asian.m3u8
 #EXTINF:-1 group-title="音樂 🎵️",★★★★★音樂 🎵️★★★★★
 https://upload.wikimedia.org/wikipedia/commons/transcoded/b/be/National_anthem_of_the_Republic_of_China_%28Taiwan%29_%E4%B8%AD%E8%8F%AF%E6%B0%91%E5%9C%8B%E5%9C%8B%E6%AD%8C%28%E6%BC%94%E5%A5%8F%E7%89%88%29.ogg/National_anthem_of_the_Republic_of_China_%28Taiwan%29_%E4%B8%AD%E8%8F%AF%E6%B0%91%E5%9C%8B%E5%9C%8B%E6%AD%8C%28%E6%BC%94%E5%A5%8F%E7%89%88%29.ogg.mp3
-#EXTINF:-1 group-title="音樂 🎵️",巨星珍藏🇨🇳️:邓丽君经典歌曲精选(1)
-https://vdse.bdstatic.com//d2b16e989b950ad5db5461066c8dbf46.mp4
+#EXTINF:-1 group-title="音樂 🎵️",1984年春晚
+http://txmov2.a.kwimgs.com/upic/2022/01/31/15/BMjAyMjAxMzExNTU5NTRfNDAzMDAxOTlfNjYyNzMyMzg3MTRfMF8z_b_B192356dadbc90d207ba16964d4c2914c.mp4
 #EXTINF:-1 group-title="音樂 🎵️",巨星珍藏🇨🇳️:邓丽君经典歌曲精选(2)
 https://vdse.bdstatic.com//9b36b59762cdf4a47f8c27672b35e343.mp4
 #EXTINF:-1 group-title="音樂 🎵️",巨星珍藏🇨🇳️：邓丽君经典歌曲精选（3)
