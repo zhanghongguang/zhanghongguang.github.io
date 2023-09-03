@@ -1058,7 +1058,7 @@ https://rakuten-euronews-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 https://euronews.alteox.app/hls/en_stream.m3u8
 #EXTINF:-1 group-title="Global 🇺🇸🇬🇧🇶🇦️" tvg-logo="https://gitee.com/radioer/radioer/raw/main/newsmax.jpg",NewsmaxTV
 http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
-#EXTINF:-1 group-title="Global 🇺🇸🇬🇧🇶🇦️",Fox News
+#EXTINF:-1 tvg-logo="http://www.stream-link.org/tv_logo/fox_live.png" group-title="Global 🇺🇸🇬🇧🇶🇦️",Fox News
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.stream-link.org/tv_logo/kbs_world.png" group-title="Global 🇺🇸🇬🇧🇶🇦️",KBS WORLD
 https://kbsworld-ott.akamaized.net:443/hls/live/2002341/kbsworld/01.m3u8
