@@ -339,7 +339,7 @@ https://event.pull.hebtv.com/jishi/nongminpindao.m3u8
 #EXTINF:-1 group-title="地方臺 🇨🇳️" tvg-name="SCTV2"tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/sctv2.png",四川文旅
 http://api2.52tb.xyz/info?id=603&token=20230405tndmhg
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/bestv.png" group-title="地方臺 🇨🇳️",健康养生[百视通]
-https://cntv.sbs/tv?auth=230830&id=jkys
+http://iptv3.dnwx.vip:8888/udp/239.252.220.129:5140
 #EXTINF:-1 tvg-name="BTV纪实科教-8KSDR源" tvg-logo="https://live.fanmingming.com/tv/北京纪实科教.png" group-title="地方臺 🇨🇳️",北京纪实科教
 https://cntv.sbs/tv?auth=230830&id=bjjskj
 #EXTINF:-1 group-title="地方臺 🇨🇳️",广东国际
@@ -371,7 +371,7 @@ https://live.goodiptv.club/api/cqyx.php?id=bjayjsSD
 #EXTINF:-1 tvg-id="北京文艺" tvg-name="北京文艺" tvg-logo="https://epg.112114.xyz/logo/北京文艺.png" group-title="地方臺 🇨🇳️",北京文艺BTV-2
 http://lu1.cc/c/tv/bjtv/btime1.php?id=bjwy
 #EXTINF:-1 tvg-id="6244" tvg-name="求索生活" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/QSJL.png" group-title="地方臺 🇨🇳️",求索生活
-http://39.134.136.141:6610/000000001000/2000000004000000008/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000008&livemode=1&stbId=3
+http://suixiaobin.dsmynas.net:5666/gudou.php?phone=freeuser&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=004bfc8f56cd2797&cid=1332&id=QSSHHD_7000
 #EXTINF:-1 tvg-name="BTV新闻" group-title="地方臺 🇨🇳️" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV%E6%96%B0%E9%97%BB.png",北京新闻
 http://qnap.yjnhome.com:4000/udp/239.3.1.159:8000
 #EXTINF:-1 tvg-id="6585" tvg-name="茶频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/DOCUMENTARY-CHANNEL.jpg" group-title="地方臺 🇨🇳️",茶友频道
@@ -831,7 +831,7 @@ https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
 #EXTINF:-1 tvg-name="三立财经新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETInews.png" group-title="臺灣 🇹🇼️丨ladder",三立inews新闻
 http://seb.sason.top/sc/slinews_fhd.m3u8
 #EXTINF:-1 tvg-name="东森新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCNews.png" group-title="臺灣 🇹🇼️丨ladder",东森新闻台
-http://seb.sason.top/sc/dsxw_fhd.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/file/index.m3u8?expire=1693722947&ei=49TzZOL0AoXA7OsP7P2PiA8&ip=43.249.50.173&id=S5WOGu2HSes.2&source=yt_live_broadcast&requiressl=yes&hfr=1&playlist_duration=30&manifest_duration=30&vprv=1&go=1&pacing=0&nvgoi=1&keepalive=yes&fexp=24007246%2C24363391&dover=11&itag=0&playlist_type=DVR&sparams=expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cvprv%2Cgo%2Citag%2Cplaylist_type&sig=AOq0QJ8wRgIhAPlLElydlqPmuD_j4C4VWq01RCkH5V7XXs9aBp7WMtTkAiEAqaHIS86ngLLAYBPIub7iTBJLpIqs1lIMRghflS2RCkk%3D&cpn=VYRwYPGXGywJLToC&ibw=8480000&c=MWEB&cver=2.20230831.04.00&ptk=youtube_single&oid=9BqkSXQzn-DvCnA2lS07Rw&ptchn=R3asjvr_WAaxwJYEDV_Bfw&pltype=contentlive
 #EXTINF:-1 tvg-name="东森财经新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCFinancialNews.png" group-title="臺灣 🇹🇼️丨ladder",东森财经新闻台
 http://seb.sason.top/sc/dscjxw_fhd.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="臺灣 🇹🇼️丨ladder",中天新闻
