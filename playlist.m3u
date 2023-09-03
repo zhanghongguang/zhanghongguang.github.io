@@ -373,7 +373,7 @@ http://lu1.cc/c/tv/bjtv/btime1.php?id=bjwy
 #EXTINF:-1 tvg-id="6244" tvg-name="求索生活" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/QSJL.png" group-title="地方臺 🇨🇳️",求索生活
 http://39.134.136.141:6610/000000001000/2000000004000000008/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000008&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="BTV新闻" group-title="地方臺 🇨🇳️" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV%E6%96%B0%E9%97%BB.png",北京新闻
-http://lu1.cc/c/tv/bjtv/btime1.php?id=bjxw
+http://qnap.yjnhome.com:4000/udp/239.3.1.159:8000
 #EXTINF:-1 tvg-id="6585" tvg-name="茶频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/DOCUMENTARY-CHANNEL.jpg" group-title="地方臺 🇨🇳️",茶友频道
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225781/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="南京新闻综合" tvg-name="南京新闻综合" tvg-logo="https://epg.112114.xyz/logo/南京新闻综合.png" group-title="地方臺 🇨🇳️",南京综合
@@ -827,7 +827,7 @@ https://raw.githubusercontent.com/StanleyChen0924/Myself/YTlive/MusicCi24.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="臺灣 🇹🇼️丨ladder",2021华语流行歌曲
 https://raw.githubusercontent.com/StanleyChen0924/Myself/YTlive/KKBOX21.m3u8
 #EXTINF:-1 tvg-name="台视新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/台视新闻.png" group-title="臺灣 🇹🇼️丨ladder",台视新闻台
-http://seb.sason.top/sc/tsxw_fhd.m3u8
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
 #EXTINF:-1 tvg-name="三立财经新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETInews.png" group-title="臺灣 🇹🇼️丨ladder",三立inews新闻
 http://seb.sason.top/sc/slinews_fhd.m3u8
 #EXTINF:-1 tvg-name="东森新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCNews.png" group-title="臺灣 🇹🇼️丨ladder",东森新闻台
@@ -843,7 +843,7 @@ https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV17.m3u8
 #EXTINF:-1 tvg-name="寰宇新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GlobalNews.png" group-title="臺灣 🇹🇼️丨ladder",寰宇新闻
 https://raw.githubusercontent.com/etag2000/IPTV/YTlive/hyxw.m3u8
 #EXTINF:-1 tvg-name="台视新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/台视新闻.png" group-title="臺灣 🇹🇼️丨ladder",台视新闻台
-https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ttvnews.m3u8
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
 #EXTINF:-1 tvg-id="6108" tvg-name="三立财经新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETInews.png" group-title="臺灣 🇹🇼️丨ladder",三立inews新闻
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV01.m3u8
 #EXTINF:-1 tvg-id="6171" tvg-name="寰宇新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GlobalNews.png" group-title="臺灣 🇹🇼️丨ladder",寰宇新闻
@@ -893,11 +893,11 @@ https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV44.m3u8
 #EXTINF:-1 tvg-id="6069" tvg-name="东森新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCNews.png" group-title="臺灣 🇹🇼️丨ladder",东森新闻4K
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV45.m3u8
 #EXTINF:-1 tvg-id="6075" tvg-name="东森财经新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCFinancialNews.png" group-title="臺灣 🇹🇼️丨ladder",东森财经新闻台
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV46.m3u8
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8
 #EXTINF:-1 tvg-id="6139" tvg-name="ChannelNewsAsia" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/channelnewsasia.png" group-title="臺灣 🇹🇼️丨ladder",ChannelNewsAsia
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV52.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="臺灣 🇹🇼️丨ladder",HTB北海道ニュース
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV53.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/33/ANN_logo.svg" group-title="臺灣 🇹🇼️丨ladder",ANN News
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV48.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="臺灣 🇹🇼️丨ladder",美好购物1台
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV54.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="臺灣 🇹🇼️丨ladder",美好购物2台
