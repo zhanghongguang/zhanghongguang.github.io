@@ -1030,11 +1030,11 @@ https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
 #EXTINF:-1 group-title="Global 🇺🇸🇬🇧🇶🇦️",JakartaGlobe News
 https://b1english.beritasatumedia.com/Beritasatu/B1English_manifest.m3u8
-#EXTINF:-1 group-title="Global 🇺🇸🇬🇧🇶🇦️",Bloomberg TV
+#EXTINF:-1 tvg-logo="http://www.stream-link.org/tv_logo/bloomberg.png" group-title="Global 🇺🇸🇬🇧🇶🇦️",Bloomberg TV
 https://bloomberg-bloomberg-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="Global 🇺🇸🇬🇧🇶🇦️",Прямий (576p)
 http://prm.cdn-02.cosmonova.net.ua/hls/prm_ua_low/index.m3u8
-#EXTINF:-1 group-title="Global 🇺🇸🇬🇧🇶🇦️"  tvg-logo="https://raw.githubusercontent.com/goolguy007/radioer/main/abc.png",ABC NEWS
+#EXTINF:-1 group-title="Global 🇺🇸🇬🇧🇶🇦️"  tvg-logo="http://www.stream-link.org/tv_logo/abc_news_live.png",ABC NEWS
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
 #EXTINF:-1 group-title="Global 🇺🇸🇬🇧🇶🇦️" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_332.jpg",BBC World News
 https://tv.googledrivelinks.com/live.php?c=BBC_World_News&q=1200&e=.m3u8
