@@ -2693,543 +2693,163 @@ http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225848/index.m3u8
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225849/index.m3u8
 #EXTINF:-1 group-title="咸阳移动",百视通体育 720
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225847/index.m3u8
-#EXTINF:-1 group-title="央视频,#genre#",CCTV1
-http://36.131.221.148/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000210103.m3u8
-#EXTINF:-1 group-title="央视频,#genre#",CCTV2
-http://36.131.221.148/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000203603.m3u8
-#EXTINF:-1 group-title="央视频,#genre#",CCTV3
-http://36.131.221.148/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000203803.m3u8
-#EXTINF:-1 group-title="央视频,#genre#",CCTV4
-http://36.131.221.148/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000204803.m3u8
-#EXTINF:-1 group-title="央视频,#genre#",CCTV5
-http://36.131.221.148/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000205103.m3u8
-#EXTINF:-1 group-title="央视频,#genre#",CCTV6
-http://36.131.221.148/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000203303.m3u8
-#EXTINF:-1 group-title="央视频,#genre#",CCTV7
-http://36.131.221.148/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000510003.m3u8
-#EXTINF:-1 group-title="央视频,#genre#",CCTV8
-http://36.131.221.148/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000203903.m3u8
-#EXTINF:-1 group-title="央视频,#genre#",CCTV9
-http://36.131.221.148/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000499403.m3u8
-#EXTINF:-1 group-title="央视频,#genre#",CCTV10
-http://36.131.221.148/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000203503.m3u8
-#EXTINF:-1 group-title="央视频,#genre#",CCTV11
-http://36.131.221.148/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000204103.m3u8
-#EXTINF:-1 group-title="央视频,#genre#",CCTV12
-http://36.131.221.148/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000202603.m3u8
-#EXTINF:-1 group-title="央视频,#genre#",CCTV13
-http://36.131.221.148/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000204603.m3u8
-#EXTINF:-1 group-title="央视频,#genre#",CCTV14
-http://36.131.221.148/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000204403.m3u8
-#EXTINF:-1 group-title="央视频,#genre#",CCTV15
-http://36.131.221.148/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000205003.m3u8
-#EXTINF:-1 group-title="央视频,#genre#",CCTV16
-http://36.131.221.148/tlivecloud-ipv6.ysp.cctv.cn/ysp/2012375003.m3u8
-#EXTINF:-1 group-title="央视频,#genre#",CCTV16(4k)
-http://36.131.221.148/tlivecloud-ipv6.ysp.cctv.cn/ysp/2012492303.m3u8
-#EXTINF:-1 group-title="央视频,#genre#",CCTV17
-http://36.131.221.148/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000204203.m3u8
-#EXTINF:-1 group-title="央视频,#genre#",CCTV5P
-http://36.131.221.148/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000204503.m3u8
-#EXTINF:-1 group-title="央视频,#genre#",CCTV4K
-http://36.131.221.148/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000266303.m3u8
-#EXTINF:-1 group-title="央视频,#genre#",CCTV8k
-http://36.131.221.148/tlivecloud-ipv6.ysp.cctv.cn/ysp/2020603421.m3u8
-#EXTINF:-1 group-title="央视频,#genre#",CGTN英闻
-http://36.131.221.148/tlivecloud-ipv6.ysp.cctv.cn/ysp/2001656803.m3u8
-#EXTINF:-1 group-title="央视频,#genre#",CGTN法语
-http://36.131.221.148/tlivecloud-ipv6.ysp.cctv.cn/ysp/2010153503.m3u8
-#EXTINF:-1 group-title="央视频,#genre#",CGTN俄语
-http://36.131.221.148/tlivecloud-ipv6.ysp.cctv.cn/ysp/2010152603.m3u8
-#EXTINF:-1 group-title="央视频,#genre#",CGTN阿拉伯语
-http://36.131.221.148/tlivecloud-ipv6.ysp.cctv.cn/ysp/2010155203.m3u8
-#EXTINF:-1 group-title="央视频,#genre#",CGTN西班牙语
-http://36.131.221.148/tlivecloud-ipv6.ysp.cctv.cn/ysp/2010152503.m3u8
-#EXTINF:-1 group-title="央视频,#genre#",CGTN纪录国际
-http://36.131.221.148/tlivecloud-ipv6.ysp.cctv.cn/ysp/2010155403.m3u8
-#EXTINF:-1 group-title="央视频,#genre#",CCTV风云足球
-http://36.131.221.148/tlivecloud-ipv6.ysp.cctv.cn/ysp/2012514203.m3u8
-#EXTINF:-1 group-title="央视频,#genre#",CCTV风云音乐
-http://36.131.221.148/tlivecloud-ipv6.ysp.cctv.cn/ysp/2012514103.m3u8
-#EXTINF:-1 group-title="央视频,#genre#",CCTV风云剧场
-http://36.131.221.148/tlivecloud-ipv6.ysp.cctv.cn/ysp/2012513603.m3u8
-#EXTINF:-1 group-title="央视频,#genre#",CCTV第一剧场
-http://36.131.221.148/tlivecloud-ipv6.ysp.cctv.cn/ysp/2012514403.m3u8
-#EXTINF:-1 group-title="央视频,#genre#",CCTV怀旧剧场
-http://36.131.221.148/tlivecloud-ipv6.ysp.cctv.cn/ysp/2012511203.m3u8
-#EXTINF:-1 group-title="央视频,#genre#",CCTV兵器科技
-http://36.131.221.148/tlivecloud-ipv6.ysp.cctv.cn/ysp/2012513403.m3u8
-#EXTINF:-1 group-title="央视频,#genre#",CCTV世界地理
-http://36.131.221.148/tlivecloud-ipv6.ysp.cctv.cn/ysp/2012513303.m3u8
-#EXTINF:-1 group-title="央视频,#genre#",CCTV高尔夫·网球
-http://36.131.221.148/tlivecloud-ipv6.ysp.cctv.cn/ysp/2012512503.m3u8
-#EXTINF:-1 group-title="央视频,#genre#",CCTV女性时尚
-http://36.131.221.148/tlivecloud-ipv6.ysp.cctv.cn/ysp/2012513903.m3u8
-#EXTINF:-1 group-title="央视频,#genre#",CCTV央视文化精品
-http://36.131.221.148/tlivecloud-ipv6.ysp.cctv.cn/ysp/2012513803.m3u8
-#EXTINF:-1 group-title="央视频,#genre#",CCTV央视台球
-http://36.131.221.148/tlivecloud-ipv6.ysp.cctv.cn/ysp/2012513703.m3u8
-#EXTINF:-1 group-title="央视频,#genre#",CCTV电视指南
-http://36.131.221.148/tlivecloud-ipv6.ysp.cctv.cn/ysp/2012514003.m3u8
-#EXTINF:-1 group-title="央视频,#genre#",CCTV卫生健康
-http://36.131.221.148/tlivecloud-ipv6.ysp.cctv.cn/ysp/2012513503.m3u8
-#EXTINF:-1 group-title="央视频,#genre#",深圳卫视
-http://36.131.221.148/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000292203.m3u8
-#EXTINF:-1 group-title="央视频,#genre#",广东卫视
-http://36.131.221.148/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000292703.m3u8
-#EXTINF:-1 group-title="央视频,#genre#",浙江卫视
-http://36.131.221.148/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000295503.m3u8
-#EXTINF:-1 group-title="央视频,#genre#",湖南卫视
-http://36.131.221.148/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000296203.m3u8
-#EXTINF:-1 group-title="央视频,#genre#",东方卫视
-http://36.131.221.148/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000292403.m3u8
-#EXTINF:-1 group-title="央视频,#genre#",北京卫视
-http://36.131.221.148/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000272103.m3u8
-#EXTINF:-1 group-title="央视频,#genre#",江苏卫视
-http://36.131.221.148/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000295603.m3u8
-#EXTINF:-1 group-title="央视频,#genre#",湖北卫视
-http://36.131.221.148/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000294503.m3u8
-#EXTINF:-1 group-title="央视频,#genre#",广西卫视
-http://36.131.221.148/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000294203.m3u8
-#EXTINF:-1 group-title="央视频,#genre#",黑龙江卫视
-http://36.131.221.148/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000293903.m3u8
-#EXTINF:-1 group-title="央视频,#genre#",海南卫视
-http://36.131.221.148/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000291503.m3u8
-#EXTINF:-1 group-title="央视频,#genre#",重庆卫视
-http://36.131.221.148/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000297803.m3u8
-#EXTINF:-1 group-title="央视频,#genre#",四川卫视
-http://36.131.221.148/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000295003.m3u8
-#EXTINF:-1 group-title="央视频,#genre#",河南卫视
-http://36.131.221.148/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000296103.m3u8
-#EXTINF:-1 group-title="央视频,#genre#",东南卫视
-http://36.131.221.148/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000292503.m3u8
-#EXTINF:-1 group-title="央视频,#genre#",贵州卫视
-http://36.131.221.148/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000293303.m3u8
-#EXTINF:-1 group-title="央视频,#genre#",江西卫视
-http://36.131.221.148/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000294103.m3u8
-#EXTINF:-1 group-title="央视频,#genre#",辽宁卫视
-http://36.131.221.148/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000281303.m3u8
-#EXTINF:-1 group-title="央视频,#genre#",安徽卫视
-http://36.131.221.148/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000298003.m3u8
-#EXTINF:-1 group-title="央视频,#genre#",河北卫视
-http://36.131.221.148/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000293403.m3u8
-#EXTINF:-1 group-title="央视频,#genre#",山东卫视
-http://36.131.221.148/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000294803.m3u8
-#EXTINF:-1 group-title="央视频,#genre#",天津卫视
-http://36.131.221.148/tlivecloud-ipv6.ysp.cctv.cn/ysp/2019927003.m3u8
-#EXTINF:-1 group-title="央视频,#genre#",新彊卫视
-http://36.131.221.148/tlivecloud-ipv6.ysp.cctv.cn/ysp/2019927403.m3u8
-#EXTINF:-1 group-title="央视频,#genre#",CCTV1
-https://angtv.cc/test/ysp.php?id=cctv1
-#EXTINF:-1 group-title="央视频,#genre#",CCTV2
-https://angtv.cc/test/ysp.php?id=cctv2
-#EXTINF:-1 group-title="央视频,#genre#",CCTV3(vip)
-https://angtv.cc/test/ysp.php?id=cctv3
-#EXTINF:-1 group-title="央视频,#genre#",CCTV4
-https://angtv.cc/test/ysp.php?id=cctv4
-#EXTINF:-1 group-title="央视频,#genre#",CCTV5
-https://angtv.cc/test/ysp.php?id=cctv5
-#EXTINF:-1 group-title="央视频,#genre#",CCTV5+
-https://angtv.cc/test/ysp.php?id=cctv5p
-#EXTINF:-1 group-title="央视频,#genre#",CCTV6(vip)
-https://angtv.cc/test/ysp.php?id=cctv6
-#EXTINF:-1 group-title="央视频,#genre#",CCTV7
-https://angtv.cc/test/ysp.php?id=cctv7
-#EXTINF:-1 group-title="央视频,#genre#",CCTV8(vip)
-https://angtv.cc/test/ysp.php?id=cctv8
-#EXTINF:-1 group-title="央视频,#genre#",CCTV9
-https://angtv.cc/test/ysp.php?id=cctv9
-#EXTINF:-1 group-title="央视频,#genre#",CCTV10
-https://angtv.cc/test/ysp.php?id=cctv10
-#EXTINF:-1 group-title="央视频,#genre#",CCTV11
-https://angtv.cc/test/ysp.php?id=cctv11
-#EXTINF:-1 group-title="央视频,#genre#",CCTV12
-https://angtv.cc/test/ysp.php?id=cctv12
-#EXTINF:-1 group-title="央视频,#genre#",CCTV13
-https://angtv.cc/test/ysp.php?id=cctv13
-#EXTINF:-1 group-title="央视频,#genre#",CCTV14
-https://angtv.cc/test/ysp.php?id=cctv14
-#EXTINF:-1 group-title="央视频,#genre#",CCTV15
-https://angtv.cc/test/ysp.php?id=cctv15
-#EXTINF:-1 group-title="央视频,#genre#",CCTV16
-https://angtv.cc/test/ysp.php?id=cctv16
-#EXTINF:-1 group-title="央视频,#genre#",CCTV16-4k(vip)
-https://angtv.cc/test/ysp.php?id=cctv16-4k
-#EXTINF:-1 group-title="央视频,#genre#",CCTV17
-https://angtv.cc/test/ysp.php?id=cctv17
-#EXTINF:-1 group-title="央视频,#genre#",CCTV4k
-https://angtv.cc/test/ysp.php?id=cctv4k
-#EXTINF:-1 group-title="央视频,#genre#",CCTV8k
-https://angtv.cc/test/ysp.php?id=cctv8k
-#EXTINF:-1 group-title="央视频,#genre#",CCTV8k
-http://lukache.cn/ysp/8khk.php
-#EXTINF:-1 group-title="央视频,#genre#",CCTV兵器科技(vip)
-https://angtv.cc/test/ysp.php?id=bqkj
-#EXTINF:-1 group-title="央视频,#genre#",CCTV第一剧场(vip)
-https://angtv.cc/test/ysp.php?id=dyjc
-#EXTINF:-1 group-title="央视频,#genre#",CCTV怀旧剧场(vip)
-https://angtv.cc/test/ysp.php?id=hjjc
-#EXTINF:-1 group-title="央视频,#genre#",CCTV风云剧场(vip)
-https://angtv.cc/test/ysp.php?id=fyjc
-#EXTINF:-1 group-title="央视频,#genre#",CCTV风云音乐(vip)
-https://angtv.cc/test/ysp.php?id=fyyy
-#EXTINF:-1 group-title="央视频,#genre#",CCTV风云足球(vip)
-https://angtv.cc/test/ysp.php?id=fyzq
-#EXTINF:-1 group-title="央视频,#genre#",CCTV电视指南(vip)
-https://angtv.cc/test/ysp.php?id=dszn
-#EXTINF:-1 group-title="央视频,#genre#",CCTV女性时尚(vip)
-https://angtv.cc/test/ysp.php?id=nxss
-#EXTINF:-1 group-title="央视频,#genre#",CCTV央视文化精品(vip)
-https://angtv.cc/test/ysp.php?id=whjp
-#EXTINF:-1 group-title="央视频,#genre#",CCTV世界地理(vip)
-https://angtv.cc/test/ysp.php?id=sjdl
-#EXTINF:-1 group-title="央视频,#genre#",CCTV高尔夫网球(vip)
-https://angtv.cc/test/ysp.php?id=gefwq
-#EXTINF:-1 group-title="央视频,#genre#",CCTV央视台球(vip)
-https://angtv.cc/test/ysp.php?id=ystq
-#EXTINF:-1 group-title="央视频,#genre#",CCTV卫生健康(vip)
-https://angtv.cc/test/ysp.php?id=wsjk
-#EXTINF:-1 group-title="央视频,#genre#",CGTN
-https://angtv.cc/test/ysp.php?id=cgtn
-#EXTINF:-1 group-title="央视频,#genre#",CGTN纪录
-https://angtv.cc/test/ysp.php?id=cgtnjl
-#EXTINF:-1 group-title="央视频,#genre#",CGTN西语
-https://angtv.cc/test/ysp.php?id=cgtne
-#EXTINF:-1 group-title="央视频,#genre#",CGTN法语
-https://angtv.cc/test/ysp.php?id=cgtnf
-#EXTINF:-1 group-title="央视频,#genre#",CGTN阿语
-https://angtv.cc/test/ysp.php?id=cgtna
-#EXTINF:-1 group-title="央视频,#genre#",CGTN俄语
-https://angtv.cc/test/ysp.php?id=cgtnr
-#EXTINF:-1 group-title="央视频,#genre#",北京卫视
-https://angtv.cc/test/ysp.php?id=bjws
-#EXTINF:-1 group-title="央视频,#genre#",东方卫视
-https://angtv.cc/test/ysp.php?id=dfws
-#EXTINF:-1 group-title="央视频,#genre#",天津卫视
-https://angtv.cc/test/ysp.php?id=tjws
-#EXTINF:-1 group-title="央视频,#genre#",重庆卫视
-https://angtv.cc/test/ysp.php?id=cqws
-#EXTINF:-1 group-title="央视频,#genre#",黑龙江卫视
-https://angtv.cc/test/ysp.php?id=hljws
-#EXTINF:-1 group-title="央视频,#genre#",辽宁卫视
-https://angtv.cc/test/ysp.php?id=lnws
-#EXTINF:-1 group-title="央视频,#genre#",河北卫视
-https://angtv.cc/test/ysp.php?id=hbws
-#EXTINF:-1 group-title="央视频,#genre#",山东卫视
-https://angtv.cc/test/ysp.php?id=sdws
-#EXTINF:-1 group-title="央视频,#genre#",安徽卫视
-https://angtv.cc/test/ysp.php?id=ahws
-#EXTINF:-1 group-title="央视频,#genre#",河南卫视
-https://angtv.cc/test/ysp.php?id=hnws
-#EXTINF:-1 group-title="央视频,#genre#",湖北卫视
-https://angtv.cc/test/ysp.php?id=hubws
-#EXTINF:-1 group-title="央视频,#genre#",湖南卫视
-https://angtv.cc/test/ysp.php?id=hunws
-#EXTINF:-1 group-title="央视频,#genre#",江西卫视
-https://angtv.cc/test/ysp.php?id=jxws
-#EXTINF:-1 group-title="央视频,#genre#",江苏卫视
-https://angtv.cc/test/ysp.php?id=jsws
-#EXTINF:-1 group-title="央视频,#genre#",浙江卫视
-https://angtv.cc/test/ysp.php?id=zjws
-#EXTINF:-1 group-title="央视频,#genre#",东南卫视
-https://angtv.cc/test/ysp.php?id=dnws
-#EXTINF:-1 group-title="央视频,#genre#",广东卫视
-https://angtv.cc/test/ysp.php?id=gdws
-#EXTINF:-1 group-title="央视频,#genre#",深圳卫视
-https://angtv.cc/test/ysp.php?id=szws
-#EXTINF:-1 group-title="央视频,#genre#",广西卫视
-https://angtv.cc/test/ysp.php?id=gxws
-#EXTINF:-1 group-title="央视频,#genre#",贵州卫视
-https://angtv.cc/test/ysp.php?id=gzws
-#EXTINF:-1 group-title="央视频,#genre#",四川卫视
-https://angtv.cc/test/ysp.php?id=scws
-#EXTINF:-1 group-title="央视频,#genre#",新疆卫视
-https://angtv.cc/test/ysp.php?id=xjws
-#EXTINF:-1 group-title="央视频,#genre#",海南卫视
-https://angtv.cc/test/ysp.php?id=hinws
-#EXTINF:-1 group-title="央视频,#genre#",CCTV1
-http://36.131.221.148/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000210103.m3u8
-#EXTINF:-1 group-title="央视频,#genre#",CCTV2
-http://36.131.221.148/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000203603.m3u8
-#EXTINF:-1 group-title="央视频,#genre#",CCTV3
-http://36.131.221.148/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000203803.m3u8
-#EXTINF:-1 group-title="央视频,#genre#",CCTV4
-http://36.131.221.148/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000204803.m3u8
-#EXTINF:-1 group-title="央视频,#genre#",CCTV5
-http://36.131.221.148/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000205103.m3u8
-#EXTINF:-1 group-title="央视频,#genre#",CCTV6
-http://36.131.221.148/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000203303.m3u8
-#EXTINF:-1 group-title="央视频,#genre#",CCTV7
-http://36.131.221.148/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000510003.m3u8
-#EXTINF:-1 group-title="央视频,#genre#",CCTV8
-http://36.131.221.148/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000203903.m3u8
-#EXTINF:-1 group-title="央视频,#genre#",CCTV9
-http://36.131.221.148/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000499403.m3u8
-#EXTINF:-1 group-title="央视频,#genre#",CCTV10
-http://36.131.221.148/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000203503.m3u8
-#EXTINF:-1 group-title="央视频,#genre#",CCTV11
-http://36.131.221.148/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000204103.m3u8
-#EXTINF:-1 group-title="央视频,#genre#",CCTV12
-http://36.131.221.148/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000202603.m3u8
-#EXTINF:-1 group-title="央视频,#genre#",CCTV13
-http://36.131.221.148/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000204603.m3u8
-#EXTINF:-1 group-title="央视频,#genre#",CCTV14
-http://36.131.221.148/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000204403.m3u8
-#EXTINF:-1 group-title="央视频,#genre#",CCTV15
-http://36.131.221.148/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000205003.m3u8
-#EXTINF:-1 group-title="央视频,#genre#",CCTV16
-http://36.131.221.148/tlivecloud-ipv6.ysp.cctv.cn/ysp/2012375003.m3u8
-#EXTINF:-1 group-title="央视频,#genre#",CCTV16(4k)
-http://36.131.221.148/tlivecloud-ipv6.ysp.cctv.cn/ysp/2012492303.m3u8
-#EXTINF:-1 group-title="央视频,#genre#",CCTV17
-http://36.131.221.148/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000204203.m3u8
-#EXTINF:-1 group-title="央视频,#genre#",CCTV5P
-http://36.131.221.148/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000204503.m3u8
-#EXTINF:-1 group-title="央视频,#genre#",CCTV4K
-http://36.131.221.148/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000266303.m3u8
-#EXTINF:-1 group-title="央视频,#genre#",CCTV8k
-http://36.131.221.148/tlivecloud-ipv6.ysp.cctv.cn/ysp/2020603421.m3u8
-#EXTINF:-1 group-title="央视频,#genre#",CGTN英闻
-http://36.131.221.148/tlivecloud-ipv6.ysp.cctv.cn/ysp/2001656803.m3u8
-#EXTINF:-1 group-title="央视频,#genre#",CGTN法语
-http://36.131.221.148/tlivecloud-ipv6.ysp.cctv.cn/ysp/2010153503.m3u8
-#EXTINF:-1 group-title="央视频,#genre#",CGTN俄语
-http://36.131.221.148/tlivecloud-ipv6.ysp.cctv.cn/ysp/2010152603.m3u8
-#EXTINF:-1 group-title="央视频,#genre#",CGTN阿拉伯语
-http://36.131.221.148/tlivecloud-ipv6.ysp.cctv.cn/ysp/2010155203.m3u8
-#EXTINF:-1 group-title="央视频,#genre#",CGTN西班牙语
-http://36.131.221.148/tlivecloud-ipv6.ysp.cctv.cn/ysp/2010152503.m3u8
-#EXTINF:-1 group-title="央视频,#genre#",CGTN纪录国际
-http://36.131.221.148/tlivecloud-ipv6.ysp.cctv.cn/ysp/2010155403.m3u8
-#EXTINF:-1 group-title="央视频,#genre#",CCTV风云足球
-http://36.131.221.148/tlivecloud-ipv6.ysp.cctv.cn/ysp/2012514203.m3u8
-#EXTINF:-1 group-title="央视频,#genre#",CCTV风云音乐
-http://36.131.221.148/tlivecloud-ipv6.ysp.cctv.cn/ysp/2012514103.m3u8
-#EXTINF:-1 group-title="央视频,#genre#",CCTV风云剧场
-http://36.131.221.148/tlivecloud-ipv6.ysp.cctv.cn/ysp/2012513603.m3u8
-#EXTINF:-1 group-title="央视频,#genre#",CCTV第一剧场
-http://36.131.221.148/tlivecloud-ipv6.ysp.cctv.cn/ysp/2012514403.m3u8
-#EXTINF:-1 group-title="央视频,#genre#",CCTV怀旧剧场
-http://36.131.221.148/tlivecloud-ipv6.ysp.cctv.cn/ysp/2012511203.m3u8
-#EXTINF:-1 group-title="央视频,#genre#",CCTV兵器科技
-http://36.131.221.148/tlivecloud-ipv6.ysp.cctv.cn/ysp/2012513403.m3u8
-#EXTINF:-1 group-title="央视频,#genre#",CCTV世界地理
-http://36.131.221.148/tlivecloud-ipv6.ysp.cctv.cn/ysp/2012513303.m3u8
-#EXTINF:-1 group-title="央视频,#genre#",CCTV高尔夫·网球
-http://36.131.221.148/tlivecloud-ipv6.ysp.cctv.cn/ysp/2012512503.m3u8
-#EXTINF:-1 group-title="央视频,#genre#",CCTV女性时尚
-http://36.131.221.148/tlivecloud-ipv6.ysp.cctv.cn/ysp/2012513903.m3u8
-#EXTINF:-1 group-title="央视频,#genre#",CCTV央视文化精品
-http://36.131.221.148/tlivecloud-ipv6.ysp.cctv.cn/ysp/2012513803.m3u8
-#EXTINF:-1 group-title="央视频,#genre#",CCTV央视台球
-http://36.131.221.148/tlivecloud-ipv6.ysp.cctv.cn/ysp/2012513703.m3u8
-#EXTINF:-1 group-title="央视频,#genre#",CCTV电视指南
-http://36.131.221.148/tlivecloud-ipv6.ysp.cctv.cn/ysp/2012514003.m3u8
-#EXTINF:-1 group-title="央视频,#genre#",CCTV卫生健康
-http://36.131.221.148/tlivecloud-ipv6.ysp.cctv.cn/ysp/2012513503.m3u8
-#EXTINF:-1 group-title="央视频,#genre#",深圳卫视
-http://36.131.221.148/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000292203.m3u8
-#EXTINF:-1 group-title="央视频,#genre#",广东卫视
-http://36.131.221.148/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000292703.m3u8
-#EXTINF:-1 group-title="央视频,#genre#",浙江卫视
-http://36.131.221.148/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000295503.m3u8
-#EXTINF:-1 group-title="央视频,#genre#",湖南卫视
-http://36.131.221.148/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000296203.m3u8
-#EXTINF:-1 group-title="央视频,#genre#",东方卫视
-http://36.131.221.148/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000292403.m3u8
-#EXTINF:-1 group-title="央视频,#genre#",北京卫视
-http://36.131.221.148/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000272103.m3u8
-#EXTINF:-1 group-title="央视频,#genre#",江苏卫视
-http://36.131.221.148/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000295603.m3u8
-#EXTINF:-1 group-title="央视频,#genre#",湖北卫视
-http://36.131.221.148/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000294503.m3u8
-#EXTINF:-1 group-title="央视频,#genre#",广西卫视
-http://36.131.221.148/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000294203.m3u8
-#EXTINF:-1 group-title="央视频,#genre#",黑龙江卫视
-http://36.131.221.148/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000293903.m3u8
-#EXTINF:-1 group-title="央视频,#genre#",海南卫视
-http://36.131.221.148/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000291503.m3u8
-#EXTINF:-1 group-title="央视频,#genre#",重庆卫视
-http://36.131.221.148/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000297803.m3u8
-#EXTINF:-1 group-title="央视频,#genre#",四川卫视
-http://36.131.221.148/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000295003.m3u8
-#EXTINF:-1 group-title="央视频,#genre#",河南卫视
-http://36.131.221.148/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000296103.m3u8
-#EXTINF:-1 group-title="央视频,#genre#",东南卫视
-http://36.131.221.148/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000292503.m3u8
-#EXTINF:-1 group-title="央视频,#genre#",贵州卫视
-http://36.131.221.148/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000293303.m3u8
-#EXTINF:-1 group-title="央视频,#genre#",江西卫视
-http://36.131.221.148/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000294103.m3u8
-#EXTINF:-1 group-title="央视频,#genre#",辽宁卫视
-http://36.131.221.148/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000281303.m3u8
-#EXTINF:-1 group-title="央视频,#genre#",安徽卫视
-http://36.131.221.148/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000298003.m3u8
-#EXTINF:-1 group-title="央视频,#genre#",河北卫视
-http://36.131.221.148/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000293403.m3u8
-#EXTINF:-1 group-title="央视频,#genre#",山东卫视
-http://36.131.221.148/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000294803.m3u8
-#EXTINF:-1 group-title="央视频,#genre#",天津卫视
-http://36.131.221.148/tlivecloud-ipv6.ysp.cctv.cn/ysp/2019927003.m3u8
-#EXTINF:-1 group-title="央视频,#genre#",新彊卫视
-http://36.131.221.148/tlivecloud-ipv6.ysp.cctv.cn/ysp/2019927403.m3u8
-#EXTINF:-1 group-title="甘肃移动易视腾IPv6,#genre#",CCTV-1
+#EXTINF:-1 group-title="甘肃移动易视腾IPv6",CCTV-1
 http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226247/1.m3u8
-#EXTINF:-1 group-title="甘肃移动易视腾IPv6,#genre#",CCTV-2
+#EXTINF:-1 group-title="甘肃移动易视腾IPv6",CCTV-2
 http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226220/1.m3u8
-#EXTINF:-1 group-title="甘肃移动易视腾IPv6,#genre#",CCTV-3
+#EXTINF:-1 group-title="甘肃移动易视腾IPv6",CCTV-3
 http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226490/1.m3u8
-#EXTINF:-1 group-title="甘肃移动易视腾IPv6,#genre#",CCTV-4
+#EXTINF:-1 group-title="甘肃移动易视腾IPv6",CCTV-4
 http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226539/1.m3u8
-#EXTINF:-1 group-title="甘肃移动易视腾IPv6,#genre#",CCTV-5
+#EXTINF:-1 group-title="甘肃移动易视腾IPv6",CCTV-5
 http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226587/1.m3u8
-#EXTINF:-1 group-title="甘肃移动易视腾IPv6,#genre#",CCTV-5+
+#EXTINF:-1 group-title="甘肃移动易视腾IPv6",CCTV-5+
 http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226253/1.m3u8
-#EXTINF:-1 group-title="甘肃移动易视腾IPv6,#genre#",CCTV-6
+#EXTINF:-1 group-title="甘肃移动易视腾IPv6",CCTV-6
 http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226492/1.m3u8
-#EXTINF:-1 group-title="甘肃移动易视腾IPv6,#genre#",CCTV-7
+#EXTINF:-1 group-title="甘肃移动易视腾IPv6",CCTV-7
 http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226432/1.m3u8
-#EXTINF:-1 group-title="甘肃移动易视腾IPv6,#genre#",CCTV-8
+#EXTINF:-1 group-title="甘肃移动易视腾IPv6",CCTV-8
 http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226589/1.m3u8
-#EXTINF:-1 group-title="甘肃移动易视腾IPv6,#genre#",CCTV-9
+#EXTINF:-1 group-title="甘肃移动易视腾IPv6",CCTV-9
 http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226434/1.m3u8
-#EXTINF:-1 group-title="甘肃移动易视腾IPv6,#genre#",CCTV-10
+#EXTINF:-1 group-title="甘肃移动易视腾IPv6",CCTV-10
 http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226164/1.m3u8
-#EXTINF:-1 group-title="甘肃移动易视腾IPv6,#genre#",CCTV-11
+#EXTINF:-1 group-title="甘肃移动易视腾IPv6",CCTV-11
 http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226541/1.m3u8
-#EXTINF:-1 group-title="甘肃移动易视腾IPv6,#genre#",CCTV-12
+#EXTINF:-1 group-title="甘肃移动易视腾IPv6",CCTV-12
 http://[2409:8087:74F1:0021::0008]:80/270000001322/69900158041111100000002147/1.m3u8
-#EXTINF:-1 group-title="甘肃移动易视腾IPv6,#genre#",CCTV-13
+#EXTINF:-1 group-title="甘肃移动易视腾IPv6",CCTV-13
 http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226438/1.m3u8
-#EXTINF:-1 group-title="甘肃移动易视腾IPv6,#genre#",CCTV-14
+#EXTINF:-1 group-title="甘肃移动易视腾IPv6",CCTV-14
 http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226166/1.m3u8
-#EXTINF:-1 group-title="甘肃移动易视腾IPv6,#genre#",CCTV-15
+#EXTINF:-1 group-title="甘肃移动易视腾IPv6",CCTV-15
 http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226616/1.m3u8
-#EXTINF:-1 group-title="甘肃移动易视腾IPv6,#genre#",CCTV-16
+#EXTINF:-1 group-title="甘肃移动易视腾IPv6",CCTV-16
 http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226413/1.m3u8
-#EXTINF:-1 group-title="甘肃移动易视腾IPv6,#genre#",CCTV-17
+#EXTINF:-1 group-title="甘肃移动易视腾IPv6",CCTV-17
 http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226407/1.m3u8
-#EXTINF:-1 group-title="甘肃移动易视腾IPv6,#genre#",安徽卫视
+#EXTINF:-1 group-title="甘肃移动易视腾IPv6",安徽卫视
 http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226205/1.m3u8
-#EXTINF:-1 group-title="甘肃移动易视腾IPv6,#genre#",江苏卫视
+#EXTINF:-1 group-title="甘肃移动易视腾IPv6",江苏卫视
 http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226157/1.m3u8
-#EXTINF:-1 group-title="甘肃移动易视腾IPv6,#genre#",东方卫视
+#EXTINF:-1 group-title="甘肃移动易视腾IPv6",东方卫视
 http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226155/1.m3u8
-#EXTINF:-1 group-title="甘肃移动易视腾IPv6,#genre#",广东卫视
+#EXTINF:-1 group-title="甘肃移动易视腾IPv6",广东卫视
 http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226180/1.m3u8
-#EXTINF:-1 group-title="甘肃移动易视腾IPv6,#genre#",北京卫视
+#EXTINF:-1 group-title="甘肃移动易视腾IPv6",北京卫视
 http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226161/1.m3u8
-#EXTINF:-1 group-title="甘肃移动易视腾IPv6,#genre#",黑龙江卫视
+#EXTINF:-1 group-title="甘肃移动易视腾IPv6",黑龙江卫视
 http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226142/1.m3u8
-#EXTINF:-1 group-title="甘肃移动易视腾IPv6,#genre#",浙江卫视
+#EXTINF:-1 group-title="甘肃移动易视腾IPv6",浙江卫视
 http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226144/1.m3u8
-#EXTINF:-1 group-title="甘肃移动易视腾IPv6,#genre#",湖北卫视
+#EXTINF:-1 group-title="甘肃移动易视腾IPv6",湖北卫视
 http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226159/1.m3u8
-#EXTINF:-1 group-title="甘肃移动易视腾IPv6,#genre#",山东卫视
+#EXTINF:-1 group-title="甘肃移动易视腾IPv6",山东卫视
 http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226162/1.m3u8
-#EXTINF:-1 group-title="甘肃移动易视腾IPv6,#genre#",湖南卫视
+#EXTINF:-1 group-title="甘肃移动易视腾IPv6",湖南卫视
 http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226193/1.m3u8
-#EXTINF:-1 group-title="甘肃移动易视腾IPv6,#genre#",天津卫视
+#EXTINF:-1 group-title="甘肃移动易视腾IPv6",天津卫视
 http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226191/1.m3u8
-#EXTINF:-1 group-title="甘肃移动易视腾IPv6,#genre#",东南卫视
+#EXTINF:-1 group-title="甘肃移动易视腾IPv6",东南卫视
 http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226182/1.m3u8
-#EXTINF:-1 group-title="甘肃移动易视腾IPv6,#genre#",江西卫视
+#EXTINF:-1 group-title="甘肃移动易视腾IPv6",江西卫视
 http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226207/1.m3u8
-#EXTINF:-1 group-title="甘肃移动易视腾IPv6,#genre#",深圳卫视
+#EXTINF:-1 group-title="甘肃移动易视腾IPv6",深圳卫视
 http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226199/1.m3u8
-#EXTINF:-1 group-title="甘肃移动易视腾IPv6,#genre#",辽宁卫视
+#EXTINF:-1 group-title="甘肃移动易视腾IPv6",辽宁卫视
 http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226209/1.m3u8
-#EXTINF:-1 group-title="甘肃移动易视腾IPv6,#genre#",河北卫视
+#EXTINF:-1 group-title="甘肃移动易视腾IPv6",河北卫视
 http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226442/1.m3u8
-#EXTINF:-1 group-title="甘肃移动易视腾IPv6,#genre#",海南卫视
+#EXTINF:-1 group-title="甘肃移动易视腾IPv6",海南卫视
 http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226450/1.m3u8
-#EXTINF:-1 group-title="甘肃移动易视腾IPv6,#genre#",四川卫视
+#EXTINF:-1 group-title="甘肃移动易视腾IPv6",四川卫视
 http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226454/1.m3u8
-#EXTINF:-1 group-title="甘肃移动易视腾IPv6,#genre#",贵州卫视
+#EXTINF:-1 group-title="甘肃移动易视腾IPv6",贵州卫视
 http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226547/1.m3u8
-#EXTINF:-1 group-title="甘肃移动易视腾IPv6,#genre#",甘肃卫视
+#EXTINF:-1 group-title="甘肃移动易视腾IPv6",甘肃卫视
 http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226240/1.m3u8
-#EXTINF:-1 group-title="甘肃移动易视腾IPv6,#genre#",重庆卫视
+#EXTINF:-1 group-title="甘肃移动易视腾IPv6",重庆卫视
 http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226551/1.m3u8
-#EXTINF:-1 group-title="甘肃移动易视腾IPv6,#genre#",河南卫视
+#EXTINF:-1 group-title="甘肃移动易视腾IPv6",河南卫视
 http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226614/1.m3u8
-#EXTINF:-1 group-title="甘肃移动易视腾IPv6,#genre#",内蒙古卫视
+#EXTINF:-1 group-title="甘肃移动易视腾IPv6",内蒙古卫视
 http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221225664/1.m3u8
-#EXTINF:-1 group-title="甘肃移动易视腾IPv6,#genre#",厦门卫视
+#EXTINF:-1 group-title="甘肃移动易视腾IPv6",厦门卫视
 http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221225689/1.m3u8
-#EXTINF:-1 group-title="甘肃移动易视腾IPv6,#genre#",兵团卫视
+#EXTINF:-1 group-title="甘肃移动易视腾IPv6",兵团卫视
 http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221225631/1.m3u8
-#EXTINF:-1 group-title="甘肃移动易视腾IPv6,#genre#",西藏卫视
+#EXTINF:-1 group-title="甘肃移动易视腾IPv6",西藏卫视
 http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221225698/1.m3u8
-#EXTINF:-1 group-title="甘肃移动易视腾IPv6,#genre#",吉林卫视
+#EXTINF:-1 group-title="甘肃移动易视腾IPv6",吉林卫视
 http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226440/1.m3u8
-#EXTINF:-1 group-title="甘肃移动易视腾IPv6,#genre#",陕西卫视
+#EXTINF:-1 group-title="甘肃移动易视腾IPv6",陕西卫视
 http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226444/1.m3u8
-#EXTINF:-1 group-title="甘肃移动易视腾IPv6,#genre#",广西卫视
+#EXTINF:-1 group-title="甘肃移动易视腾IPv6",广西卫视
 http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226452/1.m3u8
-#EXTINF:-1 group-title="甘肃移动易视腾IPv6,#genre#",云南卫视
+#EXTINF:-1 group-title="甘肃移动易视腾IPv6",云南卫视
 http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226549/1.m3u8
-#EXTINF:-1 group-title="甘肃移动易视腾IPv6,#genre#",新疆卫视
+#EXTINF:-1 group-title="甘肃移动易视腾IPv6",新疆卫视
 http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226608/1.m3u8
-#EXTINF:-1 group-title="甘肃移动易视腾IPv6,#genre#",青海卫视
+#EXTINF:-1 group-title="甘肃移动易视腾IPv6",青海卫视
 http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226606/1.m3u8
-#EXTINF:-1 group-title="甘肃移动易视腾IPv6,#genre#",山西卫视
+#EXTINF:-1 group-title="甘肃移动易视腾IPv6",山西卫视
 http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226604/1.m3u8
-#EXTINF:-1 group-title="甘肃移动易视腾IPv6,#genre#",三沙卫视
+#EXTINF:-1 group-title="甘肃移动易视腾IPv6",三沙卫视
 http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226701/1.m3u8
-#EXTINF:-1 group-title="甘肃移动易视腾IPv6,#genre#",宁夏卫视
+#EXTINF:-1 group-title="甘肃移动易视腾IPv6",宁夏卫视
 http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226693/1.m3u8
-#EXTINF:-1 group-title="甘肃移动易视腾IPv6,#genre#",卡酷少儿
+#EXTINF:-1 group-title="甘肃移动易视腾IPv6",卡酷少儿
 http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221225643/1.m3u8
-#EXTINF:-1 group-title="甘肃移动易视腾IPv6,#genre#",哈哈炫动
+#EXTINF:-1 group-title="甘肃移动易视腾IPv6",哈哈炫动
 http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221225668/1.m3u8
-#EXTINF:-1 group-title="甘肃移动易视腾IPv6,#genre#",金鹰卡通
+#EXTINF:-1 group-title="甘肃移动易视腾IPv6",金鹰卡通
 http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221225634/1.m3u8
-#EXTINF:-1 group-title="甘肃移动易视腾IPv6,#genre#",嘉佳卡通
+#EXTINF:-1 group-title="甘肃移动易视腾IPv6",嘉佳卡通
 http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221225681/1.m3u8
-#EXTINF:-1 group-title="甘肃移动易视腾IPv6,#genre#",上海都市
+#EXTINF:-1 group-title="甘肃移动易视腾IPv6",上海都市
 http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221225673/1.m3u8
-#EXTINF:-1 group-title="甘肃移动易视腾IPv6,#genre#",上海外语
+#EXTINF:-1 group-title="甘肃移动易视腾IPv6",上海外语
 http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226201/1.m3u8
-#EXTINF:-1 group-title="甘肃移动易视腾IPv6,#genre#",欢笑剧场
+#EXTINF:-1 group-title="甘肃移动易视腾IPv6",欢笑剧场
 http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226203/1.m3u8
-#EXTINF:-1 group-title="甘肃移动易视腾IPv6,#genre#",第一财经
+#EXTINF:-1 group-title="甘肃移动易视腾IPv6",第一财经
 http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226172/1.m3u8
-#EXTINF:-1 group-title="甘肃移动易视腾IPv6,#genre#",都市剧场
+#EXTINF:-1 group-title="甘肃移动易视腾IPv6",都市剧场
 http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226176/1.m3u8
-#EXTINF:-1 group-title="甘肃移动易视腾IPv6,#genre#",生活时尚
+#EXTINF:-1 group-title="甘肃移动易视腾IPv6",生活时尚
 http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226358/1.m3u8
-#EXTINF:-1 group-title="甘肃移动易视腾IPv6,#genre#",纪实人文
+#EXTINF:-1 group-title="甘肃移动易视腾IPv6",纪实人文
 http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226174/1.m3u8
-#EXTINF:-1 group-title="甘肃移动易视腾IPv6,#genre#",法治天地
+#EXTINF:-1 group-title="甘肃移动易视腾IPv6",法治天地
 http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221225627/1.m3u8
-#EXTINF:-1 group-title="甘肃移动易视腾IPv6,#genre#",游戏风云
+#EXTINF:-1 group-title="甘肃移动易视腾IPv6",游戏风云
 http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226187/1.m3u8
-#EXTINF:-1 group-title="甘肃移动易视腾IPv6,#genre#",哈哈炫动
+#EXTINF:-1 group-title="甘肃移动易视腾IPv6",哈哈炫动
 http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226618/1.m3u8
-#EXTINF:-1 group-title="甘肃移动易视腾IPv6,#genre#",动漫秀场
+#EXTINF:-1 group-title="甘肃移动易视腾IPv6",动漫秀场
 http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226197/1.m3u8
-#EXTINF:-1 group-title="甘肃移动易视腾IPv6,#genre#",东方财经
+#EXTINF:-1 group-title="甘肃移动易视腾IPv6",东方财经
 http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226602/1.m3u8
-#EXTINF:-1 group-title="甘肃移动易视腾IPv6,#genre#",甘肃都市
+#EXTINF:-1 group-title="甘肃移动易视腾IPv6",甘肃都市
 http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226248/1.m3u8
-#EXTINF:-1 group-title="甘肃移动易视腾IPv6,#genre#",甘肃经济
+#EXTINF:-1 group-title="甘肃移动易视腾IPv6",甘肃经济
 http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226252/1.m3u8
-#EXTINF:-1 group-title="甘肃移动易视腾IPv6,#genre#",甘肃文化影视
+#EXTINF:-1 group-title="甘肃移动易视腾IPv6",甘肃文化影视
 http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226287/1.m3u8
-#EXTINF:-1 group-title="甘肃移动易视腾IPv6,#genre#",甘肃少儿
+#EXTINF:-1 group-title="甘肃移动易视腾IPv6",甘肃少儿
 http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226289/1.m3u8
-#EXTINF:-1 group-title="甘肃移动易视腾IPv6,#genre#",甘肃公共应急
+#EXTINF:-1 group-title="甘肃移动易视腾IPv6",甘肃公共应急
 http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226250/1.m3u8
-#EXTINF:-1 group-title="甘肃移动易视腾IPv6,#genre#",兰州新闻综合
+#EXTINF:-1 group-title="甘肃移动易视腾IPv6",兰州新闻综合
 http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226242/1.m3u8
-#EXTINF:-1 group-title="甘肃移动易视腾IPv6,#genre#",兰州生活经济
+#EXTINF:-1 group-title="甘肃移动易视腾IPv6",兰州生活经济
 http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226285/1.m3u8
-#EXTINF:-1 group-title="甘肃移动易视腾IPv6,#genre#",兰州文旅频道
+#EXTINF:-1 group-title="甘肃移动易视腾IPv6",兰州文旅频道
 http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226597/1.m3u8
-#EXTINF:-1 group-title="甘肃移动易视腾IPv6,#genre#",咪咕综合体育
+#EXTINF:-1 group-title="甘肃移动易视腾IPv6",咪咕综合体育
 http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226504/1.m3u8
-#EXTINF:-1 group-title="甘肃移动易视腾IPv6,#genre#",咪咕精彩足球
+#EXTINF:-1 group-title="甘肃移动易视腾IPv6",咪咕精彩足球
 http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226506/1.m3u8
-#EXTINF:-1 group-title="甘肃移动易视腾IPv6,#genre#",咪咕精彩足球
+#EXTINF:-1 group-title="甘肃移动易视腾IPv6",咪咕精彩足球
 http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226508/1.m3u8
