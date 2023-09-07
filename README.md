@@ -21,7 +21,7 @@ Disclaimer: This project is intended solely for sharing entertainment informatio
 
 
 ## IPTV
-![福建旅遊臺 Logo](Logo/2.png)
+![福建旅遊臺 Logo](Logo/iptv.png)
 
 
 
