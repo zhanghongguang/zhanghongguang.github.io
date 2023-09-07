@@ -21,9 +21,7 @@ Disclaimer: This project is intended solely for sharing entertainment informatio
 
 
 
-<p align="center">
-  <img src="Logo/2.png" alt="福建旅游台 Logo">
-</p>
+![福建旅游台](Logo/2.png)
 
 
 
