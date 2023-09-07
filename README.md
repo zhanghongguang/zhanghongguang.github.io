@@ -20,7 +20,8 @@ This project compiles various sources of programs, which are sourced from the in
 Disclaimer: This project is intended solely for sharing entertainment information and does not take responsibility for the legality or accuracy of the program content.
 
 <p align="center">
-  <img src="/home/chang/圖片/2.png" alt="福建旅游台图片">
+  <img src="Logo/2.png" alt="福建旅游台 Logo">
 </p>
+
 
 
