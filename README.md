@@ -18,3 +18,6 @@ This project compiles various sources of programs, which are sourced from the in
 免责声明：本项目仅用于分享娱乐信息，不对节目内容的合法性和准确性负责。
 
 Disclaimer: This project is intended solely for sharing entertainment information and does not take responsibility for the legality or accuracy of the program content.
+
+![福建電視臺](/home/chang/圖片/2.png)
+
