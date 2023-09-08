@@ -608,13 +608,13 @@ http://r.jdshipin.com/cCCzW
 http://hls.cq.live.cbnbn.cn/__cl/cg:live/__c/xfylHD/__op/default/__f/index.m3u8
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" tvg-speed="2MB/s" group-title="港澳 🇭🇰️🇲🇴️",凤凰卫视资讯台
 http://r.jdshipin.com/0Rp07
-#EXTINF:-1 group-title="港澳 🇭🇰️🇲🇴️" tvg-log="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png",凤凰香港
+#EXTINF:-1 group-title="港澳 🇭🇰️🇲🇴️" tvg-logo="http://q1.fengshows.cn/a/2021_23/325d941090bee17.png",凤凰香港
 http://r.jdshipin.com/NfC0f
 #EXTINF:-1 group-title="港澳 🇭🇰️🇲🇴️" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hks.png",香港卫视
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 #EXTINF:-1 tvg-id="7122" tvg-name="有线新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/youxianxinwen.png" group-title="港澳 🇭🇰️🇲🇴️",有线新闻
 http://61.10.2.140:80/live_freedirect/freehd209_h.live/chunklist_w135209556.m3u8
-#EXTINF:-1 group-title="港澳 🇭🇰️🇲🇴️" tvg-log="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png",凤凰香港
+#EXTINF:-1 group-title="港澳 🇭🇰️🇲🇴️" tvg-logo="http://q1.fengshows.cn/a/2021_23/325d941090bee17.png",凤凰香港
 http://gxfrg007.8800.org:8282/tsfile/live/1065_1.m3u8
 #EXTINF:-1 group-title="港澳 🇭🇰️🇲🇴️",香港文旅
 http://ali-play.lezhibo.com/lezhibo/d803719995ab40df83fca5e638cac7f4.m3u8
