@@ -22,8 +22,12 @@ Disclaimer: This project is intended solely for sharing entertainment informatio
 
 ## IPTV
 
-<img src="Logo/iptv.png" alt="图片1" width="200"/> <img src="Logo/1.png" alt="图片2" width="100"/> <img src="Logo/2.png" alt="图片3" width="100"/>
-![图片1](Logo/iptv.png) ![图片2](Logo/1.png) ![图片3](Logo/2.png)
+<p align="center">
+  <img src="logo/iptv.png" width="300" height="200">
+  <img src="logo/1.png" width="300" height="200">
+  <img src="logo/2.png" width="300" height="200">
+</p>
+
 
 
 
