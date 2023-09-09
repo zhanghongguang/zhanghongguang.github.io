@@ -22,7 +22,7 @@ Disclaimer: This project is intended solely for sharing entertainment informatio
 
 ## IPTV
 <p align="center">
-  <img src="Logo/iptv.png" width="50%" />
+  <img src="Logo/iptv.png" width="30%" />
 </p>
 
 <p align="center">
