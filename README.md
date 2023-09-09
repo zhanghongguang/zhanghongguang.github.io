@@ -26,8 +26,8 @@ Disclaimer: This project is intended solely for sharing entertainment informatio
 </p>
 
 <p align="center">
-  <img src="Logo/1.png" width="20%" />
-  <img src="Logo/2.png" width="20%" />
+  <img src="Logo/1.png" width="15%" />
+  <img src="Logo/2.png" width="15%" />
 </p>
 
 
