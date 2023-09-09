@@ -240,7 +240,7 @@ http://cntv.dfkj.live/bestv.php?id=cctv15hd8m/8000000
 http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226825/1.m3u8?$8M1080
 #EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV17" tvg-id="CCTV17" tvg-name="CCTV17" group-title="央視 🇨🇳",CCTV17 8M
 http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226660/1.m3u8?
-#EXTINF:-1 tvg-logo="http://tv.cn/web/images/channels/whjp.png" tvg-id="CCTV央视文化精品" tvg-name="CCTV央视文化精品" group-title="央視 🇨🇳",CCTV央视文化精品
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVwenhuajingpin.png" tvg-id="CCTV央视文化精品" tvg-name="CCTV央视文化精品" group-title="央視 🇨🇳",央视精品
 http://36.131.221.148/tlivecloud-ipv6.ysp.cctv.cn/ysp/2012513803.m3u8
 #EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV卫生健康" tvg-id="CCTV卫生健康" tvg-name="CCTV卫生健康" group-title="央視 🇨🇳",CCTV卫生健康
 http://36.131.221.148/tlivecloud-ipv6.ysp.cctv.cn/ysp/2012513503.m3u8
@@ -328,7 +328,7 @@ http://play.cec-tv.com.cn/channel/cec-tv4.m3u8
 http://live.appwuhan.com/1tzb/sd/live.m3u8
 #EXTINF:-1 group-title="地方&數字臺 🇨🇳️" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/WHTV6.png",武汉外语频道
 http://stream.appwuhan.com/6tzb/sd/live.m3u8
-#EXTINF:-1 group-title="地方&數字臺 🇨🇳️" tvg-logo="http://live.cooltv.top/logo/gdxw.png", 广东新闻
+#EXTINF:-1 group-title="地方&數字臺 🇨🇳️" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/GDTV6.png", 广东新闻
 http://101.33.225.246:9999/iptv?type=gdxw
 #EXTINF:-1 group-title="地方&數字臺 🇨🇳️",广州新闻
 https://justsometime.gztv.com/sec/xinwen.m3u8
@@ -342,7 +342,7 @@ http://api2.52tb.xyz/info?id=603&token=20230405tndmhg
 http://iptv3.dnwx.vip:8888/udp/239.252.220.129:5140
 #EXTINF:-1 tvg-name="BTV纪实科教-8KSDR源" tvg-logo="https://live.fanmingming.com/tv/北京纪实科教.png" group-title="地方&數字臺 🇨🇳️",北京纪实科教
 https://cntv.sbs/tv?auth=2309081833&id=bjjskj
-#EXTINF:-1 group-title="地方&數字臺 🇨🇳️",广东国际
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/GDTV8.png" group-title="地方&數字臺 🇨🇳️",广东国际
 http://hongyanqiang.top/chudian.php?id=gdgj
 #EXTINF:-1 tvg-id="6242" tvg-name="求索动物“ tvg-logo="http://epg.51zmt.top:8000/tb1/qt/QSDW.png" group-title="地方&數字臺 🇨🇳️",求索动物
 http://suixiaobin.dsmynas.net:5666/gudou.php?phone=freeuser&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=004bfc8f56cd2797&cid=1332&id=QSDWHD_7000
@@ -372,8 +372,8 @@ http://lu1.cc/c/tv/bjtv/btime1.php?id=bjwy
 http://suixiaobin.dsmynas.net:5666/gudou.php?phone=freeuser&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=004bfc8f56cd2797&cid=1332&id=QSSHHD_7000
 #EXTINF:-1 tvg-name="BTV新闻" group-title="地方&數字臺 🇨🇳️" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV%E6%96%B0%E9%97%BB.png",北京新闻
 http://qnap.yjnhome.com:4000/udp/239.3.1.159:8000
-#EXTINF:-1 tvg-id="6585" tvg-name="茶频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/DOCUMENTARY-CHANNEL.jpg" group-title="地方&數字臺 🇨🇳️",茶友频道
-http://113.248.216.97:8888/udp/235.254.199.198:7980
+#EXTINF:-1 tvg-id="6585" tvg-name="茶频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/DOCUMENTARY-CHANNEL.jpg" group-title="地方&數字臺 🇨🇳️",茶频道
+http://175.13.226.6:8888/udp/239.76.252.239:9000
 #EXTINF:-1 tvg-id="南京新闻综合" tvg-name="南京新闻综合" tvg-logo="https://epg.112114.xyz/logo/南京新闻综合.png" group-title="地方&數字臺 🇨🇳️",南京综合
 http://live.nbs.cn/channels/njtv/xwzh/m3u8:500k/live.m3u8
 #EXTINF:-1 group-title="地方&數字臺 🇨🇳️",重庆新闻
@@ -440,7 +440,7 @@ https://livehhhttps.sxrtv.com/lsdream/q8RVWgs/1000/k3sh8sV.m3u8
 https://livehhhttps.sxrtv.com/lsdream/lce1mC4/800/j3thcs1.m3u8
 #EXTINF:-1 tvg-id="55" tvg-name="陕西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi.png" tvg-speed="3MB/s" tvg-rez="720x576" group-title="卫视 🇨🇳️",陕西卫视
 https://cntv.sbs/tv?auth=2309081833&id=sxws
-#EXTINF:-1 tvg-id="56" tvg-name="四川卫视" tvg-logo="http://epg.51zmt.top:8000/https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8tb1/ws/sichuan.png" tvg-speed="10MB/s" group-title="卫视 🇨🇳️",四川卫视
+#EXTINF:-1 tvg-id="56" tvg-name="四川卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sichuan.png"  tvg-speed="10MB/s" group-title="卫视 🇨🇳️",四川卫视
 https://cntv.sbs/tv?auth=2309081833&id=scws
 #EXTINF:-1 tvg-id="57" tvg-name="新疆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xinjiang.png" tvg-speed="1000KB/s" group-title="卫视 🇨🇳️",新疆卫视
 https://cntv.sbs/tv?auth=2309081833&id=xjws
