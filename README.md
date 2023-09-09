@@ -21,13 +21,15 @@ Disclaimer: This project is intended solely for sharing entertainment informatio
 
 
 ## IPTV
-
-![Image 1](Logo/iptv.png)
+<p align="center">
+  <img src="Logo/iptv.png" width="50%" />
+</p>
 
 <p align="center">
-  <img src="Logo/1.png" width="48%" />
-  <img src="Logo/2.png" width="48%" />
+  <img src="Logo/1.png" width="25%" />
+  <img src="Logo/2.png" width="25%" />
 </p>
+
 
 
 
