@@ -23,9 +23,9 @@ Disclaimer: This project is intended solely for sharing entertainment informatio
 ## IPTV
 
 <p align="center">
-  <img src="logo/iptv.png" width="300" height="200">
-  <img src="logo/1.png" width="300" height="200">
-  <img src="logo/2.png" width="300" height="200">
+  <img src="Logo/iptv.png" width="300" height="200">
+  <img src="Logo/1.png" width="300" height="200">
+  <img src="Logo/2.png" width="300" height="200">
 </p>
 
 
