@@ -25,13 +25,6 @@ Disclaimer: This project is intended solely for sharing entertainment informatio
 
 ## IPTV
 
-<div style="text-align: center;">
-  <div style="display: inline-flex;">
-    <img src="Logo/iptv.png" style="height: 200px; object-fit: cover;" alt="电脑截图">
-    <img src="Logo/1.png" style="height: 200px; object-fit: cover;" alt="手机截图1">
-    <img src="Logo/2.png" style="height: 200px; object-fit: cover;" alt="手机截图2">
-  </div>
-
 <p align="center">
   <img src="Logo/iptv.png" height="200" width="200">
   <img src="Logo/1.png" height="200" width="200">
