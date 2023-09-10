@@ -31,6 +31,7 @@ Disclaimer: This project is intended solely for sharing entertainment informatio
   <img src="Logo/2.png" height="200" width="200">
 </p>
 
+```html
 <style>
   /* 响应式设计，适应手机屏幕 */
   @media (max-width: 768px) {
@@ -40,6 +41,7 @@ Disclaimer: This project is intended solely for sharing entertainment informatio
     }
   }
 </style>
+
 
 
 
