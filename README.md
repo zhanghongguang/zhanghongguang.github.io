@@ -24,23 +24,17 @@ Disclaimer: This project is intended solely for sharing entertainment informatio
 
 
 ## IPTV
+
 <style>
   .image-container {
     display: flex;
-    justify-content: space-between;
     align-items: center;
   }
 
   .image-container img {
     height: 200px; /* 设置图片的高度，确保高度一致 */
     object-fit: cover; /* 保持图片的纵横比，适应指定的高度 */
-    margin-right: 10px; /* 图片之间的间距 */
-  }
-
-  @media (max-width: 768px) {
-    .image-container img {
-      width: auto; /* 在较小屏幕上，将图片的宽度设置为自适应以并排显示 */
-    }
+    margin: 0 5px; /* 可以根据需要添加一些间距 */
   }
 </style>
 
@@ -49,6 +43,7 @@ Disclaimer: This project is intended solely for sharing entertainment informatio
   <img src="Logo/1.png" alt="手机截图1" width="200">
   <img src="Logo/2.png" alt="手机截图2" width="200">
 </div>
+
 
 
 
