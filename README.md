@@ -34,19 +34,7 @@ Disclaimer: This project is intended solely for sharing entertainment informatio
   </div>
 </div>
 
-<div style="display: flex; flex-wrap: wrap; align-items: flex-start;">
-  <img src="Logo/iptv.png" alt="电脑屏幕截图" width="200" style="margin: 10px;">
-  <div style="flex-grow: 1; margin-left: 20px;">
-    <p>这里是一些相关的文本说明。</p>
-    <p>您可以在这里添加更多的文本内容，以解释图片或提供相关信息。</p>
-  </div>
-</div>
-<div style="display: flex; justify-content: center; align-items: center;">
-  <div style="display: flex; flex-direction: column; justify-content: center; align-items: center;">
-    <img src="Logo/3.png" alt="手机屏幕截图1" width="100" style="margin: 5px;">
-    <img src="Logo/2.png" alt="手机屏幕截图2" width="100" style="margin: 5px;">
-  </div>
-</div>
+
 
 
 
