@@ -31,7 +31,7 @@ Disclaimer: This project is intended solely for sharing entertainment informatio
 <!-- 第二行：手机屏幕截图（两张并列） -->
 <div style="display: flex; justify-content: space-between;">
   <img src="Logo/3.png" alt="手机屏幕截图1" style="width: 50%; max-width: 50%; display: block;">
-  <img src="Logo/Logo2.png" alt="手机屏幕截图2" style="width: 50%; max-width: 50%; display: block;">
+  <img src="Logo2.png" alt="手机屏幕截图2" style="width: 50%; max-width: 50%; display: block;">
 </div>
 
 
