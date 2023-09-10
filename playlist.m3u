@@ -253,7 +253,7 @@ http://111.20.40.170/PLTV/88888893/224/3221226975/index.m3u8
 #EXTINF:-1 tvg-logo="http://tv.cn/web/images/channels/hjjc.png" tvg-id="CCTV怀旧剧场" tvg-name="CCTV怀旧剧场" group-title="央視 🇨🇳",CCTV怀旧剧场
 http://hls.cq.live.cbnbn.cn/__cl/cg:live/__c/hjjcHD/__op/default/__f/index.m3u8
 #EXTINF:-1 tvg-logo="http://tv.cn/web/images/channels/fyjc.png" tvg-id="CCTV风云剧场" tvg-name="CCTV风云剧场" group-title="央視 🇨🇳",CCTV风云剧场
-http://hls.cq.live.cbnbn.cn/__cl/cg:live/__c/shandongHD/__op/default/__f/index.m3u8
+http://111.20.40.165/PLTV/88888893/224/3221226950/index.m3u8
 #EXTINF:-1 tvg-logo="http://tv.cn/web/images/channels/dyjc.png" tvg-id="CCTV第一剧场" tvg-name="CCTV第一剧场" group-title="央視 🇨🇳",CCTV第一剧场
 http://111.20.40.170/PLTV/88888893/224/3221226959/index.m3u8
 #EXTINF:-1 group-title="央視 🇨🇳",CCTV8K
@@ -1077,7 +1077,7 @@ https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virgin
 #EXTINF:-1 group-title="Global 🇺🇸🇬🇧🇶🇦️" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BloombergTV.png",Bloomberg TV+ 4K
 https://bloomberg-bloombergtv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 group-title="Global 🇺🇸🇬🇧🇶🇦️" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBO.png",HBO
-https://pull-l3-cny.douyincdn.com/live/b2478a833f3e8b439b680048fcbf7786.m3u8
+http://208.115.225.174:14136
 #EXTINF:-1 group-title="Global 🇺🇸🇬🇧🇶🇦️" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/1200px-Russia-today-logo.svg.png",RT Documentary
 https://rt-rtd.rttv.com/live/rtdoc/playlist.m3u8
 #EXTINF:-1 group-title="Global 🇺🇸🇬🇧🇶🇦️",BBC One (UK)
