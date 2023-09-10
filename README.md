@@ -25,23 +25,10 @@ Disclaimer: This project is intended solely for sharing entertainment informatio
 
 ## IPTV
 
-<style>
-  .image-container {
-    display: flex;
-    align-items: center;
-  }
-
-  .image-container img {
-    height: 200px; /* 设置图片的高度，确保高度一致 */
-    object-fit: cover; /* 保持图片的纵横比，适应指定的高度 */
-    margin: 0 5px; /* 可以根据需要添加一些间距 */
-  }
-</style>
-
-<div class="image-container">
-  <img src="Logo/iptv.png" alt="电脑截图" width="400">
-  <img src="Logo/1.png" alt="手机截图1" width="200">
-  <img src="Logo/2.png" alt="手机截图2" width="200">
+<div style="display: flex; flex-direction: row; align-items: center;">
+  <img src="Logo/iptv.png" style="flex: 2; height: auto;">
+  <img src="Logo/1.png" style="flex: 1; height: auto;">
+  <img src="Logo/2.png" style="flex: 1; height: auto;">
 </div>
 
 
