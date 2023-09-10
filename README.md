@@ -31,16 +31,6 @@ Disclaimer: This project is intended solely for sharing entertainment informatio
   <img src="Logo/2.png" height="200" width="200">
 </p>
 
-```html
-<style>
-  /* 响应式设计，适应手机屏幕 */
-  @media (max-width: 768px) {
-    img {
-      height: 150px; /* 调整图片高度以适应手机屏幕 */
-      width: auto;   /* 让宽度根据高度自动调整，保持宽高比例 */
-    }
-  }
-</style>
 
 
 
