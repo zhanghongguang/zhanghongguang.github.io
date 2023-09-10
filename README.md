@@ -26,10 +26,11 @@ Disclaimer: This project is intended solely for sharing entertainment informatio
 ## IPTV
 
 <div style="display: flex; align-items: center;">
-  <img src="Logo/iptv.png" style="width: 70px; height: auto;">
-  <img src="Logo/1.png" style="width: 30px; height: auto;">
-  <img src="Logo/2.png" style="width: 30px; height: auto;">
+  <img src="Logo/iptv.png" style="width: 150px; height: auto;">
+  <img src="Logo/1.png" style="width: 100px; height: auto;">
+  <img src="Logo/2.png" style="width: 100px; height: auto;">
 </div>
+
 
 
 
