@@ -25,13 +25,6 @@ Disclaimer: This project is intended solely for sharing entertainment informatio
 
 ## IPTV
 
-<div style="display: flex; align-items: flex-start; overflow: hidden;">
-  <img src="Logo/iptv.png" style="height: 200px; flex-shrink: 0; width: auto; max-width: 33.33%;" alt="电脑截图">
-  <img src="Logo/1.png" style="height: 200px; flex-shrink: 0; width: auto; max-width: 33.33%;" alt="手机截图1">
-  <img src="Logo/2.png" style="height: 200px; flex-shrink: 0; width: auto; max-width: 33.33%;" alt="手机截图2">
-</div>
-
-
 <div style="display: flex; justify-content: center;">
   <div style="display: flex;">
     <img src="Logo/iptv.png" style="height: 200px; object-fit: cover;" alt="电脑截图">
