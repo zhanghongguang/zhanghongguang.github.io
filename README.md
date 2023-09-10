@@ -30,13 +30,14 @@ Disclaimer: This project is intended solely for sharing entertainment informatio
     <img src="Logo/iptv.png" alt="电脑屏幕截图" width="100%" style="max-width: 400px; height: auto; display: block; margin: 0 auto;">
 </div>
 
-<div style="display: flex; justify-content: center;">
+<div style="display: flex; justify-content: center; align-items: center;">
     <!-- 第二张图片，手机屏幕截图1 -->
-    <img src="Logo/3.png" alt="手机屏幕截图1" width="50%" style="max-width: 400px; height: auto;">
+    <img src="Logo/3.png" alt="手机屏幕截图1" width="50%" style="max-width: 200px; height: auto;">
     
     <!-- 第三张图片，手机屏幕截图2 -->
-    <img src="Logo/2.png" alt="手机屏幕截图2" width="50%" style="max-width: 400px; height: auto;">
+    <img src="Logo/2.png" alt="手机屏幕截图2" width="50%" style="max-width: 200px; height: auto;">
 </div>
+
 
 
 
