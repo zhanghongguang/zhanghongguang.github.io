@@ -25,11 +25,6 @@ Disclaimer: This project is intended solely for sharing entertainment informatio
 
 ## IPTV
 
-<div style="display: flex; flex-wrap: nowrap; overflow-x: auto; -webkit-overflow-scrolling: touch; justify-content: center; align-items: center; white-space: nowrap;">
-  <img src="Logo/iptv.png" alt="电脑屏幕截图" style="width: auto; height: 200px; margin: 0 10px;">
-  <img src="Logo/1.png" alt="手机屏幕截图" style="width: auto; height: 200px; margin: 0 10px;">
-  <img src="Logo/2.png" alt="手机屏幕截图" style="width: auto; height: 200px; margin: 0 10px;">
-</div>
 
 <!-- 使用 HTML 和 CSS 布局图片，在不同设备上水平并排并具有相同高度 -->
 <div style="display: flex; justify-content: center; align-items: center;">
