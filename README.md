@@ -32,6 +32,11 @@ Disclaimer: This project is intended solely for sharing entertainment informatio
   <img src="Logo/2.png" alt="手机屏幕截图" style="width: auto; height: 200px;">
 </div>
 
+<div style="display: flex; flex-wrap: nowrap; overflow-x: auto; -webkit-overflow-scrolling: touch; justify-content: center; align-items: center; white-space: nowrap;">
+  <img src="Logo/iptv.png" alt="电脑屏幕截图" style="width: auto; height: 200px; margin: 0 10px;">
+  <img src="Logo/1.png" alt="手机屏幕截图" style="width: auto; height: 200px; margin: 0 10px;">
+  <img src="Logo/2.png" alt="手机屏幕截图" style="width: auto; height: 200px; margin: 0 10px;">
+</div>
 
 
 
