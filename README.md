@@ -25,21 +25,19 @@ Disclaimer: This project is intended solely for sharing entertainment informatio
 
 ## IPTV
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center;">
+<div style="text-align: center;">
     <!-- 第一张图片，电脑屏幕截图 -->
-    <div style="flex: 1; padding: 10px;">
-        <img src="Logo/iptv.png" alt="电脑屏幕截图" width="100%" style="max-width: 400px; height: auto;">
-    </div>
-    
-    <!-- 第二行，两张手机屏幕截图并列在一行 -->
-    <div style="flex: 1; padding: 10px;">
-        <img src="Logo/3.png" alt="手机屏幕截图" width="100%" style="max-width: 400px; height: auto;">
-    </div>
-    
-    <div style="flex: 1; padding: 10px;">
-        <img src="Logo/2.png" alt="手机屏幕截图" width="100%" style="max-width: 400px; height: auto;">
-    </div>
+    <img src="Logo/iptv.png" alt="电脑屏幕截图" width="100%" style="max-width: 400px; height: auto; display: block; margin: 0 auto;">
 </div>
+
+<div style="display: flex; justify-content: center;">
+    <!-- 第二张图片，手机屏幕截图1 -->
+    <img src="Logo/3.png" alt="手机屏幕截图1" width="50%" style="max-width: 400px; height: auto;">
+    
+    <!-- 第三张图片，手机屏幕截图2 -->
+    <img src="Logo/2.png" alt="手机屏幕截图2" width="50%" style="max-width: 400px; height: auto;">
+</div>
+
 
 
 
