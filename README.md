@@ -25,12 +25,10 @@ Disclaimer: This project is intended solely for sharing entertainment informatio
 
 ## IPTV
 
-<div style="display: flex; justify-content: center; align-items: center;">
-  <img src="Logo/iptv.png" alt="电脑屏幕截图" height="200" style="margin-right: 10px;"/>
-  <img src="Logo/1.png" alt="手机屏幕截图" height="200" style="margin-right: 10px;"/>
-  <img src="Logo/2.png" alt="手机屏幕截图" height="200" style="margin-right: 10px;"/>
-  <img src="Logo/3.png" alt="手机屏幕截图" height="200"/>
-</div>
+![电脑屏幕截图](Logo/iptv.png)
+
+![手机屏幕截图1](Logo/1.png) ![手机屏幕截图2](Logo/2.png) ![手机屏幕截图3](Logo/3.png)
+
 
 
 
