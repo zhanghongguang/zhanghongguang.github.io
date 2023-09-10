@@ -28,9 +28,11 @@ Disclaimer: This project is intended solely for sharing entertainment informatio
 
 <!-- 使用 HTML 和 CSS 布局图片，在不同设备上水平并排并具有相同高度 -->
 <div style="display: flex; justify-content: center; align-items: center;">
-  <img src="Logo/iptv.png" alt="电脑屏幕截图" style="width: 33.33%; height: 200px;">
-  <img src="Logo/1.png" alt="手机屏幕截图1" style="width: 33.33%; height: 200px;">
-  <img src="Logo/2.png" alt="手机屏幕截图2" style="width: 33.33%; height: 200px;">
+  <img src="Logo/iptv.png" alt="电脑屏幕截图" style="width: 25%; height: 200px;">
+  <img src="Logo/1.png" alt="手机屏幕截图1" style="width: 25%; height: 200px;">
+  <img src="Logo/2.png" alt="手机屏幕截图2" style="width: 25%; height: 200px;">
+  <img src="Logo/3.png" alt="手机屏幕截图3" style="width: 25％; height: 200px;">
+
 </div>
 
 
