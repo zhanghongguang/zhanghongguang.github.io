@@ -32,9 +32,9 @@ Disclaimer: This project is intended solely for sharing entertainment informatio
   </div>
 </div>
 
-<div style="display: flex; flex-wrap: wrap; justify-content: flex-start; align-items: flex-start;">
-  <img src="Logo/iptv.png" alt="电脑屏幕截图" width="200" style="margin: 10px;">
-  <div style="margin-left: 20px;">
+<div style="display: flex; align-items: flex-start;">
+  <img src="Logo/iptv.png" alt="电脑屏幕截图" width="200" style="margin-right: 20px;">
+  <div>
     <p>这里是一些相关的文本说明。</p>
     <p>您可以在这里添加更多的文本内容，以解释图片或提供相关信息。</p>
   </div>
@@ -45,6 +45,7 @@ Disclaimer: This project is intended solely for sharing entertainment informatio
     <img src="Logo/2.png" alt="手机屏幕截图2" width="100" style="margin: 5px;">
   </div>
 </div>
+
 
 
 
