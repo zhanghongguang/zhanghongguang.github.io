@@ -32,17 +32,18 @@ Disclaimer: This project is intended solely for sharing entertainment informatio
     <img src="Logo/2.png" style="height: 200px; object-fit: cover;" alt="手机截图2">
   </div>
 </div>
-<div style="text-align: center;">
-  <div style="display: inline;">
-    <img src="Logo/iptv.png" style="height: 200px; object-fit: cover; display: inline;" alt="电脑截图">
+<div style="display: flex; justify-content: center;">
+  <div>
+    <img src="Logo/iptv.png" style="height: 200px; object-fit: cover;" alt="电脑截图">
   </div>
-  <div style="display: inline;">
-    <img src="Logo/1.png" style="height: 200px; object-fit: cover; display: inline;" alt="手机截图1">
+  <div>
+    <img src="Logo/1.png" style="height: 200px; object-fit: cover;" alt="手机截图1">
   </div>
-  <div style="display: inline;">
-    <img src="Logo/2.png" style="height: 200px; object-fit: cover; display: inline;" alt="手机截图2">
+  <div>
+    <img src="Logo/2.png" style="height: 200px; object-fit: cover;" alt="手机截图2">
   </div>
 </div>
+
 
 
 
