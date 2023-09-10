@@ -33,6 +33,13 @@ Disclaimer: This project is intended solely for sharing entertainment informatio
   </div>
 </div>
 <div style="display: flex; justify-content: center;">
+
+<div style="display: flex; align-items: center; justify-content: center;">
+  <img src="Logo/iptv.png" alt="电脑截图" style="width: 60%; height: auto; margin-right: 2%;" />
+  <img src="Logo/1.png" alt="手机截图1" style="width: 20%; height: auto; margin-right: 2%;" />
+  <img src="Logo/2.png" alt="手机截图2" style="width: 20%; height: auto;" />
+</div>
+
  
 
 
