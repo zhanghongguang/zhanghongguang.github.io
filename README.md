@@ -33,18 +33,7 @@ Disclaimer: This project is intended solely for sharing entertainment informatio
   </div>
 </div>
 <div style="display: flex; justify-content: center;">
-  <div>
-    <img src="Logo/iptv.png" style="height: 200px; object-fit: cover;" alt="电脑截图">
-  </div>
-  <div>
-    <img src="Logo/1.png" style="height: 200px; object-fit: cover;" alt="手机截图1">
-  </div>
-  <div>
-    <img src="Logo/2.png" style="height: 200px; object-fit: cover;" alt="手机截图2">
-  </div>
-</div>
-
-
+ 
 
 
 
