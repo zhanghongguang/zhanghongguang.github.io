@@ -16,7 +16,7 @@
 ---
 
 <div style="display: flex; align-items: flex-start;">
-  <img src="Logo/iptv.png" alt="电脑屏幕截图" width="200" style="margin-right: 20px;">
+  <img src="Logo/iptv.png" alt="电脑屏幕截图" width="200" style="margin-right: 10px;">
   <div>
     <p>本项目收集了各种节目源，这些源来自互联网，非独创。如果发现有任何纠纷，请及时联系原作者解决。我们强调共享乐趣胜过独自享受，希望能够为大家带来更多的欢乐和娱乐。
 
