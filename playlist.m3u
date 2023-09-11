@@ -256,6 +256,8 @@ http://hls.cq.live.cbnbn.cn/__cl/cg:live/__c/hjjcHD/__op/default/__f/index.m3u8
 http://111.20.40.165/PLTV/88888893/224/3221226950/index.m3u8
 #EXTINF:-1 tvg-logo="http://tv.cn/web/images/channels/dyjc.png" tvg-id="CCTV第一剧场" tvg-name="CCTV第一剧场" group-title="央視 🇨🇳",CCTV第一剧场
 http://111.20.40.170/PLTV/88888893/224/3221226959/index.m3u8
+#EXTINF:-1 group-title="央視 🇨🇳" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVnvxing.png",女性时尚
+http://111.20.40.163/PLTV/88888893/224/3221226969/index.m3u8
 #EXTINF:-1 group-title="央視 🇨🇳",CCTV8K
 http://[2409:8087:2001:20:2800:0:df6e:eb02]/ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8
 #EXTINF:-1 group-title="上海 🇨🇳️",★★★★★上海 🇨🇳️★★★★★
