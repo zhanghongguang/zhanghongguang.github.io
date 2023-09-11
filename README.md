@@ -18,7 +18,7 @@
 <div style="display: flex; align-items: flex-start;">
   <img src="Logo/iptv.png" alt="电脑屏幕截图" width="200" style="margin-right: 20px;">
   <div>
-    <p>本項目收集了各種節目源，這些源來自互聯網，非獨創。如果發現有任何爭議，請及時聯繫原作者解決。我們強調共享樂趣勝過獨自享受，希望能夠為大家帶來更多的歡樂和娛樂。
+    <p>本項目收集了各種節目源，這些源來自互聯網，非獨創。如果發現有任何糾紛，請及時聯繫原作者解決。我們強調共享樂趣勝過獨自享受，希望能夠為大家帶來更多的歡樂和娛樂。
 
 This project compiles various sources of programs, which are sourced from the internet and not original creations. If any disputes are found, please promptly contact the original authors for resolution. We emphasize the importance of sharing joy over enjoying alone, hoping to bring more happiness and entertainment to everyone.</p>
     <p>免責聲明：本項目僅用於分享娛樂信息，不對節目內容的合法性和準確性負責。
