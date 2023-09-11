@@ -18,10 +18,10 @@
 <div style="display: flex; align-items: flex-start;">
   <img src="Logo/iptv.png" alt="电脑屏幕截图" width="200" style="margin-right: 20px;">
   <div>
-    <p>本项目收集了各种节目源，这些源来自互联网，非独创。如果发现有任何纠纷，请及时联系原作者解决。我们强调共享乐趣胜过独自享受，希望能够为大家带来更多的欢乐和娱乐。
+    <p>本項目收集了各種節目源，這些源來自互聯網，非獨創。如果發現有任何爭議，請及時聯繫原作者解決。我們強調共享樂趣勝過獨自享受，希望能夠為大家帶來更多的歡樂和娛樂。
 
 This project compiles various sources of programs, which are sourced from the internet and not original creations. If any disputes are found, please promptly contact the original authors for resolution. We emphasize the importance of sharing joy over enjoying alone, hoping to bring more happiness and entertainment to everyone.</p>
-    <p>免责声明：本项目仅用于分享娱乐信息，不对节目内容的合法性和准确性负责。
+    <p>免責聲明：本項目僅用於分享娛樂信息，不對節目內容的合法性和準確性負責。
 
 Disclaimer: This project is intended solely for sharing entertainment information and does not take responsibility for the legality or accuracy of the program content.
 </p>
