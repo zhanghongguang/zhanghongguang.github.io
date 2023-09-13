@@ -1154,7 +1154,7 @@ https://wildearth-roku.amagi.tv/masterR720P.m3u8
 http://185.59.223.102:8080/natgeowild/index.m3u8
 #EXTINF:-1 tvg-logo="https://talkmediaafrica.com/wp-content/uploads/2015/01/AriseLG-1280x720.png" group-title="Global 🇺🇸🇬🇧🇶🇦️",Arise News
 https://liveedge-arisenews.visioncdn.com/live-hls/arisenews/arisenews/arisenews_web/master.m3u8
-#EXTINF:-1 tvg-id="france24eng" group-title="Global 🇺🇸🇬🇧🇶🇦️" tvg-logo="https://www.publicdiplomacycouncil.org/wp-content/uploads/2020/05/voa-logo.png",VOA (English)
+#EXTINF:-1 tvg-id="france24eng" group-title="Global 🇺🇸🇬🇧🇶🇦️" tvg-logo="https://static1.squarespace.com/static/51a013dee4b0a2a2d2ef73e9/t/530a34ace4b0d1b000d31222/1393177774359/voa.png",VOA English
 https://voa-ingest.akamaized.net/hls/live/2033874/tvmc06/playlist.m3u8
 #EXTINF:-1 tvg-id="GBAJ42000038R" tvg-logo="https://i.imgur.com/I2yfBm7.png" group-title="Global 🇺🇸🇬🇧🇶🇦️",InWonder TV | Austrália
 https://inwonder-samsung-uk.amagi.tv/playlist720.m3u8
