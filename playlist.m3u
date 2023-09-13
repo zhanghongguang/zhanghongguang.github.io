@@ -1065,7 +1065,7 @@ https://tastemadetravel-vizio.amagi.tv/playlist720_p.m3u8
 #EXTINF:-1 group-title="Global 🇺🇸🇬🇧🇶🇦️",BBC World Service
 http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_world_service/bbc_world_service.isml/bbc_world_service-audio=320000.m3u8
 #EXTINF:-1 group-title="Global 🇺🇸🇬🇧🇶🇦️" tvg-logo="https://i.ibb.co/0mWZ02V/love.png",LOVE NATURE
-https://bamus-eng-roku.amagi.tv/playlist404p.m3u8
+http://194.76.186.33:8000/play/a02d/index.m3u8
 #EXTINF:-1 group-title="Global 🇺🇸🇬🇧🇶🇦️" tvg-logo="https://i.ibb.co/0mWZ02V/love.png",LoveNature4K
 http://bamus-eng-roku.amagi.tv/playlist720lp.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 group-title="Global 🇺🇸🇬🇧🇶🇦️" tvg-logo="http://epg.it999.ru/img/325.png",toffee | Discoveryᴴᴰ
