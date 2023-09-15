@@ -359,7 +359,7 @@ http://183.65.9.200:8888/udp/235.254.199.251:7980
 #EXTINF:-1 tvg-id="6240" tvg-name="求索科学" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/QSKX.png" group-title="地方&數字臺 🇨🇳️",求索科学
 http://60.208.16.27:1505/gudou.php?id=364&id=qiusuokexueHD_7000
 #EXTINF:-1 group-title="地方&數字臺 🇨🇳️",西安新闻
-http://stream2.xiancity.cn/xatv1/sd/live.m3u8
+https://angtv.cc/test/xian.php?id=xaxw
 #EXTINF:-1 group-title="地方&數字臺 🇨🇳️" tvg-name="SCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/sctv4.png",四川新闻
 http://183.223.157.33:85/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="地方&數字臺 🇨🇳️" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV%E7%94%9F%E6%B4%BB.png",BTV生活
