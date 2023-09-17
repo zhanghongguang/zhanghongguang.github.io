@@ -282,9 +282,9 @@ https://cntv.sbs/tv?auth=2309081833&id=shics
 https://cntv.sbs/tv?auth=2309081833&id=shss
 #EXTINF:-1 tvg-id="上海第一财经" tvg-name="上海第一财经" tvg-logo="https://epg.112114.xyz/logo/上海第一财经.png" group-title="上海 🇨🇳️",上海第一财经
 https://cntv.sbs/tv?auth=2309081833&id=dycj
-#EXTINF:-1 group-title="上海 🇨🇳️" tvg-logo="https://epg.112114.xyz/logo/东方财经.png",东方财经
+#EXTINF:-1 group-title="上海 🇨🇳️" tvg-logo="https://live.fanmingming.com/tv/东方财经.png",东方财经
 https://cntv.sbs/tv?auth=2309081833&id=dfcj
-#EXTINF:-1 group-title="上海 🇨🇳️" tvg-logo="https://epg.112114.xyz/logo/新视觉.png",新视觉
+#EXTINF:-1 group-title="上海 🇨🇳️" tvg-logo="https://live.fanmingming.com/tv/新视觉.png",新视觉
 https://cntv.sbs/tv?auth=2309081833&id=xsj
 #EXTINF:-1 group-title="上海 🇨🇳️" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaiwaiyu.png",上视外语频道
 http://cntv.dfkj.live/bestv.php?id=jspdhd/4000000
@@ -981,7 +981,7 @@ http://23.237.104.26:8080/BBC_NEWS/playlist.m3u8
 #EXTINF:-1 group-title="Global 🇺🇸🇬🇧🇶🇦️" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BBCWORLDNEWSASIA.png",BBCWorldNews
 http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
 #EXTINF:-1 group-title="Global 🇺🇸🇬🇧🇶🇦️" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BBCWORLDNEWSASIA.png",BBCWorldNews
-http://185.236.229.31:9981/play/a072
+http://iyvhm8br.akciatv.ru/iptv/2XGFGMMXT97LQZ/545/index.m3u8
 #EXTINF:-1 group-title="Global 🇺🇸🇬🇧🇶🇦️",BBC America
 https://bcovlive-a.akamaihd.net/c9bf201b06694453bb29282f97191f58/us-east-1/6240731308001/playlist.m3u8
 #EXTINF:-1 group-title="Global 🇺🇸🇬🇧🇶🇦️" tvg-logo="https://www.mncvision.id/userfiles/image/channel/aljazeera.png",Al Jazeera HD
@@ -1003,7 +1003,7 @@ http://nmxlive.akamaized.net/hls/live/529965/Live_1/master.m3u8
 #EXTINF:-1 group-title="Global 🇺🇸🇬🇧🇶🇦️",CBS News
 https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master_11.m3u8
 #EXTINF:-1 tvg-name="国家地理频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/natgeo.png" group-title="Global 🇺🇸🇬🇧🇶🇦️",National Geographic
-http://obsfullhd.tv:25461/@localhdtv/WJudqvpAbuP8/9771
+http://iyvhm8br.akciatv.ru/iptv/2XGFGMMXT97LQZ/7018/index.m3u8
 #EXTINF:-1 group-title="Global 🇺🇸🇬🇧🇶🇦️" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/travelchannel.png",TravelChannel
 http://iyvhm8br.akciatv.ru/iptv/2XGFGMMXT97LQZ/9025/index.m3u8
 #EXTINF:-1 tvg-name="国家地理野生频道" group-title="Global 🇺🇸🇬🇧🇶🇦️" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/natgeowild.png",Nat Geo Wild
@@ -1045,7 +1045,7 @@ https://reuters-reutersnow-1-us.plex.wurl.tv/c0c0829237382f291cc46a0368586aa7.m3
 #EXTINF:-1 group-title="Global 🇺🇸🇬🇧🇶🇦️" tvg-logo="http://blog.lcotiv.com/i/32833201103.png",Nippon TV News24 Japan
 https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
 #EXTINF:-1 group-title="Global 🇺🇸🇬🇧🇶🇦️" tvg-logo="https://www.mncvision.id/userfiles/image/channel/bbc_earth150x150.jpg",BBC earth
-https://tv.googledrivelinks.com/live.php?c=Sony_BBC_Earth_HD_English&q=1200&e=.m3u8
+http://iyvhm8br.akciatv.ru/iptv/2XGFGMMXT97LQZ/6855/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DiscoveryHD.png" group-title="Global 🇺🇸🇬🇧🇶🇦️",DISCOVERY WORLD HD
 https://tv.googledrivelinks.com/live.php?c=Discovery_HD_World&q=1200&e=.m3u8
 #EXTINF:-1 group-title="Global 🇺🇸🇬🇧🇶🇦️" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/1200px-Russia-today-logo.svg.png",Russia Today
@@ -1070,10 +1070,10 @@ http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_world_service/bbc_world
 http://194.76.186.33:8000/play/a02d/index.m3u8
 #EXTINF:-1 group-title="Global 🇺🇸🇬🇧🇶🇦️" tvg-logo="https://i.ibb.co/0mWZ02V/love.png",LoveNature4K
 http://bamus-eng-roku.amagi.tv/playlist720lp.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 group-title="Global 🇺🇸🇬🇧🇶🇦️" tvg-logo="http://epg.it999.ru/img/325.png",toffee | Discoveryᴴᴰ
-https://iptv.caperhd.live//caperhd/m3u8?shuvro=discovery_hd
+#EXTINF:-1 group-title="Global 🇺🇸🇬🇧🇶🇦️" tvg-logo="http://epg.it999.ru/img/325.png",Discoveryᴴᴰ
+http://iyvhm8br.akciatv.ru/iptv/2XGFGMMXT97LQZ/9011/index.m3u8
 #EXTINF:0 group-title="Global 🇺🇸🇬🇧🇶🇦️" tvg-id="3733" tvg-logo="http://epg.it999.ru/img/3733.png" tvg-rec="3",Nat Geographicᴴᴰ
-http://185.59.223.102:8080/natgeo/index.m3u8
+http://iyvhm8br.akciatv.ru/iptv/2XGFGMMXT97LQZ/6991/index.m3u8
 #EXTINF:-1 group-title="Global 🇺🇸🇬🇧🇶🇦️" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BloombergTV.png",BloombergTV
 https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-03-0Yn1cQZHOtP_live.m3u8
 #EXTINF:-1 group-title="Global 🇺🇸🇬🇧🇶🇦️" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BloombergTV.png",Bloomberg TV+ 4K
@@ -1117,7 +1117,7 @@ https://iptv.caperhd.live//caperhd/m3u8?shuvro=tlc_hd
 #EXTINF:-1 tvg-id="MET.ID" group-title="Global 🇺🇸🇬🇧🇶🇦️" tvg-logo="https://static.epg.best/id/MetroTV.id.png",Metro TV
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w2006790992_b1492000_sleng.m3u8
 #EXTINF:-1 group-title="Global 🇺🇸🇬🇧🇶🇦️" tvg-logo="https://www.mncvision.id/userfiles/image/channel/bbc_earth150x150.jpg",BBC earth
-http://he11o.akadatel.com/iptv/6KPA5QMR4XYRDA/7032/index.m3u8
+http://iyvhm8br.akciatv.ru/iptv/2XGFGMMXT97LQZ/7058/index.m3u8
 #EXTINF:-1 group-title="Global 🇺🇸🇬🇧🇶🇦️",ABC News USA Live HD
 https://abclive2-lh.akamaihd.net/i/abc_live11@423404/index_4000_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1 group-title="Global 🇺🇸🇬🇧🇶🇦️",LoveNature4K
@@ -1153,7 +1153,7 @@ https://ab96b349d4d14d80a1f8530a0bce4488.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 group-title="Global 🇺🇸🇬🇧🇶🇦️",Wild EARTH
 https://wildearth-roku.amagi.tv/masterR720P.m3u8
 #EXTINF:0 group-title="Global 🇺🇸🇬🇧🇶🇦️" tvg-id="223" tvg-logo="http://epg.it999.ru/img/223.png" tvg-rec="7",Nat Geo Wildᴴᴰ
-http://185.59.223.102:8080/natgeowild/index.m3u8
+http://iyvhm8br.akciatv.ru/iptv/2XGFGMMXT97LQZ/6473/index.m3u8
 #EXTINF:-1 tvg-logo="https://talkmediaafrica.com/wp-content/uploads/2015/01/AriseLG-1280x720.png" group-title="Global 🇺🇸🇬🇧🇶🇦️",Arise News
 https://liveedge-arisenews.visioncdn.com/live-hls/arisenews/arisenews/arisenews_web/master.m3u8
 #EXTINF:-1 tvg-id="france24eng" group-title="Global 🇺🇸🇬🇧🇶🇦️" tvg-logo="https://static1.squarespace.com/static/51a013dee4b0a2a2d2ef73e9/t/530a34ace4b0d1b000d31222/1393177774359/voa.png",VOA English
