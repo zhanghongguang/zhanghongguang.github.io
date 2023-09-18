@@ -247,15 +247,17 @@ http://111.20.40.162/PLTV/88888893/224/3221226947/index.m3u8
 #EXTINF:-1 tvg-logo="http://tv.cn/web/images/channels/fyyy.png" tvg-id="CCTV风云音乐" tvg-name="CCTV风云音乐" group-title="央視 🇨🇳",CCTV风云音乐
 http://111.20.40.162/PLTV/88888893/224/3221226953/index.m3u8
 #EXTINF:-1 tvg-logo="http://tv.cn/web/images/channels/bqkj.png" tvg-id="CCTV兵器科技" tvg-name="CCTV兵器科技" group-title="央視 🇨🇳",CCTV兵器科技
-http://111.20.40.170/PLTV/88888893/224/3221226975/index.m3u8
+http://111.20.40.160/PLTV/88888893/224/3221226975/index.m3u8
 #EXTINF:-1 tvg-logo="http://tv.cn/web/images/channels/hjjc.png" tvg-id="CCTV怀旧剧场" tvg-name="CCTV怀旧剧场" group-title="央視 🇨🇳",CCTV怀旧剧场
-http://hls.cq.live.cbnbn.cn/__cl/cg:live/__c/hjjcHD/__op/default/__f/index.m3u8
+http://39.136.18.105/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226097/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-logo="http://tv.cn/web/images/channels/fyjc.png" tvg-id="CCTV风云剧场" tvg-name="CCTV风云剧场" group-title="央視 🇨🇳",CCTV风云剧场
 http://111.20.40.165/PLTV/88888893/224/3221226950/index.m3u8
 #EXTINF:-1 tvg-logo="http://tv.cn/web/images/channels/dyjc.png" tvg-id="CCTV第一剧场" tvg-name="CCTV第一剧场" group-title="央視 🇨🇳",CCTV第一剧场
 http://111.20.40.170/PLTV/88888893/224/3221226959/index.m3u8
 #EXTINF:-1 group-title="央視 🇨🇳" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVnvxing.png",女性时尚
 http://111.20.40.163/PLTV/88888893/224/3221226969/index.m3u8
+#EXTINF:-1 tvg-id="发现之旅" tvg-name="发现之旅" tvg-logo="https://epg.112114.xyz/logo/发现之旅.png" group-title="央視 🇨🇳",发现之旅
+http://39.136.18.105/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226162/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 group-title="央視 🇨🇳",CCTV8K
 http://[2409:8087:2001:20:2800:0:df6e:eb02]/ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8
 #EXTINF:-1 group-title="上海 🇨🇳️",★★★★★上海 🇨🇳️★★★★★
@@ -350,7 +352,7 @@ http://hongyanqiang.top/chudian.php?id=gdgj
 http://suixiaobin.dsmynas.net:5666/gudou.php?phone=freeuser&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=004bfc8f56cd2797&cid=1332&id=QSDWHD_7000
 #EXTINF:-1 group-title="地方&數字臺 🇨🇳️" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jinyingjishi.png",金鹰纪实
 https://cntv.sbs/tv?auth=2309081833&id=jyjs
-#EXTINF:-1 group-title="地方&數字臺 🇨🇳️",中国气象频道
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/中国天气.png" group-title="地方&數字臺 🇨🇳️",中国气象频道
 http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
 #EXTINF:-1 group-title="地方&數字臺 🇨🇳️",CNC 英文
 http://source07.v.news.cn/live/CNC_EN/playlist.m3u8
@@ -1007,7 +1009,7 @@ http://iyvhm8br.akciatv.ru/iptv/2XGFGMMXT97LQZ/7018/index.m3u8
 #EXTINF:-1 group-title="Global 🇺🇸🇬🇧🇶🇦️" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/travelchannel.png",TravelChannel
 http://iyvhm8br.akciatv.ru/iptv/2XGFGMMXT97LQZ/9025/index.m3u8
 #EXTINF:-1 tvg-name="国家地理野生频道" group-title="Global 🇺🇸🇬🇧🇶🇦️" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/natgeowild.png",Nat Geo Wild
-http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=natgeowild_twn
+http://iyvhm8br.akciatv.ru/iptv/2XGFGMMXT97LQZ/7021/index.m3u8
 #EXTINF:-1 group-title="Global 🇺🇸🇬🇧🇶🇦️" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DiscoveryHD.png",Discovery
 http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=discoverych_twn
 #EXTINF:-1 tvg-name="动物星球" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/AnimalPlanet.png" group-title="Global 🇺🇸🇬🇧🇶🇦️", Animal Planet
@@ -1153,7 +1155,7 @@ https://ab96b349d4d14d80a1f8530a0bce4488.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 group-title="Global 🇺🇸🇬🇧🇶🇦️",Wild EARTH
 https://wildearth-roku.amagi.tv/masterR720P.m3u8
 #EXTINF:0 group-title="Global 🇺🇸🇬🇧🇶🇦️" tvg-id="223" tvg-logo="http://epg.it999.ru/img/223.png" tvg-rec="7",Nat Geo Wildᴴᴰ
-http://iyvhm8br.akciatv.ru/iptv/2XGFGMMXT97LQZ/6473/index.m3u8
+http://iyvhm8br.akciatv.ru/iptv/2XGFGMMXT97LQZ/7010/index.m3u8
 #EXTINF:-1 tvg-logo="https://talkmediaafrica.com/wp-content/uploads/2015/01/AriseLG-1280x720.png" group-title="Global 🇺🇸🇬🇧🇶🇦️",Arise News
 https://liveedge-arisenews.visioncdn.com/live-hls/arisenews/arisenews/arisenews_web/master.m3u8
 #EXTINF:-1 tvg-id="france24eng" group-title="Global 🇺🇸🇬🇧🇶🇦️" tvg-logo="https://static1.squarespace.com/static/51a013dee4b0a2a2d2ef73e9/t/530a34ace4b0d1b000d31222/1393177774359/voa.png",VOA English
@@ -1823,12 +1825,12 @@ http://go.iptvhn.net:25461/Denis/Denis123/7680
 http://go.iptvhn.net:25461/Denis/Denis123/7681
 #EXTINF:-1 group-title="XXX 🔞️",Tiny 3
 http://go.iptvhn.net:25461/Denis/Denis123/7682
-#EXTINF:-1 group-title="XXX 🔞️",Sonsee 1 松視1
-http://58.99.33.2:1935/liveedge2/jZPELJzi_405_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=60519&as=j9gk21n&mmmm=&dr=123&dt=&cust_type=NE
-#EXTINF:-1 group-title="XXX 🔞️",Sonsee 2 松視2
-http://58.99.33.2:1935/liveedge2/jZPELJzi_406_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=60519&as=j9gk21n&mmmm=&dr=123&dt=&cust_type=NE
-#EXTINF:-1 group-title="XXX 🔞️",Sonsee 3 松視3
-http://58.99.33.2:1935/liveedge2/jZPELJzi_407_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=60519&as=j9gk21n&mmmm=&dr=123&dt=&cust_type=NE
+#EXTINF:-1 tvg-id="2249" tvg-rec="0" tvg-logo="http://epg.it999.ru/img/2249.png" group-title="XXX 🔞️",Blue Hustler
+http://77.243.112.149:8080/hustler_hd/index.m3u8?token=413079063374
+#EXTINF:-1 tvg-id="2527" tvg-rec="3" tvg-logo="http://epg.it999.ru/img/2527.png" group-title="XXX 🔞️",O-la-la
+http://77.243.112.149:8080/o-la-la/index.m3u8?token=413079063374
+#EXTINF:-1 tvg-id="2015" tvg-rec="0" tvg-logo="http://epg.it999.ru/img/2015.png" group-title="XXX 🔞️",Русская ночь
+http://77.243.112.149:8080/russkaya_noch/index.m3u8?token=413079063374
 #EXTINF:-1 group-title="XXX 🔞️",Rainbow 彩虹頻道
 http://58.99.33.2:1935/liveedge2/jZPELJzi_408_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=60519&as=j9gk21n&mmmm=&dr=123&dt=&cust_type=NE
 #EXTINF:-1 group-title="XXX 🔞️",樂活
