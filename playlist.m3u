@@ -377,7 +377,7 @@ http://suixiaobin.dsmynas.net:5666/gudou.php?phone=freeuser&ptoken=8S6lHDnZOXb8f
 #EXTINF:-1 tvg-name="BTV新闻" group-title="地方&數字臺 🇨🇳️" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV%E6%96%B0%E9%97%BB.png",北京新闻
 http://qnap.yjnhome.com:4000/udp/239.3.1.159:8000
 #EXTINF:-1 tvg-id="6585" tvg-name="茶频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/DOCUMENTARY-CHANNEL.jpg" group-title="地方&數字臺 🇨🇳️",茶频道
-http://175.13.226.6:8888/udp/239.76.252.239:9000
+http://39.136.18.105/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226216/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="南京新闻综合" tvg-name="南京新闻综合" tvg-logo="https://epg.112114.xyz/logo/南京新闻综合.png" group-title="地方&數字臺 🇨🇳️",南京综合
 http://live.nbs.cn/channels/njtv/xwzh/m3u8:500k/live.m3u8
 #EXTINF:-1 group-title="地方&數字臺 🇨🇳️",重庆新闻
@@ -386,8 +386,8 @@ http://hls.cq.live.cbnbn.cn/__cl/cg:live/__c/CQTVNewsHD/__op/default/__f/index.m
 http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
 #EXTINF:-1 group-title="地方&數字臺 🇨🇳️",五常综合
 http://masterpull.hljtv.com/live/R9bOklLT.m3u8
-#EXTINF:-1 group-title="地方&數字臺 🇨🇳️",清华大学
-https://live.cic.tsinghua.edu.cn/hls/tsinghuatv.m3u8
+#EXTINF:-1 group-title="地方&數字臺 🇨🇳️",开放贵州
+http://39.136.18.105/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226306/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="卫视 🇨🇳️",湖南卫视
 http://39.136.18.105/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225707/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="卫视 🇨🇳️",浙江卫视
@@ -463,7 +463,7 @@ https://cntv.sbs/tv?auth=230918&id=kbws
 #EXTINF:-1 tvg-id="71" tvg-name="西藏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xizang.png" tvg-speed="4MB/s" tvg-rez="720x576" group-title="卫视 🇨🇳️",西藏卫视
 https://cntv.sbs/tv?auth=230918&id=xzws
 #EXTINF:-1 tvg-id="71" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xizang.png" tvg-speed="4MB/s" tvg-rez="720x576" group-title="卫视 🇨🇳️",藏语卫视
-http://qhjx.top:18000/udp/238.255.2.23:5999
+http://39.135.7.35:6610/000000001000/7134589828528695864/1.m3u8?channel-id=ystenlive
 #EXTINF:-1 tvg-id="68" tvg-name="厦门卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xiamen.png" tvg-speed="3MB/s" tvg-rez="720x576" group-title="福建 🇨🇳️",厦门卫视
 https://cntv.sbs/tv?auth=230918&id=xmws
 #EXTINF:-1 tvg-logo=厦门卫视.png tvg-name=厦门卫视 group-title="福建 🇨🇳️",厦门1
@@ -614,6 +614,10 @@ http://hls.cq.live.cbnbn.cn/__cl/cg:live/__c/xfylHD/__op/default/__f/index.m3u8
 http://r.jdshipin.com/0Rp07
 #EXTINF:-1 group-title="港澳 🇭🇰️🇲🇴️" tvg-logo="http://q1.fengshows.cn/a/2021_23/325d941090bee17.png",凤凰香港
 http://r.jdshipin.com/NfC0f
+#EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="港澳 🇭🇰️🇲🇴️",凤凰资讯
+http://php.17186.eu.org/phtv/fhzx.m3u8
+#EXTINF:-1 tvg-id="143" tvg-name="凤凰香港" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png" group-title="港澳 🇭🇰️🇲🇴️",凤凰香港
+http://php.17186.eu.org/phtv/fhhk.m3u8
 #EXTINF:-1 group-title="港澳 🇭🇰️🇲🇴️" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hks.png",香港卫视
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 #EXTINF:-1 tvg-id="7122" tvg-name="有线新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/youxianxinwen.png" group-title="港澳 🇭🇰️🇲🇴️",有线新闻
