@@ -462,8 +462,8 @@ http://live.ybtvyun.com/video/s10016-7e5f23de35df/index.m3u8
 https://cntv.sbs/tv?auth=230918&id=kbws
 #EXTINF:-1 tvg-id="71" tvg-name="西藏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xizang.png" tvg-speed="4MB/s" tvg-rez="720x576" group-title="卫视 🇨🇳️",西藏卫视
 https://cntv.sbs/tv?auth=230918&id=xzws
-#EXTINF:-1 tvg-id="71" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xizang.png" tvg-speed="4MB/s" tvg-rez="720x576" group-title="卫视 🇨🇳️",藏语卫视
-http://39.135.7.35:6610/000000001000/7134589828528695864/1.m3u8?channel-id=ystenlive
+#EXTINF:-1 tvg-id="海峡卫视" tvg-name="海峡卫视" tvg-logo="https://live.fanmingming.com/tv/海峡卫视.png" group-title="卫视 🇨🇳️",海峡卫视
+https://cntv.sbs/tv?auth=230918&id=hxws
 #EXTINF:-1 tvg-id="68" tvg-name="厦门卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xiamen.png" tvg-speed="3MB/s" tvg-rez="720x576" group-title="福建 🇨🇳️",厦门卫视
 https://cntv.sbs/tv?auth=230918&id=xmws
 #EXTINF:-1 tvg-logo=厦门卫视.png tvg-name=厦门卫视 group-title="福建 🇨🇳️",厦门1
