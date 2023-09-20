@@ -650,13 +650,13 @@ https://fsv4.yj011.net/sat/tv571.flv
 https://aweitv.ababa.fit/api/douyin.php?id=51
 #EXTINF:-1 tvg-id="9999" tvg-name="noepg" tvg-logo="http://www.stream-link.org/tv_logo/cti_news.png" group-title="臺灣 🇹🇼️",中天新聞
 https://aweitv.ababa.fit/api/douyin.php?id=43
-#EXTINF:-1 tvg-id="7176" tvg-name="中視新聞" tvg-logo="http://www.stream-link.org/tv_logo/ctv-news.png" group-title="臺灣 🇹🇼️",中視新聞
+#EXTINF:-1 tvg-id="7176" tvg-name="中視新聞" tvg-logo="http://www.stream-link.org/tv_logo/ctv_news.png" group-title="臺灣 🇹🇼️",中視新聞
 https://aweitv.ababa.fit/api/douyin.php?id=46
 #EXTINF:-1 tvg-id="6071" tvg-name="民視新聞" tvg-logo="http://www.stream-link.org/tv_logo/ftv-news.png" group-title="臺灣 🇹🇼️",民視新聞
 https://aweitv.ababa.fit/api/douyin.php?id=50
-#EXTINF:-1 tvg-id="6171" tvg-name="寰宇國際新聞" tvg-logo="http://www.stream-link.org/tv_logo/global-news.png" group-title="臺灣 🇹🇼️",寰宇國際新聞
+#EXTINF:-1 tvg-id="6171" tvg-name="寰宇國際新聞" tvg-logo="http://www.stream-link.org/tv_logo/global_news.png" group-title="臺灣 🇹🇼️",寰宇國際新聞
 https://dispatch.ulivetv.net/v/live/cfxws90rpmf4.m3u8?stream_id=cfxws90rpmf4&timestamp=1684219862&rand=UsllXcwxbp&uuid=9b647b3816b2a66a&from=web&sign=659a3a6564d4ca206d2c6be20c5ea906
-#EXTINF:-1 tvg-id="6171" tvg-name="寰宇臺灣 🇹🇼️" tvg-logo="http://www.stream-link.org/tv_logo/global-news.png" group-title="臺灣 🇹🇼️",寰宇臺灣新聞
+#EXTINF:-1 tvg-id="6171" tvg-name="寰宇臺灣 🇹🇼️" tvg-logo="http://www.stream-link.org/tv_logo/global_news.png" group-title="臺灣 🇹🇼️",寰宇臺灣 🇹🇼️
 https://aweitv.ababa.fit/api/douyin.php?id=53
 #EXTINF:-1 tvg-id="6108" tvg-name="三立財經新聞" tvg-logo="http://www.stream-link.org/tv_logo/set_inews.png" group-title="臺灣 🇹🇼️",三立財經新聞
 http://sc2022.stream-link.org/list.php?id=t009
@@ -672,9 +672,9 @@ https://fsv4.yj011.net/sat/tv551.flv
 http://2023.stream-link.org/live/1767909787
 #EXTINF:-1 tvg-id="6054" tvg-name="中天綜合台" tvg-logo="http://www.stream-link.org/tv_logo/cti-zh.png" group-title="臺灣 🇹🇼️",中天綜合台
 http://2023.stream-link.org/live/661595652
-#EXTINF:-1 tvg-id="9999" tvg-name="tvgName" tvg-logo="http://www.stream-link.org/tv_logo/cti-asia.png" group-title="臺灣 🇹🇼️",中天亞洲台
+#EXTINF:-1 tvg-id="9999" tvg-name="中天亞洲台" tvg-logo="http://www.stream-link.org/tv_logo/cti_asia.png" group-title="台灣綜藝",中天亞洲台
 http://2023.stream-link.org/live/1133505187
-#EXTINF:-1 group-title="臺灣 🇹🇼️" tvg-logo="https://epg.112114.xyz/logo/台视新闻.png" ,台视新闻
+#EXTINF:-1 tvg-id="6143" tvg-name="台視新聞" tvg-logo="http://www.stream-link.org/tv_logo/ttv_news.png" group-title="臺灣 🇹🇼️",台視新聞
 https://dispatch.ulivetv.net/v/live/cfxww2r4nnwg.m3u8?stream_id=cfxww2r4nnwg&timestamp=1684387599&rand=ppf2G1Add7&uuid=9b647b3816b2a66a&from=web&sign=9938a91fced907abe987ccf609ed9b64
 #EXTINF:-1 tvg-id="9999" tvg-name="tvgName" tvg-logo="http://www.stream-link.org/tv_logo/cts-zy.png" group-title="臺灣 🇹🇼️",天才衝衝衝
 http://2023.stream-link.org/live/623892102
