@@ -780,6 +780,8 @@ http://47.113.189.55/iptv/iptv.php?key=ced93979274d74470b525fc6372adbc9&id=50
 http://sc2022.stream-link.org/list.php?id=t006
 #EXTINF:-1 group-title="臺灣 🇹🇼️丨ladder",★★★★★臺灣 🇹🇼️丨ladder★★★★★
 https://upload.wikimedia.org/wikipedia/commons/transcoded/b/be/National_anthem_of_the_Republic_of_China_%28Taiwan%29_%E4%B8%AD%E8%8F%AF%E6%B0%91%E5%9C%8B%E5%9C%8B%E6%AD%8C%28%E6%BC%94%E5%A5%8F%E7%89%88%29.ogg/National_anthem_of_the_Republic_of_China_%28Taiwan%29_%E4%B8%AD%E8%8F%AF%E6%B0%91%E5%9C%8B%E5%9C%8B%E6%AD%8C%28%E6%BC%94%E5%A5%8F%E7%89%88%29.ogg.mp3
+#EXTINF:-1 tvg-name="民视新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FTVNews.png" group-title="臺灣 🇹🇼️丨ladder",民视新闻台
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV17.m3u8
 #EXTINF:-1 tvg-name="壹电视新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/NextTVNews.png" group-title="臺灣 🇹🇼️丨ladder",壹电视新闻台
 http://stream.nexttv.com.tw/n001/hd/live.m3u8
 #EXTINF:-1 tvg-name="壹电视新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/NextTVNews.png" group-title="臺灣 🇹🇼️丨ladder",壹电视新闻台
@@ -842,8 +844,6 @@ http://seb.sason.top/sc/dscjxw_fhd.m3u8
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="臺灣 🇹🇼️丨ladder",三立LIVE新闻
 https://raw.githubusercontent.com/etag2000/IPTV/YTlive/setlive.m3u8
-#EXTINF:-1 tvg-name="民视新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FTVNews.png" group-title="臺灣 🇹🇼️丨ladder",民视新闻台
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV17.m3u8
 #EXTINF:-1 tvg-name="寰宇新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GlobalNews.png" group-title="臺灣 🇹🇼️丨ladder",寰宇新闻
 https://raw.githubusercontent.com/etag2000/IPTV/YTlive/hyxw.m3u8
 #EXTINF:-1 tvg-name="台视新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/台视新闻.png" group-title="臺灣 🇹🇼️丨ladder",台视新闻台
