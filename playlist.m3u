@@ -273,7 +273,7 @@ http://111.40.196.28:443/PLTV/88888888/224/3221225615/1.m3u8
 #EXTINF:-1 group-title="上海 🇨🇳️" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanghaijishi.png",上海纪实
 https://cntv.sbs/tv?auth=230918&id=shjsrw
 #EXTINF:-1 tvg-id="1984" tvg-name="上视新闻频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shangshixinwen.png" group-title="上海 🇨🇳️",上海新闻综合
-http://live.cooltv.top/tv/bestv.php?id=20
+http://110.80.139.96/liveplay-kk.rtxapp.com/live/program/live/xwzhhd/4000000/d3.m3u8
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="上海 🇨🇳️",东方卫视
 http://39.136.18.105/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225752/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 group-title="上海 🇨🇳️" tvg-logo="https://epg.112114.xyz/logo/上海教育.png",上海教育高清
@@ -289,10 +289,10 @@ https://cntv.sbs/tv?auth=230918&id=dfcj
 #EXTINF:-1 group-title="上海 🇨🇳️" tvg-logo="https://live.fanmingming.com/tv/新视觉.png",新视觉
 https://cntv.sbs/tv?auth=230918&id=xsj
 #EXTINF:-1 group-title="上海 🇨🇳️" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaiwaiyu.png",上视外语频道
-http://cntv.dfkj.live/bestv.php?id=jspdhd/4000000
+http://110.80.139.96/liveplay-kk.rtxapp.com/live/program/live/wypdhd/4000000/d3.m3u8
 #EXTINF:-1 group-title="上海 🇨🇳️" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaidongfangyingshi.png",东方影视
-http://221.228.219.15/fjnetv51.live.bestvcdn.com.cn/0/live/program/live/dsjpdhd/4000000/d3.m3u8
-#EXTINF:-1 tvg-id="五星体育" tvg-name="五星体育" tvg-logo="https://epg.112114.xyz/logo/五星体育.png" group-title="上海 🇨🇳️",五星体育[百视通]
+http://110.80.139.96/liveplay-kk.rtxapp.com/live/program/live/dsjpdhd/4000000/d3.m3u8
+#EXTINF:-1 tvg-id="五星体育" tvg-name="五星体育" tvg-logo="https://epg.112114.xyz/logo/五星体育.png" group-title="上海 🇨🇳️",五星体育
 https://cntv.sbs/tv?auth=230918&id=wxty
 #EXTINF:-1 group-title="上海 🇨🇳️" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/diyicaijing.png",上海第一财经
 http://111.40.196.29:443/PLTV/88888888/224/3221225497/1.m3u8
@@ -313,7 +313,7 @@ https://cntv.sbs/tv?auth=230918&id=jbty
 #EXTINF:-1 group-title="上海 🇨🇳️" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jisuqiche.png",MAX极速汽车
 http://221.228.219.15/fjnetv51.live.bestvcdn.com.cn/0/live/program/live/jsqchd/4000000/d3.m3u8
 #EXTINF:-1 group-title="上海 🇨🇳️" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/qicaixiju.png",七彩戏剧
-http://jiexi.bulisite.top/bestv.php?id=qcxjhd8m/8000000
+http://110.80.139.96/liveplay-kk.rtxapp.com/live/program/live/qcxjhd8m/8000000/d3.m3u8
 #EXTINF:-1 tvg-id="SITV七彩戏剧" tvg-name="SITV七彩戏剧" tvg-logo="https://epg.112114.xyz/logo/SITV七彩戏剧.png" group-title="上海 🇨🇳️",七彩戏剧
 https://cntv.sbs/tv?auth=230918&id=qcxj
 #EXTINF:-1 group-title="地方&數字臺 🇨🇳️",★★★★★地方&數字臺 🇨🇳️★★★★★
@@ -645,23 +645,23 @@ http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
 #EXTINF:-1 tvg-id="6143" tvg-name="台視新聞" tvg-logo="http://www.stream-link.org/tv_logo/ttv_news.png" group-title="臺灣 🇹🇼️",台視新聞
 http://38.64.72.148/hls/modn/list/4013/chunklist1.m3u8
 #EXTINF:-1 tvg-id="6069" tvg-name="東森新聞" tvg-logo="http://www.stream-link.org/tv_logo/ebc_news.png" group-title="臺灣 🇹🇼️",東森新聞
-https://aweitv.ababa.fit/api/douyin.php?id=44
+https://sc2022.stream-link.org/tv2306.php?id=t01
 #EXTINF:-1 tvg-id="6069" tvg-name="東森新聞" tvg-logo="http://www.stream-link.org/tv_logo/ebc_news.png" group-title="臺灣 🇹🇼️",東森新聞
 https://pull-l3-cny.douyincdn.com/live/YesLiveTV-18617bfd-c179-4b64-beb7-88f7af03cc61.m3u8?by=yeslivetv_com
 #EXTINF:-1 tvg-id="6075" tvg-name="東森財經新聞" tvg-logo="http://www.stream-link.org/tv_logo/ebc_finance.png" group-title="臺灣 🇹🇼️",東森財經新聞
 https://fsv4.yj011.net/sat/tv571.flv
 #EXTINF:-1 tvg-id="9999" tvg-name="noepg" tvg-logo="http://www.stream-link.org/tv_logo/cts_news.png" group-title="臺灣 🇹🇼️",華視新聞
-https://aweitv.ababa.fit/api/douyin.php?id=51
+https://sc2022.stream-link.org/tv2306.php?id=t05
 #EXTINF:-1 tvg-id="9999" tvg-name="noepg" tvg-logo="http://www.stream-link.org/tv_logo/cti_news.png" group-title="臺灣 🇹🇼️",中天新聞
 https://aweitv.ababa.fit/api/douyin.php?id=43
 #EXTINF:-1 tvg-id="7176" tvg-name="中視新聞" tvg-logo="http://www.stream-link.org/tv_logo/ctv_news.png" group-title="臺灣 🇹🇼️",中視新聞
-https://aweitv.ababa.fit/api/douyin.php?id=46
+https://sc2022.stream-link.org/tv2306.php?id=t06
 #EXTINF:-1 tvg-id="6071" tvg-name="民視新聞" tvg-logo="http://www.stream-link.org/tv_logo/ftv_news.png" group-title="臺灣 🇹🇼️",民視新聞
-https://aweitv.ababa.fit/api/douyin.php?id=50
+https://sc2022.stream-link.org/tv2306.php?id=t07
 #EXTINF:-1 tvg-id="6171" tvg-name="寰宇國際新聞" tvg-logo="http://www.stream-link.org/tv_logo/global_news.png" group-title="臺灣 🇹🇼️",寰宇國際新聞
 https://dispatch.ulivetv.net/v/live/cfxws90rpmf4.m3u8?stream_id=cfxws90rpmf4&timestamp=1684219862&rand=UsllXcwxbp&uuid=9b647b3816b2a66a&from=web&sign=659a3a6564d4ca206d2c6be20c5ea906
-#EXTINF:-1 tvg-id="6171" tvg-name="寰宇臺灣 🇹🇼️" tvg-logo="http://www.stream-link.org/tv_logo/global_news.png" group-title="臺灣 🇹🇼️",寰宇臺灣 🇹🇼️
-https://aweitv.ababa.fit/api/douyin.php?id=53
+#EXTINF:-1 tvg-id="9999" tvg-name="民視台灣台" tvg-logo="https://www.stream-link.org/tv_logo/ftv_tw.png" group-title="臺灣 🇹🇼️",民視台灣台
+https://sc2022.stream-link.org/tv2306.php?id=t21
 #EXTINF:-1 tvg-id="6108" tvg-name="三立財經新聞" tvg-logo="http://www.stream-link.org/tv_logo/set_inews.png" group-title="臺灣 🇹🇼️",三立財經新聞
 http://sc2022.stream-link.org/list.php?id=t009
 #EXTINF:-1 tvg-id="6072" tvg-name="三立新聞" tvg-logo="http://www.stream-link.org/tv_logo/set_news.png" group-title="臺灣 🇹🇼️",三立新聞
@@ -669,15 +669,15 @@ https://aweitv.ababa.fit/api/douyin.php?id=48
 #EXTINF:-1 tvg-id="6072" tvg-name="三立新聞+" tvg-logo="http://www.stream-link.org/tv_logo/set_news+.png" group-title="臺灣 🇹🇼️",三立新聞+
 https://aweitv.ababa.fit/api/douyin.php?id=49
 #EXTINF:-1 tvg-id="6143" tvg-name="台視新聞" tvg-logo="http://www.stream-link.org/tv_logo/ttv_news.png" group-title="臺灣 🇹🇼️",台視新聞
-https://aweitv.ababa.fit/api/douyin.php?id=47
+https://sc2022.stream-link.org/tv2306.php?id=t13
 #EXTINF:-1 tvg-id="6073" tvg-name="TVBS新聞" tvg-logo="http://www.stream-link.org/tv_logo/tvbs_news.png" group-title="臺灣 🇹🇼️",TVBS新聞
 https://fsv4.yj011.net/sat/tv551.flv
 #EXTINF:-1 tvg-id="6074" tvg-name="TVBS財經" tvg-logo="http://www.stream-link.org/tv_logo/tvbs_finance.png" group-title="臺灣 🇹🇼️",TVBS財經
-http://2023.stream-link.org/live/1767909787
-#EXTINF:-1 tvg-id="6054" tvg-name="中天綜合台" tvg-logo="http://www.stream-link.org/tv_logo/cti-zh.png" group-title="臺灣 🇹🇼️",中天綜合台
-http://2023.stream-link.org/live/661595652
+https://sc2022.stream-link.org/tv2306.php?id=t15
+#EXTINF:-1 tvg-id="9999" tvg-name="noepg" tvg-logo="https://www.stream-link.org/tv_logo/cti_news.png" group-title="臺灣 🇹🇼️",中天新聞
+https://sc2022.stream-link.org/tv2306.php?id=t03
 #EXTINF:-1 tvg-id="9999" tvg-name="中天亞洲台" tvg-logo="http://www.stream-link.org/tv_logo/cti_asia.png" group-title="臺灣 🇹🇼️",中天亞洲台
-http://2023.stream-link.org/live/1133505187
+https://sc2022.stream-link.org/tv2306.php?id=t17
 #EXTINF:-1 tvg-id="6143" tvg-name="台視新聞" tvg-logo="http://www.stream-link.org/tv_logo/ttv_news.png" group-title="臺灣 🇹🇼️",台視新聞
 https://dispatch.ulivetv.net/v/live/cfxww2r4nnwg.m3u8?stream_id=cfxww2r4nnwg&timestamp=1684387599&rand=ppf2G1Add7&uuid=9b647b3816b2a66a&from=web&sign=9938a91fced907abe987ccf609ed9b64
 #EXTINF:-1 tvg-id="9999" tvg-name="tvgName" tvg-logo="http://www.stream-link.org/tv_logo/cts-zy.png" group-title="臺灣 🇹🇼️",天才衝衝衝
@@ -772,8 +772,8 @@ https://fsv4.yj011.net/sat/tv071.flv
 https://fsv4.yj011.net/sat/tv051.flv
 #EXTINF:-1 group-title="臺灣 🇹🇼️",東森超视
 rtmp://9wv7.mine.nu/sat/tv331
-#EXTINF:-1 group-title="臺灣 🇹🇼️",民视旅游
-http://sc2022.stream-link.org/list.php?id=t022
+#EXTINF:-1 tvg-id="9999" tvg-name="民視旅遊台" tvg-logo="https://www.stream-link.org/tv_logo/ftv_travel.png" group-title="臺灣 🇹🇼️",民視旅遊台
+https://sc2022.stream-link.org/tv2306.php?id=t24
 #EXTINF:-1 tvg-name="民视新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FTVNews.png" group-title="臺灣 🇹🇼️",民视新闻台
 http://47.113.189.55/iptv/iptv.php?key=ced93979274d74470b525fc6372adbc9&id=50
 #EXTINF:-1 tvg-name="民视新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FTVNews.png" group-title="臺灣 🇹🇼️",民视新闻台
@@ -1042,7 +1042,7 @@ http://prm.cdn-02.cosmonova.net.ua/hls/prm_ua_low/index.m3u8
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
 #EXTINF:-1 group-title="Global 🇺🇸🇬🇧🇶🇦️" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_332.jpg",BBC World News
 https://tv.googledrivelinks.com/live.php?c=BBC_World_News&q=1200&e=.m3u8
-#EXTINF:-1 group-title="Global 🇺🇸🇬🇧🇶🇦️" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/Discovery-Asia.png",DiscoveryAsia
+#EXTINF:-1 group-title="Global 🇺🇸🇬🇧🇶🇦️" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/Discovery-Asia.png",Discovery Asia
 https://ktpremium.com:443/cc1219/54897855/698399
 #EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-5eea71d65252710041e0ccbc" tvg-id="5e20b730f2f8d5003d739db7-5eea71d65252710041e0ccbc" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/reuters_reutersnow_1.png" group-title="Global 🇺🇸🇬🇧🇶🇦️",Reuters TV
 https://reuters-reutersnow-1-us.plex.wurl.tv/c0c0829237382f291cc46a0368586aa7.m3u8
@@ -1181,7 +1181,7 @@ http://vcdn1.vtc.gov.vn:1935/m_4k/smil:4k.smil/playlist.m3u8
 #EXTINF:-1 group-title="Global 🇺🇸🇬🇧🇶🇦️" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CNNNews.png",CNN
 https://ancom.ga/fpt/cnn/bitrate_5000.m3u8
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/12083/logo/240x240/mobile_logo_141710001663004743.png" group-title="Global 🇺🇸🇬🇧🇶🇦️",Discovery Asia
-https://ktpremium.com:443/cc1219/54897855/21030
+https://ktpremium.com:443/cc1219/54897855/26209
 #EXTINF:-1 tvg-id="afnhd" tvg-name="Asian Food Network" tvg-logo="https://i.imgur.com/B8zA2gc.png" group-title="Global 🇺🇸🇬🇧🇶🇦️",Asian Food Network
 http://livecdn.fptplay.net/hda1/afchd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:0 tvg-id="" tvg-logo="https://i.ibb.co/kB91Qgx/HGTV.png" group-title="Global 🇺🇸🇬🇧🇶🇦️", HGTV
