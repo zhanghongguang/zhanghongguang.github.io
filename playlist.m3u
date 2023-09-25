@@ -381,7 +381,7 @@ http://39.136.18.105/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226216/1/in
 #EXTINF:-1 tvg-id="南京新闻综合" tvg-name="南京新闻综合" tvg-logo="https://epg.112114.xyz/logo/南京新闻综合.png" group-title="地方&數字臺 🇨🇳️",南京综合
 http://live.nbs.cn/channels/njtv/xwzh/m3u8:500k/live.m3u8
 #EXTINF:-1 group-title="地方&數字臺 🇨🇳️",重庆新闻
-http://183.65.9.200:8888/udp/235.254.197.199:7980
+http://jsyx2023.top:2345/udp/235.254.196.199:7980
 #EXTINF:-1 group-title="地方&數字臺 🇨🇳️",苏州4K
 http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
 #EXTINF:-1 group-title="地方&數字臺 🇨🇳️",五常综合
