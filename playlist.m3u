@@ -52,12 +52,12 @@ http://play-sh.quklive.com/live/1626327731714170.m3u8
 http://mmitv.top/test/ady.php?id=1423
 #EXTINF:-1 group-title="浙江 🇨🇳️",★★★★★浙江 🇨🇳️★★★★★
 https://upload.wikimedia.org/wikipedia/commons/transcoded/b/be/National_anthem_of_the_Republic_of_China_%28Taiwan%29_%E4%B8%AD%E8%8F%AF%E6%B0%91%E5%9C%8B%E5%9C%8B%E6%AD%8C%28%E6%BC%94%E5%A5%8F%E7%89%88%29.ogg/National_anthem_of_the_Republic_of_China_%28Taiwan%29_%E4%B8%AD%E8%8F%AF%E6%B0%91%E5%9C%8B%E5%9C%8B%E6%AD%8C%28%E6%BC%94%E5%A5%8F%E7%89%88%29.ogg.mp3
-#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="浙江 🇨🇳️",浙江卫视
-http://hw-m-l.cztv.com/channels/lantian/channel13/1080p.m3u8
-#EXTINF:-1 tvg-name="浙江新闻" tvg-logo="https://iptv-pro.github.io/logo/%E6%B5%99%E6%B1%9F%E6%96%B0%E9%97%BB.png" group-title="浙江 🇨🇳️",浙江新闻
-http://hw-m-l.cztv.com/channels/lantian/channel07/1080p.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="浙江 🇨🇳️",浙江卫视
 http://hw-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
+#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="浙江 🇨🇳️",浙江卫视
+http://39.136.18.69/cdnrrs.gz.chinamobile.com/TVOD/88888888/224/3221225780/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-name="浙江新闻" tvg-logo="https://iptv-pro.github.io/logo/%E6%B5%99%E6%B1%9F%E6%96%B0%E9%97%BB.png" group-title="浙江 🇨🇳️",浙江新闻
+http://hw-m-l.cztv.com/channels/lantian/channel07/1080p.m3u8
 #EXTINF:-1 tvg-logo="https://iptv-pro.github.io/logo/%E6%B5%99%E6%B1%9F%E5%9B%BD%E9%99%85.png" group-title="浙江 🇨🇳️",浙江国际 (1080p)
 http://hw-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
 #EXTINF:-1 tvg-logo="https://ohudong.cztv.com/1/logos/2017/04/12/33b59c051574c604f93157baa61455b2.png" group-title="浙江 🇨🇳️",浙江少儿 (1080p)
