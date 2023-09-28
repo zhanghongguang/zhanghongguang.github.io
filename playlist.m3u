@@ -336,8 +336,8 @@ http://stream.appwuhan.com/6tzb/sd/live.m3u8
 http://101.33.225.246:9999/iptv?type=gdxw
 #EXTINF:-1 group-title="地方&數字臺 🇨🇳️",广州新闻
 https://justsometime.gztv.com/sec/xinwen.m3u8
-#EXTINF:-1 group-title="地方&數字臺 🇨🇳️",广州竞赛
-http://player.521fanli.cn/1691/gd/gztvm3u8.php?id=gzjs
+#EXTINF:-1 group-title="地方&數字臺 🇨🇳️",广州综合
+https://justsometime.gztv.com/sec/zhonghe.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://live.cooltv.top/logo/hbnm.png" group-title="地方&數字臺 🇨🇳️",河北农民 
 https://event.pull.hebtv.com/jishi/nongminpindao.m3u8
 #EXTINF:-1 group-title="地方&數字臺 🇨🇳️" tvg-name="SCTV2"tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/sctv2.png",四川文旅
