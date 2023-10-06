@@ -490,23 +490,23 @@ https://cntv.sbs/tv?auth=231005&id=fjjj
 https://cntv.sbs/tv?auth=231005&id=fjgg
 #EXTINF:-1 tvg-id="福建教育" tvg-name="福建教育" tvg-logo="https://live.fanmingming.com/tv/福建教育.png" group-title="福建 🇨🇳️",福建教育
 https://cntv.sbs/tv?auth=231005&id=fjjy
-#EXTINF:-1 tvg-id=" " tvg-name="福建电视台" tvg-logo="https://gitee.com/xixihahajcc/itv/raw/master/tvicon/WS-FJ.png" group-title="福建 🇨🇳️",福建综合
+#EXTINF:-1 tvg-id="福建综合" tvg-name="福建综合" tvg-logo="https://live.fanmingming.com/tv/福建综合.png" group-title="福建 🇨🇳️",福建综合
 http://110.80.139.96/liveplay-kk.rtxapp.com/live/program/live/fjzhhd4m/4000000/mnf.m3u8
-#EXTINF:-1 tvg-id=" " tvg-name="福建电视台" tvg-logo="https://gitee.com/xixihahajcc/itv/raw/master/tvicon/WS-FJ.png" group-title="福建 🇨🇳️",福建新闻
+#EXTINF:-1 tvg-id="福建新闻" tvg-name="福建新闻" tvg-logo="https://live.fanmingming.com/tv/福建新闻.png" group-title="福建 🇨🇳️",福建新闻
 http://110.80.139.96/liveplay-kk.rtxapp.com/live/program/live/fjxwhd4m/4000000/mnf.m3u8
-#EXTINF:-1 tvg-id=" " tvg-name="福建电视台" tvg-logo="https://gitee.com/xixihahajcc/itv/raw/master/tvicon/WS-FJ.png" group-title="福建 🇨🇳️",福建电视剧
+#EXTINF:-1 tvg-id="福建电视剧" tvg-name="福建电视剧" tvg-logo="https://live.fanmingming.com/tv/福建电视剧.png" group-title="福建 🇨🇳️",福建电视剧
 http://110.80.139.96/liveplay-kk.rtxapp.com/live/program/live/fjdsjhd4m/4000000/mnf.m3u8
 #EXTINF:-1 tvg-id=" " tvg-name="福建电视台" tvg-logo="https://gitee.com/xixihahajcc/itv/raw/master/tvicon/WS-FJ.png" group-title="福建 🇨🇳️",福建文体
 http://110.80.139.96/liveplay-kk.rtxapp.com/live/program/live/fjtyhd4m/4000000/mnf.m3u8
-#EXTINF:-1 tvg-id=" " tvg-name="福建电视台" tvg-logo="https://gitee.com/xixihahajcc/itv/raw/master/tvicon/WS-FJ.png" group-title="福建 🇨🇳️",福建少儿
+#EXTINF:-1 tvg-id="福建少儿" tvg-name="福建少儿" tvg-logo="https://live.fanmingming.com/tv/福建少儿.png" group-title="福建 🇨🇳️",福建少儿
 http://110.80.139.96/liveplay-kk.rtxapp.com/live/program/live/fjsehd4m/4000000/mnf.m3u8
-#EXTINF:-1 tvg-id=" " tvg-name="福建电视台" tvg-logo="https://gitee.com/xixihahajcc/itv/raw/master/tvicon/WS-FJ.png" group-title="福建 🇨🇳️",福建旅游
+#EXTINF:-1 tvg-id="福建旅游" tvg-name="福建旅游" tvg-logo="https://live.fanmingming.com/tv/福建旅游.png" group-title="福建 🇨🇳️",福建旅游
 http://110.80.139.96/liveplay-kk.rtxapp.com/live/program/live/fjlyhd4m/4000000/mnf.m3u8
-#EXTINF:-1 tvg-id=" " tvg-name="福建电视台" tvg-logo="https://gitee.com/xixihahajcc/itv/raw/master/tvicon/WS-FJ.png" group-title="福建 🇨🇳️",福建公共
+#EXTINF:-1 tvg-id="福建公共" tvg-name="福建公共" tvg-logo="https://live.fanmingming.com/tv/福建公共.png" group-title="福建 🇨🇳️",福建公共
 http://110.80.139.96/liveplay-kk.rtxapp.com/live/program/live/fjgghd4m/4000000/mnf.m3u8
-#EXTINF:-1 tvg-id=" " tvg-name="福建电视台" tvg-logo="https://gitee.com/xixihahajcc/itv/raw/master/tvicon/WS-FJ.png" group-title="福建 🇨🇳️",福建经济
+#EXTINF:-1 tvg-id="福建经济" tvg-name="福建经济" tvg-logo="https://live.fanmingming.com/tv/福建经济.png" group-title="福建 🇨🇳️",福建经济
 http://110.80.139.96/liveplay-kk.rtxapp.com/live/program/live/fjjjshhd4m/4000000/mnf.m3u8
-#EXTINF:-1 tvg-id=" " tvg-name="福建电视台" tvg-logo="https://gitee.com/xixihahajcc/itv/raw/master/tvicon/WS-FJ.png" group-title="福建 🇨🇳️",福建教育
+#EXTINF:-1 tvg-id="福建教育" tvg-name="福建教育" tvg-logo="https://live.fanmingming.com/tv/福建教育.png" group-title="福建 🇨🇳️",福建教育
 http://110.80.139.96/liveplay-kk.rtxapp.com/live/program/live/fjjypdhd4m/4000000/mnf.m3u8
 #EXTINF:-1group-title="NewTV 🇨🇳️",NewTV爱情喜剧
 http://111.40.196.38:443/PLTV/88888888/224/3221225616/1.m3u8
