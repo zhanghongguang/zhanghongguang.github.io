@@ -814,8 +814,6 @@ http://23.237.10.66:16334
 http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=foodplanet_twn
 #EXTINF:-1 group-title="臺灣 🇹🇼️",原住民
 http://streamipcf.akamaized.net/live/_definst_/live_720/key_b1500.m3u8
-#EXTINF:-1 group-title="臺灣 🇹🇼️",TLC旅游生活频道
-http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=Tlc
 #EXTINF:-1 group-title="臺灣 🇹🇼️",TVBS新闻
 http://38.64.72.148/hls/modn/list/4006/chunklist1.m3u8
 #EXTINF:-1 group-title="臺灣 🇹🇼️",TVBS亚洲
@@ -824,12 +822,14 @@ http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
 https://dcunilive30-lh.akamaihd.net/i/dclive_1@535522/master.m3u8
 #EXTINF:-1 group-title="臺灣 🇹🇼️" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/Discovery-Asia.png",DiscoveryAsia
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=571181&extension=ts
+#EXTINF:-1 group-title="臺灣 🇹🇼️",TLC旅游生活频道
+http://103.45.68.47/gy/gy945/xsj.php?id=tlc
 #EXTINF:-1 group-title="臺灣 🇹🇼️" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/Discovery-Asia.png",DiscoveryAsia
-https://us.dispatch.ulivetv.net/v/live/cr8qvn9sf96o.m3u8?stream_id=cr8qvn9sf96o%20&token=c0vzuc7wqkzk
-#EXTINF:-1 group-title="臺灣 🇹🇼️",BBC 地球
-http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=bbcearth_twn
+http://103.45.68.47/gy/gy945/xsj.php?id=discovery-asia
+#EXTINF:-1 group-title="臺灣 🇹🇼️",国家地理 野生频道,
+http://103.45.68.47/gy/gy945/xsj.php?id=natgeo-wild
 #EXTINF:-1 group-title="臺灣 🇹🇼️",國家地理頻道
-http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=natgeohd_twn
+http://103.45.68.47/gy/gy945/xsj.php?id=natgeo
 #EXTINF:-1 group-title="臺灣 🇹🇼️",唯心電視
 http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
 #EXTINF:-1 group-title="臺灣 🇹🇼️",生命电视台
@@ -1382,7 +1382,7 @@ http://typicamn.russtv.net/iptv/349W3XS8ENP64A/1073/index.m3u8
 #EXTINF:-1 tvg-id="2777" tvg-rec="3" tvg-logo="http://epg.it999.ru/img/2777.png" group-title="XXX 🔞️",Penthouse Gold HD
 http://typicamn.russtv.net/iptv/349W3XS8ENP64A/5011/index.m3u8
 #EXTINF:-1 tvg-id="2779" tvg-rec="3" tvg-logo="http://epg.it999.ru/img/2779.png" group-title="XXX 🔞️",Penthouse Quickies HD
-http://typicamn.russtv.net/iptv/349W3XS8ENP64A/5013/index.m3u8
+http://typicamn.russtv.net/iptv/349W3XS8ENP64A/index.m3u8
 #EXTINF:-1 tvg-id="3163" tvg-rec="0" tvg-logo="http://epg.it999.ru/img/3163.png" group-title="XXX 🔞️",DDF Network
 http://typicamn.russtv.net/iptv/349W3XS8ENP64A/6194/index.m3u8
 #EXTINF:-1 tvg-id="3162" tvg-rec="0" tvg-logo="http://epg.it999.ru/img/3162.png" group-title="XXX 🔞️",DDF Busty
