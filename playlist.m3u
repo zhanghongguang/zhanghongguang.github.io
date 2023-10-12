@@ -823,13 +823,13 @@ https://dcunilive30-lh.akamaihd.net/i/dclive_1@535522/master.m3u8
 #EXTINF:-1 group-title="臺灣 🇹🇼️" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/Discovery-Asia.png",DiscoveryAsia
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=571181&extension=ts
 #EXTINF:-1 group-title="臺灣 🇹🇼️",TLC旅游生活频道
-http://103.45.68.47/gy/gy945/xsj.php?id=tlc
+http://103.45.68.47/gy/gy422/xsj.php?id=tlc
 #EXTINF:-1 group-title="臺灣 🇹🇼️" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/Discovery-Asia.png",DiscoveryAsia
-http://103.45.68.47/gy/gy945/xsj.php?id=discovery-asia
+http://103.45.68.47/gy/gy422/xsj.php?id=discovery-asia
 #EXTINF:-1 group-title="臺灣 🇹🇼️",国家地理 野生频道,
-http://103.45.68.47/gy/gy945/xsj.php?id=natgeo-wild
+http://103.45.68.47/gy/gy422/xsj.php?id=natgeo-wild
 #EXTINF:-1 group-title="臺灣 🇹🇼️",國家地理頻道
-http://103.45.68.47/gy/gy945/xsj.php?id=natgeo
+http://103.45.68.47/gy/gy422/xsj.php?id=natgeo
 #EXTINF:-1 group-title="臺灣 🇹🇼️",唯心電視
 http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
 #EXTINF:-1 group-title="臺灣 🇹🇼️",生命电视台
