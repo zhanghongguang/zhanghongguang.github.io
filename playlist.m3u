@@ -322,8 +322,8 @@ https://upload.wikimedia.org/wikipedia/commons/0/08/National_Flag_Anthem_of_the_
 https://live.goodiptv.club/api/cqyx.php?id=sheying
 #EXTINF:-1 group-title="地方&數字臺 🇨🇳️",南国都市4K
 https://justsometime.gztv.com/sec/shenghuos.m3u8
-#EXTINF:-1 group-title="地方&數字臺 🇨🇳️",CEC国际旅游
-http://play.cec-tv.com.cn/channel/cec-tv2.m3u8
+#EXTINF:-1 group-title="地方&數字臺 🇨🇳️",武汉经济
+http://stream.appwuhan.com/4tzb/sd/live.m3u8
 #EXTINF:-1 group-title="地方&數字臺 🇨🇳️",CEC国际教育
 http://play.cec-tv.com.cn/channel/cec-tv3.m3u8      
 #EXTINF:-1 group-title="地方&數字臺 🇨🇳️",CEC国际健康
@@ -378,14 +378,16 @@ http://suixiaobin.dsmynas.net:5666/gudou.php?phone=freeuser&ptoken=8S6lHDnZOXb8f
 http://qnap.yjnhome.com:4000/udp/239.3.1.159:8000
 #EXTINF:-1 tvg-id="6585" tvg-name="茶频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/DOCUMENTARY-CHANNEL.jpg" group-title="地方&數字臺 🇨🇳️",茶频道
 http://39.136.18.105/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226216/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="南京新闻综合" tvg-name="南京新闻综合" tvg-logo="https://epg.112114.xyz/logo/南京新闻综合.png" group-title="地方&數字臺 🇨🇳️",南京综合
-http://live.nbs.cn/channels/njtv/xwzh/m3u8:500k/live.m3u8
+#EXTINF:-1 tvg-id="南京新闻综合" tvg-name="南京新闻综合" tvg-logo="https://epg.112114.xyz/logo/南京新闻综合.png" group-title="地方&數字臺 🇨🇳️",江苏-南京信息
+http://live.nbs.cn/channels/njtv/xxpd/m3u8:500k/live.m3u8
 #EXTINF:-1 group-title="地方&數字臺 🇨🇳️",重庆新闻
 http://jsyx2023.top:2345/udp/235.254.196.199:7980
 #EXTINF:-1 group-title="地方&數字臺 🇨🇳️",苏州4K
 http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
 #EXTINF:-1 group-title="地方&數字臺 🇨🇳️",五常综合
 http://masterpull.hljtv.com/live/R9bOklLT.m3u8
+#EXTINF:-1 group-title="地方&數字臺 🇨🇳️",广西-南宁新闻
+http://hls.nntv.cn/nnlive/NNTV_NEWS_A.m3u8
 #EXTINF:-1 group-title="地方&數字臺 🇨🇳️",开放贵州
 http://39.136.18.105/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226306/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="卫视 🇨🇳️",湖南卫视
