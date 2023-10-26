@@ -348,8 +348,8 @@ http://iptv3.dnwx.vip:8888/udp/239.252.220.129:5140
 https://cntv.sbs/tv?auth=2310201855&id=bjjskj
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/GDTV8.png" group-title="地方&數字臺 🇨🇳️",广东国际
 http://hongyanqiang.top/chudian.php?id=gdgj
-#EXTINF:-1 tvg-id="6242" tvg-name="求索动物“ tvg-logo="http://epg.51zmt.top:8000/tb1/qt/QSDW.png" group-title="地方&數字臺 🇨🇳️",求索动物
-http://suixiaobin.dsmynas.net:5666/gudou.php?phone=freeuser&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=004bfc8f56cd2797&cid=1332&id=QSDWHD_7000
+#EXTINF:-1 tvg-id="6242" tvg-name="求索动物“ tvg-logo="http://epg.51zmt.top:8000/tb1/qt/QSDW.png" group-title="地方&數字臺 🇨🇳️",房车之家
+http://159.75.85.63:35455/douyu/9613554
 #EXTINF:-1 group-title="地方&數字臺 🇨🇳️" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jinyingjishi.png",金鹰纪实
 https://cntv.sbs/tv?auth=2310201855&id=jyjs
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/中国天气.png" group-title="地方&數字臺 🇨🇳️",中国气象频道
