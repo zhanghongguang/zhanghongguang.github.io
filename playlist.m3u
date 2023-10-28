@@ -1953,7 +1953,8 @@ http://193.233.206.48:8090/live/rx3/415/e59f5e3ae0b7961349fe259b21b4a9fb/index.m
 http://193.233.206.48:8090/live/rx3/409/7ce439e2933fb371169fc323d862923b/index.m3u8
 #EXTINF:-1 group-title="XXX 🔞️",Erox HD
 http://193.233.206.48:8090/live/rx3/456/7b1808bc48674799848603932039975a/index.m3u8
-Passie,http://193.233.206.48:8090/live/rx3/461/f1e227e79064f445d431694b5d38dc24/index.m3u8
+#EXTINF:-1 group-title="XXX 🔞️",Passie
+http://193.233.206.48:8090/live/rx3/461/f1e227e79064f445d431694b5d38dc24/index.m3u8
 #EXTINF:-1 group-title="XXX 🔞️",一本道
 http://193.233.206.48:8090/live/rx3/414/051e24e543a869a6c093515b1de2f866/index.m3u8
 #EXTINF:-1 group-title="XXX 🔞️",花花公子
