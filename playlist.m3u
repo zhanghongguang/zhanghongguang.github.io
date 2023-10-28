@@ -1121,7 +1121,7 @@ http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=animalplanet_
 #EXTINF:-1 group-title="Global 🇺🇸🇬🇧🇶🇦️",Nat Geo People
 http://obsfullhd.tv:25461/@localhdtv/WJudqvpAbuP8/6914
 #EXTINF:-1 group-title="Global 🇺🇸🇬🇧🇶🇦️" tvg-logo="https://www.mncvision.id/userfiles/image/channel/bbc_earth150x150.jpg",BBC Earth HD
-https://ktpremium.com:443/cc1219/54897855/26290
+http://193.233.206.48:8090/live/rx1/97/45791103e695b39e6e578129630cb50a/index.m3u8
  #EXTINF:-1 group-title="Global 🇺🇸🇬🇧🇶🇦️", Global News
  https://live.corusdigitaldev.com/groupb/live/3062d0e3-ed4c-4f47-8482-95648250f4b8/live.isml/.m3u8
 #EXTINF:-1 group-title="Global 🇺🇸🇬🇧🇶🇦️",韩联社
@@ -1145,7 +1145,7 @@ https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea09
 #EXTINF:-1 group-title="Global 🇺🇸🇬🇧🇶🇦️" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_332.jpg",BBC World News
 https://tv.googledrivelinks.com/live.php?c=BBC_World_News&q=1200&e=.m3u8
 #EXTINF:-1 group-title="Global 🇺🇸🇬🇧🇶🇦️" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/Discovery-Asia.png",Discovery Asia
-https://ktpremium.com:443/cc1219/54897855/698399
+http://193.233.206.48:8090/live/rx3/2625/1fa562eb131d51da5d1bcfd1e04a78af/index.m3u8
 #EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-5eea71d65252710041e0ccbc" tvg-id="5e20b730f2f8d5003d739db7-5eea71d65252710041e0ccbc" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/reuters_reutersnow_1.png" group-title="Global 🇺🇸🇬🇧🇶🇦️",Reuters TV
 https://reuters-reutersnow-1-us.plex.wurl.tv/c0c0829237382f291cc46a0368586aa7.m3u8
 #EXTINF:-1 group-title="Global 🇺🇸🇬🇧🇶🇦️" tvg-logo="http://blog.lcotiv.com/i/32833201103.png",Nippon TV News24 Japan
@@ -1283,7 +1283,7 @@ http://vcdn1.vtc.gov.vn:1935/m_4k/smil:4k.smil/playlist.m3u8
 #EXTINF:-1 group-title="Global 🇺🇸🇬🇧🇶🇦️" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CNNNews.png",CNN
 https://ancom.ga/fpt/cnn/bitrate_5000.m3u8
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/12083/logo/240x240/mobile_logo_141710001663004743.png" group-title="Global 🇺🇸🇬🇧🇶🇦️",Discovery Asia
-https://ktpremium.com:443/cc1219/54897855/26209
+http://193.233.206.48:8090/live/rx1/306/3c8045295cdffd5239d9705103b195f6/index.m3u8
 #EXTINF:-1 tvg-id="afnhd" tvg-name="Asian Food Network" tvg-logo="https://i.imgur.com/B8zA2gc.png" group-title="Global 🇺🇸🇬🇧🇶🇦️",Asian Food Network
 http://livecdn.fptplay.net/hda1/afchd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:0 tvg-id="" tvg-logo="https://i.ibb.co/kB91Qgx/HGTV.png" group-title="Global 🇺🇸🇬🇧🇶🇦️", HGTV
@@ -1291,7 +1291,7 @@ https://code.vthanhtivi.pw/getlink/tv360/99/2.m3u8
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/670/logo/240x240/mobile_logo_363688001655891620.png" group-title="Global 🇺🇸🇬🇧🇶🇦️",BBC Earth HD
 http://8.210.88.135/smart.php?playurl=http://50.7.238.114:8278/bbcearth_twn/playlist.m3u8
 #EXTINF:-1 tvg-id="bbclifestyle" tvg-name="BBC Lifestyle" tvg-logo="https://i.imgur.com/bn7ha63.png" group-title="Global 🇺🇸🇬🇧🇶🇦️",BBC Lifestyle
-https://ktpremium.com:443/cc1219/54897855/26291
+http://193.233.206.48:8090/live/rx1/424/921ea97a306d179c99f747a4d39978fb/index.m3u8
 #EXTINF:-1 group-title="Global 🇺🇸🇬🇧🇶🇦️",越南 | Da Nang TV1 (1080p) [Not 24/7]
 http://drtdnglive.e49a7c38.cdnviet.com/livedrt1/chunklist.m3u8
 #EXTINF:-1 group-title="Global 🇺🇸🇬🇧🇶🇦️",越南 | Da Nang TV2 (1080p) [Not 24/7]
@@ -1935,18 +1935,31 @@ http://77.243.112.149:8080/hustler_hd/index.m3u8?token=413079063374
 http://77.243.112.149:8080/o-la-la/index.m3u8?token=413079063374
 #EXTINF:-1 tvg-id="2015" tvg-rec="0" tvg-logo="http://epg.it999.ru/img/2015.png" group-title="XXX 🔞️",Русская ночь
 http://77.243.112.149:8080/russkaya_noch/index.m3u8?token=413079063374
-#EXTINF:-1 group-title="XXX 🔞️",Rainbow 彩虹頻道
-http://58.99.33.2:1935/liveedge2/jZPELJzi_408_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=60519&as=j9gk21n&mmmm=&dr=123&dt=&cust_type=NE
-#EXTINF:-1 group-title="XXX 🔞️",樂活
-http://58.99.33.2:1935/liveedge2/jZPELJzi_410_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=60519&as=j9gk21n&mmmm=&dr=123&dt=&cust_type=NE
-#EXTINF:-1 group-title="XXX 🔞️",Pandora Perfect 潘朵拉玩美
-http://58.99.33.2:1935/liveedge2/jZPELJzi_411_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=60519&as=j9gk21n&mmmm=&dr=123&dt=&cust_type=NE
-#EXTINF:-1 group-title="XXX 🔞️",Pandora Pink 潘朵拉粉红
-http://58.99.33.2:1935/liveedge2/jZPELJzi_412_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=60519&as=j9gk21n&mmmm=&dr=123&dt=&cust_type=NE
-#EXTINF:-1 group-title="XXX 🔞️",Amazing TV 驚豔台
-http://58.99.33.2:1935/liveedge2/jZPELJzi_413_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=60519&as=j9gk21n&mmmm=&dr=123&dt=&cust_type=NE
-#EXTINF:-1 group-title="XXX 🔞️",BananaHD 香蕉台
-http://58.99.33.2:1935/liveedge2/jZPELJzi_414_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=60519&as=j9gk21n&mmmm=&dr=123&dt=&cust_type=NE
+#EXTINF:-1 group-title="XXX 🔞️",松视1
+http://193.233.206.48:8090/live/rx3/402/39cd9e52d157a4a11fe18823b1c2a3da/index.m3u8
+#EXTINF:-1 group-title="XXX 🔞️",松视2
+http://193.233.206.48:8090/live/rx3/403/32a197acb4b79f0cdf2a0845921b5167/index.m3u8
+#EXTINF:-1 group-title="XXX 🔞️",松视3
+http://193.233.206.48:8090/live/rx3/404/617643fef33ced7281eb86ccb7aa95b9/index.m3u8
+#EXTINF:-1 group-title="XXX 🔞️",香蕉台
+http://193.233.206.48:8090/live/rx3/408/1d24aceb2f68650e6c3e5cf0802c31e2/index.m3u8
+#EXTINF:-1 group-title="XXX 🔞️",彩虹电影
+http://193.233.206.48:8090/live/rx3/413/dac0d1d0e5c4c4febb34fd55d060723d/index.m3u8
+#EXTINF:-1 group-title="XXX 🔞️",彩虹K
+http://193.233.206.48:8090/live/rx3/406/51ea72993b31fb34a98de364f48d6c76/index.m3u8
+#EXTINF:-1 group-title="XXX 🔞️",彩虹e
+http://193.233.206.48:8090/live/rx3/415/e59f5e3ae0b7961349fe259b21b4a9fb/index.m3u8
+#EXTINF:-1 group-title="XXX 🔞️",惊豔台
+http://193.233.206.48:8090/live/rx3/409/7ce439e2933fb371169fc323d862923b/index.m3u8
+#EXTINF:-1 group-title="XXX 🔞️",Erox HD
+http://193.233.206.48:8090/live/rx3/456/7b1808bc48674799848603932039975a/index.m3u8
+Passie,http://193.233.206.48:8090/live/rx3/461/f1e227e79064f445d431694b5d38dc24/index.m3u8
+#EXTINF:-1 group-title="XXX 🔞️",一本道
+http://193.233.206.48:8090/live/rx3/414/051e24e543a869a6c093515b1de2f866/index.m3u8
+#EXTINF:-1 group-title="XXX 🔞️",花花公子
+http://193.233.206.48:8090/live/rx3/411/144204c74345cbb0b32872950b46766d/index.m3u8
+#EXTINF:-1 group-title="XXX 🔞️",东京热
+http://193.233.206.48:8090/live/rx3/416/022a52378c121428111e52b901589148/index.m3u8
 #EXTINF:-1 group-title="XXX 🔞️",Hustler HD
 http://193.33.240.8:80/hustler_hd/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Live Cams" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX 🔞️",AdultIPTV.net Live Cams
