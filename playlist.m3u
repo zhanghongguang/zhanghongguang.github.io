@@ -1879,10 +1879,10 @@ http://typicamn.russtv.net/iptv/349W3XS8ENP64A/18138/index.m3u8
 https://cdn1.ibizastream.biz:441/free/Stream1/playlist.m3u8
 #EXTINF:-1 group-title="XXX 🔞️",IBizaHDTV
 https://5ed5d165c218d.streamlock.net:441/free/Stream1/playlist.m3u8
-#EXTINF:-1 tvg-id="2031" tvg-rec="3" tvg-logo="http://epg.it999.ru/img/2031.png" group-title="XXX 🔞️",Шалун 🔞
-http://46.180.252.106:9999/udp/239.255.43.85:1234
-#EXTINF:-1 tvg-id="2249" tvg-rec="0" tvg-logo="http://epg.it999.ru/img/2249.png" group-title="XXX 🔞️",Blue Hustler 🔞
-http://46.180.252.106:9999/udp/239.255.42.222:1234
+#EXTINF:-1 tvg-id="penthouse-gold" group-title="XXX 🔞️", Penthouse Gold HD
+http://51.159.102.100/PenthouseGold/index.m3u8
+#EXTINF:-1 group-title="XXX 🔞️",Private HD
+http://194.145.202.71:8087/udp/239.254.1.38:6060
 #EXTINF:-1 tvg-id="2526" tvg-rec="3" tvg-logo="http://epg.it999.ru/img/2526.png" group-title="XXX 🔞️",French Lover 🔞
 http://46.180.252.106:9999/udp/239.255.42.223:1234
 #EXTINF:-1 tvg-id="2781" tvg-rec="3" tvg-logo="http://epg.it999.ru/img/2781.png" group-title="XXX 🔞️",Eroxxx 
