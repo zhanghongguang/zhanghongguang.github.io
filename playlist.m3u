@@ -771,7 +771,7 @@ https://aweitv.ababa.fit/api/douyin.php?id=49
 #EXTINF:-1 tvg-id="6143" tvg-name="台視新聞" tvg-logo="http://www.stream-link.org/tv_logo/ttv_news.png" group-title="臺灣 🇹🇼️",台視新聞
 https://sc2022.stream-link.org/tv2306.php?id=t13
 #EXTINF:-1 tvg-id="6073" tvg-name="TVBS新聞" tvg-logo="http://www.stream-link.org/tv_logo/tvbs_news.png" group-title="臺灣 🇹🇼️",TVBS新聞
-https://pull-f5-spe.ixigua.com/live/YesLiveTV-384cce6f-eb19-48bc-bd91-130986249ea8.flv?by=yeslivetv_com
+https://s2.pub/Y-30
 #EXTINF:-1 tvg-id="6074" tvg-name="TVBS財經" tvg-logo="http://www.stream-link.org/tv_logo/tvbs_finance.png" group-title="臺灣 🇹🇼️",TVBS財經
 https://sc2022.stream-link.org/tv2306.php?id=t15
 #EXTINF:-1 tvg-id="9999" tvg-name="noepg" tvg-logo="https://www.stream-link.org/tv_logo/cti_news.png" group-title="臺灣 🇹🇼️",中天新聞
@@ -779,7 +779,7 @@ http://211.72.65.236:8541/http/116.50.42.19:8081/hls/78/80/ch63max.m3u8
 #EXTINF:-1 tvg-id="9999" tvg-name="中天亞洲台" tvg-logo="http://www.stream-link.org/tv_logo/cti_asia.png" group-title="臺灣 🇹🇼️",中天亞洲台
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=571212&extension=ts
 #EXTINF:-1 tvg-id="6143" tvg-name="台視新聞" tvg-logo="http://www.stream-link.org/tv_logo/ttv_news.png" group-title="臺灣 🇹🇼️",台視新聞
-https://dispatch.ulivetv.net/v/live/cfxww2r4nnwg.m3u8?stream_id=cfxww2r4nnwg&timestamp=1684387599&rand=ppf2G1Add7&uuid=9b647b3816b2a66a&from=web&sign=9938a91fced907abe987ccf609ed9b64
+https://s2.pub/Y-28
 #EXTINF:-1 tvg-id="9999" tvg-name="tvgName" tvg-logo="http://www.stream-link.org/tv_logo/cts-zy.png" group-title="臺灣 🇹🇼️",天才衝衝衝
 http://2023.stream-link.org/live/623892102
 #EXTINF:-1 tvg-id="6069" tvg-name="東森yoyo" tvg-logo="http://www.stream-link.org/tv_logo/ebc_yoyo.png" group-title="臺灣 🇹🇼️",東森yoyo
