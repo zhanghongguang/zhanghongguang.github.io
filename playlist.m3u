@@ -755,9 +755,9 @@ https://sc2022.stream-link.org/tv2306.php?id=t05
 #EXTINF:-1 tvg-id="9999" tvg-name="noepg" tvg-logo="http://www.stream-link.org/tv_logo/cti_news.png" group-title="臺灣 🇹🇼️",中天新聞
 https://aweitv.ababa.fit/api/douyin.php?id=43
 #EXTINF:-1 tvg-id="7176" tvg-name="中視新聞" tvg-logo="http://www.stream-link.org/tv_logo/ctv_news.png" group-title="臺灣 🇹🇼️",中視新聞
-https://sc2022.stream-link.org/tv2306.php?id=t06
+http://8.210.88.135/ml.php?id=zhongshinews_twn
 #EXTINF:-1 tvg-id="6071" tvg-name="民視新聞" tvg-logo="http://www.stream-link.org/tv_logo/ftv_news.png" group-title="臺灣 🇹🇼️",民視新聞
-https://sc2022.stream-link.org/tv2306.php?id=t07
+http://8.210.88.135/ml.php?id=ftvnew_taiwan
 #EXTINF:-1 tvg-id="6171" tvg-name="寰宇國際新聞" tvg-logo="http://www.stream-link.org/tv_logo/global_news.png" group-title="臺灣 🇹🇼️",寰宇國際新聞
 https://dispatch.ulivetv.net/v/live/cfxws90rpmf4.m3u8?stream_id=cfxws90rpmf4&timestamp=1684219862&rand=UsllXcwxbp&uuid=9b647b3816b2a66a&from=web&sign=659a3a6564d4ca206d2c6be20c5ea906
 #EXTINF:-1 tvg-id="9999" tvg-name="民視台灣台" tvg-logo="https://www.stream-link.org/tv_logo/ftv_tw.png" group-title="臺灣 🇹🇼️",民視台灣台
@@ -795,7 +795,7 @@ http://60.249.146.250:8511/playlist.m3u8
 #EXTINF:-1 group-title="臺灣 🇹🇼️" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FTV.png",民视无线台
 http://23.237.10.66:16334
 #EXTINF:-1 group-title="臺灣 🇹🇼️" tvg-logo="https://www.lyngsat.com/logo/tv/aa/asia_travel_tv.png",亚洲旅游
-http://ceshi.huanqiuzhibo.cn/accv.php?id=asiatravel_twn
+http://8.210.88.135/ml.php?id=asiatravel_twn
 #EXTINF:-1 group-title="臺灣 🇹🇼️",原住民
 http://streamipcf.akamaized.net/live/_definst_/live_720/key_b1500.m3u8
 #EXTINF:-1 group-title="臺灣 🇹🇼️",TVBS新闻
@@ -807,13 +807,13 @@ https://dcunilive30-lh.akamaihd.net/i/dclive_1@535522/master.m3u8
 #EXTINF:-1 group-title="臺灣 🇹🇼️" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/Discovery-Asia.png",DiscoveryAsia
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=571181&extension=ts
 #EXTINF:-1 group-title="臺灣 🇹🇼️",TLC旅游生活频道
-http://103.45.68.47/gy/gy224/xsj.php?id=tlc
+http://8.210.88.135/ml.php?id=tlc_twn
 #EXTINF:-1 group-title="臺灣 🇹🇼️" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/Discovery-Asia.png",DiscoveryAsia
 http://103.45.68.47/gy/gy224/xsj.php?id=discovery-asia
 #EXTINF:-1 group-title="臺灣 🇹🇼️",国家地理野生频道
-http://103.45.68.47/gy/gy224/xsj.php?id=natgeo-wild
+http://8.210.88.135/ml.php?id=natgeowild_twn
 #EXTINF:-1 group-title="臺灣 🇹🇼️",國家地理頻道
-http://ceshi.huanqiuzhibo.cn/accv.php?id=natgeohd_twn
+http://8.210.88.135/ml.php?id=natgeohd_twn
 #EXTINF:-1 group-title="臺灣 🇹🇼️",唯心電視
 http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
 #EXTINF:-1 group-title="臺灣 🇹🇼️",生命电视台
@@ -1283,7 +1283,7 @@ http://vcdn1.vtc.gov.vn:1935/m_4k/smil:4k.smil/playlist.m3u8
 #EXTINF:-1 group-title="Global 🇺🇸🇬🇧🇶🇦️" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CNNNews.png",CNN
 https://ancom.ga/fpt/cnn/bitrate_5000.m3u8
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/12083/logo/240x240/mobile_logo_141710001663004743.png" group-title="Global 🇺🇸🇬🇧🇶🇦️",Discovery Asia
-http://ceshi.huanqiuzhibo.cn/accv.php?id=discoverytwn_twn
+http://8.210.88.135/ml.php?id=discoverytwn_twn
 #EXTINF:-1 tvg-id="afnhd" tvg-name="Asian Food Network" tvg-logo="https://i.imgur.com/B8zA2gc.png" group-title="Global 🇺🇸🇬🇧🇶🇦️",Asian Food Network
 http://livecdn.fptplay.net/hda1/afchd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:0 tvg-id="" tvg-logo="https://i.ibb.co/kB91Qgx/HGTV.png" group-title="Global 🇺🇸🇬🇧🇶🇦️", HGTV
@@ -1291,7 +1291,7 @@ https://code.vthanhtivi.pw/getlink/tv360/99/2.m3u8
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/670/logo/240x240/mobile_logo_363688001655891620.png" group-title="Global 🇺🇸🇬🇧🇶🇦️",BBC Earth HD
 http://8.210.88.135/smart.php?playurl=http://50.7.238.114:8278/bbcearth_twn/playlist.m3u8
 #EXTINF:-1 tvg-id="bbclifestyle" tvg-name="BBC Lifestyle" tvg-logo="https://i.imgur.com/bn7ha63.png" group-title="Global 🇺🇸🇬🇧🇶🇦️",BBC Lifestyle
-http://193.233.206.48:8090/live/rx1/424/921ea97a306d179c99f747a4d39978fb/index.m3u8
+http://8.210.88.135/ml.php?id=bbclifestyle_twn
 #EXTINF:-1 group-title="Global 🇺🇸🇬🇧🇶🇦️",越南 | Da Nang TV1 (1080p) [Not 24/7]
 http://drtdnglive.e49a7c38.cdnviet.com/livedrt1/chunklist.m3u8
 #EXTINF:-1 group-title="Global 🇺🇸🇬🇧🇶🇦️",越南 | Da Nang TV2 (1080p) [Not 24/7]
