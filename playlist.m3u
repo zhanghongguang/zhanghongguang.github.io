@@ -66,7 +66,7 @@ http://hw-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 http://hw-m-l.cztv.com/channels/lantian/channel05/1080p.m3u8
 #EXTINF:-1 tvg-logo="https://ohudong.cztv.com/1/logos/2017/04/12/b500dac5d5af1dae3a3eceaf2e165bd0.png" group-title="浙江 🇨🇳️",浙江教科影视 (1080p)
 http://hw-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
-#EXTINF:-1 tvg-logo="https://ohudong.cztv.com/1/logos/2017/05/16/090bdb9f3da9df74a275a785c3ba023f.png" group-title="浙江 🇨🇳️",之江纪录
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/之江记录.png" group-title="浙江 🇨🇳️",之江纪录
 http://hw-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
 #EXTINF:-1 tvg-logo="https://ohudong.cztv.com/1/logos/2017/04/11/b11dda9a789c67cb16e6a5a5fce63125.png" group-title="浙江 🇨🇳️",浙江民生休闲 (1080p)
 http://hw-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
@@ -380,8 +380,8 @@ http://qnap.yjnhome.com:4000/udp/239.3.1.159:8000
 http://39.136.18.105/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226216/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="南京新闻综合" tvg-name="南京新闻综合" tvg-logo="https://epg.112114.xyz/logo/南京新闻综合.png" group-title="地方&數字臺 🇨🇳️",江苏-南京信息
 http://live.nbs.cn/channels/njtv/xxpd/m3u8:500k/live.m3u8
-#EXTINF:-1 group-title="地方&數字臺 🇨🇳️",重庆新闻
-http://jsyx2023.top:2345/udp/235.254.196.199:7980
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/重庆新闻.png" group-title="地方&數字臺 🇨🇳️",重庆新闻
+http://cntv.lat/tv/live.php?auth=231110&id=CQTVNewsHD
 #EXTINF:-1 group-title="地方&數字臺 🇨🇳️",苏州4K
 http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
 #EXTINF:-1 group-title="地方&數字臺 🇨🇳️",五常综合
