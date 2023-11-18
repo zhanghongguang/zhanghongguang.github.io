@@ -510,43 +510,43 @@ http://angtv.cc/test/bestv.php?id=fjgghd4m/4000000
 http://angtv.cc/test/bestv.php?id=fjjjshhd4m/4000000
 #EXTINF:-1 tvg-id=" " tvg-name="福建电视台" tvg-logo="https://raw.githubusercontent.com/xiangjing7436/iTV/main/tvicon/WS-DN.png" group-title="福建 🇨🇳️",福建教育
 http://angtv.cc/test/bestv.php?id=fjjypdhd4m/4000000
-#EXTINF:-1group-title="NewTV 🇨🇳️",NewTV爱情喜剧
+#EXTINF:-1 group-title="NewTV 🇨🇳️",NewTV爱情喜剧
 http://111.40.196.38:443/PLTV/88888888/224/3221225616/1.m3u8
-#EXTINF:-1group-title="NewTV 🇨🇳️",NewTV潮妈辣婆
+#EXTINF:-1 group-title="NewTV 🇨🇳️",NewTV潮妈辣婆
 http://111.40.196.27:443/PLTV/88888888/224/3221225680/1.m3u8
-#EXTINF:-1group-title="NewTV 🇨🇳️",NewTV动作电影
+#EXTINF:-1 group-title="NewTV 🇨🇳️",NewTV动作电影
 http://111.40.196.31:443/PLTV/88888888/224/3221225620/1.m3u8
-#EXTINF:-1group-title="NewTV 🇨🇳️",NewTV古装剧场
+#EXTINF:-1 group-title="NewTV 🇨🇳️",NewTV古装剧场
 http://111.40.196.36:443/PLTV/88888888/224/3221225618/1.m3u8
-#EXTINF:-1group-title="NewTV 🇨🇳️",NewTV家庭剧场
+#EXTINF:-1 group-title="NewTV 🇨🇳️",NewTV家庭剧场
 http://111.40.196.29:443/PLTV/88888888/224/3221225626/1.m3u8
-#EXTINF:-1group-title="NewTV 🇨🇳️",NewTV金牌综艺
+#EXTINF:-1 group-title="NewTV 🇨🇳️",NewTV金牌综艺
 http://111.40.196.27:443/PLTV/88888888/224/3221225650/1.m3u8
-#EXTINF:-1group-title="NewTV 🇨🇳️",NewTV惊悚悬疑
+#EXTINF:-1 group-title="NewTV 🇨🇳️",NewTV惊悚悬疑
 http://111.40.196.30:443/PLTV/88888888/224/3221225638/1.m3u8
-#EXTINF:-1group-title="NewTV 🇨🇳️",NewTV精彩电视剧
+#EXTINF:-1 group-title="NewTV 🇨🇳️",NewTV精彩电视剧
 http://39.134.24.165:80/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226012/index.m3u8
-#EXTINF:-1group-title="NewTV 🇨🇳️",NewTV精品大剧
+#EXTINF:-1 group-title="NewTV 🇨🇳️",NewTV精品大剧
 http://111.40.196.33:443/PLTV/88888888/224/3221225612/1.m3u8
-#EXTINF:-1group-title="NewTV 🇨🇳️",NewTV精品纪录
+#EXTINF:-1 group-title="NewTV 🇨🇳️",NewTV精品纪录
 http://111.40.196.27:443/PLTV/88888888/224/3221225630/1.m3u8
-#EXTINF:-1group-title="NewTV 🇨🇳️",NewTV精品体育
+#EXTINF:-1 group-title="NewTV 🇨🇳️",NewTV精品体育
 http://111.40.196.30:443/PLTV/88888888/224/3221225608/1.m3u8
 #EXTINF:-1group-title="NewTV 🇨🇳️",NewTV精品综合
 http://111.40.196.27:443/PLTV/88888888/224/3221225632/1.m3u8
-#EXTINF:-1group-title="NewTV 🇨🇳️",NewTV军旅剧场
+#EXTINF:-1 group-title="NewTV 🇨🇳️",NewTV军旅剧场
 http://111.40.196.28:443/PLTV/88888888/224/3221225622/1.m3u8
-#EXTINF:-1group-title="NewTV 🇨🇳️",NewTV军事评论
+#EXTINF:-1 group-title="NewTV 🇨🇳️",NewTV军事评论
 http://111.40.196.31:443/PLTV/88888888/224/3221225634/1.m3u8
-#EXTINF:-1group-title="NewTV 🇨🇳️",NewTV农业致富
+#EXTINF:-1 group-title="NewTV 🇨🇳️",NewTV农业致富
 http://111.40.196.35:443/PLTV/88888888/224/3221225636/1.m3u8
-#EXTINF:-1group-title="NewTV 🇨🇳️",NewTV热播精选
+#EXTINF:-1 group-title="NewTV 🇨🇳️",NewTV热播精选
 http://111.40.196.33:443/PLTV/88888888/224/3221225624/1.m3u8
-#EXTINF:-1group-title="NewTV 🇨🇳️",NewTV武搏世界
+#EXTINF:-1 group-title="NewTV 🇨🇳️",NewTV武搏世界
 http://111.40.196.31:443/PLTV/88888888/224/3221225664/1.m3u8
-#EXTINF:-1group-title="NewTV 🇨🇳️",NewTV怡伴健康
+#EXTINF:-1 group-title="NewTV 🇨🇳️",NewTV怡伴健康
 http://111.40.196.28:443/PLTV/88888888/224/3221225614/1.m3u8
-#EXTINF:-1group-title="NewTV 🇨🇳️",NewTV中国功夫
+#EXTINF:-1 group-title="NewTV 🇨🇳️",NewTV中国功夫
 http://111.40.196.31:443/PLTV/88888888/224/3221225678/1.m3u8
 #EXTINF:-1 group-title="iHOT 🇨🇳️",精彩影视
 http://39.134.32.102:6610/000000001000/6000000006000320630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000320630&livemode=1&stbId=3
