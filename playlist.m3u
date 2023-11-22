@@ -1010,7 +1010,7 @@ http://typicamn.russtv.net/iptv/349W3XS8ENP64A/545/index.m3u8
 https://bcovlive-a.akamaihd.net/c9bf201b06694453bb29282f97191f58/us-east-1/6240731308001/playlist.m3u8
 #EXTINF:-1 group-title="Global 🇺🇸🇬🇧🇶🇦️" tvg-logo="https://www.mncvision.id/userfiles/image/channel/aljazeera.png",Al Jazeera HD
 https://live-hls-web-aje.getaj.net/AJE/03.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9Vnc4Cf.png" group-title="Global 🇺🇸🇬🇧🇶🇦️",i24news
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tszdIwh.png" group-title="Global 🇺🇸🇬🇧🇶🇦️",i24news
 https://bcovlive-a.akamaihd.net/6e3dd61ac4c34d6f8fb9698b565b9f50/eu-central-1/5377161796001/profile_0/chunklist.m3u8
 #EXTINF:-1 group-title="Global 🇺🇸🇬🇧🇶🇦️" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_330.png",Channel NewsAsia
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
