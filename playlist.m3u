@@ -115,9 +115,9 @@ http://live.cooltv.top/tv/hz.php?id=22
 #EXTINF:-1 group-title="央視 🇨🇳",★★★★★央視 🇨🇳 ★★★★★
 https://upload.wikimedia.org/wikipedia/commons/0/08/National_Flag_Anthem_of_the_Republic_of_China%E4%B8%AD%E8%8F%AF%E6%B0%91%E5%9C%8B%E5%9C%8B%E6%97%97%E6%AD%8C_%28%E6%BC%94%E5%A5%8F%E7%89%88%29.oga
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央視 🇨🇳",CCTV-1综合
-https://cntv.lat/tv/zb.php?auth=231122&id=cctv1
+http://www.wenliang8.top:8188/udp/239.254.100.96:8550
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="央視 🇨🇳",CCTV-2财经
-https://cntv.lat/tv/zb.php?auth=231122&id=cctv2
+http://www.wenliang8.top:8188/udp/239.69.1.102:10250
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="央視 🇨🇳",CCTV-2财经
 http://120.196.232.54:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226739/1.m3u8
 #EXTINF:-1 tvg-name="CCT31" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="央視 🇨🇳",CCTV-3综艺
@@ -241,7 +241,7 @@ http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226660/1.m3u8?
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVwenhuajingpin.png" tvg-id="CCTV央视文化精品" tvg-name="CCTV央视文化精品" group-title="央視 🇨🇳",央视精品
 http://111.20.40.165/PLTV/88888893/224/3221226981/index.m3u8
 #EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV卫生健康" tvg-id="CCTV卫生健康" tvg-name="CCTV卫生健康" group-title="央視 🇨🇳",CCTV卫生健康
-http://36.131.221.148/tlivecloud-ipv6.ysp.cctv.cn/ysp/2012513503.m3u8
+http://www.wenliang8.top:8188/udp/239.254.100.207:9322
 #EXTINF:-1  tvg-logo="http://tv.cn/web/images/channels/sjdl.png" tvg-id="CCTV世界地理" tvg-name="CCTV世界地理" group-title="央視 🇨🇳",CCTV世界地理
 http://111.20.40.162/PLTV/88888893/224/3221226947/index.m3u8
 #EXTINF:-1 tvg-logo="http://tv.cn/web/images/channels/fyyy.png" tvg-id="CCTV风云音乐" tvg-name="CCTV风云音乐" group-title="央視 🇨🇳",CCTV风云音乐
