@@ -403,7 +403,7 @@ https://livehhhttps.sxrtv.com/lsdream/lce1mC4/800/j3thcs1.m3u8
 #EXTINF:-1 tvg-id="47" tvg-name="河南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/henan.png" tvg-speed="2MB/s" group-title="卫视 🇨🇳️",河南卫视
 http://media.hndyjyfw.gov.cn/live/jz-hnweishi/live.m3u8
 #EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="卫视 🇨🇳️",湖南卫视
-http://www.wenliang8.top:8188/udp/239.254.100.139:8908
+http://hms124nc1972679569.live.aikan.miguvideo.com/wh7f454c46tw4102823173_1089710271/wd-hunanhd-2500/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=223.68.47.103&timestamp=20230525101927&ContentId=265667721&timezone=UTC&netType=Wifi&clientType=Android&zjAppVersion=559&zjClientId=77441101ae46e532&mtv_session=cf4214705ccff738d72786f4c823568a&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=2ea64b324a34dceb84808db9ace286db
 #EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="卫视 🇨🇳️",浙江卫视
 http://221.2.36.34:8888/newlive/live/hls/24/live.m3u8
 #EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" tvg-speed="10MB/s" group-title="卫视 🇨🇳️",江苏卫视
@@ -411,7 +411,7 @@ http://111.40.196.30:443/PLTV/88888888/224/3221225596/1.m3u8
 #EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="卫视 🇨🇳️",北京卫视
 http://www.wenliang8.top:8188/udp/239.254.100.16:8070
 #EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="https://live.fanmingming.com/tv/东方卫视.png" group-title="卫视 🇨🇳️",东方卫视
-http://111.40.196.36:443/PLTV/88888888/224/3221225512/1.m3u8
+http://hms104nc1972679566.live.aikan.miguvideo.com/wh7f454c46tw2250540763_5625865/wd_r4/dfl/dongfangwshd/3000/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=223.68.47.103&timestamp=20230525094835&ContentId=264104266&timezone=UTC&netType=Wifi&clientType=Android&zjAppVersion=559&zjClientId=77441101ae46e532&mtv_session=657a4b9cc5dd9950404485eb9861f3c0&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=20a5b4ea510471803f2bb1e58002ff9d
 #EXTINF:-1 tvg-id="32" tvg-name="安徽卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png" group-title="卫视 🇨🇳️",安徽卫视
 http://www.wenliang8.top:8188/udp/239.254.100.20:8094
 #EXTINF:-1 tvg-id="33" tvg-name="广东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title="卫视 🇨🇳️",广东卫视
@@ -427,7 +427,7 @@ http://www.wenliang8.top:8188/udp/239.69.1.69:10054
 #EXTINF:-1 tvg-id="39" tvg-name="天津卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/tianjin.png" group-title="卫视 🇨🇳️",天津卫视
 http://106.39.160.148/live.aishang.ctlcdn.com/00000110240136_1/playlist.m3u8?CONTENTID=00000110240136_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
 #EXTINF:-1 tvg-id="40" tvg-name="重庆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png" tvg-speed="3MB/s" group-title="卫视 🇨🇳️",重庆卫视
-http://www.wenliang8.top:8188/udp/239.69.1.149:10530
+http://hms4nc1972679556.live.aikan.miguvideo.com/wh7f454c46tw3793262216_2040503711/envivo_x/2018/SD/chongqing/1000/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=223.68.47.103&timestamp=20230525101417&ContentId=531262033&timezone=UTC&netType=Wifi&clientType=Android&zjAppVersion=559&zjClientId=77441101ae46e532&mtv_session=062066fd758ce0bf8c5d824d317a646a&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=149306d8fb9f27e7026f0681c6818da3
 #EXTINF:-1 tvg-id="41" tvg-name="东南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongnan.png" group-title="卫视 🇨🇳️",东南卫视
 http://106.39.160.148/live.aishang.ctlcdn.com/00000110240588_1/playlist.m3u8?CONTENTID=00000110240588_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
 #EXTINF:-1 tvg-id="42" tvg-name="甘肃卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/gansu.png" tvg-speed="3MB/s" tvg-rez="720x576" group-title="卫视 🇨🇳️",甘肃卫视
@@ -453,9 +453,9 @@ http://www.wenliang8.top:8188/udp/239.254.100.97:8556
 #EXTINF:-1 tvg-id="55" tvg-name="陕西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi.png" tvg-speed="3MB/s" tvg-rez="720x576" group-title="卫视 🇨🇳️",陕西卫视
 http://www.wenliang8.top:8188/udp/239.254.100.186:9196
 #EXTINF:-1 tvg-id="56" tvg-name="四川卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sichuan.png"  tvg-speed="10MB/s" group-title="卫视 🇨🇳️",四川卫视
-http://www.wenliang8.top:8188/udp/239.69.1.169:10650
+http://hms124nc1972679568.live.aikan.miguvideo.com/wh7f454c46tw3032149204_-1325314540/migu/kailu/scwshd/57/20200103/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=223.68.47.103&timestamp=20230525100136&ContentId=531261937&timezone=UTC&netType=Wifi&clientType=Android&zjAppVersion=559&zjClientId=77441101ae46e532&mtv_session=d9e2f7cec74c1ead6c8b5fabf37860e9&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=0a2d3f201c31a1b8c5461c1ef4f8836e
 #EXTINF:-1 tvg-id="57" tvg-name="新疆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xinjiang.png" tvg-speed="1000KB/s" group-title="卫视 🇨🇳️",新疆卫视
-http://www.wenliang8.top:8188/udp/239.254.100.47:8256
+http://hms244nc1972679581.live.aikan.miguvideo.com/wh7f454c46tw4146642105_-249986571/wd-xinjiangwssd-600/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=223.68.47.103&timestamp=20230525102011&ContentId=531262095&timezone=UTC&netType=Wifi&clientType=Android&zjAppVersion=559&zjClientId=77441101ae46e532&mtv_session=7e15aae16f3c782c8386afd00d2f20d9&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=baffbff5ecc96a575e9b332a6f153178
 #EXTINF:-1 tvg-id="58" tvg-name="云南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" tvg-speed="1MB/s" group-title="卫视 🇨🇳️",云南卫视
 http://www.wenliang8.top:8188/udp/239.254.100.30:8154
 #EXTINF:-1 tvg-id="60" tvg-name="南方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/nanfang.png" tvg-speed="1MB/s" tvg-rez="720x576" group-title="卫视 🇨🇳️",大湾区卫视
