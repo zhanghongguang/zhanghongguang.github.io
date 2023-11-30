@@ -407,31 +407,31 @@ http://hms124nc1972679569.live.aikan.miguvideo.com/wh7f454c46tw4102823173_108971
 #EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="卫视 🇨🇳️",浙江卫视
 http://222.71.150.174:9901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" tvg-speed="10MB/s" group-title="卫视 🇨🇳️",江苏卫视
-http://118.112.194.53:55555/rtp/239.93.0.89:5140
+http://118.122.126.202:8877/rtp/239.93.0.89:5140
 #EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="卫视 🇨🇳️",北京卫视
-http://118.112.194.53:55555/rtp/239.93.0.180:5140
+http://118.122.126.202:8877/rtp/239.93.0.180:5140
 #EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="https://live.fanmingming.com/tv/东方卫视.png" group-title="卫视 🇨🇳️",东方卫视
 http://hms104nc1972679566.live.aikan.miguvideo.com/wh7f454c46tw2250540763_5625865/wd_r4/dfl/dongfangwshd/3000/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=223.68.47.103&timestamp=20230525094835&ContentId=264104266&timezone=UTC&netType=Wifi&clientType=Android&zjAppVersion=559&zjClientId=77441101ae46e532&mtv_session=657a4b9cc5dd9950404485eb9861f3c0&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=20a5b4ea510471803f2bb1e58002ff9d
 #EXTINF:-1 tvg-id="32" tvg-name="安徽卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png" group-title="卫视 🇨🇳️",安徽卫视
-http://118.112.194.53:55555/rtp/239.93.1.106:5140
+http://118.122.126.202:8877/rtp/239.93.1.106:5140
 #EXTINF:-1 tvg-id="33" tvg-name="广东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title="卫视 🇨🇳️",广东卫视
-http://118.112.194.53:55555/rtp/239.93.0.181:5140
+http://118.122.126.202:8877/rtp/239.93.0.181:5140
 #EXTINF:-1 tvg-id="34" tvg-name="深圳卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shenzhen.png" group-title="卫视 🇨🇳️",深圳卫视
-http://118.112.194.53:55555/rtp/239.93.0.182:5140
+http://118.122.126.202:8877/rtp/239.93.0.182:5140
 #EXTINF:-1 tvg-id="36" tvg-name="辽宁卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png" group-title="卫视 🇨🇳️",辽宁卫视
-http://118.112.194.53:55555/rtp/239.93.1.108:5140
+http://118.122.126.202:8877/rtp/239.93.1.108:5140
 #EXTINF:-1 tvg-id="37" tvg-name="旅游卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/lvyou.png" tvg-speed="2MB/s" group-title="卫视 🇨🇳️",海南卫视
-http://118.112.194.53:55555/rtp/239.93.0.80:5140
+http://118.122.126.202:8877/rtp/239.93.0.80:5140
 #EXTINF:-1 tvg-id="38" tvg-name="山东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shandong.png" group-title="卫视 🇨🇳️",山东卫视
-http://118.112.194.53:55555/rtp/239.93.0.168:5140
+http://118.122.126.202:8877/rtp/239.93.0.168:5140
 #EXTINF:-1 tvg-id="39" tvg-name="天津卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/tianjin.png" group-title="卫视 🇨🇳️",天津卫视
-http://118.112.194.53:55555/rtp/239.93.0.167:5140
+http://118.122.126.202:8877/rtp/239.93.0.167:5140
 #EXTINF:-1 tvg-id="40" tvg-name="重庆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png" tvg-speed="3MB/s" group-title="卫视 🇨🇳️",重庆卫视
 http://hms4nc1972679556.live.aikan.miguvideo.com/wh7f454c46tw3793262216_2040503711/envivo_x/2018/SD/chongqing/1000/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=223.68.47.103&timestamp=20230525101417&ContentId=531262033&timezone=UTC&netType=Wifi&clientType=Android&zjAppVersion=559&zjClientId=77441101ae46e532&mtv_session=062066fd758ce0bf8c5d824d317a646a&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=149306d8fb9f27e7026f0681c6818da3
 #EXTINF:-1 tvg-id="41" tvg-name="东南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongnan.png" group-title="卫视 🇨🇳️",东南卫视
 http://222.71.150.174:9901/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="42" tvg-name="甘肃卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/gansu.png" tvg-speed="3MB/s" tvg-rez="720x576" group-title="卫视 🇨🇳️",甘肃卫视
-http://118.112.194.53:55555/rtp/239.93.0.81:5140
+http://118.122.126.202:8877/rtp/239.93.0.81:5140
 #EXTINF:-1 tvg-id="43" tvg-name="广西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangxi.png" tvg-speed="4MB/s" group-title="卫视 🇨🇳️",广西卫视
 http://222.71.150.174:9901/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="44" tvg-name="贵州卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guizhou.png" group-title="卫视 🇨🇳️",贵州卫视
@@ -439,7 +439,7 @@ http://222.71.150.174:9901/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=
 #EXTINF:-1 tvg-id="45" tvg-name="河北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hebei.png" group-title="卫视 🇨🇳️",河北卫视
 http://222.71.150.174:9901/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="46" tvg-name="黑龙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png" group-title="卫视 🇨🇳️",黑龙江卫视
-http://118.112.194.53:55555/rtp/239.93.0.183:5140
+http://118.122.126.202:8877/rtp/239.93.0.183:5140
 #EXTINF:-1 tvg-id="48" tvg-name="湖北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hubei.png" group-title="卫视 🇨🇳️",湖北卫视
 http://222.71.150.174:9901/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="50" tvg-name="江西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangxi.png" group-title="卫视 🇨🇳️",江西卫视
@@ -451,23 +451,23 @@ http://222.71.150.174:9901/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=
 #EXTINF:-1 tvg-id="53" tvg-name="宁夏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/ningxia.png" tvg-speed="2MB/s" tvg-rez="720x576" group-title="卫视 🇨🇳️",宁夏卫视
 http://222.71.150.174:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="55" tvg-name="陕西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi.png" tvg-speed="3MB/s" tvg-rez="720x576" group-title="卫视 🇨🇳️",陕西卫视
-http://118.112.194.53:55555/rtp/239.93.0.176:5140
+http://118.122.126.202:8877/rtp/239.93.0.176:5140
 #EXTINF:-1 tvg-id="56" tvg-name="四川卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sichuan.png"  tvg-speed="10MB/s" group-title="卫视 🇨🇳️",四川卫视
 http://www.wenliang8.top:8188/udp/239.69.1.169:10650
 #EXTINF:-1 tvg-id="57" tvg-name="新疆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xinjiang.png" tvg-speed="1000KB/s" group-title="卫视 🇨🇳️",新疆卫视
 http://hms244nc1972679581.live.aikan.miguvideo.com/wh7f454c46tw4146642105_-249986571/wd-xinjiangwssd-600/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=223.68.47.103&timestamp=20230525102011&ContentId=531262095&timezone=UTC&netType=Wifi&clientType=Android&zjAppVersion=559&zjClientId=77441101ae46e532&mtv_session=7e15aae16f3c782c8386afd00d2f20d9&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=baffbff5ecc96a575e9b332a6f153178
 #EXTINF:-1 tvg-id="58" tvg-name="云南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" tvg-speed="1MB/s" group-title="卫视 🇨🇳️",云南卫视
-http://118.112.194.53:55555/rtp/239.93.0.174:5140
+http://118.122.126.202:8877/rtp/239.93.0.174:5140
 #EXTINF:-1 tvg-id="60" tvg-name="南方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/nanfang.png" tvg-speed="1MB/s" tvg-rez="720x576" group-title="卫视 🇨🇳️",大湾区卫视
-http://angtv.cn/jd/gd.php?id=dwqws
+http://112.91.153.50:9901/tsfile/live/0116_1.m3u8
 #EXTINF:-1 tvg-id="70" tvg-name="康巴卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/kangba.png" tvg-speed="2MB/s" tvg-rez="1280x720" group-title="卫视 🇨🇳️",康巴卫视
-http://118.112.194.53:55555/rtp/239.93.0.41:5140
+http://118.122.126.202:8877/rtp/239.93.0.41:5140
 #EXTINF:-1 tvg-id="71" tvg-name="西藏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xizang.png" tvg-speed="4MB/s" tvg-rez="720x576" group-title="卫视 🇨🇳️",西藏卫视
-http://118.112.194.53:55555/rtp/239.93.0.194:5140
+http://118.122.126.202:8877/rtp/239.93.0.194:5140
 #EXTINF:-1 tvg-id="海峡卫视" tvg-name="海峡卫视" tvg-logo="https://live.fanmingming.com/tv/海峡卫视.png" group-title="卫视 🇨🇳️",海峡卫视
 http://angtv.cc/test/bestv.php?id=hxwshd4m/4000000
 #EXTINF:-1 tvg-id="68" tvg-name="厦门卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xiamen.png" tvg-speed="3MB/s" tvg-rez="720x576" group-title="福建 🇨🇳️",厦门卫视
-http://118.112.194.53:55555/rtp/239.93.42.57:5140
+http://118.122.126.202:8877/rtp/239.93.42.57:5140
 #EXTINF:-1 tvg-logo=厦门卫视.png tvg-name=厦门卫视 group-title="福建 🇨🇳️",厦门1
 http://[2409:8087:3408:20:5040::106]:18890/PLTV/88888888/224/3221227185/index.m3u8
 #EXTINF:-1 group-title="福建 🇨🇳️",南平1 8M1080
