@@ -271,7 +271,7 @@ http://live.cooltv.top/tv/bestv.php?id=18
 #EXTINF:-1 group-title="上海 🇨🇳️" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaidongfangyingshi.png",东方影视
 http://111.40.196.28:443/PLTV/88888888/224/3221225615/1.m3u8
 #EXTINF:-1 group-title="上海 🇨🇳️" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanghaijishi.png",上海纪实
-https://cntv.lat/tv/zb.php?auth=231122&id=shjsrw
+http://r.wylc.top:8888/rtp/239.93.1.137:5140
 #EXTINF:-1 tvg-id="1984" tvg-name="上视新闻频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shangshixinwen.png" group-title="上海 🇨🇳️",上海新闻综合
 http://110.80.139.96/liveplay-kk.rtxapp.com/live/program/live/xwzhhd/4000000/d3.m3u8
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="上海 🇨🇳️",东方卫视
@@ -281,7 +281,7 @@ https://cntv.lat/tv/zb.php?auth=231122&id=shjy
 #EXTINF:-1 group-title="上海 🇨🇳️" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaiwaiyu.png",上视外语频道
 https://cntv.lat/tv/zb.php?auth=231122&id=shics
 #EXTINF:-1 group-title="上海 🇨🇳️" tvg-logo="https://epg.112114.xyz/logo/生活时尚.png",生活时尚
-https://cntv.lat/tv/zb.php?auth=231122&id=shss
+http://r.wylc.top:8888/rtp/239.93.42.29:5140
 #EXTINF:-1 tvg-id="上海第一财经" tvg-name="上海第一财经" tvg-logo="https://epg.112114.xyz/logo/上海第一财经.png" group-title="上海 🇨🇳️",上海第一财经
 https://cntv.lat/tv/zb.php?auth=231122&id=dycj
 #EXTINF:-1 group-title="上海 🇨🇳️" tvg-logo="https://live.fanmingming.com/tv/东方财经.png",东方财经
@@ -341,7 +341,7 @@ https://justsometime.gztv.com/sec/zhonghe.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://live.cooltv.top/logo/hbnm.png" group-title="地方&數字臺 🇨🇳️",河北农民 
 https://event.pull.hebtv.com/jishi/nongminpindao.m3u8
 #EXTINF:-1 group-title="地方&數字臺 🇨🇳️" tvg-name="SCTV2"tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/sctv2.png",四川文旅
-http://api2.52tb.xyz/info?id=603&token=20230405tndmhg
+http://r.wylc.top:8888/rtp/239.93.1.102:5140
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/bestv.png" group-title="地方&數字臺 🇨🇳️",健康养生[百视通]
 http://iptv3.dnwx.vip:8888/udp/239.252.220.129:5140
 #EXTINF:-1 tvg-name="BTV纪实科教-8KSDR源" tvg-logo="https://live.fanmingming.com/tv/北京纪实科教.png" group-title="地方&數字臺 🇨🇳️",北京纪实科教
@@ -365,7 +365,7 @@ http://60.208.16.27:1505/gudou.php?id=364&id=qiusuokexueHD_7000
 #EXTINF:-1 group-title="地方&數字臺 🇨🇳️",西安新闻
 https://angtv.cc/test/xian.php?id=xaxw
 #EXTINF:-1 group-title="地方&數字臺 🇨🇳️" tvg-name="SCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/sctv4.png",四川新闻
-http://183.223.157.33:85/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
+http://r.wylc.top:8888/rtp/239.93.0.47:5140
 #EXTINF:-1 group-title="地方&數字臺 🇨🇳️" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV%E7%94%9F%E6%B4%BB.png",BTV生活
 http://lu1.cc/c/tv/bjtv/btime1.php?id=bjsh
 #EXTINF:-1  tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV%E7%A7%91%E6%95%99.png",BTV科教
@@ -475,21 +475,21 @@ http://[2409:8087:3408:20:5040::106]:18890/PLTV/88888888/224/3221227066/index.m3
 #EXTINF:-1 group-title="福建 🇨🇳️",南平2 8M1080
 http://[2409:8087:3408:20:5040::106]:18890/PLTV/88888888/224/3221226956/index.m3u8
 #EXTINF:-1 tvg-id="福建综合" tvg-name="福建综合" tvg-logo="https://live.fanmingming.com/tv/福建综合.png" group-title="福建 🇨🇳️",福建综合
-https://cntv.lat/tv/zb.php?auth=231122&id=fjzh
+http://36.249.151.144:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="福建新闻" tvg-name="福建新闻" tvg-logo="https://live.fanmingming.com/tv/福建新闻.png" group-title="福建 🇨🇳️",福建新闻
-https://cntv.lat/tv/zb.php?auth=231122&id=fjxw
+http://36.249.151.144:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="福建电视剧" tvg-name="福建电视剧" tvg-logo="https://live.fanmingming.com/tv/福建电视剧.png" group-title="福建 🇨🇳️",福建电视剧
-https://cntv.lat/tv/zb.php?auth=231122&id=fjdsj
+http://36.249.151.144:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="福建文体" tvg-name="福建文体" tvg-logo="https://live.fanmingming.com/tv/福建文体.png" group-title="福建 🇨🇳️",福建文体
-https://cntv.lat/tv/zb.php?auth=231122&id=fjwt
+http://36.249.151.144:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="福建少儿" tvg-name="福建少儿" tvg-logo="https://live.fanmingming.com/tv/福建少儿.png" group-title="福建 🇨🇳️",福建少儿
-https://cntv.lat/tv/zb.php?auth=231122&id=fjse
+http://36.249.151.144:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="福建旅游" tvg-name="福建旅游" tvg-logo="https://live.fanmingming.com/tv/福建旅游.png" group-title="福建 🇨🇳️",福建旅游
 https://cntv.lat/tv/zb.php?auth=231122&id=fjly
 #EXTINF:-1 tvg-id="福建经济" tvg-name="福建经济" tvg-logo="https://live.fanmingming.com/tv/福建经济.png" group-title="福建 🇨🇳️",福建经济
-https://cntv.lat/tv/zb.php?auth=231122&id=fjjj
+http://36.249.151.144:9901/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="福建公共" tvg-name="福建公共" tvg-logo="https://live.fanmingming.com/tv/福建公共.png" group-title="福建 🇨🇳️",福建公共
-https://cntv.lat/tv/zb.php?auth=231122&id=fjgg
+http://36.249.151.144:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="福建教育" tvg-name="福建教育" tvg-logo="https://live.fanmingming.com/tv/福建教育.png" group-title="福建 🇨🇳️",福建教育
 https://cntv.lat/tv/zb.php?auth=231122&id=fjjy
 #EXTINF:-1 tvg-id=" " tvg-name="福建电视台" tvg-logo="https://raw.githubusercontent.com/xiangjing7436/iTV/main/tvicon/WS-DN.png" group-title="福建 🇨🇳️",福建综合
