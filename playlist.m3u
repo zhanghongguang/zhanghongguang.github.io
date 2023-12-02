@@ -2,13 +2,13 @@
 # Playlist created by Chang Hung-kuang
 #EXTINF:-1 group-title="寧波 🇨🇳️",★★★★★寧波 🇨🇳️★★★★★
 http://flv4mp4.people.com.cn/videofile2/pvmsvideo/2015/8/25/WeiQingCheng_e219e4e5df4e4a1e2c532fc9a1cf0772_android_c.mp4
-#EXTINF:-1 group-title="寧波 🇨🇳️" tvg-logo="https://zhanghongguang.github.io/Logo/nbtv1.png",宁波新闻综合频道高清NBTV-1
+#EXTINF:-1 group-title="寧波 🇨🇳️" tvg-logo="http://tv.haoqu99.com/d/file/2016/0619/small-nbtv111111111.jpg",宁波新闻综合频道高清NBTV-1
 http://www.372583307.top:4022/udp/233.50.201.168:5140
-#EXTINF:-1 group-title="寧波 🇨🇳️" tvg-logo="https://zhanghongguang.github.io/Logo/nbtv.png",宁波经济生活频道高清NBTV-2
+#EXTINF:-1 group-title="寧波 🇨🇳️" tvg-logo="http://tv.haoqu99.com/d/file/2016/0619/small-nbtv22222.jpg",宁波经济生活频道高清NBTV-2
 http://www.372583307.top:4022/udp/233.50.201.178:5140
-#EXTINF:-1 group-title="寧波 🇨🇳️" tvg-logo="https://zhanghongguang.github.io/Logo/nbtv.png",宁波都市文体频道高清NBTV-3
+#EXTINF:-1 group-title="寧波 🇨🇳️" tvg-logo="http://tv.haoqu99.com/d/file/2016/0619/small-nbtv333333.jpg",宁波都市文体频道高清NBTV-3
 http://www.372583307.top:4022/udp/233.50.201.179:5140
-#EXTINF:-1 group-title="寧波 🇨🇳️" tvg-logo="https://zhanghongguang.github.io/Logo/nbtv4.png",宁波影视频道高清NBTV-4
+#EXTINF:-1 group-title="寧波 🇨🇳️" tvg-logo="http://tv.haoqu99.com/d/file/2016/0619/small-nbtv444444.jpg",宁波影视频道高清NBTV-4
 http://www.372583307.top:4022/udp/233.50.201.180:5140
 #EXTINF:-1 group-title="寧波 🇨🇳️" tvg-logo="https://zhanghongguang.github.io/Logo/nbtv5.png",宁波少儿频道高清NBTV-5
 http://www.372583307.top:4022/udp/233.50.201.181:5140
@@ -267,13 +267,13 @@ http://huangxin.quipor.cn:12999/hls/17/index.m3u8
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="上海 🇨🇳️",东方卫视
 http://huangxin.quipor.cn:12999/hls/18/index.m3u8
 #EXTINF:-1 group-title="上海 🇨🇳️" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaidushi.jpg",上海都市频道
-http://live.cooltv.top/tv/bestv.php?id=18
+https://tencent-stream.kksmg.com/live/ylpd.m3u8?txSecret=d60497a8dbdeb02b075e6e2141b1c941&txTime=656c3ad0
 #EXTINF:-1 group-title="上海 🇨🇳️" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaidongfangyingshi.png",东方影视
 http://111.40.196.28:443/PLTV/88888888/224/3221225615/1.m3u8
 #EXTINF:-1 group-title="上海 🇨🇳️" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanghaijishi.png",上海纪实
 http://r.wylc.top:8888/rtp/239.93.1.137:5140
 #EXTINF:-1 tvg-id="1984" tvg-name="上视新闻频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shangshixinwen.png" group-title="上海 🇨🇳️",上海新闻综合
-http://110.80.139.96/liveplay-kk.rtxapp.com/live/program/live/xwzhhd/4000000/d3.m3u8
+https://volc-stream.kksmg.com/live/xwzh/index.m3u8?volcSecret=830dbb81266a1a254faff06efa81ea64&volcTime=1701591668
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="上海 🇨🇳️",东方卫视
 http://183.250.157.35:8880/tsfile/live/0107_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 group-title="上海 🇨🇳️" tvg-logo="https://epg.112114.xyz/logo/上海教育.png",上海教育高清
@@ -305,7 +305,7 @@ https://cntv.lat/tv/zb.php?auth=231122&id=qjs
 #EXTINF:-1 group-title="上海 🇨🇳️" tvg-logo="https://epg.112114.xyz/logo/乐游.png",乐游
 http://39.136.18.105/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226221/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 group-title="上海 🇨🇳️" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/xuandong.png",哈哈炫动
-https://cntv.lat/tv/zb.php?auth=231122&id=hhxd
+http://120.196.232.53:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226703/1.m3u8
 #EXTINF:-1 group-title="上海 🇨🇳️" tvg-logo="https://epg.112114.xyz/logo/SITV都市剧场.png",都市剧场
 https://cntv.lat/tv/zb.php?auth=231122&id=dsjc
 #EXTINF:-1 tvg-id="SITV劲爆体育" tvg-name="SITV劲爆体育" tvg-logo="https://epg.112114.xyz/logo/SITV劲爆体育.png" group-title="上海 🇨🇳️",劲爆体育
@@ -468,8 +468,24 @@ http://118.122.126.202:8877/rtp/239.93.0.194:5140
 http://36.249.151.144:9901/tsfile/live/0150_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="68" tvg-name="厦门卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xiamen.png" tvg-speed="3MB/s" tvg-rez="720x576" group-title="福建 🇨🇳️",厦门卫视
 http://36.249.151.144:9901/tsfile/live/0129_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-logo=厦门卫视.png tvg-name=厦门卫视 group-title="福建 🇨🇳️",厦门1
-http://[2409:8087:3408:20:5040::106]:18890/PLTV/88888888/224/3221227185/index.m3u8
+#EXTINF:-1 group-title="福建 🇨🇳️" tvg-id="三明一套新闻综合频道" tvg-logo="http://tv.haoqu99.com/d/file/2018/0123/small58feb455be207c2800179927dae0a27a1516719412.jpg",三明一套新闻综合频道
+http://stream.smntv.cn/smtv1/sd/live.m3u8
+#EXTINF:-1 group-title="福建 🇨🇳️" tvg-id="福建电视台综合频道" tvg-logo="http://tv.haoqu99.com/d/file/2016/1019/357e530e913318a0f6b706eb33f65974.jpg",福建电视台综合频道
+http://live2.fjtv.net/zhpd/playlist.m3u8?_upt=cfe8e71d1701513508
+#EXTINF:-1 group-title="福建 🇨🇳️" tvg-id="福建公共频道" tvg-logo="http://tv.haoqu99.com/d/file/2016/1019/4b8491995a8be8cd58f46833ca31769b.jpg",福建公共频道
+http://live6.fjtv.net/ggxcpd/playlist.m3u8?_upt=21d048ed1701514821
+#EXTINF:-1 group-title="福建 🇨🇳️" tvg-id="福建新闻频道" tvg-logo="http://tv.haoqu99.com/d/file/2016/1019/9de3cf9ba931eefbb96b811b1b278dc1.jpg",福建新闻频道
+http://live2.fjtv.net/xwpd/playlist.m3u8?_upt=04eda1c01701518011
+#EXTINF:-1 group-title="福建 🇨🇳️" tvg-id="福建电视台电视剧频道" tvg-logo="http://tv.haoqu99.com/d/file/2016/1019/c590351d8ac74baa45dd3766cb4478b5.jpg",福建电视台电视剧频道
+http://live3.fjtv.net/dsjpd/playlist.m3u8?_upt=02a9acc71701513331
+#EXTINF:-1 group-title="福建 🇨🇳️" tvg-id="福建旅游频道" tvg-logo="http://tv.haoqu99.com/d/file/2017/0202/small-7873fjtv6.jpg",福建旅游频道
+http://live3.fjtv.net/dspd/playlist.m3u8?_upt=0f30a2331701518019
+#EXTINF:-1 group-title="福建 🇨🇳️" tvg-id="福建经济生活频道" tvg-logo="http://tv.haoqu99.com/d/file/2016/1019/e44e6d29140e0e77e329222c52424bb6.jpg",福建经济生活频道
+http://live3.fjtv.net/jjpd/playlist.m3u8?_upt=b2dbe3881701517488
+#EXTINF:-1 group-title="福建 🇨🇳️" tvg-id="福建体育频道" tvg-logo="http://tv.haoqu99.com/d/file/2016/1019/2bcd1921507542b30d7a4e0f81c50b19.jpg",福建体育频道
+http://live3.fjtv.net/typd/playlist.m3u8?_upt=ffe24c161701517723
+#EXTINF:-1 group-title="福建 🇨🇳️" tvg-id="福建少儿频道" tvg-logo="http://tv.haoqu99.com/d/file/2016/1019/740fac7d9f94c3b29d9d508fb5972186.jpg",福建少儿频道
+http://live3.fjtv.net/child/playlist.m3u8?_upt=4030ceea1701518056
 #EXTINF:-1 group-title="福建 🇨🇳️",南平1 8M1080
 http://[2409:8087:3408:20:5040::106]:18890/PLTV/88888888/224/3221227066/index.m3u8
 #EXTINF:-1 group-title="福建 🇨🇳️",南平2 8M1080
