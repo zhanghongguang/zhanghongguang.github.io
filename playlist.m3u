@@ -1979,7 +1979,7 @@ https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000c6ilrmbc77ubdnok
 https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0300fg10000c7o7cujc77u3c0tgih5g&ratio=720p&line=0
 #EXTINF:-1 group-title="音樂 🎵️",NOW 70s 音乐
 https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
-#EXTINF:-1 ★★★★★IPV6★★★★★
+#EXTINF:-1, ★★★★★IPV6★★★★★
 https://upload.wikimedia.org/wikipedia/commons/0/08/National_Flag_Anthem_of_the_Republic_of_China%E4%B8%AD%E8%8F%AF%E6%B0%91%E5%9C%8B%E5%9C%8B%E6%97%97%E6%AD%8C_%28%E6%BC%94%E5%A5%8F%E7%89%88%29.oga
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央视频道",CCTV-1 综合
